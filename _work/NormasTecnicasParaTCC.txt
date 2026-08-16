@@ -1,0 +1,2519 @@
+
+--- PAGE 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2012  
+ 
+CENTRO UNIVERSITÁRIO UNISEB 
+NÚCLEO DE TCC e IC  
+BIBLIOTECA UNISEB 
+ 
+ 
+Equipe responsável: 
+ 
+Prof. Ms. Antonio Nardi  
+Profa. Dra. Elizabete David Novaes 
+ 
+ 
+ 
+[NORMAS TÉCNICAS PARA  
+TCC ] 
+ 
+ 
+Resumo sistematizado e adaptado das normalizações da ABNT para 
+Trabalhos de Conclusão de Curso , nos formatos de  Monografia e Artigo, 
+a serem seguidas pelos Cursos de Graduação Presencial do Centro 
+Universitário UNISEB - Ribeirão Preto. 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 2 ---
+ 
+ 
+ 
+1 
+ 
+1. NORMAS TÉCNICAS PARA A MONOGRAFIA .................................................................................................... 5 
+1.1  ELEMENTOS  PRÉ-TEXTUAIS .................................................................................................................................................. 6 
+a. Capa ................................................................................................................................................................................................ 6 
+b. Folha de rosto ............................................................................................................................................................................. 8 
+c. Ficha catalográfica ................................................................................................................................................................ 10  
+d. Folha do objetivo pretendido ............................................................................................................................................. 11  
+e. Formulário de avaliação e folha de pontuação .......................................................................................................... 13  
+f. Dedicatória ................................................................................................................................................................................ 16  
+g. Agradecimentos ...................................................................................................................................................................... 18  
+h. Epígrafe ...................................................................................................................................................................................... 20  
+I. Resumo (em português) ........................................................................................................................................................ 22  
+J. Abstract (em inglês) - opcional .......................................................................................................................................... 24  
+k. Sumário ...................................................................................................................................................................................... 26  
+L. Lista de abreviaturas e siglas ............................................................................................................................................ 28  
+M. Lista de símbolos ................................................................................................................................................................... 28  
+N. Lista de Tabelas ...................................................................................................................................................................... 28  
+O. Lista de Quadros ..................................................................................................................................................................... 29  
+P. Lista de ilustrações (ou figuras) ....................................................................................................................................... 29  
+Q. Lista de gráficos ...................................................................................................................................................................... 29  
+1.2. ELEMENTOS  TEXTUAIS  DA  MONOGRAFIA .................................................................................................................. 30  
+a. Introdução ................................................................................................................................................................................. 30  
+b. Desenvolvimento ..................................................................................................................................................................... 30  
+c. Conclusão ................................................................................................................................................................................... 30  
+1.2.2. ELEMENTOS  DE  APOIO  AO  TEXTO  PARA  MONOGRAFIAS ................................................................................ 31  
+a. Notas de rodapé ...................................................................................................................................................................... 31  
+b. o uso da expressão apud ...................................................................................................................................................... 32  
+c. Abreviaturas e Siglas ............................................................................................................................................................. 32  
+d. Símbolos ..................................................................................................................................................................................... 33  
+e. Quadros e Tabelas .................................................................................................................................................................. 33  
+f. Gráficos e demais Ilustrações.............................................................................................................................................. 35  
+1.3  ELEMENTOS  PÓS-TEXTUAIS ............................................................................................................................................... 37  
+--- PAGE 3 ---
+ 
+ 
+ 
+2 
+a. Referências ................................................................................................................................................................................ 37  
+b. Apêndices ................................................................................................................................................................................... 37  
+c. Anexos .......................................................................................................................................................................................... 38  
+2. NORMAS TÉCNICAS PARA O ARTIGO CIENTÍFICO ..................................................................................... 39  
+2.1  ELEMENTOS  PRÉ-TEXTUAIS  DO  ARTIGO  CIENTÍFICO ............................................................................................ 40  
+a. Capa do Artigo ......................................................................................................................................................................... 40  
+B. Ficha catalográfica ............................................................................................................................................................... 42  
+c. Título do Artigo ....................................................................................................................................................................... 43  
+d. Autores ........................................................................................................................................................................................ 43  
+e. Resumo e Palavras-chave .................................................................................................................................................... 43  
+f. Abstract (opcional) ................................................................................................................................................................. 43  
+g. Sumário ...................................................................................................................................................................................... 43  
+2.2  ELEMENTOS  TEXTUAIS  DO  ARTIGO  CIENTÍFICO ...................................................................................................... 45  
+2.2.1 Formatação dos Títulos das Partes do Artigo Científico .................................................................................. 45  
+2.2.2. ELEMENTOS  DE  APOIO  AO  TEXTO  PARA  ARTIGOS  CIENTÍFICOS ................................................................. 46  
+a. Notas de rodapé ...................................................................................................................................................................... 46  
+b. o uso da expressão apud ...................................................................................................................................................... 47  
+c. Abreviaturas e Siglas ............................................................................................................................................................. 47  
+d. Símbolos ..................................................................................................................................................................................... 47  
+e. Quadros e Tabelas .................................................................................................................................................................. 48  
+f. Gráficos e demais Ilustrações.............................................................................................................................................. 50  
+2.3  ELEMENTOS  PÓS-TEXTUAIS ............................................................................................................................................... 53  
+a. Referências ................................................................................................................................................................................ 53  
+b. Apêndices ................................................................................................................................................................................... 53  
+c. Anexos .......................................................................................................................................................................................... 54  
+3. NORMAS PARA CITAÇÕES EM MONOGRAFIAS E ARTIGOS ..................................................................... 55  
+3.1  CITAÇÃO  DIRETA  OU  TRANSCRIÇÃO............................................................................................................................... 55  
+3.2  CITAÇÃO  INDIRETA  OU  PARÁFRASE ............................................................................................................................... 56  
+3.3  CITAÇÃO  DE  CITAÇÃO ............................................................................................................................................................ 57  
+3.4  APRESENTAÇ ÃO DE  AUTORES  NO  TEXTO ..................................................................................................................... 57  
+3.4.1 CITAÇÃO COM UM AUTOR ............................................................................................................................................ 57  
+--- PAGE 4 ---
+ 
+ 
+ 
+3 
+3.4.2 CITAÇÃO COM DOIS AUTORES .................................................................................................................................... 59  
+3.4.3. CITAÇÃO COM ATÉ TRÊS AUTORES ......................................................................................................................... 59  
+3.4.4 Citação com mais de três autores .............................................................................................................................. 59  
+3.4.5 apresentação de nomes de autores ........................................................................................................................... 60  
+4. EDIÇÃO DO TRABALHO ....................................................................................................................................... 61  
+4.1  APRESENTAÇÃO  GRÁFICA ................................................................................................................................................... 61  
+4.2  ESPACEJAMENTO ..................................................................................................................................................................... 61  
+4.3  MARGENS ..................................................................................................................................................................................... 61  
+4.4. DESLOCAMENTO ..................................................................................................................................................................... 61  
+4.5  NUMERAÇÃO  DAS  FOLHAS .................................................................................................................................................. 61  
+4.5.1. numeração das folhas da Monografia .................................................................................................................... 62  
+4.5.2. numeração das folhas do artigo ................................................................................................................................ 62  
+5. REFERÊNCIAS ......................................................................................................................................................... 63  
+5.1  AUTORIA  POR  NÚMERO  DE  AUTORES ............................................................................................................................ 63  
+5.1.1 UM AUTOR .......................................................................................................................................................................... 63  
+5.1.2 DOIS AUTORES .................................................................................................................................................................. 65  
+5.1.3 ATÉ TRÊS AUTORES ........................................................................................................................................................ 65  
+5.1.4 MAIS DE TRÊS AUTORES ............................................................................................................................................... 66  
+5.2  AUTOR  OU  AUTORES  COM  INDICAÇÃO  DE  RESPONSABILIDADE  INTELECTUAL  (EDITOR,  
+ORGANIZADOR,  COORDENADOR  ETC.) ................................................................................................................................. 66  
+5.3  REFERÊNCIAS  COM  OUTROS  TIPOS  DE  MATERIAIS................................................................................................. 66  
+5.3.1 ARTIGO E/OU MATÉRIA DE PERIÓDICO................................................................................................................. 66  
+5.3.2 ARTIGO E/OU MATÉRIA DE REVISTA, BOLETIM, jornal, ETC. ....................................................................... 67  
+5.3.3 Artigo e/ou matéria de revista, boletim etc. Em meio eletrônico ................................................................. 67  
+5.3.4 Teses e Dissertações ........................................................................................................................................................ 68  
+5.3.5 Parte de monografia ....................................................................................................................................................... 69  
+5.3.6 Evento como um todo ..................................................................................................................................................... 69  
+5.3.7 Evento como um todo em meio eletrônico ............................................................................................................. 70  
+5.3.8 Trabalho apresentado em evento .............................................................................................................................. 70  
+5.3.9 Trabalho apresentado em evento em meio eletrônico ...................................................................................... 71  
+5.3.10 Documento jurídico ...................................................................................................................................................... 71  
+--- PAGE 5 ---
+ 
+ 
+ 
+4 
+5.3.11 Documento jurídico em meio eletrônico ............................................................................................................... 73  
+5.3.12 vídeo/ IMAGEM EM MOVIMENTO ........................................................................................................................... 74  
+5.3.13 canais informais (aula, conferência, e-mail, etc.) ............................................................................................. 75  
+5.3.14 Softwares .......................................................................................................................................................................... 75  
+6. MODELO DE PAINEL PARA DEFESA DO TCC ................................................................................................ 76  
+ 
+--- PAGE 6 ---
+ 
+ 
+ 
+5 
+1. NORMAS TÉCNICAS 
+PARA A MONOGRAFIA 
+Em qualquer que seja seu formato, um TCC deve conter uma estrutura dividida em 
+elementos pré-textuais, textuais e pós-textuais. Estes, contudo, diferenciam-se na forma de 
+apresentação, quando correspondem a uma Monografia ou a um Artigo Científico.  
+A Monografia deve conter aproximadamente 50 páginas. Nesta seção 3, das páginas 6 a 
+38, aparecem as descrições dos elementos constantes do TCC, no que se refere especificamente à 
+elaboração de Monografias. 
+ 
+--- PAGE 7 ---
+ 
+ 
+ 
+6 
+1.1 ELEMENTOS PRÉ-TEXTUAIS  
+A. CAPA 
+A capa é elemento de proteção externa do trabalho. Nela estão contidas informações 
+indispensáveis que identificam a monografia. Essas informações estão descritas na seguinte 
+ordem: (1) nome da instituição, (2) título da obra, (3) nome completo do autor, (4) nome 
+completo do orientador, (5) local (cidade) e (6) ano de depósito (entrega do trabalho). A 
+apresentação gráfica e suas normas estão contidas no modelo a seguir. 
+--- PAGE 8 ---
+ 
+ 
+ 
+7 
+CENTRO UNIVERSITÁRIO UNISEB 
+TRABALHO DE CONCLUSÃO DE CURSO 
+BACHARELADO EM ADMINISTRAÇÃO DE EMPRESAS 
+ 
+PROCESSO DE TREINAMENTO E DESENVOLVIMENTO GERENCIADO PELO 
+BALANCED SCORECARD  
+ 
+ 
+Claudinei César Justino 
+ 
+Orientador Prof. Ms. Antônio Nardi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RIBEIRÃO PRETO 
+2012 
+Título superior: Times New Roman 
+tamanho 12, em negrito e maiúsculas. 
+Alinhamento ao centro e espaçamento de 
+1,5. 
+Título da obra: Times New Roman 
+tamanho 12, em negrito e maiúsculas. 
+Alinhamento ao centro e espaçamento de 
+1,5. 
+Dez espaços de 1,5 em branco entre 
+título superior e título da obra. 
+Autores: Times New Roman tamanho 12, em 
+negrito e somente as primeiras em maiúsculas. 
+Alinhamento à direita e espaçamento de 1,5. 
+Autor e orientador separados por um espaço 
+de 1,5 em branco. 
+Dois espaços de 1,5 em branco 
+entre título da obra e autor. 
+Título inferior: Times New Roman 
+tamanho 12, em negrito e 
+maiúsculas. Alinhamento ao centro 
+e espaçamento de 1,5. Situado nas 
+duas últimas linhas da folha. 
+--- PAGE 9 ---
+ 
+ 
+ 
+8 
+B. FOLHA DE ROSTO 
+Esta folha contém os elementos constantes da capa além da seguinte informação: 
+“Trabalho de conclusão de curso apresentado ao Centro Universitário UNISEB, de Ribeirão 
+Preto, como parte dos requisitos para obtenção do grau de (colocar a formação)”. A 
+apresentação gráfica e suas normas estão contidas no modelo a seguir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 10 ---
+ 
+ 
+ 
+9 
+CLAUDINEI CÉSAR JUSTINO 
+ 
+ 
+PROCESSO DE TREINAMENTO E DESENVOLVIMENTO GERENCIADO PELO 
+BALANCED SCORECARD  
+ 
+Trabalho de conclusão de curso apresentado ao 
+Centro Universitário UNISEB de Ribeirão 
+Preto, como parte dos requisitos para obtenção 
+do grau de Bacharel em Administração de 
+Empresas. 
+ 
+Orientador: Prof. Ms. Antônio Nardi 
+ 
+ 
+ 
+ 
+ 
+ 
+RIBEIRÃO PRETO 
+2012 
+Autor: Times New Roman tamanho 12, em 
+negrito e maiúsculas. Alinhamento ao 
+centro e espaçamento de 1,5. 
+Doze espaços de 1,5 em branco 
+entre autor e título da obra. 
+Descrição textual: Times New Roman 
+tamanho 12, sem negrito, nem 
+sublinhado ou itálico, todo em 
+minúsculas. Alinhamento à direita, com 
+espaçamento de 1,5. Parágrafo com 
+recuo esquerdo de 8 cm. 
+Título da obra: Times New Roman 
+tamanho 12, em negrito e maiúsculas. 
+Alinhamento ao centro e espaçamento de 
+1,5. 
+Título inferior: Times New Roman 
+tamanho 12, em negrito e maiúsculas. 
+Alinhamento ao centro e espaçamento de 
+1,5. Situado nas duas últimas linhas da 
+folha. 
+Um espaço de 1,5 em branco entre a 
+descrição textual e autor. 
+Um espaço de 1,5 em branco entre 
+título da obr a e a descrição textual. 
+Orientador: Times New Roman tamanho 12, 
+em negrito e somente as 1 as  em maiúsculas. 
+Alinhamento justificado com recuo esquerdo 
+de 8 cm e espaçamento de 1,5. 
+--- PAGE 11 ---
+ 
+ 
+ 
+10  
+C. FICHA CATALOGRÁFICA 
+A ficha catalográfica é elaborada pela Biblioteca do UNISEB . É um quadro com dados 
+dispostos de maneira sistemática, cujo objetivo é identificar sucintamente o assunto tratado, 
+bem como os aspectos físicos da obra. A apresentação gráfica está contida modelo abaixo.  
+ 
+Para a confecção da ficha catalográfica, o acadêmico deve entrar em contato com o 
+responsável da biblioteca, passando os seguintes dados: 
+a)  Nome completo do(a) autor(a); 
+b)  Título e subtítulo do trabalho; 
+c)  Ano de defesa; 
+d)  Número de folhas; 
+e)  Ilustração; (quando houver figuras ou gráficos) 
+f)  Grau acadêmico: Monografia; 
+g)  Descrição Textual; 
+h)  Local: Ribeirão Preto 
+i)  Palavras-chave (3 ou 4); definir no texto da obra termos que representam o assunto 
+geral do trabalho 
+j)  E-mails e telefones para eventuais dúvidas 
+ 
+Concluída sua elaboração, a Biblioteca fará o envio da ficha pronta ao aluno, via e-mail, 
+inclusive sua formatação não poderá ser alterada, pois ela já vem no padrão exigido. 
+Contato: email: biblioteca@uniseb.com.br - Telefone: (16) 6039844 
+ 
+--- PAGE 12 ---
+ 
+ 
+ 
+11  
+D. FOLHA DO OBJETIVO PRETENDIDO 
+Esta folha contém informações descritas na seguinte ordem: (1) nome completo do 
+autor, (2) código de matrícula na faculdade, (3) curso, (4) semestre, (5) tema do trabalho de 
+conclusão de curso, (6) objetivo pretendido, (7) nome completo do orientador, (8) nome 
+completo do autor, (9) nome completo do coordenador do curso e (10) nome completo do 
+diretor acadêmico. A apresentação gráfica e suas normas estão contidas no modelo a seguir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 13 ---
+ 
+ 
+ 
+12  
+ 
+TRABALHO DE CONCLUSÃO DE CURSO 
+ 
+ 
+Aluno: Claudinei César Justino 
+Código: 1640 
+Curso: Administração com ênfase em Gestão de Negócios 
+Semestre/Ano: 8º/2011 
+Tema: Processo de Treinamento e Desenvolvimento gerenciado pelo Balanced Scorecard . 
+Objetivos pretendidos: Analisar a viabilidade da utilização do Balanced Scorecard  no 
+processo de treinamento e desenvolvimento. 
+ 
+ 
+_____/_____/________                                            __________________________________ 
+Antônio Nardi 
+Professor Orientador 
+ 
+ 
+_____/_____/________                                            __________________________________ 
+Claudinei César Justino 
+Aluno 
+ 
+ 
+_____/_____/________                                            __________________________________ 
+João Paulo L. Oliveira 
+Coordenador do Curso 
+ 
+ 
+_____/_____/________                                            __________________________________ 
+Prof. Reginaldo Arthus 
+Vice-Reitor 
+Dois espaços de 1,5 em branco. Descrição em Times New Roman tamanho 
+12, em negrito e maiúsculas. Alinhamento 
+ao centro e espaçamento de 1,5. 
+Descrição nesta seqüência em 
+Times New Roman tamanho 12. 
+Em negrito somente o título inicial 
+e somente as 1 as  em maiúsculas. 
+Alinhamento justificado e 
+ 
+Dois espaços de 1,5 em branco. 
+Dois espaços de 1,5 em branco. 
+Dois espaços de 1,5 em branco. 
+Dois espaço s de 1,5 em branco. 
+--- PAGE 14 ---
+ 
+ 
+ 
+13  
+E. FORMULÁRIO DE AVALIAÇÃO E FOLHA DE PONTUAÇÃO 
+O formulário de avaliação contém informações descritas na seguinte ordem: (1) tema do 
+trabalho, (2) data de apresentação, (3) horário, (4) local, (5) e a banca examinadora com os 
+nomes completos do orientador, do professor da área e do professor convidado.  
+A Folha de pontuação contém os fatores de avaliação, a média final do trabalho de 
+conclusão de curso e as assinaturas dos membros da banca examinadora. A apresentação gráfica 
+está contida no modelo a seguir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 15 ---
+ 
+ 
+ 
+14  
+ 
+TRABALHO DE CONCLUSÃO DE CURSO 
+ 
+FORMULÁRIO DE AVALIAÇÃO – FATCC 
+ 
+Tema do trabalho: Processo de Treinamento e Desenvolvimento gerenciad o pelo Balanced 
+Scorecard . 
+ 
+Data da apresentação : _____/_____/________ 
+Horário: ____________ 
+Local: _________________________________ 
+ 
+ 
+Comissão Julgadora : 
+ 
+1) Professor Orientador : _________________________________________________ 
+2) Professor da Área : ____________________________________________________ 
+3) Professor Convidado :  _________________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 16 ---
+ 
+ 
+ 
+15  
+Folha de pontuação 
+ 
+                          Fatores de Avaliação 
+                                               Pontuação (0.0 a 2.0) 
+ 
+1.  Atualidade e relevância do tema proposto.  
+ 
+ 
+2.  Linguagem técnica utilizada em relação ao tema e 
+aos objetivos, e competência linguística. 
+ 
+ 
+3.  Aspectos metodológicos e formais da editoração do 
+trabalho escrito - sequência lógica e coerência 
+interna. 
+ 
+ 
+4.  Revisão Bibliográfica realizada em relação ao tema 
+pesquisado. 
+ 
+ 
+5.  Apresentação oral – segurança e coerência em 
+relação ao trabalho escrito. 
+ 
+ 
+ 
+Média: ____________ (_________________________________________________) 
+ 
+Assinaturas dos membros da Comissão Julgadora: 
+1) _____/_____/________    ________________________________________________ 
+ 
+2) _____/_____/________    ________________________________________________ 
+ 
+3) _____/_____/________    ________________________________________________ 
+ 
+ 
+ 
+ 
+--- PAGE 17 ---
+ 
+ 
+ 
+16  
+F. DEDICATÓRIA 
+Folha opcional a ser utilizada pelo autor para prestar uma homenagem ou dedicar seu 
+trabalho, de forma sóbria e breve.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 18 ---
+ 
+ 
+ 
+17  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dedico à minha esposa, filha e filho, 
+pelo crédito e apoio. 
+ 
+ 
+ 
+ 
+ 
+Dezessete espaços duplos em 
+branco entre o topo e o texto da 
+dedicatória. 
+--- PAGE 19 ---
+ 
+ 
+ 
+18  
+G. AGRADECIMENTOS 
+Folha opcional onde o autor dirige palavras de reconhecimento a pessoa(s) e /ou 
+instituição(ões) que tenha(m) contribuído de maneira relevante para a elaboração do trabalho.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 20 ---
+ 
+ 
+ 
+19  
+ 
+AGRADECIMENTOS 
+Ao meu orientador, Prof. Ms. Antônio Nardi pela ded icação e contribuição, para a 
+concretização deste trabalho. 
+A equipe de Desenvolvimento de Recursos Humanos da Usina da Pedra, pelo apoio e 
+incentivo. 
+A todos os professores que proporcionaram todo conh ecimento e aprendizado necessário para 
+minha formação acadêmica, profissional e pessoal. 
+A todos os alunos e companheiros de classe pelas tr ocas de experiências e convivência 
+saudável durante todo o curso. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Título AGRADECIMENTOS: Times New 
+Roman tamanho 12, em negrito e 
+maiúsculas. Alinhamento ao centro e 
+espaçamento de 1,5. 
+Dois espaços de 1,5 em branco entre o 
+título AGRADECIMENTOS e a sua 
+descrição. 
+Texto: Times New Roman tamanho 12, 
+minúsculas. Alinhamento justificado, com 
+espaçamento duplo e o texto iniciando junto à 
+margem esquerda (sem tabulação). O texto 
+deve iniciar-se na primeira linha. 
+--- PAGE 21 ---
+ 
+ 
+ 
+20  
+H. EPÍGRAFE 
+Folha opcional onde o autor inclui uma citação que mantenha coerência com o tema 
+abordado no trabalho. Após a citação, deve vir o nome do autor da citação ou, caso na haja, 
+redigir a palavra “anônimo”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 22 ---
+ 
+ 
+ 
+21  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“O esforço de dois ou mais indivíduos 
+trabalhando como unidade em direção a 
+uma meta comum é maior do que a soma 
+dos esforços dos indivíduos trabalhando 
+individualmente”. 
+William B. Cornell 
+Texto entre aspas em Times New Roman 
+tamanho 12, em negrito e minúsculas. 
+Alinhamento à direita, com espaçamento duplo. 
+Ao final deve ser colocado o autor ou a palavra 
+anônimo, seguindo esta formatação, porém 
+redigido em itálico. 
+Dezessete espaços duplos em branco 
+entre o topo e o texto. 
+--- PAGE 23 ---
+ 
+ 
+ 
+22  
+ 
+I. RESUMO (EM PORTUGUÊS) 
+Esta folha deve, concisa e objetivamente, informar ao leitor, os pontos mais relevantes do 
+trabalho, dando a ele a possibilidade de decidir sobre a conveniência da leitura além da 
+compreensão do assunto sem dificuldades. O texto deve ser composto por uma seqüência de 
+frases correntes e, como sugestão, que sejam destacados o tema, a finalidade, a metodologia 
+empregada, os resultados e as conclusões. 
+O resumo deve ser redigido em parágrafo único , em espaço simples, com no máximo 
+500 palavras, seguido das palavras-chave e de preferência na terceira pessoa do singular. Sua 
+redação não deve conter quadros, tabelas, gráficos, ilustrações, equações, fórmulas, abreviações, 
+siglas, símbolos e citações.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 24 ---
+ 
+ 
+ 
+23  
+Exemplo: 
+JUSTINO, Claudinei Cesar. Processo de Treinamento e Desenvolvimento gerenciado pelo 
+Balanced Scorecard . Trabalho de Conclusão de Curso. Curso de Administração de Empresas. 
+Centro Universitário UNISEB. Ribeirão Preto, 2011. 51 f. 
+ 
+ 
+RESUMO 
+ 
+ 
+Este trabalho buscou contribuir teoricamente para o tema, com uma pesquisa bibliográfica dos 
+estudos sobre clima organizacional nos Estados Unidos e no Brasil, seus instrumentos e as 
+dimensões utilizadas para mensuração; investigou também as diferenças e semelhanças entre 
+este conceito e os conceitos de cultura organizacional e satisfação no trabalho. Nesta pesquisa, 
+foram identificados, também, os autores e os estudos mais citados nos Estados Unidos e Brasil. 
+Trata-se de um estudo exploratório, utilizando pesquisa bibliográfica. 
+ 
+Palavras-chave : clima organizacional, instrumentos, dimensões. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 25 ---
+ 
+ 
+ 
+24  
+J. ABSTRACT  (EM INGLÊS) - OPCIONAL 
+Elemento elaborado com as mesmas características do resumo em português para fins 
+de divulgação.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 26 ---
+ 
+ 
+ 
+25  
+Exemplo: 
+JUSTINO, Claudinei Cesar. Process Training and Development managed by the Balanced 
+Scorecard. Completion of course work. Course of Business. UNISEB University Center. Ribeirão 
+Preto, 2011. 51 f. 
+ 
+ 
+ABSTRACT 
+ 
+ 
+This paper tried to contribute to the theme in terms of theory, with a bibliography research of 
+organizational climate studies in the United States of America and in Brazil, its measures and 
+dimensions, and also investigated the differences and similarities between this concept and 
+organizational culture and job satisfaction concepts. In this research, the authors and studies 
+most cited in the United States of America and Brazil were also identified. This is an exploratory 
+study, using bibliography research. 
+ 
+Keywords:  organizational climate, instruments, dimensions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 27 ---
+ 
+ 
+ 
+26  
+K. SUMÁRIO 
+O sumário consiste na enumeração das principais divisões, capítulos, seções e outras 
+partes do trabalho, na mesma ordem e grafia em que a matéria nela se sucede. Seu objetivo é o 
+de organizar e indicar ao leitor a disposição geral do trabalho de maneira objetiva e resumida. 
+Devem ser incluídas todas as listas apresentadas, os capítulos e seções do desenvolvimento e os 
+elementos pós-textuais.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 28 ---
+ 
+ 
+ 
+27  
+Exemplo: 
+ 
+SUMÁRIO 
+ 
+ 
+LISTA DE ABREVIATURAS............................................................................................................................................ VI 
+LISTA DE QUADROS ...................................................................................................................................................... VII 
+LISTA DE ILUSTRAÇÕES............................................................................................................................................. VIII 
+LISTA DE GRÁFICOS......................................................................................................................................................... IX 
+INTRODUÇÃO. ...................................................................................................................................................................01 
+1. A COMUNICAÇÃO ........................................................................................................................................................05 
+1.1.Redes de Comunicação .......................................................................................................................................12 
+1.1.1. Desvios de Comunicação ...................................................................................................................................15 
+2. CONCEITOS DE COMUNICAÇÃO ..........................................................................................................................21 
+2.1 A Linguagem Escrita ..............................................................................................................................................27 
+2.1.1 Tipos de Linguagem Escrita...............................................................................................................................33 
+3. FUNÇÕES DA COMUNICAÇÃO ...............................................................................................................................39 
+3.1 O Rádio .........................................................................................................................................................................41 
+3.1.1 Funções do Rádio...................................................................................................................................................45 
+CONCLUSÃO .......................................................................................................................................................................50 
+REFERÊNCIAS ..................................................................................................................................................................53 
+ANEXOS ................................................................................................................................................................................55 
+ 
+--- PAGE 29 ---
+ 
+ 
+ 
+28  
+L. LISTA DE ABREVIATURAS E SIGLAS 
+Consiste na relação alfabética das abreviaturas ou siglas, seguidas de seu respectivo 
+significado ou nome por extenso sem a necessidade e indicar as páginas onde estão localizadas.  
+Exemplo: 
+LISTA DE ABREVIATURAS E SIGLAS - EXEMPLO 
+BSC: Balanced Scorecard  
+LNT: Levantamento das Necessidades de Treinamento 
+PPR: Programa de Participação nos Resultados 
+RH: Recursos Humanos 
+ROI: Retorno Sobre Investimento 
+T&D: Treinamento e Desenvolvimento 
+ 
+ 
+M. LISTA DE SÍMBOLOS 
+Consiste na relação dos símbolos ou sinais, seguidos de seu devido significado e na 
+ordem em que estão apresentados no trabalho sem a necessidade de indicar as páginas onde se 
+localizam.  
+Exemplo: 
+LISTA DE SÍMBOLOS - EXEMPLO 
+HCL: ácido clorídrico 
+n: tamanho da amostra ou número de variáveis 
+ 
+N. LISTA DE TABELAS 
+Consiste numa listagem com a numeração, o título e a página de todas as tabelas 
+elaboradas de acordo com a ordem apresentada no texto, exceto aqueles que se localizam nos 
+Apêndices e Anexos.  
+Exemplo: 
+LISTA DE TABELAS 
+ 
+Tabela 1 – Nível de satisfação dos funcionários ......................................................................21 
+Tabela 2 – Índice de aceitação por idade ....................................................................................62 
+--- PAGE 30 ---
+ 
+ 
+ 
+29  
+O. LISTA DE QUADROS 
+Consiste numa listagem com a numeração, o título e a página de todos os quadros 
+elaborados de acordo com a ordem apresentada no texto, exceto aqueles que se localizam nos 
+Apêndices e Anexos.  
+Exemplo: 
+LISTA DE QUADROS - EXEMPLO 
+Quadro 1 – Organograma desempenho colheita manual.........................................................68 
+Quadro 2 – Plano de ação da Empresa.............................................................................................69 
+ 
+P. LISTA DE ILUSTRAÇÕES (OU FIGURAS) 
+Consiste numa listagem com a numeração, o título e a página de todos os desenhos, 
+fluxogramas, fotografias, mapas e outros. Essas ilustrações devem ser elaboradas de acordo com 
+a ordem apresentada no texto, exceto aquelas que se localizam nos Apêndices e Anexos.  
+Exemplo: 
+LISTA DE ILUSTRAÇÕES - EXEMPLO 
+Figura 1 – Mapa do Estado de São Paulo – Vias Férreas – 1950 -.........................................59 
+Figura 2 – Fotografia da Estação Ferroviária de Ribeirão Preto – 1958 ...........................74  
+ 
+ 
+Q. LISTA DE GRÁFICOS 
+Consiste numa listagem com a numeração, o título e a página de todos os gráficos 
+elaborados de acordo com a ordem apresentado no texto, exceto aqueles que se localizam nos 
+Apêndices e Anexos.  
+Exemplo: 
+LISTA DE GRÁFICOS - EXEMPLO 
+Gráfico 1 – Aprendizagem x tempo..................................................................................................35 
+Gráfico 2 – Aprendizagem x satisfação...........................................................................................43 
+ 
+--- PAGE 31 ---
+ 
+ 
+ 
+30  
+1.2. ELEMENTOS TEXTUAIS DA MONOGRAFIA 
+Os elementos textuais compõem a parte escrita da obra, onde aparece a exposição e o 
+desenvolvimento da matéria. Normalmente, seu conteúdo é constituído de três partes 
+fundamentais: a introdução, o desenvolvimento e a conclusão. Essas três partes terão suas 
+subdivisões, abordagens e técnicas de redação de acordo com a preferência do autor e de seu 
+orientador. 
+A. INTRODUÇÃO 
+É a parte inicial do trabalho se apresenta a formulação e delimitação do assunto tratado, 
+os objetivos da pesquisa e outros elementos que possam ser necessários para sua identificação. 
+B. DESENVOLVIMENTO 
+É a parte principal do trabalho, que trata da exposição ordenada e pormenorizada do 
+assunto através de seus capítulos. 
+C. CONCLUSÃO 
+É a parte final do trabalho que contém os resultados referentes aos objetivos ou 
+hipóteses propostas no início. É uma visão analítica do trabalho em que se retoma o problema 
+inicial proposto. 
+ 
+1.2.1. FORMATAÇÃO DOS TÍTULOS DAS PARTES DA MONOGRA FIA 
+As partes devem ser numeradas e apresentadas numa sequência de subdivisões, 
+partindo do Geral para o mais específico. O tamanho das fontes também deve obedecer esta 
+sequência, indo do maior (geral) para o menor (específico), conforme sequência abaixo.  
+Seção primária 1 
+Seção secundária 1.1 
+Seção terciária 1.1.1 
+Seção quaternária 1.1.1.1 
+--- PAGE 32 ---
+ 
+ 
+ 
+31  
+Os destaques das seções devem ser feitos por meio da diferenciação dos tamanhos da 
+fonte, conforme exemplo abaixo. 
+Seção primária (Título do Capítulo) – Letras Maiúsculas, em negrito, fonte 16, centralizado 
+Seção secundária - 1ª. letra maiúscula, em negrito, fonte 14, alinhado à esquerda. 
+Seção terciária - 1ª. letra maiúscula, fonte 12, em negrito, alinhado à esquerda. 
+Seção quaternária - 1ª. letra em maiúscula, fonte 12, sem negrito, alinhado à esquerda. 
+ 
+Exemplo: 
+CAPÍTULO 1 
+HISTÓRICO DO CONCEITO ( parte primária ) 
+ 
+ 
+1.1. xxxxxxxxxxxxxx ( parte secundária ) 
+1.1.1.xxxxxxxxxxxxx ( parte terciária ) 
+1.1.1.1 xxxxxxxxxx ( parte quaternária ) 
+ 
+1.2.2. ELEMENTOS DE APOIO AO TEXTO PARA MONOGRAFIAS   
+Na fundamentação do TCC, alguns elementos servem de apoio para confirmar as ideias 
+do texto. São eles: as citações, as notas de rodapé, as abreviaturas e siglas, os quadros, as tabelas, 
+os gráficos e as demais ilustrações. 
+A. NOTAS DE RODAPÉ 
+As notas de rodapé são considerações suplementares ou esclarecimentos realizados pelo 
+autor do trabalho. Podem ser: i) notas de referência e ii) notas explicativas, localizadas na região 
+inferior da página, separadas do texto por um espaço simples de entrelinhas, com filete de 
+--- PAGE 33 ---
+ 
+ 
+ 
+32  
+aproximadamente 3 cm, digitadas com fonte 10 dentro das margens e a partir da margem 
+esquerda. 
+Importante:  Utilizamos o sistema autor-data para as citações no texto e o sistema numérico, 
+para notas explicativas.  
+Exemplo: 
+De acordo com Litwin e Stringer (1968), o clima organizacional é um construto molar 1 que 
+permite uma análise dos determinantes do comportamento motivado em situações sociais 
+complexas e atuais; [...]. 
+______________ 
+1“Molar” significa que isto é um atributo da organização e não de suas “moléculas” – os indivíduos ou 
+suas funções específicas. 
+ 
+B. O USO DA EXPRESSÃO APUD  
+As expressões latinas são utilizadas com o intuito de evitar constantes repetições de 
+fontes já citadas anteriormente. As expressões latinas apud , significa “citado por”, e deve ser 
+usada quando não for possível utilizar a obra original.  
+Exemplo: 
+Expressão  Utilização Exemplo 
+Apud (citado por, 
+conforme, segundo) 
+Pode ser utilizada tanto no texto como 
+em notas de rodapé, mas no sistema 
+autor-data, seu uso deve ser no texto. 
+Halpin e Croft (1963 apud 
+HALPIN, 1966) prepararam um 
+conjunto […]. 
+ 
+C. ABREVIATURAS E SIGLAS 
+A abreviatura é a representação de uma palavra por meio de alguma(s) de suas sílabas 
+ou letras. A sigla é a reunião das letras iniciais dos vocábulos fundamentais de uma denominação 
+ou título. São utilizadas com frequência nos trabalhos acadêmicos e sua repetição pode ocorrer 
+várias vezes. Tanto as abreviaturas quanto as siglas devem ser redigidas em letras maiúsculas, 
+sem negrito, sublinhado ou itálico, e na mesma fonte utilizada no texto (Times New Roman). 
+Ambas devem ter seu significado redigido entre vírgulas somente quando apresentadas pela 
+primeira vez no trabalho. 
+--- PAGE 34 ---
+ 
+ 
+ 
+33  
+D. SÍMBOLOS 
+Símbolo é um sinal que substitui o nome de uma coisa ou de uma ação. São utilizados 
+com frequência nos trabalhos acadêmicos e sua repetição pode ocorrer várias vezes. Tanto as 
+abreviaturas quanto as siglas devem ser redigidas em letras maiúsculas, sem negrito, sublinhado 
+ou itálico, e na mesma fonte utilizada no texto (Times New Roman). Deve ser redigido entre 
+parênteses logo após seu significado quando apresentado pela primeira vez no trabalho.  
+ 
+E. QUADROS E TABELAS 
+De acordo com Cervo e Bervian (2002, p. 154), os quadros, “geralmente, são livres 
+arranjos que o autor faz para organizar e sistematizar a apresentação de algumas informações. 
+São preferencialmente descritivos e essencialmente informativos, e não analíticos”. 
+Segundo Cervo e Bervian (2002, p. 153), tabelas “constituem representações numéricas 
+de dados quantitativos coletados por meio de instrumentos próprios para este fim. [...] pode ser 
+em forma de números absolutos ou em percentuais, mas não em frações”.  
+Ambos são utilizados para explicar, esclarecer e apoiar as ideias mostradas no trabalho e 
+podem ser incluídos no trabalho a qualquer momento. Seu esboço ou indicação no texto pode 
+acontecer de modo isolado ou entre parênteses. 
+Exemplos: 
+A Tabela 2 traz os principais índices [...] 
+ 
+[...] corrobora com os argumentos e valores apresentados (Quadro 12). 
+ 
+[...] contradizem os percentuais descritos na Tabela 8. 
+ 
+Segundo Martins (2004), tanto os quadros quanto as tabelas devem: 
+• ser colocados entre parágrafos, não entre linhas e sem texto escrito ao lado; 
+• estar próximos do trecho a que se referem; 
+• estar centralizados na página e com disposição de texto alinhada. 
+ 
+Em nenhuma hipótese as margens devem ser ultrapassadas, ou seja, deverão estar 
+enquadrados nas margens adotadas. Caso seja indispensável sua alocação no trabalho, esta 
+poderá ser incluída como um Apêndice ao final do mesmo. 
+--- PAGE 35 ---
+ 
+ 
+ 
+34  
+Os textos e números nos quadros e nas tabelas devem ser redigidos em Times New 
+Roman tamanho 10, na cor preta e com espaçamento simples. A utilização de cores é permitida, 
+desde que utilizada moderadamente. Quanto a detalhes estéticos ou outros aspectos de 
+formatação, é o autor que decide, porém uma vez adotada determinada configuração, esta 
+deverá ser mantida em todos os quadros e tabelas alocados no trabalho (MARTINS, 2004). 
+Toda vez que se inserir um quadro ou uma tabela, sua legenda e sua referência deverão 
+estar indicadas obrigatoriamente. A legenda corresponde à apresentação do objeto, com seu 
+número sequencial e seu título. Sua alocação é sempre acima do quadro ou da tabela e nunca 
+separada, com alinhamento centralizado e espaçamento de texto simples. A sequência de 
+apresentação no texto deverá ser sempre contínua e própria de cada elemento (quadro ou 
+tabela), com a numeração realizada por meio de algarismos arábicos precedida pela palavra 
+Quadro ou Tabela, redigidos em Times New Roman tamanho 10, com letras minúsculas e em 
+negrito (MARTINS, 2004). 
+Exemplos: 
+Quadro 1 - Instrumentos para avaliar a cultura, o clima e os valores 
+ 
+FONTE: WALLACE et al, 1999, p. 45. 
+ 
+Quadro 2 - Modelo de Clima e Motivação de Comportamento Organizacional 
+ 
+FONTE: LITWIN; STRINGER, 1968, p. 43. 
+ 
+Tabela 1 - Dados relativos à idade dos participantes 
+ 
+ 
+ 
+ 
+A fonte externa ou referência do elemento (dados e informações de outra pesquisa) deve 
+ser registrada seguindo as orientações apresentadas nas citações (item X), devendo ser alocada 
+abaixo do objeto, em Times New Roman tamanho 10, sem negrito, com espaçamento simples e 
+alinhado a borda esquerda do quadro ou tabela. Caso o próprio autor tenha elaborado o objeto, 
+esta informação não deve ser indicada.  
+Quando a tabela for elaborada 
+pelo próprio autor do 
+trabalho, não se indica a fonte. 
+--- PAGE 36 ---
+ 
+ 
+ 
+35  
+Ao final da inclusão de todos os quadros e tabelas, uma lista pré-textual para cada tipo de 
+objeto deve ser elaborada, inserida após o Sumário. 
+ 
+F. GRÁFICOS E DEMAIS ILUSTRAÇÕES 
+Cervo e Bervian (2002, p. 153) definem gráficos como  
+... representações visuais de categorias, variáveis e tendências, cuja leitura é 
+orientada, mais pelas curvas  do que pelos números. [...] são, preferencialmente, 
+montados a partir dos dados de tabelas e podem ser apresentados 
+conjuntamente com estas.  
+Ilustrações são todas as figuras, desenhos, rascunhos, esquemas diagramas, fluxogramas, 
+organogramas, fotografias, mapas e demais imagens do trabalho, que servem para elucidar, 
+explicar, complementar e simplificar o entendimento do texto. Apesar também de serem 
+ilustrações e de servirem para o mesmo propósito, os gráficos devem ter um tratamento 
+diferenciado, como será visto a seguir. 
+Um gráfico ou qualquer outra ilustração pode ser incluído a qualquer momento no 
+desenvolvimento da obra. Sua indicação deve ocorrer diretamente no texto, fazendo parte de 
+uma afirmação ou isolada entre parênteses, assim como ocorre com os quadros e tabelas. 
+As demais ilustrações devem ser alocadas entre parágrafos (nunca entre linhas), sem 
+texto corrente aos seus lados e próximos do trecho ao qual fazem referência. Eles devem estar 
+centralizados na página e com disposição de texto alinhada. Todas as ilustrações do 
+desenvolvimento da obra devem se enquadrar nas margens adotadas, não podendo ultrapassá-
+las em nenhuma hipótese. Caso a inclusão de um gráfico, ou outro tipo de ilustração seja 
+indispensável para o trabalho e não possa ser reduzida aos padrões citados, ela poderá ser 
+incluída como um Apêndice ou Anexo ao final da obra, sem necessariamente obedecer as 
+margens configuradas. 
+Os textos e números inseridos tanto nos gráficos e nas ilustrações devem ser redigidos 
+em Times New Roman tamanho 10 na cor preta e com espaçamento simples. Cores de fundo são 
+facultativas, mas sua utilização deve ser moderada. Os demais detalhes estéticos como bordas, 
+linhas e outros aspectos de formatação ficam a cargo do autor, desde que esta configuração seja 
+mantida em todos os quadros e tabelas do trabalho. 
+Uma legenda correspondente ao gráfico ou demais ilustrações deve ser obrigatoriamente 
+indicada. A legenda de ambos os casos deve apresentar o número sequencial dentro da obra, o 
+--- PAGE 37 ---
+ 
+ 
+ 
+36  
+título e a fonte. Ela deve ser alocada sempre abaixo do objeto, seja um gráfico ou uma ilustração 
+qualquer, e nunca pode vir separada. Seu alinhamento também é centralizado, sem recuos ou 
+tabulações e o espaçamento de seu texto é simples. 
+A numeração da legenda deve seguir a ordem em que os gráficos ou demais ilustrações 
+são apresentados no texto, com sequência própria e contínua, independente dos títulos de parte 
+ou das páginas da obra. Assim, temos 4 tipos de numeração:  
+a)uma numeração para quadros, 
+b) uma numeração para tabelas, 
+c)uma numeração para gráficos  
+d) uma numeração para as demais ilustrações.  
+A numeração deve ser sempre precedida pela palavra Gráfico ou Ilustração através de 
+algarismos arábicos, redigidos em Times New Roman tamanho 10, letras minúsculas e em 
+negrito. Os gráficos e demais ilustrações dos Apêndices e Anexos não fazem parte da sequência 
+do desenvolvimento e não devem apresentar qualquer tipo de numeração. O título da legenda 
+vem logo depois, separado por um traço simples. O texto deve ser breve, porém explicativo, 
+redigido na mesma formatação, indicando se possível o tipo de ilustração ou gráfico de que se 
+trata.  
+Após a legenda propriamente dita, deve ser acrescentada a fonte de onde foi adquirido o 
+Gráfico ou a Ilustração, de acordo com as orientações apresentadas nas citações. Caso o próprio 
+autor tenha elaborado o objeto, deve redigir “elaboração própria”, mas não é necessário indicar 
+esta informação. A fonte deve ser alocada uma linha abaixo da legenda, em Times New Roman 
+tamanho 10, mas sem negrito, com espaçamento simples e alinhamento centralizado. 
+Exemplos: 
+ 
+Gráfico 1 - Curva de demanda e oferta 
+FONTE: elaboração própria, 2010. 
+ 
+ 
+Figura 1 - Fotografia do quadro de Cândido Portinari - O Café 
+FONTE: VESENTINI, 1995, p. 211 
+ 
+ 
+--- PAGE 38 ---
+ 
+ 
+ 
+37  
+ 
+Figura 2 - Organograma principal da Empresa A 
+ 
+ 
+ 
+ 
+ 
+Ao final da inclusão de todos os gráficos e ilustrações, duas listas pré-textuais devem ser 
+elaboradas, uma para cada tipo de objeto, inseridas após o Sumário. 
+ 
+1.3 ELEMENTOS PÓS-TEXTUAIS 
+Os elementos pós-textuais complementam o trabalho permitindo conhecer o material de 
+referência consultado e completar informações. São eles: referências, apêndices e anexos. 
+A. REFERÊNCIAS 
+É elemento obrigatório, indispensável na identificação de todas as publicações utilizadas 
+para corroborar as ideias expostas no desenvolvimento do trabalho. Este elemento possibilita ao 
+leitor, buscar e consultar as fontes utilizadas e é fundamental que se apresente de maneira 
+uniforme.  
+As referências devem ser organizadas em ordem alfabética e, com o objetivo de 
+padronizar a organização das referências, optou-se pelo sistema autor-data. Devem ser postas 
+em espaço simples, com mais um espaço entre cada obra, sendo alinhadas à esquerda. (ver 
+exemplo no final deste manual). 
+B. APÊNDICES 
+É elemento opcional que consiste em texto ou documento elaborado pelo próprio autor 
+do trabalho com o objetivo de complementar sua argumentação. São identificados por letras 
+maiúsculas consecutivas, seguidas de travessão e dos respectivos títulos. Excepcionalmente 
+utilizam-se letras maiúsculas dobradas na identificação dos apêndices, quando esgotadas as 23 
+letras do alfabeto. 
+Exemplos: 
+Quando a ilustração for 
+elaborada pelo próprio autor 
+do trabalho, não se indica a 
+fonte. 
+--- PAGE 39 ---
+ 
+ 
+ 
+38  
+APÊNDICE A – Representação das normas e exemplos 
+APÊNDICE B – Valores descritos no laudo técnico 
+APÊNDICE AA – Cálculo dos percentuais referentes a 2003 
+ 
+C. ANEXOS 
+É elemento opcional que consiste em texto ou documento não elaborado pelo próprio 
+autor do trabalho com o objetivo de complementar, comprovar e ilustrar. São identificados por 
+letras maiúsculas consecutivas, seguidas de travessão e dos respectivos títulos. 
+Excepcionalmente utilizam-se letras maiúsculas dobradas na identificação dos apêndices, 
+quando esgotadas as 23 letras do alfabeto. 
+Exemplos: 
+ANEXO A – Modelo de capa para monografias 
+ANEXO B – Modelo de formulário de avaliação 
+ANEXO AA – Modelo de folha de pontuação 
+ 
+ 
+ 
+--- PAGE 40 ---
+ 
+ 
+ 
+39  
+2. NORMAS TÉCNICAS 
+PARA O ARTIGO 
+CIENTÍFICO 
+Em qualquer que seja seu formato, um TCC deve conter uma estrutura dividida em 
+elementos pré-textuais, textuais e pós-textuais.  
+Em alguns aspectos, estes se diferenciam na forma de apresentação, quando 
+correspondem a uma Monografia ou a um Artigo Científico. O Artigo Científico deve conter 
+aproximadamente 20 páginas. A seguir, nesta seção 4, da página 40 a 54, aparecem as descrições 
+dos elementos constantes do TCC, no que se refere especificamente à elaboração de Artigos. 
+ 
+--- PAGE 41 ---
+ 
+ 
+ 
+40  
+2.1 ELEMENTOS PRÉ-TEXTUAIS DO ARTIGO CIENTÍFICO 
+ 
+A. CAPA DO ARTIGO 
+A capa é elemento de proteção externa do trabalho. Nela estão contidas informações 
+indispensáveis que identificam o TCC. Essas informações estão descritas na seguinte ordem: (1) 
+nome da instituição, (2) título da obra, (3) nome completo do autor, (4) nome completo do 
+orientador, (5) local (cidade) e (6) ano de depósito. A apresentação gráfica e suas normas estão 
+expostas a seguir . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 42 ---
+ 
+ 
+ 
+41  
+CENTRO UNIVERSITÁRIO UNISEB 
+TRABALHO DE CONCLUSÃO DE CURSO 
+BACHARELADO EM ADMINISTRAÇÃO DE EMPRESAS 
+ 
+PROCESSO DE TREINAMENTO E DESENVOLVIMENTO GERENCIADO PELO 
+BALANCED SCORECARD  
+ 
+ 
+Claudinei César Justino 
+ 
+Orientador Prof. Ms. Antônio Nardi 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RIBEIRÃO PRETO 
+2012 
+Título superior: Times New Roman 
+tamanho 12, em negrito e maiúsculas. 
+Alinhamento ao centro e espaçamento de 
+1,5. 
+Título da obra: Times New Roman 
+tamanho 12, em negrito e maiúsculas. 
+Alinhamento ao centro e espaçamento de 
+1,5. 
+Dez espaços de 1,5 em branco entre 
+título superior e título da obra. 
+Autores: Times New Roman tamanho 12, em 
+negrito e somente as primeiras em maiúsculas. 
+Alinhamento à direita e espaçamento de 1,5. 
+Autor e orientador separados por um espaço 
+de 1,5 em branco. 
+Dois espaços de 1,5 em branco 
+entre título da obra e autor. 
+Título inferior: Times New Roman 
+tamanho 12, em negrito e 
+maiúsculas. Alinhamento ao centro 
+e espaçamento de 1,5. Situado nas 
+duas últimas linhas da folha. 
+--- PAGE 43 ---
+ 
+ 
+ 
+42  
+B. FICHA CATALOGRÁFICA 
+A ficha catalográfica é elaborada pela Biblioteca do UNISEB . É um quadro com dados 
+dispostos de maneira sistemática, cujo objetivo é identificar sucintamente o assunto tratado, 
+bem como os aspectos físicos da obra. A apresentação gráfica está contida modelo abaixo.  
+ 
+Para a confecção da ficha catalográfica, o acadêmico deve entrar em contato com o 
+responsável da biblioteca, passando os seguintes dados: 
+k)  Nome completo do(a) autor(a); 
+l)  Título e subtítulo do trabalho; 
+m)  Ano de defesa; 
+n)  Número de folhas; 
+o)  Ilustração; (quando houver figuras ou gráficos) 
+p)  Grau acadêmico: Monografia; 
+q)  Descrição Textual; 
+r)  Local: Ribeirão Preto 
+s)  Palavras-chave (3 ou 4); definir no texto da obra termos que representam o assunto 
+geral do trabalho 
+t)  E-mails e telefones para eventuais dúvidas 
+ 
+Concluída sua elaboração, a Biblioteca fará o envio da ficha pronta ao aluno, via e-mail, 
+inclusive sua formatação não poderá ser alterada, pois ela já vem no padrão exigido. 
+Contato: email: biblioteca@uniseb.com.br - Telefone: (16) 6039844 
+ 
+--- PAGE 44 ---
+ 
+ 
+ 
+43  
+C. TÍTULO DO ARTIGO  
+Apresentado em CAPS LOCK, negrito, tamanho 16, centralizado. 
+ 
+D. AUTORES  
+Elencar o Nome Completo do(s)Aluno(s), alinhados à direita, abaixo do título, separados pelo 
+espaço de 1 enter. A Identificação do Curso/Turma deve ser inserida em Nota de Rodapé, 
+seguida da informação sobre o Orientador(a), com seu Nome completo e titulação. 
+ 
+E. RESUMO E PALAVRAS-CHAVE 
+O resumo deve ser escrito de forma concisa, mencionando o tema abordado, os objetivos, a 
+metodologia e os resultados alcançados no estudo. A digitação será realizada sem parágrafos e 
+citações, com no máximo 250 palavras, em espaço simples. 
+Logo abaixo do resumo, contendo as palavras centrais utilizadas no trabalho (3 a 5 palavras). 
+ 
+F. ABSTRACT (OPCIONAL) 
+O texto do resumo deve ser traduzido para o Inglês, apresentado em espaço simples, seguido de 
+3 a 5 Key- Words. 
+ 
+G. SUMÁRIO 
+O Sumário no Artigo Científico deve ser apresentado em formato horizontal, em espaçamento 
+simples nas entrelinhas, com as numerações e títulos das partes componentes do Artigo, 
+separadas por ponto e vírgula, sem os números das páginas. 
+Na Ilustração a seguir apresentamos um exemplo dos elementos pré-textuais do Artigo 
+Científico.  
+ 
+--- PAGE 45 ---
+ 
+ 
+ 
+44  
+Exemplo: 
+VIOLÊNCIA DE GÊNERO E DIREITO: O PAPEL DA LEI E DE SEUS 
+REPRESENTANTES FRENTE À VIOLÊNCIA CONJUGAL 
+ 
+Leidiane Lopes Silva 1) 
+Orientadora: Elizabete David Novaes 2) 
+ 
+ 
+RESUMO 
+O presente trabalho objetiva investigar as condições enfrentadas pelas mulheres vítimas de 
+violência conjugal, procurando enfocar as representações sociais dos sujeitos envolvidos na 
+defesa dos direitos da mulher, quais sejam, o papel das leis e dos sujeitos que as representam, 
+especialmente aqueles envolvidos no trabalho das Delegacias de Defesa da Mulher. A 
+investigação está sendo realizada na cidade de Ribeirão Preto-Estado de São Paulo – por meio de 
+observações diretas ao cotidiano da DDM, entrevistas às mulheres vítimas de violência que lá 
+comparecem e entrevistas com agentes policiais, da DDM. O trabalho de pesquisa tem caráter 
+qualitativo, através de registro em diário de campo e entrevistas gravadas. O levantamento 
+teórico e a análise crítica da legislação que rege as relações de violência conjugal serão 
+complementados com entrevistas a profissionais que atuam em tal área do direito de defesa da 
+mulher. 
+ 
+Palavras-chave:  Violência doméstica; lei Maria da Penha; Delegacia da Mulher. 
+ 
+ABSTRACT 
+This study aims to investigate the conditions faced by women victims of domestic violence, 
+seeking to focus on the social representations of the subjects involved in defending the rights of 
+women, namely, the role of laws and subjects that represent them, especially those involved in 
+the work of Women's Police Stations. The investigation is being carried out in Ribeirão Preto, 
+São Paulo State - through direct observations of the everyday DDM, interviews with women 
+victims of violence there and attend interviews with police officers, the DDM. The research is 
+qualitative, through journaling and interviews recorded. The theoretical approach and critical 
+analysis of the legislation governing the relations of domestic violence will be complemented 
+with interviews with professionals working in this area of law defense of women. 
+ 
+Keywords:  Domestic violence; Maria da Penha Law, Women's Police Station. 
+--- PAGE 46 ---
+ 
+ 
+ 
+45  
+ 
+SUMÁRIO: 1. Introdução- 1.1. Metodologia de Coleta e Análise dos Dados- 1.2. O Início da 
+Pesquisa de Campo - 2. Constatações -2.1. As Barreiras Emocionais e Materiais das Mulheres - 
+2.2. A Abertura de Inquéritos - 2.3. Preconceitos e Valores Patriarcais - 3. Conclusão - 4. 
+Referências. 
+______________________ 
+1) Acadêmica do Curso de Direito do UNISEB, Turma de 2005.  
+2) Orientadora: Profa. Dra. em Sociologia, docente do UNISEB – Ribeirão Preto-SP. 
+ 
+2.2 ELEMENTOS TEXTUAIS DO ARTIGO CIENTÍFICO 
+ 
+2.2.1 FORMATAÇÃO DOS TÍTULOS DAS PARTES DO ARTIGO C IENTÍFICO 
+As partes devem ser numeradas e apresentadas numa sequência de subdivisões, 
+partindo do Geral para o mais específico. O tamanho das fontes também deve obedecer esta 
+sequência, indo do maior (geral) para o menor (específico). 
+Seção primária 1 
+Seção secundária 1.1 
+Seção terciária 1.1.1 
+Seção quaternária 1.1.1.1 
+Os destaques das seções devem ser feitos por meio da diferenciação dos tamanhos da 
+fonte e destaques, conforme exemplo abaixo. 
+Seção primária  – Letras Maiúsculas, em negrito, fonte 14, centralizado. 
+Seção secundária  - 1ª. letra maiúscula, fonte 12, em negrito, alinhado à esquerda. 
+Seção terciária - 1ª. letra maiúscula, fonte 12, sem negrito, alinhado à esquerda. 
+Seção quaternária  - 1ª. letra em maiúscula, fonte 12, sem negrito, em itálico, alinhado à 
+esquerda. 
+--- PAGE 47 ---
+ 
+ 
+ 
+46  
+Exemplo: 
+TÍTULO DO ARTIGO CIENTÍFICO  
+ 
+1. xxxxxxxxxxxxxxx (parte primária) 
+1.1. xxxxxxxxxxxxxx ( parte secundária) 
+1.1.1.xxxxxxxxxxxxx (parte terciária) 
+1.1.1.1 xxxxxxxxxx (parte quaternária) 
+ 
+2.2.2. ELEMENTOS DE APOIO AO TEXTO PARA ARTIGOS CIE NTÍFICOS 
+Na fundamentação do TCC, alguns elementos servem de apoio para confirmar as ideias 
+do texto. São eles: as citações, as notas de rodapé, as abreviaturas e siglas, os quadros, as tabelas, 
+os gráficos e as demais ilustrações. 
+A. NOTAS DE RODAPÉ 
+As notas de rodapé são considerações suplementares ou esclarecimentos realizados pelo 
+autor do trabalho. Podem ser: i) notas de referência e ii) notas explicativas, localizadas na região 
+inferior da página, separadas do texto por um espaço simples de entrelinhas, com filete de 
+aproximadamente 3 cm, digitadas com fonte 10 dentro das margens e a partir da margem 
+esquerda. 
+Importante:  Utilizamos o sistema autor-data para as citações no texto e o sistema numérico, 
+para notas explicativas.  
+ 
+ 
+ 
+--- PAGE 48 ---
+ 
+ 
+ 
+47  
+Exemplo: 
+De acordo com Litwin e Stringer (1968), o clima organizacional é um construto molar 1 que 
+permite uma análise dos determinantes do comportamento motivado em situações sociais 
+complexas e atuais; [...]. 
+______________ 
+1“Molar” significa que isto é um atributo da organização e não de suas “moléculas” – os indivíduos ou 
+suas funções específicas. 
+ 
+B. O USO DA EXPRESSÃO APUD  
+As expressões latinas são utilizadas com o intuito de evitar constantes repetições de 
+fontes já citadas anteriormente. As expressões latinas apud , significa “citado por”, e deve ser 
+usada quando não for possível utilizar a obra original.  
+Exemplo: 
+Expressão  Utilização Exemplo 
+Apud (citado por, 
+conforme, segundo) 
+Pode ser utilizada tanto no texto como 
+em notas de rodapé, mas no sistema 
+autor-data, seu uso deve ser no texto. 
+Halpin e Croft (1963 apud 
+HALPIN, 1966) prepararam um 
+conjunto […]. 
+ 
+C. ABREVIATURAS E SIGLAS 
+A abreviatura é a representação de uma palavra por meio de alguma(s) de suas sílabas 
+ou letras. A sigla é a reunião das letras iniciais dos vocábulos fundamentais de uma denominação 
+ou título. São utilizadas com frequência nos trabalhos acadêmicos e sua repetição pode ocorrer 
+várias vezes. Tanto as abreviaturas quanto as siglas devem ser redigidas em letras maiúsculas, 
+sem negrito, sublinhado ou itálico, e na mesma fonte utilizada no texto (Times New Roman). 
+Ambas devem ter seu significado redigido entre vírgulas somente quando apresentadas pela 
+primeira vez no trabalho. 
+D. SÍMBOLOS 
+Símbolo é um sinal que substitui o nome de uma coisa ou de uma ação. São utilizados 
+com frequência nos trabalhos acadêmicos e sua repetição pode ocorrer várias vezes. Tanto as 
+abreviaturas quanto as siglas devem ser redigidas em letras maiúsculas, sem negrito, sublinhado 
+--- PAGE 49 ---
+ 
+ 
+ 
+48  
+ou itálico, e na mesma fonte utilizada no texto ( Times New Roman ). Deve ser redigido entre 
+parênteses logo após seu significado quando apresentado pela primeira vez no trabalho.  
+ 
+E. QUADROS E TABELAS 
+De acordo com Cervo e Bervian (2002, p. 154), os quadros, “geralmente, são livres 
+arranjos que o autor faz para organizar e sistematizar a apresentação de algumas informações. 
+São preferencialmente descritivos e essencialmente informativos, e não analíticos”. 
+Segundo Cervo e Bervian (2002, p. 153), tabelas “constituem representações numéricas 
+de dados quantitativos coletados por meio de instrumentos próprios para este fim. [...] pode ser 
+em forma de números absolutos ou em percentuais, mas não em frações”.  
+Ambos são utilizados para explicar, esclarecer e apoiar as ideias mostradas no trabalho e 
+podem ser incluídos no trabalho a qualquer momento. Seu esboço ou indicação no texto pode 
+acontecer de modo isolado ou entre parênteses. 
+Exemplos: 
+A Tabela 2 traz os principais índices [...] 
+ 
+[...] corrobora com os argumentos e valores apresentados (Quadro 12). 
+ 
+[...] contradizem os percentuais descritos na Tabela 8. 
+ 
+Segundo Martins (2004), tanto os quadros quanto as tabelas devem: 
+• ser colocados entre parágrafos, não entre linhas e sem texto escrito ao lado; 
+• estar próximos do trecho a que se referem; 
+• estar centralizados na página e com disposição de texto alinhada. 
+ 
+Em nenhuma hipótese as margens devem ser ultrapassadas, ou seja, deverão estar 
+enquadrados nas margens adotadas. Caso seja indispensável sua alocação no trabalho, esta 
+poderá ser incluída como um Apêndice ao final do mesmo. 
+--- PAGE 50 ---
+ 
+ 
+ 
+49  
+Os textos e números nos quadros e nas tabelas devem ser redigidos em Times New 
+Roman tamanho 10, na cor preta e com espaçamento simples. A utilização de cores é permitida, 
+desde que utilizada moderadamente. Quanto a detalhes estéticos ou outros aspectos de 
+formatação, é o autor que decide, porém uma vez adotada determinada configuração, esta 
+deverá ser mantida em todos os quadros e tabelas alocados no trabalho (MARTINS, 2004). 
+Toda vez que se inserir um quadro ou uma tabela, sua legenda e sua referência deverão 
+estar indicadas obrigatoriamente. A legenda corresponde à apresentação do objeto, com seu 
+número sequencial e seu título. Sua alocação é sempre acima do quadro ou da tabela e nunca 
+separada, com alinhamento centralizado e espaçamento de texto simples. A sequência de 
+apresentação no texto deverá ser sempre contínua e própria de cada elemento (quadro ou 
+tabela), com a numeração realizada por meio de algarismos arábicos precedida pela palavra 
+Quadro ou Tabela, redigidos em Times New Roman tamanho 10, com letras minúsculas e em 
+negrito (MARTINS, 2004). 
+Exemplos: 
+Quadro 1 - Instrumentos para avaliar a cultura, o clima e os valores 
+ 
+FONTE: WALLACE et al, 1999, p. 45 
+ 
+Quadro 2 - Modelo de Clima e Motivação de Comportamento Organizacional 
+ 
+FONTE: LITWIN; STRINGER, 1968, p. 43 
+ 
+Tabela 2 - Dados relativos à idade dos participantes 
+ 
+ 
+ 
+ 
+Quando a tabela for elaborada 
+pelo próprio autor do 
+trabalho, não se indica a fonte. 
+--- PAGE 51 ---
+ 
+ 
+ 
+50  
+A fonte externa ou referência do elemento (dados e informações de outra pesquisa) deve 
+ser registrada seguindo as orientações apresentadas nas citações (item X), devendo ser alocada 
+abaixo do objeto, em Times New Roman tamanho 10, sem negrito, com espaçamento simples e 
+alinhado a borda esquerda do quadro ou tabela. Caso o próprio autor tenha elaborado o objeto, 
+esta informação não deve ser indicada.  
+Ao final da inclusão de todos os quadros e tabelas, uma lista pré-textual para cada tipo de 
+objeto deve ser elaborada, inserida após o Sumário. 
+ 
+F. GRÁFICOS E DEMAIS ILUSTRAÇÕES 
+Cervo e Bervian (2002, p. 153) definem gráficos como  
+... representações visuais de categorias, variáveis e tendências, cuja leitura é 
+orientada, mais pelas curvas  do que pelos números. [...] são, preferencialmente, 
+montados a partir dos dados de tabelas e podem ser apresentados 
+conjuntamente com estas.  
+Ilustrações são todas as figuras, desenhos, rascunhos, esquemas diagramas, fluxogramas, 
+organogramas, fotografias, mapas e demais imagens do trabalho, que servem para elucidar, 
+explicar, complementar e simplificar o entendimento do texto. Apesar também de serem 
+ilustrações e de servirem para o mesmo propósito, os gráficos devem ter um tratamento 
+diferenciado, como será visto a seguir. 
+Um gráfico ou qualquer outra ilustração pode ser incluído a qualquer momento no 
+desenvolvimento da obra. Sua indicação deve ocorrer diretamente no texto, fazendo parte de 
+uma afirmação ou isolada entre parênteses, assim como ocorre com os quadros e tabelas. 
+As demais ilustrações devem ser alocadas entre parágrafos (nunca entre linhas), sem 
+texto corrente aos seus lados e próximos do trecho ao qual fazem referência. Eles devem estar 
+centralizados na página e com disposição de texto alinhada. Todas as ilustrações do 
+desenvolvimento da obra devem se enquadrar nas margens adotadas, não podendo ultrapassá-
+las em nenhuma hipótese. Caso a inclusão de um gráfico, ou outro tipo de ilustração seja 
+indispensável para o trabalho e não possa ser reduzida aos padrões citados, ela poderá ser 
+incluída como um Apêndice ou Anexo ao final da obra, sem necessariamente obedecer as 
+margens configuradas. 
+Os textos e números inseridos tanto nos gráficos e nas ilustrações devem ser redigidos 
+em Times New Roman tamanho 10 na cor preta e com espaçamento simples. Cores de fundo são 
+--- PAGE 52 ---
+ 
+ 
+ 
+51  
+facultativas, mas sua utilização deve ser moderada. Os demais detalhes estéticos como bordas, 
+linhas e outros aspectos de formatação ficam a cargo do autor, desde que esta configuração seja 
+mantida em todos os quadros e tabelas do trabalho. 
+Uma legenda correspondente ao gráfico ou demais ilustrações deve ser obrigatoriamente 
+indicada. A legenda de ambos os casos deve apresentar o número sequencial dentro da obra, o 
+título e a fonte. Ela deve ser alocada sempre abaixo do objeto, seja um gráfico ou uma ilustração 
+qualquer, e nunca pode vir separada. Seu alinhamento também é centralizado, sem recuos ou 
+tabulações e o espaçamento de seu texto é simples. 
+A numeração da legenda deve seguir a ordem em que os gráficos ou demais ilustrações 
+são apresentados no texto, com sequência própria e contínua, independente dos títulos de parte 
+ou das páginas da obra. Assim, temos 4 tipos de numeração:  
+a)uma numeração para quadros, 
+b) uma numeração para tabelas, 
+c)uma numeração para gráficos  
+d) uma numeração para as demais ilustrações.  
+A numeração deve ser sempre precedida pela palavra Gráfico ou Ilustração através de 
+algarismos arábicos, redigidos em Times New Roman tamanho 10, letras minúsculas e em 
+negrito. Os gráficos e demais ilustrações dos Apêndices e Anexos não fazem parte da sequência 
+do desenvolvimento e não devem apresentar qualquer tipo de numeração. O título da legenda 
+vem logo depois, separado por um traço simples. O texto deve ser breve, porém explicativo, 
+redigido na mesma formatação, indicando se possível o tipo de ilustração ou gráfico de que se 
+trata.  
+Após a legenda propriamente dita, deve ser acrescentada a fonte de onde foi adquirido o 
+Gráfico ou a Ilustração, de acordo com as orientações apresentadas nas citações. Caso o próprio 
+autor tenha elaborado o objeto, deve redigir “elaboração própria”, mas não é necessário indicar 
+esta informação. A fonte deve ser alocada uma linha abaixo da legenda, em Times New Roman 
+tamanho 10, mas sem negrito, com espaçamento simples e alinhamento centralizado. 
+ 
+Exemplos: 
+--- PAGE 53 ---
+ 
+ 
+ 
+52  
+ 
+Gráfico 2 - Curva de demanda e oferta 
+FONTE: elaboração própria, 2010. 
+ 
+ 
+Figura 3 - Fotografia do quadro de Cândido Portinari - O Café 
+FONTE: VESENTINI, 1995, p. 211 
+ 
+ 
+Figura 4 - Organograma principal da Empresa A 
+ 
+ 
+ 
+Quando a ilustração for 
+elaborada pelo próprio autor 
+do trabalho, não se indica a 
+fonte . 
+--- PAGE 54 ---
+ 
+ 
+ 
+53  
+2.3 ELEMENTOS PÓS-TEXTUAIS 
+Os elementos pós-textuais complementam o trabalho permitindo conhecer o material de 
+referência consultado e completar informações. São eles: referências, apêndices e anexos. 
+ 
+A. REFERÊNCIAS 
+É elemento obrigatório, indispensável na identificação de todas as publicações utilizadas 
+para corroborar as ideias expostas no desenvolvimento do trabalho. Este elemento possibilita ao 
+leitor, buscar e consultar as fontes utilizadas e é fundamental que se apresente de maneira 
+uniforme.  
+As referências devem ser organizadas em ordem alfabética e, com o objetivo de 
+padronizar a organização das referências, optou-se pelo sistema autor-data. Devem ser postas 
+em espaço simples, com mais um espaço entre cada obra, sendo alinhadas à esquerda. (ver 
+exemplo no final deste manual). 
+ 
+B. APÊNDICES 
+É elemento opcional que consiste em texto ou documento elaborado pelo próprio autor 
+do trabalho com o objetivo de complementar sua argumentação. São identificados por letras 
+maiúsculas consecutivas, seguidas de travessão e dos respectivos títulos. Excepcionalmente 
+utilizam-se letras maiúsculas dobradas na identificação dos apêndices, quando esgotadas as 23 
+letras do alfabeto. 
+ 
+Exemplos: 
+APÊNDICE A – Representação das normas e exemplos 
+APÊNDICE B – Valores descritos no laudo técnico 
+APÊNDICE AA – Cálculo dos percentuais referentes a 2003 
+ 
+ 
+--- PAGE 55 ---
+ 
+ 
+ 
+54  
+C. ANEXOS 
+É elemento opcional que consiste em texto ou documento não elaborado pelo próprio 
+autor do trabalho com o objetivo de complementar, comprovar e ilustrar. São identificados por 
+letras maiúsculas consecutivas, seguidas de travessão e dos respectivos títulos. 
+Excepcionalmente utilizam-se letras maiúsculas dobradas na identificação dos apêndices, 
+quando esgotadas as 23 letras do alfabeto. 
+Exemplos: 
+ANEXO A – Modelo de capa para monografias 
+ANEXO B – Modelo de formulário de avaliação 
+ANEXO AA – Modelo de folha de pontuação 
+ 
+ 
+ 
+--- PAGE 56 ---
+ 
+ 
+ 
+55  
+3. NORMAS PARA 
+CITAÇÕES EM 
+MONOGRAFIAS E ARTIGOS 
+ 
+Citação é a menção de uma informação extraída/obtida de outra fonte com o objetivo de 
+comprovar/confirmar as ideias que estão sendo desenvolvidas no trabalho. Essas informações 
+se relacionam com o tema em estudo e são utilizadas para enriquecer e fundamentar o texto. A 
+citação pode ser: (1) direta ou transcrição, (2) indireta ou paráfrase e (3) citação de citação.  
+ 
+3.1 CITAÇÃO DIRETA OU TRANSCRIÇÃO 
+É a transcrição textual de parte da obra consultada, ou seja, é a reprodução integral da 
+obra consultada, sem qualquer alteração na grafia, pontuação etc. 
+As citações diretas, no texto, de até três linhas, devem estar contidas entre aspas duplas. 
+As aspas simples são utilizadas para indicar citação no interior da citação. 
+Exemplo: 
+“As citações são os elementos retirados dos documentos pesquisados durante a leitura da 
+documentação e que se revelaram úteis para corroborar as ideias desenvolvidas pelo autor no 
+decorrer do ser raciocínio” (SEVERINO, 2000, p. 106). 
+ 
+De acordo com Dutra (2002, p. 34) “o processo de evolução da gestão de pessoas no Brasil é 
+marcado por características legais e pelo referencial taylorista”. 
+ 
+As citações diretas, no texto, com mais de três linhas, devem ser destacadas com recuo de 
+4cm da margem esquerda, com fonte 10, sem as aspas e com espaçamento simples. 
+--- PAGE 57 ---
+ 
+ 
+ 
+56  
+Exemplo: 
+Segundo Pritchard e Karasick (1973, p. 126), clima organizacional é  
+uma qualidade relativamente constante de um ambiente interno de uma 
+organização, distinguindo-o de outras organizações; (a) a qual resulta de 
+comportamentos e políticas dos membros da organização, especialmente da 
+alta gerência; (b) a qual é percebida pelos membros da organização; (c) a qual 
+serve como base para interpretação da situação; e (d) age como fonte de 
+pressão para direção da atividade. 
+ 
+A supressão (parte do trecho transcrito omitido) deve ser indicada por reticências 
+dentro de colchetes: [...]; frases começadas que dão sequência ao corpo do texto devem iniciar 
+com reticências. 
+Exemplo: 
+Para Selltiz (1974, p. 59), outras funções podem ser atribuídas ao estudo exploratório, como: 
+... aumentar o conhecimento do pesquisador acerca do fenômeno que deseja 
+investigar em estudo posterior, mais estruturado, ou da situação em que 
+pretende realizar tal estudo; o esclarecimento de conceitos; o estabelecimento 
+de prioridades para futuras pesquisas; a obtenção de informação sobre 
+possibilidades práticas de realização de pesquisas em situações de vida real; 
+[...]. 
+ 
+ 
+3.2 CITAÇÃO INDIRETA OU PARÁFRASE 
+É a reprodução/expressão da ideia de um autor citado, com palavras próprias do autor 
+do trabalho, sem transcrição. 
+Exemplo:  
+Analisando o contexto atual, Ulrich (2000), argumenta que as forças competitivas que os 
+administradores estão enfrentando atualmente e que continuarão a enfrentar no futuro estão 
+exigindo que as organizações busquem a excelência organizacional. 
+ 
+ 
+--- PAGE 58 ---
+ 
+ 
+ 
+57  
+3.3 CITAÇÃO DE CITAÇÃO 
+É a citação direta ou indireta de um texto em que não se teve acesso ao documento 
+original. Deve ser indicado no texto, o sobrenome do autor do documento original (não 
+consultado), seguido da data (se houver), da expressão latina apud (citado por, conforme, 
+segundo), do sobrenome do(s) autor(es) do documento efetivamente consultado, data e página 
+(se for citação direta). A citação da obra deve ser incluída nas referências.  
+Exemplos: 
+O conceito de clima foi introduzido por Lewin et al (1939, apud SCHNEIDER et al, 2000) dentro 
+do vocabulário da psicologia social. Eles utilizaram os termos clima social e atmosfera social de 
+forma intercambiável. 
+ 
+O conceito de clima foi introduzido em 1939 dentro do vocabulário da psicologia social. “Foram 
+utilizados os termos clima social e atmosfera social de forma intercambiável”. (LEWIN et al, apud 
+SCHNEIDER et al, 2000, p. 28) 
+ 
+3.4 APRESENTAÇÃO DE AUTORES NO TEXTO 
+As citações devem ser indicadas no texto pelo sistema autor-data. 
+Qualquer que seja o sistema ou método adotado deve ser seguido de forma consistente 
+ao longo de todo o trabalho.  
+3.4.1 CITAÇÃO COM UM AUTOR 
+Quando o nome do autor estiver incluído na sentença, indica-se a data, entre parênteses, 
+acrescida da(s) página(s), se a citação for direta.  
+Exemplos: 
+Para Hipólito (2001), a administração da remuneração sempre foi uma questão fundamental a 
+ser considerada para a eficiência da organização e, atualmente vem conquistando espaço cada 
+vez maior. 
+ 
+--- PAGE 59 ---
+ 
+ 
+ 
+58  
+Segundo Maximiano (2000, p. 260) “o produto dos sentimentos individuais e grupais em 
+relação à realidade percebida chama se clima organizacional”. 
+ 
+Quando o nome do autor estiver entre parênteses, este deverá ser colocado em letras 
+maiúsculas. 
+Exemplo: 
+A principal finalidade da pesquisa exploratória é “desenvolver, esclarecer e modificar conceitos 
+e ideias, tendo em vista, a formulação de problemas mais precisos ou hipóteses pesquisáveis 
+para estudos posteriores”.(GIL, 1999, p. 43). 
+ 
+Quando houver coincidência de sobrenomes de autores, acrescentam-se as iniciais de 
+seus prenomes; se mesmo assim existir coincidência, colocam-se os prenomes por extenso. 
+Exemplos: 
+[...] (BARBOSA, Cássio, 1958)                    [...] (BARBOSA, Celso, 1958) 
+Barbosa, Cássio (1958) [...]                           Barbosa, Celso (1958) [...] 
+ 
+As citações de diversos documentos de um mesmo autor, publicados num mesmo ano, 
+são distinguidas pelo acréscimo de letras minúsculas, em ordem alfabética (a, b, c), após a data e 
+sem espacejamento. 
+Exemplos: 
+O estudo de clima organizacional é relevante sob dois pontos de vista: i) o teórico e ii) o 
+pragmático (SOUZA, 1980a). 
+ 
+Souza (1980b, p. 51) argumenta que o estudo de clima organizacional, apesar de ser relevante, 
+“ainda não é bastante conhecido. Há controvérsia de conceito, há discrepância nos modelos 
+atuais e há dimensões inexploradas”. 
+ 
+--- PAGE 60 ---
+ 
+ 
+ 
+59  
+As citações indiretas de diversos documentos da mesma autoria, publicados em anos 
+diferentes e mencionados simultaneamente, têm as suas datas separadas por vírgula. 
+Exemplo: 
+[...] (SOUZA, 1977, 1978, 1980) 
+ 
+3.4.2 CITAÇÃO COM DOIS AUTORES 
+Quando os nomes dos autores estiverem incluídos na sentença, separam-se os 
+sobrenomes dos autores citados pela letra “e”. Caso estejam fora da sentença, indicam-se os 
+sobrenomes dos autores entre parênteses, separados por ponto e vírgula “;”. 
+Exemplos: 
+Litwin e Stringer (1968) [...]                      [...] (LITWIN; STRINGER, 1968) 
+ 
+3.4.3. CITAÇÃO COM ATÉ TRÊS AUTORES 
+Quando os nomes dos autores estiverem incluídos na sentença, separa-se o primeiro 
+sobrenome do seguinte por vírgula (,) e o segundo sobrenome do terceiro pela letra “e”. Caso 
+estejam fora da sentença, indicam-se os sobrenomes dos autores entre parênteses, separados 
+por ponto e vírgula (;). 
+Exemplos: 
+Anthony, Perrewe e Kacmar, (1996) [...] 
+ 
+[...] (ANTHONY; PERREWÉ; KACMAR, 1996). 
+ 
+3.4.4 CITAÇÃO COM MAIS DE TRÊS AUTORES 
+Indicar o sobrenome do primeiro autor seguido da expressão latina et al. (e outros). 
+Exemplos: 
+--- PAGE 61 ---
+ 
+ 
+ 
+60  
+Schneider et al. (2000) [...]                                       [...] (SCHNEIDER et al., 2000) 
+ 
+3.4.5 APRESENTAÇÃO DE NOMES DE AUTORES 
+O quadro 3 ilustra como devem ser apresentados os nomes dos autores, segundo o tipo 
+de sobrenome. 
+Quadro 3 - Apresentação de nomes de autores 
+Sobrenome simples: 
+ 
+MAXIMIANO, Antonio César Amaru 
+DESSLER, Gary 
+Sobrenome simples + preposição: BARROS, Betania Tanure de 
+OLIVEIRA, Silvio Luiz de 
+Sobrenome composto: 
+ 
+CRUZ E SOUZA, João da Mata 
+ALFONSO-GOLDFARB, Ana Maria 
+Sobrenome composto de parentesco: 
+ 
+PICARRELI FILHO, Vicente 
+OLIVEIRA JÚNIOR, Moacir de Miranda 
+Sobrenome composto de preposição: 
+ 
+DE SANTO, Dalberto Luiz 
+DI PIETRO, Giacomo Luigi 
+Sobrenomes ligados por hífen: 
+ 
+PUENTE-PALÁCIOS, Kátia Elizabeth 
+ABU-SAAD, Ismael 
+--- PAGE 62 ---
+ 
+ 
+ 
+61  
+4. EDIÇÃO DO TRABALHO 
+A seguir, estão definidos os elementos que fazem parte da edição do trabalho. 
+ 
+4.1 APRESENTAÇÃO GRÁFICA 
+Os TCCs dos Cursos de Graduação do UNISEB devem ser apresentados em papel sulfite 
+branco, no tamanho A4 (dimensões: 21 cm por 29,7 cm) e suas páginas devem sempre sem 
+impressas no anverso da folha (frente da folha). 
+A única fonte a ser utilizada é a Times New Roman , com os textos digitados em 
+tamanho 12, letras minúsculas, na cor preta e sem qualquer estilo diferenciado (negrito, itálico 
+ou sublinhado) salvo em algumas situações, como por exemplo, nas citações de mais de três 
+linhas (tamanho 10), notas de rodapé (tamanho 10), citações em língua estrangeira (itálico), 
+paginação e legendas das ilustrações e tabelas.  
+4.2 ESPACEJAMENTO 
+Todo o texto deve ser digitado em espaço 1,5 nas entrelinhas . É fundamental notar que 
+determinados elementos, como por exemplo, as citações com mais de três linhas devem ser 
+digitadas em espaço simples. Ao percorrer todo este manual, o leitor encontrará tais elementos. 
+4.3 MARGENS 
+As margens à esquerda e superior devem ter 3,0 cm, enquanto que a margem direita e 
+inferior, 2,0 cm. Estes valores são constantes para a formatação de todo o trabalho. 
+4.4. DESLOCAMENTO 
+O deslocamento da primeira linha de cada parágrafo deve ser de 1,25 cm (com exceção 
+das citações longas - com mais de 3 linhas, que não possuem deslocamento na primeira linha). 
+4.5 NUMERAÇÃO DAS FOLHAS 
+Todas as folhas de um trabalho acadêmico, a partir da folha de rosto, devem ser contadas 
+em sequência.  
+--- PAGE 63 ---
+ 
+ 
+ 
+62  
+4.5.1. NUMERAÇÃO DAS FOLHAS DA MONOGRAFIA 
+Nos TCCs em formato de Monografia, a contagem é dividida em duas numerações 
+sequenciais diferentes.  
+a) A primeira numeração conta os elementos pré-textuais que estão situados antes da 
+introdução. Esta numeração deve ser indicada através de algarismos romanos, em letras 
+minúsculas (ii, iii, iv...), no canto superior direito da folha, com fonte Times New Roman tamanho 
+10, sem negrito, itálico ou sublinhado. Embora a folha de rosto seja contada, ela não deve ser 
+numerada.  
+b) A segunda numeração conta as folhas que restaram do trabalho, ou seja, os elementos 
+textuais e pós-textuais, a partir da folha de introdução até a última folha de anexos. A contagem 
+deve ser sequencial, com início na folha de introdução (folha de número 1 ), indicada através 
+de algarismos arábicos no canto superior direito da folha, com fonte Times New Roman tamanho 
+10, sem negrito, itálico ou sublinhado. 
+ 
+4.5.2. NUMERAÇÃO DAS FOLHAS DO ARTIGO 
+Nos TCCs em formato de Artigo, a contagem é sequencial, em algarismos arábicos, com 
+início na capa (folha número 1),  a qual deve ser contada, mas não deve ser numerada. (no 
+Word, primeira página diferente). 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 64 ---
+ 
+ 
+ 
+63  
+5. REFERÊNCIAS 
+As referências são compostas dos documentos efetivamente citados no trabalho. As 
+referências são feitas no FINAL do trabalho, após a Conclusão (e antes dos anexos e apêndices). 
+Devem estar relacionadas aos documentos, obras e autores que foram mencionados no decorrer 
+do texto, nas citações diretas e indiretas, apresentando-se por ORDEM ALFABÉTICA.  
+O modelo das referências deste manual foi normalizado de acordo com a ABNT – NBR 
+6023. As normas para notação das referências bibliográficas estão descritas a seguir. 
+ 
+5.1 AUTORIA POR NÚMERO DE AUTORES 
+5.1.1 UM AUTOR 
+SOBRENOME DO AUTOR, Prenome (iniciais ou por extenso). Título da obra : subtítulo. Edição. 
+Local de publicação (Cidade): Editora, data de publicação.  
+Exemplos: 
+DESSLER, Gary. Administração de Recursos Humanos . 2. ed. São Paulo: Prentice Hall, 2003.  
+ 
+ZARIFIAN, Philippe. Objetivo Competência : Por uma Nova Lógica. São Paulo: Atlas.  
+ 
+Observações: 
+a. Prenome : caso o prenome tenha sido digitado somente com suas iniciais, este 
+procedimento deverá ser mantido por todo o trabalho. Vale também para a digitação por 
+extenso. 
+b. Título e subtítulo da obra : o título (em negrito) e o subtítulo (precedido pelos dois 
+pontos e sem negrito) devem ser reproduzidos do mesmo modo em que aparecem no 
+documento original e sem letras maiúsculas, exceto a primeira letra e os nomes próprios. Se a 
+obra consultada for em idioma estrangeiro, tanto o título quanto o subtítulo devem ser 
+apresentados em itálico. 
+--- PAGE 65 ---
+ 
+ 
+ 
+64  
+c. Edição : quando houver uma indicação de edição, esta deve ser transcrita, utilizando-se 
+abreviaturas dos numerais ordinais e da palavra edição, ambas na forma adotada na língua do 
+documento. 
+O quadro 2 ilustra o número de edições em três idiomas. 
+Quadro 2 - Número de edições para três idiomas 
+Português/Espanhol  Inglês 
+- - 
+2.ed. 2nd ed. 
+3.ed. 3rd ed. 
+4.ed. 4th ed. 
+5.ed. 5th ed. 
+6.ed. 6th ed. 
+7.ed. 7th ed. 
+8.ed. 8th ed. 
+9.ed. 9th ed. 
+10.ed. 10th ed. 
+ 
+d. Local : não sendo possível determinar o local, utiliza-se a expressão sine loco , 
+abreviada, entre colchetes [S.I.]. 
+e. Editora : o nome da editora deve ser indicado tal como figura no documento, 
+abreviando-se os prenomes e suprimindo-se palavras que designam a natureza jurídica ou 
+comercial, desde que sejam dispensáveis para identificação. Quando a editora não puder ser 
+identificada, deve-se indicar a expressão sine nomine , abreviada, entre colchetes [s.n.]. 
+f. Descrição física:  quando o documento for constituído de apenas uma unidade física, 
+ou seja, um volume, indica-se o número total de páginas ou folhas, seguido da abreviatura p. ou f. 
+NOTA – A folha é composta de duas páginas: anverso e verso. Alguns trabalhos, como 
+teses e dissertações, são impressos apenas no anverso e, neste caso, indica-se f. 
+Quando o documento for publicado em mais de uma unidade física, ou seja, mais de um 
+volume, indica-se a quantidade de volumes, seguida da abreviatura v.. 
+--- PAGE 66 ---
+ 
+ 
+ 
+65  
+Eventualmente, o(s) nome(s) do(s) autor(es) de várias obras referenciadas 
+sucessivamente, na mesma página, pode(m) ser substituído(s), nas referências seguintes à 
+primeira, por um traço sublinear (equivalente a seis espaços) e ponto. 
+______. Título da obra : subtítulo. Edição. Local de publicação (Cidade): Editora, data de 
+publicação.  
+Exemplos: 
+GIL, Antonio Carlos. Como Elaborar Projetos de Pesquisa . 3 ed. São Paulo: Atlas, 1996.  
+ 
+______. Métodos e Técnicas de Pesquisa Social . 5 ed. São Paulo. Atlas: 1999.  
+ 
+5.1.2 DOIS AUTORES 
+SOBRENOME DO PRIMEIRO AUTOR, Prenome(s) (iniciais o u por extenso); SOBRENOME DO 
+SEGUNDO AUTOR, Prenome(s) (iniciais ou por extenso). Título da obra : subtítulo. Edição. Local 
+de publicação (Cidade): Editora, data de publicação.  
+Exemplo: 
+HOLLEY, William H.; JENNINGS, Kenneth M. The Labor Relations Process . 6th ed. Texas: The 
+Dryden Press, 1997.  
+ 
+5.1.3 ATÉ TRÊS AUTORES 
+SOBRENOME DO PRIMEIRO AUTOR, Prenome(s) (iniciais o u por extenso); SOBRENOME DO 
+SEGUNDO AUTOR, Prenome(s) (iniciais ou por extenso); SOBRENOME DO TERCEIRO AUTOR, 
+Prenome(s) (iniciais ou por extenso). Título da obra : subtítulo. Edição. Local de publicação 
+(Cidade): Editora, data de publicação.  
+BECKER, Brian E.; HUSELID, Mark A.; ULRICH, Dave. Gestão Estratégica de Pessoas com 
+“Scorecard” : Interligando Pessoas, Estratégia e Performance. Rio de Janeiro: Campus, 2001.  
+ 
+ 
+--- PAGE 67 ---
+ 
+ 
+ 
+66  
+5.1.4 MAIS DE TRÊS AUTORES 
+Indica-se apenas o primeiro, acrescentando-se a expressão et al (e outros). 
+SOBRENOME DO PRIMEIRO AUTOR, Prenome(s) (iniciais ou por extenso) et al. Título da obra : 
+subtítulo. Edição. Local de publicação (Cidade): Editora, data de publicação. Exemplo: 
+PASQUARELLI, M. L. R. et al. Avaliação do uso de periódicos . São Paulo: SIBI-USP, 1987. 
+ 
+5.2 AUTOR OU AUTORES COM INDICAÇÃO DE RESPONSABILID ADE 
+INTELECTUAL (EDITOR, ORGANIZADOR, COORDENADOR ETC.)  
+SOBRENOME(S) DO(S) AUTOR(ES), Prenome(s) (iniciais ou por extenso) (Coord.). Título da 
+obra : subtítulo. Edição. Local de publicação (Cidade): Editora, data de publicação. Paginação. 
+Exemplos: 
+FLEURY, Maria Tereza Leme; OLIVEIRA JR, Moacir de Miranda (Org.). Gestão Estratégica do 
+Conhecimento : Integrando Aprendizagem, Conhecimento e Competências. São Paulo: Atlas, 
+2001. 349 p. 
+ 
+EASTERBY-SMITH Mark; BURGOYE, John; ARAUJO, Luis (C oord.). Aprendizagem 
+Organizacional e Organização de Aprendizagem : Desenvolvimento na Teoria e na Prática. 
+São Paulo: Atlas, 2001, 301 p.  
+ 
+5.3 REFERÊNCIAS COM OUTROS TIPOS DE MATERIAIS  
+ 
+5.3.1 ARTIGO E/OU MATÉRIA DE PERIÓDICO 
+SOBRENOME(S) DO(S) AUTOR(ES), Prenome(s) (iniciais ou por extenso). Título do artigo: 
+subtítulo. Título da publicação, Local de publicação (Cidade), volume, fascículo, paginação inicial 
+e final do artigo, período e data de publicação. 
+Exemplos: 
+--- PAGE 68 ---
+ 
+ 
+ 
+67  
+SOUZA, Edela Lanzer Pereira. Clima e estrutura de trabalho. Revista de Administração , São 
+Paulo, v. 22, n.1, p.14-18, jan/mar, 1982.  
+ 
+MCGRATH, Michael; HOOLE, Richard W. Manufacturing’s new economies of scale . Harvard 
+Business Review , Boston, v. 70, n. 3, p. 105-120, 05/06, 1992. 
+ 
+5.3.2 ARTIGO E/OU MATÉRIA DE REVISTA, BOLETIM, JORNAL, ETC.  
+Inclui partes de publicações periódicas (volumes, fascículos, números especiais e 
+suplementos, com título próprio), comunicações, editorial, entrevistas, recensões, reportagens, 
+resenhas e outros. 
+Os elementos essenciais são: autor(es), título da parte, artigo ou matéria, título da 
+publicação , local da publicação, numeração, correspondente ao volume e/ou ano, fascículo ou 
+número, paginação inicial e final, quando se tratar de artigo ou matéria, data ou intervalo de 
+publicação e particularidades que identificam a parte (se houver). 
+Exemplos: 
+AS 500 maiores empresas do Brasil. Conjuntura Econômica , Rio de Janeiro, v. 38, n. 9, set. 
+1984. Edição Especial. 
+ 
+GURGEL, C. Reforma do estado e segurança pública. Política e Administração , Rio de Janeiro, v. 
+3, n. 2, p. 15-21, set. 1997. 
+ 
+LEITE, M. PLoS e SciELO dão o que falar. Folha de S. Paulo , São Paulo, 16 nov. 2003. Caderno 
+Mais, p. 3. 
+ 
+5.3.3 ARTIGO E/OU MATÉRIA DE REVISTA, BOLETIM ETC. EM MEIO ELETRÔNICO 
+As referências devem obedecer aos padrões indicados para artigo e/ou matéria de 
+revista, boletim etc., de acordo com o item anterior, acrescidas das informações relativas à 
+--- PAGE 69 ---
+ 
+ 
+ 
+68  
+descrição física do meio eletrônico (disquetes, CD-ROM, online  etc.). Quando se tratar de obras 
+consultadas online , proceder-se-á conforme observação abaixo. 
+Exemplos: 
+VIEIRA, Cássio Leite; LOPES, Marcelo. A queda do cometa. Neo Interativa , Rio de Janeiro, n. 2, 
+inverno 1994, 1 CD-ROM. 
+ 
+SILVA, M. M. L. Crimes da era digital. Net , Rio de Janeiro, nov. 1998. Seção Ponto de Vista. 
+Disponível em: <http://www.brazilnet.com.br/contexts/brasilrevistas.htm>. Acesso em: 28 
+nov. 1998. 
+ 
+OBSERVAÇÃO – Quando se tratar de obras consultadas online , também são essenciais as 
+informações sobre o endereço eletrônico, apresentado entre os sinais < >, precedido da 
+expressão Disponível em: e a data de acesso ao documento, precedida da expressão Acesso em:, 
+opcionalmente acrescida dos dados referentes a hora, minutos e segundos. 
+Exemplo: 
+ALVES, Castro. Navio negreiro. [S.I.]: Virtual Books, 2000. Disponível em: 
+<http://www.terra.com.br/virtualbooks/freebook/port/Lport2/navionegreiro.htm>. Acesso 
+em: 10 jan. 2002, 16:30:30. 
+ 
+5.3.4 TESES E DISSERTAÇÕES 
+SOBRENOME DO AUTOR, Prenome(s) (iniciais ou por extenso). Título : subtítulo. Data (ano de 
+depósito). Folhas. Grau de dissertação ou tese – Unidade onde foi defendida, Local, data (ano da 
+defesa). 
+Exemplos: 
+URDAN, André Torres. Qualidade de Serviço : proposição de um modelo integrativo. 1993. 180 
+f. Tese (Doutorado em Administração) – Faculdade de Economia, Administração e 
+Contabilidade, Universidade de São Paulo, São Paulo, 1993. 
+ 
+--- PAGE 70 ---
+ 
+ 
+ 
+69  
+NARDI, Antônio. Clima Organizacional : uma revisão do conceito, instrumentos e dimensões no 
+Brasil e nos E.U.A. 2004. 193 f. Dissertação (Mestre em Administração) – Faculdade de 
+Economia, Administração e Contabilidade, Universidade de São Paulo, 2004. 
+ 
+5.3.5 PARTE DE MONOGRAFIA 
+Inclui capítulo, volume, fragmento e outras partes de uma obra, com autor(es) e/ou título 
+próprios. 
+SOBRENOME(S) DO(S) AUTOR(ES) da parte referenciada, Prenome(s) (iniciais ou por extenso). 
+Título da parte referenciada. In: SOBRENOME(S) DO(S) AUTOR(ES) (ou editor, etc.), Prenome(s) 
+(iniciais ou por extenso) da publicação. Título da publicação . Edição. Local: Editora, data de 
+publicação. Capítulo, páginas (inicial e final). 
+Exemplos: 
+SHINYASHIKI, Gilberto Tadeu. O processo de socialização organizacional. In: FLEURY, Maria 
+Tereza Leme (Org.). As Pessoas na Organização . São Paulo: Gente, 2002. p. 165-184. 
+ 
+DUGUID, Paul; BROWN, John Seely. Estrutura e Espontaneidade: conhecimento e organização. 
+In: FLEURY, Maria Tereza Leme; OLIVEIRA JR., Moacir de Miranda. Gestão Estratégica do 
+Conhecimento : integrando aprendizagem, conhecimento e competências. São Paulo: Atlas, 
+2001. cap. 2, p. 50-85. 
+ 
+5.3.6 EVENTO COMO UM TODO 
+Inclui o conjunto dos documentos reunidos num produto final do próprio evento (atas, 
+anais, resultados, proceedings , entre outras denominações). 
+NOME DO EVENTO, numeração (se houver), ano e local (cidade) de realização.Título do 
+documento (anais, atas, tópico temático etc.). Local de publicação: Editora, data de publicação. 
+Páginas (inicial e final da parte referenciada). 
+ 
+ 
+--- PAGE 71 ---
+ 
+ 
+ 
+70  
+Exemplos: 
+IUFOST INTERNATIONAL SYMPOSIUM ON CHEMICAL CHANGES DURING FOOD PROCESSING, 
+1984, Valencia. Proceedings ... Valencia: Instituto de Agroquímica y Tecnología de Alimentos, 
+1984. 
+ 
+REUNIÃO ANNUAL DA SOCIEDADE BRASILEIRA DE QUÍMICA, 20., 1997, Poços de Caldas. 
+Química : academia, indústria, sociedade: livro de resumos. São Paulo: Sociedade Brasileira de 
+Química, 1997. 
+ 
+5.3.7 EVENTO COMO UM TODO EM MEIO ELETRÔNICO 
+As referências devem obedecer aos padrões indicados para evento como um todo, 
+acrescidas das informações relativas à descrição física do meio eletrônico (disquetes, CD-ROM, 
+online  etc.) Quando se tratar de obras consultadas online , proceder-se-á conforme observação do 
+item 7.3.3.  
+CONGRESSO DE INICIAÇÃO CIENTÍFICA DA UFPe, 4., 1996, Recife. Anais eletrônicos ... Recife: 
+UFPe, 1996. Disponível em: <http://propesq.ufpe.br/anais/anais.htm>.Acesso em 21 jan. 1997.  
+ 
+5.3.8 TRABALHO APRESENTADO EM EVENTO 
+Inclui trabalhos apresentados em evento (parte do evento). 
+SOBRENOME(S) DO(S) AUTOR(ES), Prenome(s) (iniciais ou por extenso). Título do trabalho 
+apresentado. In: NOME DO EVENTO, numeração do evento (se houver), ano, local (cidade) de 
+realização. Título do documento ...(anais, atas, tópico temático etc.). Local de publicação: 
+Editora, data de publicação. Páginas (inicial e final da parte referenciada). 
+Exemplos: 
+BRAYNER, A. R. A.; MEDEIROS, C. B. Incorporação do tempo em SGBD orientado a objetos. In: 
+SIMPÓSIO BRASILEIRO DE BANCO DE DADOS, 9., 1994, São Paulo, Anais ... São Paulo: USP, 
+1994. p. 16-29. 
+ 
+--- PAGE 72 ---
+ 
+ 
+ 
+71  
+SOUZA, L. S.; BORGES, A. L.; REZENDE, J. O. Influência da correção e do preparo do solo sobre 
+algumas propriedades químicas do solo cultivado com bananeiras. In: REUNIÃO BRASILEIRA 
+DE FERTILIDADE DO SOLO E NUTRIÇÃO DE PLANTAS, 21., 1994, Petrolina. Anais ... Petrolina: 
+EMBRAPA, CPATSA, 1994. p. 3-4. 
+ 
+MARTIN NETO, L.; BAYER, C.; MIELNICZUK, J. Alterações qualitativas da matéria orgânica e os 
+fatores determinantes da sua estabilidade num solo podzólico vermelho-escuro em diferentes 
+sistemas de manejo. In: CONGRESSO BRASILEIRO DE CIÊNCIA DO SOLO, 26., 1997, Rio de 
+Janeiro. Resumos ... Rio de Janeiro: Sociedade Brasileira de Ciência do Solo, 1997, p. 443, ref. 6-
+141. 
+ 
+5.3.9 TRABALHO APRESENTADO EM EVENTO EM MEIO ELETRÔ NICO 
+As referências devem obedecer aos padrões indicados para trabalhos apresentados em 
+evento, acrescidas das informações relativas à descrição física do meio eletrônico (disquetes, 
+CD-ROM, online  etc.) Quando se tratar de obras consultadas online , proceder-se-á conforme 
+observação do item 7.3.3. 
+Exemplos: 
+GUNCHO, M. R. A educação à distância e a biblioteca universitária. In: SEMINÁRIO DE 
+BIBLIOTECAS UNIVERSITÁRIAS, 10., 1998, Fortaleza. Anais ... Fortaleza: Tec Treina, 1998. 1 CD-
+ROM.  
+ 
+SABROZA, P. C. Globalização e saúde: impacto dos perfis epidemiológicos das populações. In: 
+CONGRESSO BRASILEIRO DE EPIDEMIOLOGIA, 4., 1998, Rio de Janeiro. Anais eletrônicos ... Rio 
+de Janeiro: ABRASCO, 1998. Mesa-redonda. Disponível e m: 
+<http://www.abrasco.com.br/epirio98/>. Acesso em: 17 jan. 1999.  
+ 
+5.3.10 DOCUMENTO JURÍDICO 
+Inclui legislação, jurisprudência (decisões judiciais) e doutrina (interpretação dos textos 
+legais). Elementos essenciais: 
+--- PAGE 73 ---
+ 
+ 
+ 
+72  
+JURISDIÇÃO (PAÍS, ESTADO ou MUNICÍPIO). Título (Lei ou Decreto), número da lei, data – dia, 
+mês e ano – Seção, página. 
+No caso de Constituição e suas emendas, entre o nome da jurisdição e o título, 
+acrescenta-se a palavra Constituição, seguida do ano de promulgação, entre parênteses. 
+Exemplos: 
+SÃO PAULO (Estado). Decreto nº 42.822, de 20 de janeiro de 1998. Lex : coletânea de legislação 
+e jurisprudência, São Paulo, v. 62, n. 3, p. 217-220, 1998. 
+ 
+BRASIL. Constituição (1988). Emenda constitucional nº 9, de 9 de novembro de 1995. Da nova 
+redação ao art. 177 da Constituição Federal, alterando e inserindo parágrafos. Lex : legislação 
+federal e marginalia, São Paulo, v. 59, p. 1966, out./dez. 1995. 
+ 
+Legislação 
+publicada em 
+Diário Oficial 
+JURISDIÇÃO, Lei nº ......, data. Ementa. Nome da publicação , local, volume, 
+fascículo, página inicial e final, data da publicação. 
+Exemplo: 
+BRASIL. Lei nº 9.394, de 20 de d ezembro de 1996. Estabelece as diretrizes e 
+bases da educação nacional. Diário Oficial [da República Federativa do Brasil] , 
+Brasília, DF, v. 134, n. 248, 23 dez. 1996.Seção I, p. 27834-27841. 
+ 
+Medida 
+provisória 
+BRASIL. Medida Provisória n° 209, de 21 de agosto de 1990. Dispõe sobre as 
+funções de confiança a que se refere a Lei n° 7.596, de 10 de abril de 1987 e dá 
+outras providências. Diário Oficial [da República Federativa do Brasil], Brasília 
+DF, v. 128, n. 162, p. 15.935, 21 ago. 1990.Seção 1., pt.1. 
+ 
+Jurisprudênci 
+a: 
+JURISDIÇÃO. Órgão judiciário competente, título (natureza da decisão ou 
+ementa) e número, partes envolvidas (se houver), relator, local, data e dados da 
+publicação.  
+Exemplo: (dados fictícios):  
+BRASIL. Superior Tribunal de Justiça. Processual Penal. Hábeas Corpus. 
+Constrangimento ilegal. Hábeas corpus nº 181.636-1 1ª Turma. Relator: 
+Ministro Hélio Mosimann. Brasília, DF, 6 dez. 1994. Revista do Superior 
+Tribunal de Justiça, n. 95, p. 236-238, mar. 1998.  
+ 
+--- PAGE 74 ---
+ 
+ 
+ 
+73  
+ 
+Acórdãos, 
+Decisões, 
+Deliberações 
+e Sentenças 
+das Cortes ou 
+Tribunais. 
+AUTOR (entidade coletiva responsável pelo documento). Nome da Corte ou 
+Tribunal. Ementa (quando houver) . Tipo e número do recurso (apelação, 
+embargo, habeas-corpus , mandado de segurança, etc.). Partes litigantes. Nome 
+do relator precedido da palavra "Relator". Data, precedida da palavra (acórdão 
+ou decisão ou sentença) Dados da publicação que o publicou. Voto vencedor e 
+vencido, quando houver. 
+Exemplo: 
+BRASIL. Superior Tribunal de Justiça. Ação Rescisória que ataca apenas um dos 
+fundamentos do julgado rescindendo, permanecendo subsistentes ou outros 
+aspectos não impugnados pelo autor. Ocorrência, ademais, de imprecisão na 
+identificação e localização do imóvel objeto da demanda. Coisa julgada. 
+Inexistência. Ação de consignação em pagamento não decidiu sobre domínio e 
+não poderia fazê-lo, pois não é de sua índole conferir a propriedade a alguém. 
+Alegação de violação da lei e de coisa julgada repelida. Ação rescisória julgada 
+improcedente. Acórdão em ação rescisória n. 75-RJ. Manoel da Silva Abreu e 
+Estado do Rio de Janeiro. Relator: Ministro Barros Monteiro. DJ, 20 nov. 1989. 
+Lex: Coletânea de Legislação e Jurisprudência, São Paulo, v.2, n. 5, jan. 1990. 
+p.7-14. 
+ 
+5.3.11 DOCUMENTO JURÍDICO EM MEIO ELETRÔNICO 
+As referências devem obedecer aos padrões indicados para documento jurídico, 
+acrescidas das informações relativas à descrição física do meio eletrônico (disquetes, CD-ROM, 
+online  etc.) Quando se tratar de obras consultadas online , proceder-se-á conforme observação do 
+item 7.3.3. 
+Exemplos: 
+LEGISLAÇÃO brasileira: normas jurídicas federais, bibliografia brasileira de Direito, 7. ed. 
+Brasília, DF: Senado Federal, 1999. 1 CD-ROM. Inclui resumos padronizados das normas 
+jurídicas editadas entre janeiro de 1946 e agosto de 1999, assim como textos integrais de 
+diversas normas. 
+ 
+BRASIL. Lei nº 9.887, de 7 de dezembro de 1999. Altera a legislação tributária federal. Diário 
+Oficial [da] República Federativa do Brasil , Brasília, DF, 8 dez. 1999. Disponível em: 
+<http://www.in.gov.br/mp_leis_texto.asp?Id=LEI%209887>.Acesso em: 22 dez. 1999. 
+ 
+--- PAGE 75 ---
+ 
+ 
+ 
+74  
+Acordão: Tribunal que o editou, o estado de origem, no caso de se tratar de tribunal superior, o 
+número do processo, o relator, a data de publicação no diário oficial e as suas páginas. 
+Exemplo: 
+MI 20/DF. Relator: Min. Celso de Mello. Julgamento em: 19/05/1994, publicado no DJ de 22-11-
+1996 p. 45690. Disponível em 
+http://www.stf.gov.br/portal/inteiroTeor/obterInteiroTeor.asp?numero=438&classe=MI 
+Acesso em 11-12-2007. 
+ 
+5.3.12 VÍDEO/ IMAGEM EM MOVIMENTO 
+As referências devem obedecer aos padrões indicados para documentos em vídeo, 
+envolvendo filmes, documentários, etc, acrescidas das informações relativas à descrição física do 
+meio eletrônico (CD, DVD, online).  
+TÍTULO: subtítulo (se houver). [Filme-vídeo]. Produ ção de (Nome do Produtor), direção de 
+(Nome do diretor). Local, Instituição, ano. Descriç ão física do material, duração do filme. 
+Descrição do tipo. Som.  
+Exemplo: 
+TERRA em transe. [Filme] Produção de Mapa Produções Cinematográficas. Direção de 
+Gláuber Rocha. Rio de Janeiro, Cópia da Cinemateca Brasileira, 1967. 1 filme (105 min), 35 
+mm, p&b.  
+ 
+ Em caso do vídeo ter sido obtido em veículo online (exemplo Youtube), sem autoria, 
+deve-se apresentar os elementos disponíveis.  
+ 
+NOME DO VÍDEO NA TELA. Ano. [online]. [Visto em]. proveniente da World Wide Web: <URL> 
+Exemplo: 
+DOMAINE: Ambiente Sustentável - Parte II. 2011. [online]. [Visto em 20/dez/2011]. Proveniente 
+da World Wide Web:http://www.youtube.com/watch?v=zQ2_PeQWIUY 
+ 
+ 
+--- PAGE 76 ---
+ 
+ 
+ 
+75  
+5.3.13 CANAIS INFORMAIS (AULA, CONFERÊNCIA, E-MAIL, ETC.) 
+Citações informais referem-se à menção de fontes não publicadas como: cartas, 
+mensagens eletrônicas [e-mails], aulas, notas de aulas, listas de discussão, artigos apenas 
+submetidos para publicação, dados de arquivos de instituições, relatórios de pesquisa, 
+apresentações em eventos, entre outras.  
+Quando relevantes devem ser identificadas no texto por nota de rodapé. É recomendável, 
+do ponto de vista ético, que o responsável pela informação citada tenha fornecido autorização.  
+Exemplos [no rodapé]: 
+*Texto extraído de lista de discussão foco@iseb.br em 14 de julho de 2008.  
+ 
+1 Comunicação pessoal de Fulano de Tal, em 11 de outubro de 2010, recebida por correio 
+eletrônico.  
+ 
+5 Palestra sobre o "Mercado de profissões" proferida por Fulano de Tal, no Centro Universitário 
+UNISEB em 28 de novembro de 2011. 
+ 
+5.3.14 SOFTWARES 
+ Assim como os demais documentos e materiais, deve-se apresentar os elementos 
+essenciais de sua produção e, autoria e propriedade, meio físico ou endereço online. 
+ 
+Exemplos: 
+EPI Info™ for DOS, version 6.04. Atlanta: Centers f or Disease Control and Prevention. 
+Division of Public Health Surveillance and Informat ics, 2004. Disponível em: 
+<http://www.cdc.gov/epiinfo/Epi6/ei6.htm/>. Acesso em: 10 out. 2004.  
+ 
+HEMODYNAMICS III: the ups and downs of hemodynamics . Version 2.2. Orlando (FL): 
+Computerized Educational Systems, 1993. Programa de computador. 1 CD-ROM.  
+--- PAGE 77 ---
+ 
+ 
+ 
+76  
+6. MODELO DE PAINEL 
+PARA DEFESA DO TCC 
+ 
+ 
+ 
+ 
+A Medida padrão para a confecção do Painel é: 
+ 
+1m (comprimento) X 75 cm (largura).  
+ 
+Cores e ilustrações são opcionais, definidas pelo autor. 
+ 
+Estilos de Plano de fundo e de design são de livre 
+escolha do autor. 
+ 
+ 
+--- PAGE 78 ---
+ 
+ 
+ 
+77  
+ 

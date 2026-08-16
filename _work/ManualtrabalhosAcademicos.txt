@@ -1,0 +1,2462 @@
+
+--- PAGE 1 ---
+ 
+ 
+   UNIVERSIDADE FEDERAL DE VIÇOSA      
+BIBLIOTECA CENTRAL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANUAL DE NORMALIZAÇÃO DE TRABALHOS 
+ACADÊMICOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIÇOSA - MG 
+2012 
+
+--- PAGE 2 ---
+ 
+ 
+ALICE REGINA PINTO 
+BRUNA SILVA 
+IZABEL CRISTINA DE OLIVEIRA 
+JULIANA OTTONI DA SILVA PEREIRA 
+LEIVA NUNES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MANUAL DE NORMALIZAÇÃO DE TRABALHOS 
+ACADÊMICOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VIÇOSA - MG 
+2012  
+--- PAGE 3 ---
+ 
+ 
+Para referenciar este documento: 
+ 
+PINTO, Alice Regina et al. Manual de normalização de trabalhos 
+ acadêmicos. Viçosa, MG, 2011. 70 p. Disponível em:<http://www.bbt.ufv.br/>. 
+ Acesso em: data de acesso. 
+ 
+ 
+ 
+Ficha catalográfica preparada pela Seção de Catalogação e 
+Classificação da Biblioteca Central da UFV 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+É permitida a reprodução e divulgação total ou parcial deste trabalho, desde que 
+citada a fonte. 
+ 
+ 
+ 
+ Manual de normalização de trabalhos acadêmicos /Alice 
+M294        Regina Pinto...[ et. al.]. – 3. ed. rev. – Viçosa, MG: As  
+2012       Autoras, 2012. 
+        70p. : il.(algumas col.);  29cm. 
+ 
+      1. Redação técnica. 2. Documentação - Normas. I. Pinto, 
+ Alice Regina, 1977-. II. Universidade Federal de Viçosa. Biblioteca 
+ Central. 
+ 
+                           CDD 22. ed. 808.06 
+--- PAGE 4 ---
+ 
+ 
+LISTA DE ILUSTRAÇÕES 
+ 
+Quadro 1  Estrutura de trabalhos acadêmicos (ABNT).....................…...........12 
+Quadro 2  Exemplos de notas descritivas na folha de rosto ….......................16 
+ 
+Figura 1   Esquema da estrutura dos trabalhos acadêmicos (ABNT).............13 
+Figura 2   Modelo de capa (ABNT NBR 14724/2011).....................................14 
+Figura 3   Modelo de folha de rosto (ABNT NBR 14724/2011).......................15 
+Figura 4   Modelo de ficha catalográfica..........................................................17 
+Figura 5   Modelo de errata (ABNT NBR 14724/2011)....................................18 
+Figura 6   Modelo de folha de aprovação (ABNT NBR 14724/2011)...............19 
+Figura 7   Modelo de dedicatória (ABNT NBR 14724/2011)............................20 
+Figura 8   Modelo de agradecimentos (ABNT NBR 14724/2011)....................21 
+Figura 9   Modelo de epígrafe (ABNT NBR 14724/2011)................................21 
+Figura 10 Modelo de resumo (ABNT NBR 6028/2003)...................................22 
+Figura 11 Modelo de abstract (ABNT NBR 6028/2003)..................................24 
+Figura 12 Modelo de lista de ilustrações (ABNT NBR 14724/2011)................25 
+Figura 13 Modelo de lista de tabelas (ABNT NBR 14724/2011).....................26 
+Figura 14 Modelo de lista de abreviaturas e siglas 
+      (ABNT NBR14724/2011)..................................................................27 
+Figura 15 Modelo de lista de símbolos (ABNT NBR 14724/2011)..................28 
+Figura 16 Modelo de sumário (ABNT NBR 6027/2003)..................................29 
+Figura 17 Modelo de apêndice (ABNT NBR 14724/2011)...............................32 
+--- PAGE 5 ---
+ 
+ 
+Figura 18 Modelo de anexo (ABNT NBR 14724/2011)...................................33 
+Figura 19 Modelo de índice (ABNT NBR 14724/2011)....................................33 
+Figura 20 Formatação de trabalhos acadêmicos  
+                (ABNT NBR 14724/2011)................................................................34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 6 ---
+ 
+ 
+SUMÁRIO 
+ 
+1          INTRODUÇÃO.....................................................................................10 
+2          DEFINIÇÕES DOS TRABALHOS ACADÊMICOS..............................11 
+3          ELEMENTOS DA ESTRUTURA DOS TRABALHOS..........................12 
+3.1       Elementos pré-textuais........................................................................14 
+3.1.1    Capa (obrigatório)................................................................................14 
+3.1.2    Folha de rosto (frente) (Obrigatório)....................................................15 
+3.1.2.1 Notas descritivas na folha de rosto (Obrigatório)................................16 
+3.1.3    Folha de rosto (verso) (Obrigatório).....................................................17 
+3.1.4    Errata (opcional)..................................................................................18 
+3.1.5    Folha de aprovação (Obrigatório)........................................................19 
+3.1.6    Dedicatória (opcional)..........................................................................20 
+3.1.7    Agradecimentos (opcional)..................................................................21 
+3.1.8    Epígrafe (opcional)...............................................................................21 
+3.1.9    Resumo na língua vernácula (Obrigatório)..........................................22 
+3.1.10  Resumo em língua estrangeira (Obrigatório)......................................24 
+3.1.11  Lista de ilustrações (opcional).............................................................25 
+3.1.12  Lista de tabelas (opcional)...................................................................26 
+3.1.13  Lista de abreviaturas e siglas (opcional).............................................27 
+3.1.14  Lista de símbolos (opcional)................................................................28 
+3.1.15  Sumário (Obrigatório)..........................................................................29 
+3.2       Elementos textuais...............................................................................31 
+--- PAGE 7 ---
+ 
+ 
+3.2.1    Introdução............................................................................................31 
+3.2.2    Desenvolvimento.................................................................................31 
+3.2.3    Conclusão............................................................................................31 
+3.3       Elementos pós-textuais........................................................................32 
+3.3.1    Referências (Obrigatório).....................................................................32 
+3.3.2    Glossário (opcional).............................................................................32 
+3.3.3    Apêndice (s) (opcional)........................................................................32 
+3.3.4    Anexo (s) (opcional).............................................................................33 
+3.3.5    Índice (opcional)...................................................................................33 
+4         REGRAS DE APRESENTAÇÃO DOS TRABALHOS ACADÊMICOS  
+ (ABNT NBR 14724/2011)......................................................................34 
+4.1       Formato................................................................................................35 
+4.2       Margem................................................................................................35 
+4.3       Espacejamento....................................................................................35 
+4.3.1    Nota de rodapé....................................................................................36 
+4.3.2    Indicativos de seção............................................................................36 
+4.3.3    Títulos sem indicativo numérico...........................................................36 
+4.3.4    Elementos sem título e sem indicativo numérico.................................36 
+4.4       Paginação............................................................................................37 
+4.5       Numeração progressiva.......................................................................37 
+4.6       Citações...............................................................................................38 
+4.7       Siglas...................................................................................................38 
+4.8       Equações e fórmulas...........................................................................38 
+--- PAGE 8 ---
+ 
+ 
+4.9       Ilustrações............................................................................................38 
+4.10     Tabelas................................................................................................39 
+5          ELABORAÇÃO DE REFERÊNCIAS (ABNT NBR 6023/2002)............40 
+5.1.      Elaboração...........................................................................................40 
+5.1.1    Formas de entrada...............................................................................40 
+5.1.1.1 Autores pessoais.................................................................................40 
+5.1.1.2 Autoria desconhecida..........................................................................41 
+5.1.1.3 Entidade coletiva.................................................................................41 
+5.1.1.4 Congressos, conferências, simpósios, seminários e outros................42 
+5.1.1.5 Entrada por título.................................................................................43 
+5.2       Edição..................................................................................................43 
+5.3       Local....................................................................................................44 
+5.4       Editora..................................................................................................44 
+5.5       Data.....................................................................................................45 
+5.6       Regras gerais de apresentação...........................................................45 
+5.7       Modelos de referências........................................................................46 
+5.7.1    Monografia no todo..............................................................................46 
+5.7.2    Monografia no todo em meio eletrônico..............................................47 
+5.7.3    Parte de monografia............................................................................47 
+5.7.3.1 Capítulo com autoria própria...............................................................48 
+5.7.3.2 Capítulo sem autoria própria...............................................................48 
+5.7.3.3 Partes de monografia em meio eletrônico...........................................48 
+5.7.4    Evento como um todo..........................................................................48 
+--- PAGE 9 ---
+ 
+ 
+5.7.4.1 Evento como um todo em meio eletrônico..........................................49 
+5.7.4.2 Trabalho apresentado em evento........................................................49 
+5.7.4.3 Trabalho apresentado em evento em meio eletrônico........................49 
+5.7.5    Teses, dissertação e monografia.........................................................50 
+5.7.6    Documento jurídico..............................................................................50 
+5.7.6.1 Legislação............................................................................................50 
+5.7.6.2 Jurisprudência......................................................................................51 
+5.7.7    Publicação periódica............................................................................51 
+5.7.7.1 Artigo e/ou matéria de revista, boletim etc..........................................52 
+5.7.7.2 Artigo e/ou matéria de revista, boletim etc. em meio eletrônico..........52 
+5.7.8    Artigo e/ou matéria de jornal................................................................52 
+5.7.8.1 Artigo e/ou matéria de jornal em meio eletrônico................................53 
+5.7.9    Normas técnicas..................................................................................53 
+5.7.10  Patentes...............................................................................................53 
+5.7.11  Bíblia....................................................................................................54 
+5.7.12  Verbetes de enciclopédias e dicionários.............................................54 
+5.7.13  Separatas.............................................................................................54 
+5.7.14  Resenha ou recensão de livro.............................................................54 
+5.7.15  Relatórios.............................................................................................54 
+5.7.16  Entrevistas...........................................................................................54 
+5.7.17  Resumo (Abstract)...............................................................................55 
+5.7.18  Trabalhos não publicados....................................................................55 
+5.7.19  Bula de remédio...................................................................................55 
+--- PAGE 10 ---
+ 
+ 
+5.7.20  Catálogos de exposições.....................................................................55 
+5.7.21  Programas de espetáculos..................................................................55 
+5.7.22  Filmes..................................................................................................55 
+5.7.23  Material cartográfico (atlas, globos, mapas)........................................56 
+5.7.24  Material iconográfico (pinturas, fotos, gravuras, slides,             
+   transparências etc.)..............................................................................56 
+5.7.25  Microformas (microfichas e microfilmes).............................................56 
+5.7.26  Discos (vinil e CD)...............................................................................56 
+5.7.27  Fita cassete..........................................................................................57 
+5.7.28  Partituras..............................................................................................57 
+5.7.29  Material tridimensional (esculturas, maquetes, objetos de museu,   
+ fósseis, entre outros).............................................................................57 
+5.7.30 Documento de acesso exclusivo em meio eletrônico...........................57 
+6         CITAÇÃO (ABNT NBR 10520/2002)....................................................59 
+6.1       Definições............................................................................................59 
+6.2       Regras gerais de apresentação...........................................................59 
+6.3       Sistema de chamada...........................................................................62 
+6.3.1    Sistema numérico................................................................................63 
+6.3.2    Sistema autor-data...............................................................................64 
+6.4       Notas de rodapé..................................................................................67 
+6.4.1    Notas de referência..............................................................................67 
+6.4.2    Notas explicativas................................................................................69 
+            REFERÊNCIAS...................................................................................70 
+--- PAGE 11 ---
+10 
+ 
+1 INTRODUÇÃO  
+ 
+As autoras vendo a necessidade dos pesquisadores em normalizar seus 
+trabalhos acadêmicos (TCC, TGI, monografias, dissertações e teses), reuniram -se 
+para elaborar este manual, na tentativa de auxiliar os mesmos. Baseou -se nas 
+normas da Associação Brasileira de Normas Técnicas (ABNT), uma vez que a 
+maioria das universidades brasileiras a seguem. Adotou -se modelos nos formatos 
+adequados que facilitam a compreensão das normas.  Espera-se que este trabalho 
+possa auxiliar os pesquisadores. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+         Voltar ao sumário 
+  
+--- PAGE 12 ---
+11 
+ 
+2 DEFINIÇÕES DOS TRABALHOS ACADÊMICOS 
+ 
+Seguem as d efinições de trabalhos acadêmicos segundo a ABNT (NBR 
+14724/2011 Informação e documentação - Trabalhos acadêmicos – 
+Apresentação) 
+ Dissertação: Documento que apr esenta o resultado de um trabalho 
+experimental ou exposição de um  estudo científico retrospectiv o, de 
+tema único e bem delimitado em sua extensão, com o objetivo de 
+reunir, analisar e interpretar informações. Deve evidenciar o 
+conhecimento de literatura existente sobre o assunto e a  capacidade 
+de sistematização do candidato. É feito sob a coordenação  de um 
+orientador (doutor), visando a obtenção do título de mestre; 
+ 
+ Tese: documento que a presenta o resultado de um trabalho 
+experimental ou exposição de um estudo científico de tema único e 
+bem delimitado; deve ser elaborado com base em investigação 
+original, constituindo-se em real contribuição para a especialidade em 
+questão; é feito sob a coordenação de um orientador (doutor) e visa a 
+obtenção do título de doutor, ou similar; 
+ 
+ 
+ Trabalho de conclusão de curso de graduação, trabalho de 
+graduação interdis ciplinar, trabalho  de conclusão de curso de 
+especialização e/ou aperfeiçoamento : documento que apresenta o 
+resultado de estudo, devendo expressar conhecimento do assunto  
+escolhido, que deve ser obrigatoriamente emanado da disciplina, 
+módulo, estudo indepen dente, curso, programa, e outros ministrados. 
+Deve ser feito sob a coordenação de um orientador. 
+ 
+        Voltar ao sumário 
+  
+--- PAGE 13 ---
+12 
+ 
+3 ELEMENTOS DA ESTRUTURA DOS TRABALHOS 
+         Voltar ao sumário 
+ESTRUTURA  ELEMENTO OPÇÃO 
+PARTE 
+EXTERNA 
+PRÉ- 
+TEXTUAIS 
+Capa Obrigatório 
+Lombada Opcional 
+PARTE INTERNA 
+PRÉ- TEXTUAIS 
+Folha de rosto Obrigatório 
+Errata Opcional 
+Folha de aprovação Obrigatório 
+Dedicatória(s) Opcional 
+Agradecimentos Opcional 
+Epígrafe Opcional 
+Resumo na língua vernácula Obrigatório 
+Resumo em língua 
+estrangeira 
+Obrigatório 
+Lista de ilustrações Opcional 
+Lista de tabelas Opcional 
+Lista de abreviaturas e siglas Opcional 
+Lista de símbolos Opcional 
+Sumário Obrigatório 
+TEXTUAIS 
+Introdução Obrigatório 
+Desenvolvimento Obrigatório 
+Conclusão Obrigatório 
+PÓS- TEXTUAIS 
+Referências Obrigatório 
+Glossário Opcional 
+Apêndice(s) Opcional 
+Anexo(s) Opcional 
+Índice(s) Opcional 
+ 
+Quadro 1 – Estrutura de trabalhos acadêmicos (ABNT NBR 14724/2011)
+--- PAGE 14 ---
+13 
+ 
+                                                             Voltar ao sumário 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                    Elemento obrigatório 
+ 
+Figura 2- Esquema da estrutura dos trabalhos acadêmicos (ABNT NBR 14724/2011) 
+Índice 
+Anexo(s) 
+Apêndice(s) 
+Glossário 
+Referências  
+Conclusão 
+Desenvolvimento 
+Introdução    14 
+Sumário 
+Lista de símbolos 
+Lista de abreviaturas 
+e siglas 
+Lista de tabelas 
+Lista de ilustrações 
+Abstract 
+Resumo 
+Epígrafe 
+Agradecimentos 
+Dedicatória(s) 
+Folha de aprovação 
+Errata 
+Elementos Pós-Textuais 
+Elementos Textuais 
+Elementos 
+Pré-Textuais 
+As folhas são contadas a 
+partir da folha de rosto 
+sequencialmente, mas só  é 
+impresso o número a partir da 
+Introdução. Ficha catalográfica 
+Folha de rosto 
+Lombada 
+Capa 
+ 
+--- PAGE 15 ---
+14 
+ 
+3.1 Elementos pré-textuais 
+ 
+3.1.1 Capa (obrigatório) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 2 - Modelo de capa (ABNT NBR 14724/2011) 
+ 
+         Voltar ao sumário 
+ 
+ 
+UNIVERSIDADE FEDERAL DE VIÇOSA 
+ 
+ 
+ 
+MARIANA SILVA 
+ 
+ 
+OS EFEITOS DE UMA DIETA VEGETARIANA NA 
+POPULAÇÃO IDOSA DA CIDADE DE VIÇOSA, MINAS 
+GERAIS 
+ 
+ 
+ 
+ 
+ 
+ 
+VIÇOSA - MINAS GERAIS 
+     2010 
+ 
+ 
+       AUTOR                                       TÍTULO                      
+        
+--- PAGE 16 ---
+15 
+ 
+3.1.2 Folha de rosto (frente) (Obrigatório) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 3 – Modelo de folha de rosto (ABNT NBR14724/2011) 
+         Voltar ao sumário 
+ 
+MARIANA SILVA 
+ 
+ 
+OS EFEITOS DE UMA DIETA VEGETARIANA NA POPULAÇÃO 
+IDOSA DA CIDADE DE VIÇOSA, MINAS GERAIS 
+ 
+ 
+ 
+Dissertação apresen tada à Universidade 
+Federal de Viçosa, como parte das 
+exigências do Programa de Pós -
+Graduação em Ciências da Nutrição, para 
+obtenção do título de Magister Scientiae. 
+Orientador: João Silva Neto 
+Co-orientadores: José Carlos Almeida 
+                               Maria Clara Paiva 
+ 
+ 
+ 
+ 
+ 
+VIÇOSA - MINAS GERAIS 
+2011 
+ 
+A nota descritiva é 
+alinhada do meio da 
+folha para a margem 
+direita. 
+--- PAGE 17 ---
+16 
+ 
+3.1.2.1 Notas descritivas na folha de rosto (Obrigatório) 
+ 
+ 
+                TCC 
+ 
+Relatório final, apresentado a Universidade 
+Federal de Viçosa, como parte das 
+exigências para a obtenção ___________. 
+ 
+Monografia de graduação 
+(Bacharelado) 
+ 
+Monografia, apresentada ao Curso de _____ 
+da Universidade Federal de Viçosa c omo 
+requisito para obtenção do título de bacharel 
+em ___________. 
+ 
+Monografia de graduação 
+(Licenciatura) 
+ 
+Monografia, apresentada ao Curso de _____ 
+da Universidade Federal de Viçosa como 
+requisito para obtenção do título de 
+licenciatura em ___________. 
+ 
+Monografia 
+Curso de pós-graduação 
+Lato sensu - Especialização 
+ 
+Monografia apresentada à Universidade 
+Federal de Viçosa, como parte das 
+exigências do Curso de Pós -Graduação Lato 
+Sensu em ________, para a obtenção do 
+título de Especialista em _______. 
+ 
+Dissertação 
+Programa de pós-graduação  
+Stricto sensu - Mestrado 
+ 
+Dissertação apresentada à Universidade 
+Federal de Viçosa, como parte das 
+exigências do Programa de Pós -Graduação 
+em __________, para obtenção do título de 
+Magister Scientiae. 
+ 
+Tese 
+Programa de pós-graduação  
+Stricto sensu - Doutorado 
+ 
+Tese apresentada à Universidade Federal de 
+Viçosa, como parte das exigências do 
+Programa de Pós -Graduação em ________, 
+para obtenção do título de Doctor Scientiae. 
+ 
+Quadro 2 – Exemplos de notas descritivas das folhas de rosto e aprovação 
+         Voltar ao sumário 
+ 
+--- PAGE 18 ---
+17 
+ 
+3.1.2.2 Folha de rosto (verso) (Obrigatório) 
+ 
+Nesta folha é colocada a ficha catalográfica. Na UFV, a ficha é confeccionada 
+na Seção de Catalogação e Classificação na  Biblioteca Central (1º andar, Sala 
+240 A), de segunda a quinta -feira no horário de 8h às 10h30min. Só é obrigatória 
+sua confecção nos casos de dissertações e teses. Exemplo: 
+ 
+  Ficha catalográfica preparada pela Seção de Catalogação e 
+     Classificação da Biblioteca Central da UFV 
+ 
+ 
+T                         
+  Silva, Mariana, 1983- 
+S586e       Os efeitos de uma dieta vegetariana na população idosa da 
+2011   cidade de Viçosa Minas Gerais / Mariana Silva. – Viçosa, 
+  MG, 2011. 
+      xii, 72f. : il. (algumas col.); 29 cm. 
+     Inclui anexos. 
+     Inclui apêndices. 
+     Orientador: João Silva Neto. 
+     Dissertação (mestrado) - Universidade Federal de Viçosa. 
+     Inclui bibliografia. 
+ 
+     1. Nutrição. 2. Idosas. I. Universidade Federal de Viçosa.  
+ II. Título. 
+ 
+                                         CDD 22. ed. 612.3 
+ 
+Figura 4 – Modelo de ficha catalográfica 
+ 
+A ficha catalográfica é confeccionada de acordo o Código Anglo Americano 
+(AACR2), 2ª edição revisada de 2002 (vigente). 
+         Voltar ao sumário 
+--- PAGE 19 ---
+18 
+ 
+3.1.3 Errata (opcional) 
+ 
+Elemento opcional que deve ser inserido logo após a folha de rosto, 
+constituído pela referência do trabalho e pelo texto da errata e disposto da seguinte 
+maneira, exemplo: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+            Figura 5 – Modelo de errata (ABNT NBR 14724/2011) 
+         Voltar ao sumário 
+ 
+ERRATA 
+ 
+Silva, Mariana. Os efeitos de uma dieta vegetariana na população idosa da 
+cidade de Viçosa Minas Gerais . 2011. 72 f. Di ssertação (mestrado) - 
+Universidade Federal de Viçosa, Viçosa, MG, 2011. 
+ 
+ 
+ 
+ 
+Folha Linha Onde se lê Leia-se 
+31 03 auto-clavado autoclavado 
+ 
+ 
+ 
+--- PAGE 20 ---
+19 
+ 
+3.1.4 Folha de aprovação (Obrigatório) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 6 - Modelo de folha de aprovação (ABNT NBR 14724/2011) 
+ 
+Nota: A NBR 14724  indica as informações que devem ser contidas. Porém não 
+indica a disposição dos membros da banca, podendo ser colocados lado a lado ou 
+um baixo do outro. 
+ 
+         Voltar ao sumário 
+  
+ 
+MARIANA SILVA 
+ 
+OS EFEITOS DE UMA DIETA VEGETARIANA NA POPULAÇÃO IDOSA DA 
+CIDADE DE VIÇOSA, MINAS GERAIS 
+ 
+Dissertação apresentada à Universidade Federal de 
+Viçosa, como parte das exigências do Programa de 
+Pós-Graduação em Ciências da Nutrição, para 
+obtenção do título de Magister Scientiae . 
+ 
+APROVADA: 30 de abril de 2011. 
+ 
+___________________________                         ________________________               
+Prof. José Carlos Almeida                                      Prof. Mario Dias Silva 
+(Coorientador)                                                         (Coorientador) 
+(UFV)                                                                     (UFV) 
+ 
+    ___________________________                       _______________________ 
+Prof. Maria Clara  Paiva                                         Prof. Marina Gomes 
+ (UFV)                                                                 (UFV) 
+ 
+ 
+__________________________ 
+Prof. João Silva Neto 
+(Orientador) 
+(UFV) 
+--- PAGE 21 ---
+20 
+ 
+3.1.5 Dedicatória (opcional)                                                     Voltar ao sumário 
+ 
+Texto em que o autor presta homenagem ou dedica seu trabalho. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 7 - Modelo de dedicatória (ABNT NBR 14724/2011) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A Deus, meus familiares e aos 
+meus amigos... 
+companheiros de todas as horas... 
+ 
+--- PAGE 22 ---
+21 
+ 
+3.1.6 Agradecimentos (opcional)     Voltar ao sumário 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 8 – Modelo de agradecimentos (ABNT NBR 14724/2011) 
+ 
+3.1.7 Epígrafe (opcional)  
+ 
+Elaborada conforme a ABNT NBR 10520. Deve ser inserida após os 
+agradecimentos. Podem também c onstar epígrafes nas folhas ou páginas de 
+abertura das seções primárias. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 9 – Modelo de epígrafe (ABNT NBR 10520/2002)
+ 
+                             AGRADECIMENTOS 
+ 
+A Deus por minha vida, família e amigos. 
+Aos meus pais, pelo amor, incentivo e apoio incondicional. 
+A Universidade Federal de Viçosa, pela oportunidade de fazer o curso. 
+Ao professor João Silva Neto, pela orientação, apoio e confiança. 
+ 
+ 
+ 
+ 
+ 
+ 
+“O único lugar aonde o sucesso vem antes do 
+trabalho é no dicionário". (Albert Einstein) 
+ 
+--- PAGE 23 ---
+22 
+ 
+3.1.8 Resumo na língua vernácula (Obrigatório) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 10 – Modelo de resumo (ABNT NBR 6028/2003) 
+ 
+ 
+RESUMO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Palavras-chave: Nutrição. Idosas. 
+--- PAGE 24 ---
+23 
+ 
+O resumo deve ressaltar o objetivo, o método, os resultados e as conclusões 
+do documento. Recomenda-se o uso de parágrafo único. Deve -se usar o verbo na 
+voz ativa e na terceira pessoa do singular. 
+Devem-se evitar: símbolos e contrações que não sejam de uso co rrente; 
+fórmulas, equações, diagramas etc., que não sejam absolutamente necessários; 
+quando seu emprego for imprescindível, defini-los na primeira vez que aparecerem. 
+Quanto a sua extensão os resumos devem ter: de 150 a 500 palavras os de 
+trabalhos acadêmicos (teses, dissertações e outros) e relatórios técnico -científicos; 
+de 100 a 250 palavras os de artigos de periódicos; de 50 a 100 palavras os 
+destinados a indicações breves. 
+ 
+ 
+         Voltar ao sumário 
+ 
+--- PAGE 25 ---
+24 
+ 
+3.1.9 Resumo em língua estrangeira (Obrigatório) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 11 – Modelo de abstract (ABNT NBR 6028/2003) 
+         Voltar ao sumário 
+ 
+ABSTRACT 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Keywords: Nutrition. Elberly. 
+--- PAGE 26 ---
+25 
+ 
+3.1.10 Lista de ilustrações (opcional) 
+ 
+Elaborada de acordo com a ordem apresentad a no texto, com cada item 
+designado por seu nome específico, travessão, título e respectivo número da folha 
+ou página. Quando necessário, recomenda -se a elaboração de lista própria para 
+cada tipo de ilustração (desenhos, esquemas, fluxogramas, fotografias,  gráficos, 
+mapas, organogramas, plantas, quadros, retratos e outras). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 12 – Modelo de ilustrações (ABNT NBR 14724/2011) 
+         Voltar ao sumário 
+ 
+LISTA DE ILUSTRAÇÕES 
+ 
+Figura 1 –   Pirâmide alimentar                                                 65 
+Figura 2 –   Índice glicêmico das idosas                                   89 
+Gráfico 1 –  Idosas x Doenças cardiovasculares                      48 
+Quadro 1 –  Taxa de colesterol das idosas                               58 
+--- PAGE 27 ---
+26 
+ 
+3.1.11 Lista de tabelas (opcional) 
+Elaborada de acor do com a ordem apresentada no texto, com cada item 
+designado por seu nome específi co, acompanhado do respectivo número da folha 
+ou página. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 13 – Modelo de tabelas (ABNT NBR 14724/2011) 
+         Voltar ao sumário 
+ 
+LISTA DE TABELAS 
+ 
+Tabela 1 – Poluição no Brasil em 2009                                 24 
+Tabela 2 – Poluição em Minas Gerais – 2009                       63 
+--- PAGE 28 ---
+27 
+ 
+3.1.12 Lista de abreviaturas e siglas (opcional)   Voltar ao sumário 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 14 – Modelo de lista abreviaturas e siglas (ABNT NBR 14724/2011) 
+ 
+LISTA DE ABREVIATURAS E SIGLAS 
+ 
+ABNT    Associação Brasileira de Normas Técnicas 
+OMS     Organização Mundial de Saúde 
+UFV      Universidade Federal de Viçosa 
+ 
+--- PAGE 29 ---
+28 
+ 
+3.1.13 Lista de símbolos (opcional)      Voltar ao sumário 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 15 – Modelo de símbolos (ABNT NBR 14724/2011) 
+ 
+LISTA DE SÍMBOLOS 
+ 
+@    Arroba 
+®     Marca registrada 
+--- PAGE 30 ---
+29 
+ 
+3.1.14 Sumário (Obrigatório)       Voltar ao sumário 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 16 – Modelo de sumário (ABNT NBR 6027/2003) 
+ 
+ 
+                                          
+ 
+SUMÁRIO 
+ 
+1          INTRODUÇÃO                                                                14 
+2          DEFINIÇÕES DOS TRABALHOS ACADÊMICOS          16 
+3          ELEMENTOS DA ESTRUTURA DOS TRABALHOS       18 
+3.1       Elementos pré-textuais                                                     18 
+3.1.1    Capa                                                                                 19 
+3.1.2    Folha de rosto                                                                   20 
+3.1.2.1 Notas descritivas                                                               21 
+3.1.2.2 Folha de rosto                                                                   23 
+3.1.3    Errata                                                                                24 
+3.1.4    Folha de aprovação                                                          25 
+3.1.5    Dedicatória                                                                       26 
+4          FORMATAÇÃO DE TRABALHOS ACADÊMICOS          39 
+5          ELABORAÇÃO DE REFERÊNCIAS                                45 
+6          CITAÇÕES                                                                       63 
+            REFERÊNCIAS                                                                72 
+            APÊNDICES                                                                     75 
+            ANEXOS                                                                          77 
+ 
+--- PAGE 31 ---
+30 
+ 
+Não se deve confundir sumário e índice.  
+ 
+ Sumário é um elemento pré-textual (obrigatório), enumera as 
+principais divisões, seções e outras partes do trabalho, na mesma 
+ordem e grafia em que a matéria nele se sucede cujas partes são 
+acompanhadas do(s) respectivo(s) número(s) da(s) página(s). Havendo 
+mais de um volume, em cada um deve constar o sumário completo do 
+trabalho, conforme a ABNT NBR 6027/2003;  
+ 
+ Índice é um elemento pós-textual (opcional), lista as  palavras ou 
+frases, ordenadas segundo determinado critério, que localiza e remete 
+para as  informações contidas no texto,  elaborado conforme a ABNT 
+NBR 6034/2004. 
+--- PAGE 32 ---
+31 
+ 
+3.2 Elementos textuais          Voltar ao sumário 
+3.2.1 Introdução  
+Parte inicial do texto, onde devem constar a delimitação do assunto tratado,  
+objetivos da pesquisa e outros elementos necessários para situar o tema do 
+trabalho. 
+ 
+3.2.2 Desenvolvimento  
+Parte principal do texto, que contém a exposição ordenada e pormenorizada 
+do assunto. Divide -se em seções e subseções, que variam em função da 
+abordagem do tema e do método. 
+ 
+3.2.3 Conclusão  
+Parte final do texto, na qual se apresentam conclusões correspondentes aos 
+objetivos ou hipóteses. 
+ 
+--- PAGE 33 ---
+32 
+ 
+3.3 Elementos pós-textuais       Voltar ao sumário 
+3.3.1 Referências (Obrigatório) 
+As referências são elaboradas de acordo com a ABNT NBR 6023:2002 
+Informação e documentação - Referências – Elaboração (em vigência) . Cabe 
+aqui a diferenciação entre referência e bibliografia. 
+ Referência: material que foi utilizado para a confecção do 
+trabalho e obrigatoriamente é referenciado. 
+ 
+ Bibliografia: material que não necessariamente foi utilizado no 
+trabalho, podendo ser apenas indicado para enriquecimento do 
+leitor. 
+3.3.2 Glossário (opcional) 
+Relação de palavras ou expressões técnicas de uso restrito ou de sentido 
+obscuro, utilizadas no  texto, acompanhadas das respectivas definições . Elaborado 
+em ordem alfabética. Exemplo: 
+Deslocamento: Peso da água deslocada por um na vio flutuando em águas 
+tranquilas. 
+Duplo Fundo: Robusto fundo interior no fundo da carena. 
+ 
+3.3.3 Apêndice (s) (opcional) 
+Elemento opcional. Deve ser precedido da palavra APÊNDICE, identificado 
+por letras maiúsculas consecutivas, travessão e pelo respecti vo título. Utilizam -se 
+letras maiúsculas dobradas, na identificação dos apêndices, quando esgotadas as 
+letras do alfabeto. 
+ 
+APÊNDICE A – Avaliação numérica de células infl amatórias 
+ 
+Figura 17 - Modelo de apêndice (ABNT NBR 14724/2011) 
+--- PAGE 34 ---
+33 
+ 
+3.3.4 Anexo (s) (opcional) 
+Elemento opcional. Deve ser precedido da palavra ANEXO, identificado por 
+letras maiúsculas consecutivas, travessão e pelo respectivo título. Utilizam -se letras 
+maiúsculas dobradas, na identificação dos anexos, quando esgotadas as letras do 
+alfabeto. Exemplo: 
+ 
+ 
+ 
+ 
+Figura 18 – Modelo de anexo (ABNT NBR 14724/2011) 
+ 
+3.4.5 Índice (opcional) 
+Lista de palavras ou frases, ordenadas segundo determinado critério, que 
+localiza e remete para as informações contidas no texto. Feito conforme (ABNT NBR 
+6034/2004). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 19 – Modelo de índice (ABNT NBR 6034/2004) 
+ 
+ 
+ 
+ANEXO A – Norma de apresentação tabular 
+ 
+ 
+ 
+ÍNDICE  
+ 
+Glicemia 47, 85 
+Idosas  
+     acima de 90 anos 65, 254 
+     obesas 45,86,157 
+--- PAGE 35 ---
+34 
+ 
+4 REGRAS DE APRESENTAÇÃO  DOS TRABALHOS ACADÊMICOS (ABNT NBR 
+14724/2011) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1 Formato 
+ 
+         Figura 29 – Formatação de trabalhos acadêmicos (ABNT NBR 14724/2011) 
+         Voltar ao sumário 
+ 
+3 CM 
+ 
+ 
+ 
+ 
+    
+            3 CM                                                                                           2 CM 
+ 
+ Papel branco ou reciclado, formato A4 (21 cm x 29,7 cm); 
+ 
+ Fonte tamanho 12; 
+ 
+ Margens esquerda e superior de 3 cm; direita e inferior de 2 cm; 
+ 
+ Entrelinhas 1,5. 
+ 
+ 
+2 CM 
+ 
+ 
+--- PAGE 36 ---
+35 
+ 
+4.1 Formato         Voltar ao sumário 
+ 
+Os textos devem ser digitados ou datilografados em cor preta, podendo 
+utilizar outras cores somente para as ilustrações. Se imp resso, utilizar papel branco 
+ou reciclado, no formato A4 (21 cm 29,7 cm). Os elementos pré -textuais devem 
+iniciar no anverso da folha, com exceção dos dados internacionais de catalogação -
+na-publicação (Ficha catalográfica)  que devem vir no verso da folha de rosto. 
+Recomenda-se que os elementos textuais e pós -textuais sejam digitados ou 
+datilografados no anverso e verso das folhas.  O projeto gráfico é de 
+responsabilidade do autor do trabalho.  
+Recomenda-se, quando digitado, a fonte tamanho 12 para todo o trabalho, 
+inclusive capa, excetuando  se citações com mais de três  linhas, notas de rodapé, 
+paginação, dados internacionais de catalogação  na-publicação (Ficha 
+catalográfica), legendas e fontes das ilustrações e das tabelas, q ue devem ser em 
+tamanho menor e uniforme. No caso de citações de mais de três linhas, deve -se 
+observar também um recuo de 4 cm da margem esquerda. 
+ 
+4.2 Margem 
+As margens devem ser: para o anverso, esquerda e superior de 3 cm e direita 
+e inferior de 2 cm; para o verso, direita e superior de 3 cm e esquerda e inferior de 2 
+cm. 
+4.3 Espacejamento 
+Todo o texto deve ser digitado ou datilografado com espaço 1,5, excetuando -
+se as citações de mais de três linhas,  notas de rodapé, referências, legendas das 
+ilustrações e das tabelas, ficha catalográfica, natureza do trabalho,  objetivo, nome 
+da instituição a que é submetida e área de concentração, que devem  ser digitados 
+em espaço simples. As referências, ao final do trabalho, devem ser separadas entre 
+si por um espaço simples em branco.. 
+Os títulos das seções devem com eçar na parte superior da folha  e ser 
+separados do texto que os sucede por dois espaços 1,5, entrelinhas . Da mesma 
+--- PAGE 37 ---
+36 
+ 
+forma, os títulos das subseções devem ser separados do texto que os precede e que 
+os sucede por dois espaços 1,5. 
+Na folha de rosto e na folha de aprovação, a natureza do trabalho, o obj etivo, 
+o nome da instituição a que é  submetido e a área de concentração devem  ser 
+alinhados do meio da folha para a margem direita. 
+4.3.1 Notas de rodapé 
+As notas devem ser digitadas ou datilografadas dentro das margens, ficando 
+separadas do texto por um e spaço simples de entre as linhas e por filete de 5 cm, a 
+partir da margem esquerda. Devem ser alinhadas, a partir da segunda linha da 
+mesma nota, abaixo da primeira letra da primeira palavra, de forma a destacar o 
+expoente, sem espaço entre elas e com fonte menor. Exemplo: 
+___________________ 
+¹ Autor consagrado na literatura brasileira. 
+ 
+4.3.2 Indicativos de seção 
+O indicativo numérico, em algarismo arábico, de uma seção precede seu 
+título, alinhado à esquerda, separado por um espaço de caractere. Os título s das 
+seções primárias devem começar em página ímpar (anverso), na parte superior da 
+mancha gráfica e ser separados do texto que os sucede por um espaço entre as 
+linhas de 1,5. Da mesma forma, os títulos das subseções devem ser separados do 
+texto que os precede e que os sucede por um espaço entre as linhas de 1,5. Títulos 
+que ocupem mais de uma linha devem ser, a partir da segunda linha, alinhados 
+abaixo da primeira letra da primeira palavra do título. Exemplo:  
+1 INTRODUÇÃO 
+ 
+4.3.3 Títulos sem indicativo numérico 
+Os títulos, sem indicativo numérico – errata, agradecimentos, lista de 
+ilustrações, lista de abreviaturas e siglas,  lista de símbolos, resumos, sumário, 
+referências, glossário, apêndice(s), anexo(s) e índice(s) – devem ser centralizados. 
+--- PAGE 38 ---
+37 
+ 
+ 
+4.3.4 Elementos sem título e sem indicativo numérico 
+Fazem parte desses elementos a folha de aprovação, a dedicatória e a (s) 
+epígrafe(s). 
+ 
+4.4 Paginação 
+ 
+As folhas ou páginas pré-textuais devem ser contadas, mas não numeradas. 
+Para trabalhos digitados ou datilografa dos somente no anverso, todas as 
+folhas, a partir da folha de rosto, devem ser contadas sequencialmente, 
+considerando some nte o anverso. A numeração deve fi gurar, a partir da primeira 
+folha da parte textual, em algarismos arábicos, no canto  superior direito da folha, a 2 
+cm da borda superior, ficando o último algarismo a 2 cm da borda direita da folha. 
+Quando o trabalho for digitado ou datilografado em anverso e verso, a 
+numeração das páginas deve ser colocada no anverso da folha, no canto superior 
+direito; e no verso, no canto superior esquerdo. 
+No caso de o trabalho ser constituído de mais de um volume, deve ser 
+mantida uma única sequência de numeração das folhas ou páginas, do primeiro ao 
+último volume. Havendo apêndice e anexo, as suas folhas ou páginas devem ser 
+numeradas de maneira contínua e sua paginação deve dar seguimento à do texto 
+principal. 
+ 
+ 
+4.5 Numeração progressiva 
+Para evidenciar a sistematização do conteúdo do trabalho, deve -se adotar a 
+numeração progressiva para as seções do texto. Os títul os das seções primárias, 
+por serem as principais divisões de um texto, devem iniciar em  folha distinta . 
+Destacam-se gradativamente os títulos das seções, utilizando -se os recursos de 
+negrito, itálico ou grifo e redondo, caixa alta ou versal, e outro, confo rme a (ABNT 
+NBR 6024 /2003), no sumário e de forma  idêntica, no texto.  Deve-se limitar a 
+numeração progressiva até a seção quinaria.  
+--- PAGE 39 ---
+38 
+ 
+Exemplo: 
+1                  
+1.1 
+1.1.1 
+1.1.1.1 
+1.1.1.1.1 
+ 
+4.6 Citações 
+As citações devem ser apresentadas conforme a ABNT NBR 10520/2002  
+(em vigência), no capítulo 6 apresentaremos como são elaboradas. 
+ 
+4.7 Siglas 
+Quando aparece pela primeira vez no texto, a forma completa do nome 
+precede a sigla, colocada entre parênteses. 
+Exemplo: Associação Brasileira de Normas Técnicas (ABNT). 
+ 
+4.8 Equações e fórmulas 
+Para facilitar a leitura, devem ser destacadas no texto e, se necessário, 
+numeradas com algarismos arábicos entre parênteses, alinhados à direita. Na 
+sequência normal do texto, é permitido o uso de uma entrelinha maior que  comporte 
+seus elementos (expoentes, índices e outros).Exemplo: 
+x2 y2 z2                                                                                                                (1) 
+x2 y2 /5 n                                                                                                           (2) 
+ 
+4.9 Ilustrações 
+Qualquer que seja seu tipo (desenhos, esquemas, fluxogramas, fotografias,  
+gráficos, mapas, organogramas, plantas, quadros, retratos e outros) sua 
+--- PAGE 40 ---
+39 
+ 
+identificação aparece na parte inferior, precedida da palavra designativa,  seguida de 
+seu número de ordem de ocorrência no texto, em algarismos arábicos, do respectivo 
+título e/ou legenda explicativa de forma breve e clara, dispensando consulta ao 
+texto, e da fonte. A ilustração deve ser  inserida o mais próximo possível do trecho a 
+que se refere, conforme o projeto gráfico. 
+ 
+ 
+ 
+ Gráfico 5 – Venda de equipamentos agrícolas - 2009 
+Fonte: Alves, 2010, p.45. 
+ 
+4.10 Tabelas 
+Devem ser citadas no texto, inseridas o mais próximo possível do trecho a 
+que se referem e padronizadas conforme o Instituto Brasileiro de Geografia e 
+Estatística (IBGE). Disponível em:  
+http://biblioteca.ibge.gov.br/visualizacao/monografias/GEBIS%20-%20RJ/normastabular.pdf 
+         Voltar ao sumário 
+58% 23% 
+10% 9% 
+Venda - 2009 
+1º Tri
+2º Tri
+3º Tri
+4º Tri
+--- PAGE 41 ---
+40 
+ 
+5 ELABORAÇÃO DE REFERÊNCIAS       Voltar ao sumário 
+ 
+Orientações feitas de acordo com a ABNT NBR 6023:2002 Informação e 
+documentação - Referências – Elaboração (em vigência). 
+ 
+5.1. Elaboração  
+5.1.1 Formas de entrada  
+Entrada é a expressão ou palavra (nome do autor, título, etc .) que encabeça 
+uma referência, também chamada de cabeçalho.  
+5.1.1.1 Autores pessoais  
+Indica-se a entrada pelo último sobrenome do autor, em maiú sculas, seguido 
+dos prenomes abreviados ou não, da mesma forma como constam do documento, 
+adotando o mesmo padrão. Os nomes devem ser separados por ponto -e-vírgula, 
+seguido de espaço.  
+MORAES, A. Direito constitucional. 12. ed. São Paulo: Atlas, 2002. 836 p.  
+NUZZI, E. F.; BARROS FILHO, C. Globalização mídia e ética: temas para 
+debater em cursos de comunicação social. São Paulo: Plêiade, 1998. 201 p.  
+OKUNO, E.; CALDAS, I. L.; CHOW, C. Física para ciências biológicas e 
+biomédicas. São Paulo: Harper & Row do Brasil, 1982. 490 p.  
+ 
+Para documentos elaborados por mais de 3 (três) autores, indica -se apenas o 
+primeiro, acrescentando-se a expressão et al.  
+GAW, A. et al. Bioquímica clínica. 2. ed. Rio de Janeiro: Guanabara Koogan, 
+2001. 165 p.  
+ 
+Nota: Em casos esp ecíficos tais como projetos de pesquisa científica nos quais a 
+menção dos nomes for indispensável para certificar autoria, é facultado indicar todos 
+os nomes.  
+--- PAGE 42 ---
+41 
+ 
+Os documentos elaborados por vários autores, e houver uma indicação 
+explícita de responsabilidad e pelo conjunto da obra (Organizador, Editor, 
+Coordenador e outros), a entrada deve ser feita pelo nome deste responsável 
+seguida do tipo de participação escrito abreviado, no singular, entre parênteses.  
+PALADINO, G. G.; MEDEIROS, L. A. (Org.). Parques tecnológicos e meio 
+urbano: artigos e debates. Brasília: Amprotec, 1997. 319 p.  
+ 
+Entrada de sobrenome composto indicando parentesco como Junior, 
+Sobrinho, Filho, Neto.  
+COSTA NETO, P. L. O. Estatística. São Paulo: Edgar Blücher, 1999. 260 p.  
+Entrada de sobrenome composto ligado por hífen. 
+DUQUE-ESTRADA, Osório. Flora de maio: versos. Rio de Janeiro: H. 
+Garnier, 1902.  
+Entrada de sobrenome composto de um substantivo + adjetivo. 
+CASTELO BRANCO, Camilo. Amor de salvação. Porto:                  
+          .  
+ 
+5.1.1.2 Autoria desconhecida  
+A entrada será pela primeira palavra do título em maiúscula.  
+DIAGNÓSTICO do setor editorial brasileiro. São Paulo: Câmara Brasileira do 
+Livro, 1993. 64 p.  
+ 
+5.1.1.3 Entidade coletiva  
+Obras de responsabilidade de entidade têm  entrada pelo seu próprio nome, 
+por extenso:  
+UNIVERSIDADE FEDERAL DE VIÇOSA. Estatuto da Universidade Federal 
+de Viçosa. Viçosa, MG, 2000. 27 p.  
+ 
+--- PAGE 43 ---
+42 
+ 
+Se a entidade tiver duplicidade de nome, acrescenta -se no final a unidade 
+geográfica que identifica a jurisdição, entre parênteses. 
+BIBLIOTECA NACIONAL (Brasil). Um foco de vida: Fundação Biblioteca 
+ Nacional, agosto de 1996 a agosto de 1999. Rio de Janeiro: FBN, [1999?].  
+46 p. 
+ 
+Quando se tratar de obras de cunho administrativo ou legal, entrar 
+diretamente pelo nome da entidade ou pelo nome geográfico que indica a esfera de 
+subordinação (país, estado ou município).  
+BRASIL. Ministério da Ciência e Tecnologia. Programa de biotecnologia e 
+recurso genéticos. Brasília, 2002. 47p.  
+ 
+Nota: Quando a editora é a mesma i nstituição responsável pela autoria e já tiver 
+sido mencionada, não é indicada.  
+ 
+5.1.1.4 Congressos, conferências, simpósios, seminários e outros  
+Em se tratando de reuniões e encontros científicos tem entrada pelo nome do 
+evento, com indicação do respectivo número do evento em algarismos arábicos, ano 
+e local de realização.  
+SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES, 13., 1995, Belo 
+Horizonte. Anais... Belo Horizonte: UFMG, 1995. 655 p.  
+ 
+Para os casos de mais de um evento realizados simultaneamente, d evem ser 
+separados entre si por ponto e vírgula.  
+CONGRESSO DE PESQUISA E EXTENSÃO, 1.; ENCONTRO DE 
+INICIAÇÃO CIENTÍFICA, 4., 1998, Bragança Paulista. Anais... Bragança 
+Paulista: PROPEP, 1998.  
+ 
+ 
+ 
+--- PAGE 44 ---
+43 
+ 
+5.1.1.5 Entrada por título  
+As obras de responsabilidade de  entidades coletivas (com exceção daquelas 
+de cunho administrativo ou legal) publicações anônimas ou não assinadas, têm 
+entrada pelo título da publicação, sendo a primeira palavra impressa em letras 
+maiúsculas.  
+MANUAL de orientação da câmara especializada de agronomia. Curitiba: 
+ CREA, 2002. 94 p.  
+ 
+Os títulos muito longos podem ter as últimas palavras suprimidas, usando -se 
+reticências.  
+Para os documentos sem título, pode -se atribuir um título, entre colchetes, 
+que identifica o conteúdo do documento.  
+ 
+5.2 Edição  
+Todos os exemplares produzidos a partir de um original pertencem à mesma 
+edição de uma obra, todas as suas impressões, reimpressões, tiragem, etc., 
+produzidas sem modificações, independentemente do período decorrido desde a 
+primeira publicação. Indica-se a edição de uma publicação a partir da segunda  
+Quando houver uma indicação de edição, esta deve ser transcrita, utilizando -
+se abreviaturas dos numerais ordinais e da palavra edição, ambas na forma adotada 
+na língua do documento. Indicam -se emenda s e acréscimo s à edição de forma 
+abreviada. Exemplo: 
+3. ed. (português, espanhol)  
+2nd ed. (inglês)  
+2e ed. (francês)  
+2. Auful. (alemão)  
+2ª ed. (italiano)  
+--- PAGE 45 ---
+44 
+ 
+Quando esta for revista e aumentada deve ser acrescentada de forma 
+abreviada.  
+Exemplo: 2. ed. rev. e aum.  
+ 
+5.3 Local  
+O local de publicação deve ser indicado tal como figura o documento. No caso 
+de homônimos de cidades, acrescenta-se o nome do estado, do país etc.  
+Ex. Viçosa, MG; Viçosa, AL; Viçosa, RJ  
+Quando houver mais de um local para uma só edi tora, indica-se o primeiro ou 
+o mais destacado.  
+Quando a cidade não aparece no documento, mas pode ser identificada, 
+indica-se entre colchetes [   ].  
+Na impossibilidade de identificar o local, utiliza -se a expressão sine loco  
+abreviada, entre colchetes [S.l.].  
+ 
+OS GRANDES clássicos das poesias líricas. [S.l.]: Ex Libris, 1981. 60 f. 
+ 
+5.4 Editora  
+O nome da editora deve ser registrado como figura no documento, 
+abreviando-se os prenomes e suprindo -se palavras que designam a natureza 
+jurídica e comercial, desde que sejam dispensáveis para identificação.  
+Quando houver duas editoras, indicam -se ambas, com seus respectivos 
+locais (cidades). Se as editoras forem três ou mais, indica -se a primeira ou a que 
+estiver em destaque.  
+Na impossibilidade de identificar a editora, indica -se a expressão sine 
+nomine abreviada, entre colchetes [s.n.]. Exemplo:  
+ 
+PASQUALI, O. A. O gueto da comunicação. 2. ed. Porto Alegre: [s.n.], 
+ 1987. 247 p.  
+--- PAGE 46 ---
+45 
+ 
+5.5 Data  
+Sendo a data um elemento essencial, a NBR 6023 recomenda não deixar 
+nenhuma referência sem data. Caso não seja possível indicar uma data, utilizar data 
+de impressão, copyright e de distribuição. No entanto, se nenhuma dessas estiver 
+disponível, registra-se uma data aproximada entre colchetes como se segue abaixo:  
+[1971 ou 1972] um ano ou outro;  
+[1969?] data provável;  
+[1973] data certa, não indicada no item;  
+[entre 1906 e 1912] use intervalos menores de 20 anos;  
+[ca. 1960] data aproximada;  
+[197-] década certa;  
+[197-?] década provável;  
+[18--] século certo;  
+[18--?] século provável.  
+Nas referências de vários volumes de um documento, publicados em datas 
+diferenciadas, indica -se a data mais antiga e a data mais recente da publicação 
+separadas por hífen.  
+ 
+5.6 Regras gerais de apresentação  
+Os elementos essenciais e compleme ntares da referência devem ser 
+apresentados em sequência padronizada.  
+As referências são alinhadas somente à margem esquerda do texto e de 
+forma a se identificar individualmente cada documento, em espaço simples e 
+separado entre si por um espaço simples . Quando aparecer em notas de rodapé, 
+serão alinhadas, a partir da segunda linha da mesma referência, abaixo da primeira 
+letra da palavra, de forma a destacar o expoente e sem espaço entre elas.  
+--- PAGE 47 ---
+46 
+ 
+O recurso tipográfico ( negrito, grifo ou itálico) quando utilizado para destacar 
+o título deve ser uniforme em todas as referências de um mesmo documento.  
+As referências constantes em uma lista padronizada devem obedecer aos 
+mesmos princípios. Ao optar pela utilização de elementos complementares, estes 
+devem ser incluídos em todas as referências daquela lista.  
+ 
+5.7 Modelos de referências  
+5.7.1 Monografia no todo 
+Inclui livro e/ou folheto (manual, guia, catálogo, enciclopédia, dicionário etc.) e 
+trabalhos acadêmicos (teses, dissertações, entre outros).  
+Elementos essenciais são:  
+ 
+SOBRENOME DO AUTOR, Prenome. Título. Edição. Local: Editora, data de 
+publicação.  
+ 
+Exemplo:  
+HUBERMAN, L. História da riqueza do homem. 21. ed. Rio de Janeiro: LTC, 
+ 1986.  
+ 
+Quando necessário, acrescentam-se elementos complementares à refer ência 
+para melhor identificar o documento. Os elementos complementares são:  
+ 
+SOBRENOME DO AUTOR, Prenome. Título : subtítulo. Tradutor. Revisor. Edição. 
+Local: Editora, data de publicação. Descrição física (número de páginas ou 
+volumes), ilustração, dimensão. Nota série ou coleção. Notas especiais. ISBN.  
+ 
+HUBERMAN, L. História da riqueza do homem. Tradução de Waltensir 
+Dutra. 21. ed. Rio de Janeiro: LTC, 1986. 286 p. Inclui índice. ISBN 85-216-
+1306-7.  
+ 
+--- PAGE 48 ---
+47 
+ 
+5.7.2 Monografia no todo em meio eletrônico  
+As referências devem obedecer aos padrões indicados para os documentos 
+monográficos no todo, acrescidas das informações relativas à descrição física do 
+meio eletrônico.  
+ 
+SOBRENOME DO AUTOR, Prenome. Título. Local: Editora, data. Disponível em: 
+<endereço>. Acesso em:  dia mês. Ano.  
+ 
+BORÉM, A. Melhoramento de plantas. Viçosa, MG: Ed. UFV, 1999. 1 CD-
+ ROM. Requisitos do sistema: PC 486 com 12 MB RAM, Driv CD-ROM 8x.  
+FAINTUCH, J. Nutrição parenteral. São Paulo: CAD, 2001. Disponível em: 
+ <http://www.fugesp.org.Br/nutriesaude3-4htm>. Acesso em: 03 set. 2001, 
+ 15:30:30.  
+Nota: Quando se tratar de obras consultadas online, também são essenciais as 
+informações sobre o endereço eletrônico, apresentado entre os sinais < >, precedido 
+da expressão Disponível em:  e a data de  acesso ao documento, precedida da 
+expressão Acesso em:  opcionalmente acrescida dos dados referent es a hora, 
+minutos e segundos. Observação Não se recomenda referenciar material eletrônico 
+de curta duração nas redes.  
+ 
+5.7.3 Parte de monografia  
+Inclui capítulo, volume, fragmento e outras partes de uma obra, com autor (es) 
+e/ou título próprios.  
+ 
+SOBRENOME DO AUTOR DO CAPÍTULO, Prenome. Título do capítulo. In: 
+SOBRENOME DO AUTOR DO LIVRO, Prenome. Título: subtítulo do livro. Local de 
+publicação (cidade): Editora, data. volume, capítulo, página inicial-final da parte.  
+ 
+ 
+--- PAGE 49 ---
+48 
+ 
+5.7.3.1 Capítulo com autoria própria  
+BAMBERG, G.; CARVALHO, É. G. Comunicação integrada: conceitos e 
+ casos. In: CARVALHO, D. T.; NEVES, M. F. (Org.). Marketing na nova 
+ economia. São Paulo: Atlas, 2001. cap. 13, p. 117-126.  
+ 
+5.7.3.2 Capítulo sem autoria própria 
+TANENBAUM, A. S. O Nível convencional de máquina. In:_____ 
+Organização estruturada de computadores. 3. ed. Rio de Janeiro: LTC, 
+2000. p. 182-249.  
+ 
+5.7.3.3 Partes de monografia em meio eletrônico  
+As referências devem obedecer aos padrões indicados para partes de 
+monografias, acrescidas das informações relativas à descrição física do meio 
+eletrônico.  
+MORFOLOGIA dos artrópodes. In: ENCICLOPÉDIA multimídia dos seres 
+vivos [S.l.]: Planeta DeAgostini, c1998. CD-ROM 9.  
+POLÍTICA. In: DICIONÁRIO da língua portuguesa. Lisboa: Priberam 
+informática, 1998. Disponível em: < http://priberam.pt/dIDLPO >. Acesso em: 
+8 mar. 1999.  
+ 
+5.7.4 Evento como um todo  
+Inclui o conjunto dos documentos reunidos  num produto final do próprio 
+evento (atas, anais, resultados, proceedings, entre outras denominações). Os 
+elementos essenciais são: nome do evento, numeração (se houver), ano e  local 
+(cidade) de realização. Em seguida, deve -se mencion ar o título do docume nto 
+(anais, atas, tópico temático etc.), seguido dos dados de local de publicação, Editora 
+e data de publicação.  
+ 
+TÍTULO DO EVENTO, nº do evento, ano de realização, local. Título do documento. 
+Local: Editora, ano de publicação. Paginação ou volume.  
+--- PAGE 50 ---
+49 
+ 
+SIMPÓSIO DE PRODUÇÃO DE GADO DE CORTE, 3., 2002, Viçosa, MG. 
+ Anais... Viçosa, MG: UFV, DZO, 2002. 271 p.  
+ 
+5.7.4.1 Evento como um todo em meio eletrônico  
+CONGRESSO DE INICIAÇÃO CIENTÍFICA DA UFPe, 4., 1996, Recife. Anais 
+ eletrônicos... Recife: UFPe, 1996. Disponível em:  
+ <http://www.propesq.ufpe.br/anais.htm >. Acesso em: 21 jan. 1997.  
+ 
+5.7.4.2 Trabalho apresentado em evento  
+ 
+SOBRENOME DO AUTOR, Prenome. Título do trabalho apresentado seguido da 
+expressão. In: TÍTULO DO EVENTO,  nº do evento, ano de realiza ção, local (cidade 
+de realização). Título do documento (anais, resumos, etc.). Local: Editora, ano de 
+publicação. Página inicial – final da parte referenciada.  
+ 
+ORLANDO SOBRINHO, J.; SILVA, L. E. Resposta à calagem. In: 
+SEMINÁRIO SOBRE CORRETIVOS AGRÍCOLAS, 2., 1985, Campinas. 
+Anais... Campinas: Fundação Cargill, 1985. p. 123-157.  
+ 
+5.7.4.3 Trabalho apresentado em evento em meio eletrônico  
+GUNCHO, M. R. A educação à distância e a biblioteca universitária. In: 
+SEMINÁRIO DE BIBLIOTECAS UNIVERSITÁRIAS, 10., 1998, Fortaleza. 
+Anais... Fortaleza: Tec Treina, 1998. 1 CD-ROM. 
+SILVA, R. N.; OLIVEIRA, R. Os limites pedagógicos do paradigma da 
+qualidade total na educação. In: CONGRESSO DE INICIAÇÃO CIENTÍFICA 
+DA UFPe, 4., 1996, Recife. Anais eletrônicos... Recife: UFPe, 1996. 
+Disponível em: <http://propesq.ufpe.br/anais/anais/educ/ce04.htm>. Acesso 
+em: 21 jan. 1997.  
+ 
+ 
+ 
+ 
+--- PAGE 51 ---
+50 
+ 
+5.7.5 Teses, dissertação e monografia  
+ 
+SOBRENOME DO AUTOR, Prenome. Título: subtítulo. Ano de apresentação. 
+Número de folhas ou volumes. (Categoria e área de concentração) – Instituição, 
+Local, ano da defesa.  
+ 
+CARMO, F. M. S. Estudo de polimorfismo do gene candidato, o fator 
+miogênico-5 (myf -5), em suínos. 2003. 69 f. Tese (Doutorado em 
+Zootecnia) - Universidade Federal de Viçosa, Viçosa, MG, 2003. 
+ 
+SANTOS, M. L. Crescimento e alocação de biomassa e de nutrientes em 
+eucalipto, decorrentes da aplicação de nitrogênio e potássio. 2001. 62 f. 
+Dissertação (Mestrado em Ciências do Solo) - Universidade Federal de 
+Viçosa, Viçosa, MG, 2001.  
+ 
+CARNEIRO, N. M. Q. Procedimentos básicos para o planejamento de 
+uma indústria de biscoitos, enfocando a legislação sanitária de 
+alimentos do estado de Minas Gerais. 2004. 90 f. Monografia 
+(Especialização em Nutrição e Saúde) - Universidade Federal de Viçosa, 
+Viçosa, MG, 2004.  
+ 
+5.7.6 Documento jurídico  
+Inclui legislação, jurisprudência (decisões judiciais) e doutrina (interpretação 
+dos textos legais).  
+5.7.6.1 Legislação  
+ 
+PAÍS, ESTADO E MUNICÍPIO. Lei ou decreto, nº, data (dia, mês e ano). Ementa. 
+Dados de publicação que publicou a lei ou decreto.  
+ 
+SÃO PAULO (Estado). Decreto n. 2563, de 27 de abril de 1998. Dispõe sobre 
+a atualização cadastral dos aposentados e pensionistas da Administração 
+Pública Federal direta, autarquia e fundacional do Poder Executivo da União, 
+Lex: Coletânea de Legislação e Jurisprudência, São Paulo, v. 62, n. 12, p. 
+1493-1494, 1998.  
+ 
+ 
+--- PAGE 52 ---
+51 
+ 
+5.7.6.2 Jurisprudência  
+Compreende súmulas, enunciados, acórdãos, sentenças e demais decisões 
+judiciais.  
+ 
+BRASIL. Tribunal Regional Federal. Apelação cível n. 94.01.12942-8-RO. 
+Apelante: Ilen Isaac. Apelada: União Federal. Relator: Juiz Flávio Dino. 
+Rondônia, 25 de agosto de 2000. Lex: jurisprudência do STJ e Tribunais 
+Regionais Federais, São Paulo, v. 12, n. 136, p. 223-225, dez. 2000.  
+ 
+5.7.7 Publicação periódica  
+Inclui a coleção como o todo, fascículo ou número de revista, número de 
+jornal, caderno etc. na integra, e a matéria existente em um número, volume ou 
+fascículo de periódico (artigos científicos de revistas, e ditoras, matérias jornalísticas, 
+seções, reportagens, etc.)  
+Os elementos essenciais são:  
+ 
+TÍTULO. Local de publicação: Editora, datas do início e de encerramento da 
+publicação se houver.  
+ 
+REVISTA ÁRVORE. Viçosa,  MG: Sociedade de Investigações Florestais, 
+ 1977-  
+ 
+Quando necessário acrescentam -se elementos complementares à referência 
+para melhor identificar o documento.  
+REVISTA ÁRVORE. Viçosa, MG: Sociedade de Investigações Florestais, 
+1977- Bimestral. ISSN 0100-6762.  
+ 
+Volumes, fascículo, números especiais e suplementos, entre outros, sem 
+título próprio.  
+--- PAGE 53 ---
+52 
+ 
+Os elementos essenciais são:  
+ 
+TÍTULO DA PUBLICAÇÃO. Local de publicação: Editora, numeração do ano e/ou 
+volume, numeração do fascículo, informações de períodos e datas de sua 
+publicação.  
+ 
+REVISTA ÁRVORE. Viçosa, MG: Sociedade de Investigações Florestais, v. 
+ 27, n. 6, nov./dez. 2003.  
+ 
+5.7.7.1 Artigo e/ou matéria de revista, boletim etc.  
+ 
+SOBRENOME DO AUTOR, Prenome. Título do artigo. Título do periódico. Local de 
+publicação (cidade), volume, número, nº fascículo, páginas inicial-final, mês e ano.  
+ 
+NARDELLI, A. M. B.; GRIFFITH, J. J. Modelo teórico para compreensão do 
+ambientalismo empresarial do setor florestal brasileiro. Revista Árvore, 
+Viçosa, MG, v.27, n. 6, p. 855-869, nov./dez. 2003.  
+ 
+5.7.7.2 Artigo e/ou matéria de revista, boletim etc. em meio eletrônico  
+NARDELLI, A. M. B.; GRIFFITH, J. J. Theoretical model for understanding 
+corporate environmentalism in the Brazilian forestry sector. Rev. Árvore, 
+Viçosa, MG, v. 27, n. 6, p. 855-869, Nov./Dec. 2003. Disponível em: 
+<http://www.scielo.br/pdf/rarv/v27n6/a12v27n6.pdf>. Acesso em: 11 Oct. 
+2004.  
+ 
+5.7.8 Artigo e/ou matéria de jornal  
+Inclui comunicações, editorial, entrevistas, recensões, reportagens, resenhas 
+e outros.  
+Os elementos essenciais são: autor(es) se houver, título, titulo do jornal , local 
+de publicação, data de publicação, seção, caderno ou parte do jornal e a paginação 
+correspondente. Quando não houver seção, caderno ou parte, a paginação do artigo 
+ou matéria precede a data.  
+--- PAGE 54 ---
+53 
+ 
+ 
+SOBRENOME DO AUTOR, Prenome . Título do artigo. Título do jornal. Local, dia 
+mês, ano. Nº ou título do caderno, seção ou suplemento, páginas inicial-final.  
+ 
+NAVES, P. Lagos andinos dão banho de beleza. Folha de São Paulo, São 
+Paulo, 28 jun. 1999. Folha Turismo. Caderno 8, p. 13.  
+ 
+5.7.8.1 Artigo e/ou matéria de jornal em meio eletrônico  
+ARRANJO tributário. Diário do Nordeste Online, Fortaleza, 27 nov. 1998. 
+Disponível em: <http://www.diariodonordeste.com.br>. Acesso em: 28 nov. 
+1998.  
+ 
+5.7.9 Normas técnicas 
+ 
+AUTOR. Nº da norma: Título: subtítulo. Local: Editora, Data. Nº de páginas. 
+ 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: 
+Informação e documentação: referências: elaboração. Rio de Janeiro, 2002. 
+24 p. 
+ 
+5.7.10 Patentes 
+ 
+ENTIDADE RESPONSÁVEL. Autor. Título da invenção na língua original. Nº da 
+patente, datas (do período de registro). Indicação da publicação, onde foi citada a 
+patente, quando for o caso. 
+ 
+PRODUTO ERLAN LTDA (Uberlândia – MG). Paulo César da Fonseca. 
+ Ornamentação aplicada a embalagem. C.I. 10-3-6. BR n. DI 2300045, 12 
+ set. 1983, 28 maio 1985. Revista da Propriedade Industrial, Rio de Janeiro, 
+ n. 762, 28 maio 1985. 
+ 
+--- PAGE 55 ---
+54 
+ 
+5.7.11 Bíblia 
+BÍBLIA SAGRADA. A. T. Gênesis. 34. ed. São Paulo: Ave-Maria, 1982. cap. 
+ 19, p. 65. 
+ 
+5.7.12 Verbetes de enciclopédias e dicionários 
+OPÇÃO. In: FERREIRA, Aurélio Buarque de Holanda. Novo dicionário da 
+ Aurélio da língua portuguesa. 3. ed. rev. e atual. Curitiba: Positivo, 2004. 
+ p. 1442. 
+ 
+CASCALHO. In: DICIONÁRIO Michaelis. Disponível em:<http://michaelis.uol. 
+com.br/moderno/português/índex.php>. Acesso em: 17 ago. 2010. 
+ 
+5.7.13 Separatas 
+FERNANDES, Rosette Batarda. Vocabulário de termos botânicos. 
+ Coimbra, Portugal: Sociedade Broteriana, 1972. Separata de: Anuário da 
+ Sociedade Broteriana, v. 38, Coimbra, Portugal: Sociedade Broteriana, 
+ 1972. 
+ 
+5.7.14 Resenha ou recensão de livro 
+MACHADO, I. F.; RIBAS, O. T.; OLIVEIRA, T. A. Cartilha: procedimentos 
+ básicos para uma arquitetura no trópico úmido. São Paulo: Ed. Pini, 1986. 
+ Resenha de: KATINSKY, Júlio Roberto. Ciênc. Cult., São Paulo, v. 38, n. 12, 
+ p. 2.075, dez. 1986. 
+ 
+5.7.15 Relatórios 
+ASSIS, A. V. A passagem para uma universidade integrada. Viçosa, MG: 
+ Criar, 2004. Relatório. 
+ 
+5.7.16 Entrevistas 
+MARTINS, João Carlos. Maestro João Carlos Martins. [Rio de Janeiro]: 
+ GNT, 8 ago. 2010. Entrevista concedida a Marília Gabriela Baston Toledo 
+ Cochrane. 
+ 
+--- PAGE 56 ---
+55 
+ 
+5.7.17 Resumo (Abstract) 
+Alves, Carlos Mário. O desenvolvimento de um suplemento alimentar para 
+ idosos. Caminhos, Vitória, v. 4, n.3, p.547, 2009. Resumo. 
+ 
+5.7.18 Trabalhos não publicados 
+Quando se tratar de trabalhos  não publicados, fazer somente a indicação na 
+nota de rodapé. 
+_________________ 
+¹ SILVA, A. R. M. Estudo sobre obesidade infantil: relatório de pesquisa. Viçosa, MG, 2010. 
+  Não publicado. 
+ 
+5.7.19 Bula de remédio 
+ VICK®-MEL: xarope. Farmacêutico responsável: Silvia C. M. de Freitas. 
+ Louveira, SP: The Procter &Gamble, 2010. Bula de remédio. 
+ 
+5.7.20 Catálogos de exposições 
+TELES, Sérgio. Pinturas e desenhos. Belo Horizonte: [s.n.], 1995. 12 p. 
+ Catálogo de exposição, 7-27 mar. 1995, Galeria BDMG. 
+ 
+5.7.21 Programas de espetáculos  
+CIA. ACASO. A hora da estrela: do original de Clarice Lispector. Adaptação 
+ e direção: Cida Falabella. [Belo Horizonte]: Fundação Clovis Salgado, [1997]. 
+ Vencedor do Prêmio Estímulo às Artes Cênicas – 1997. Prospecto. 
+ 
+5.7.22 Filmes 
+SALT. Direção: Phillip Noyce. EUA: Sony Pictures, 2010. 1 DVD (100 min.), 
+ widescreen, color., dublado. 
+ 
+CENTRAL do Brasil. Direção: Walter Salles Júnior. Produção: Martire de 
+ Clermont-Tonnerre e Arthur Cohn. Intérpretes: Fernanda Montenegro; Marilia 
+ Pera; Vinicius de Oliveira; Sônia Lira; Othon Bastos; Matheus Nachtergaele e 
+--- PAGE 57 ---
+56 
+ 
+ outros. Roteiro: Marcos Bernstein, João Emanuel Carneiro e Walter Salles 
+ Júnior. [S.l.]: Le Studio Canal; Riofilme; MACT Productions, 1998. 1 bobina 
+ cinematográfica (106 min), son., color., 35 mm. 
+ 
+5.7.23 Material cartográfico (atlas, globos, mapas) 
+Os elementos essenciais são: autor(es), título, local, editora, data de 
+publicação, designação específica e escala. 
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (Rio de 
+ Janeiro, RJ). Atlas do Brasil: geral e regional. Rio de janeiro, 1959. 705 p. 
+ 
+BRASIL. Ministério das Minas e Energia. Departamento Nacional de Produção 
+ Mineral. Mapa geológico do Quadrilátero Ferrífero, Minas Gerais, Brasil. 
+ Rio de Janeiro,1964. Mapa geológico. Escala 1: 150.000. 
+ 
+ 
+5.7.24 Material iconográfico (pinturas, fotos, gravuras, slides,  transparências 
+etc.) 
+ Os elementos essenciais são: autor, título (quando não existir, deve -se 
+atribuir uma denominação ou a indicação Sem  título, entre colchetes), data e 
+especificação do suporte. 
+ 
+KOBAYASHI, K. Doença dos xavantes. 1980. 1 fotografia, color., 16 cm x  
+56 cm. 
+ 
+5.7.25 Microformas (microfichas e microfilmes) 
+LEMOS, José do Castro. Como organizar seu arquivo. São Paulo: 
+ Polígono, 1980. Color., 35 mm. Microfilme. 
+ 
+5.7.26 Discos (vinil e CD) 
+Os elementos essenciais são: compositor(es) ou intérprete(s), título, local, 
+gravadora (ou equivalente), data e especificação do suporte. 
+ALCIONE. Ouro e cobre. Direção artística: Miguel Propschi. São Paulo: RCA 
+ Victor, p1988. 1 disco sonoro (45 min), 33 1/3 rpm, estéreo., 12 pol. 
+ 
+--- PAGE 58 ---
+57 
+ 
+5.7.27 Fita cassete 
+ FAGNER, R. Revelação. Rio de Janeiro: CBS, 1988. 1 cassete sonoro (60 
+ min), 3 ¾ pps, estéreo. 
+ 
+5.7.28 Partituras 
+Os elementos essenciais são: autor(es), título, local, editora, data, designação 
+específica e instrumento a que se destina. 
+ GALLET, Luciano (Org.). Canções populares brasileiras. Rio de Janeiro: 
+ Carlos Wehns, 1851. 1 partitura (23 p.). Piano. 
+ 
+ BARTÓK, Béla. O mandarim maravilhoso: op. 19. Wien: Universal, 1952. 1 
+ partitura. Orquestra. 
+ 
+5.7.29 Material tridimensional (escultura s, maquetes, objetos de museu, 
+fosséis, entre outros) 
+Os elementos essenciais são: autor(es), quando for possível identificar o 
+criador artístico do objeto, título (quando não existir, deve -se atribuir uma 
+denominação ou a indicação Sem título, entre colchetes), data e especificação do 
+objeto. 
+ DUCHAMP, Marcel. Escultura para viajar. 1918. 1 escultura variável. 
+BULE de porcelana. [China: Companhia das Índias, 18--]. 1 bule. 
+ 
+ DUCHAMP, Marcel. Escultura para viajar. 1918. 1 escultura variável, 
+ borracha colorida e cordel. Original destruído. Cópia por Richard Hamilton, 
+ feita por ocasião da retrospectiva de Duchamp na Tate Gallery (Londres) em 
+ 1966. Coleção de Arturo Schwarz. Tradução de: Sculpture for travelling. 
+ 
+5.7.30 Documento de acesso exclusivo em meio eletrônico 
+Os elementos essenciais são: autor(es), título do serviço ou produto, versão 
+(se houver) e descrição física do meio eletrônico. Quando se tratar de obras 
+consultadas online, também são essenciais as informações sobre o endereço 
+eletrônico, apresentado entre os sinais < >, precedido da expressão Disponível em: 
+e a data de acesso ao documento, precedida da  expressão Acesso em:, 
+opcionalmente acrescida dos dados referentes a hora, minutos e segundo.  
+--- PAGE 59 ---
+58 
+ 
+ 
+ MICROSOFT Project for Windows 95. Version 4.1. [S.l.]: Microsoft 
+ Corporation, 1995. 1 CD-ROM. 
+ 
+ AVES do Amapá: banco de dados. Disponível em: <http://www.bdt.org/bdt/ 
+ avifauna/aves>.  Acesso em: 30 maio 2002. 
+ 
+ BIOLINE Discussion List. List maintained by the Bases de Dados Tropical, 
+ BDT in Brasil. Disponível em:<lisserv@bdt.org.br>. Acesso em: 25 nov. 1998. 
+ 
+ ALMEIDA, M. P. S. Fichas para MARC [mensagem pessoal].Mensagem 
+ recebida por <mtmendes@uol.com.br> em 12 jan. 2002. 
+ 
+ 
+Nota: As mensagens que circulam por intermédio do correio eletrônico devem ser 
+referenciadas somente quando não se dispuser de nenhuma outra fonte para 
+abordar o assunto em discussão. Mensagens trocadas por e -mail têm caráter 
+informal, interpessoal e efêmero,  e de saparecem rapidamente, não sendo 
+recomendável seu uso como fonte científica ou técnica de pesquisa. 
+ 
+  
+--- PAGE 60 ---
+59 
+ 
+6 CITAÇÃO (ABNT NBR 10520/2002)      Voltar ao sumário 
+6.1 Definições 
+ 
+ Citação: Menção de uma informação extraída de outra fonte; 
+ Citação de citação : Citação direta ou indireta de um texto em que não se 
+teve acesso ao original; 
+ Citação direta: Transcrição textual de parte da obra do autor consultado. 
+ Citação indireta: Texto baseado na obra do autor consultado; 
+ Notas de r eferência: Notas que indicam fontes consultadas ou remetem a 
+outras partes da obra onde o assunto foi abordado; 
+ Notas de rodapé : Indicações, observações ou aditamentos ao texto feitos 
+pelo autor, tradutor ou editor, podendo também aparecer na margem 
+esquerda ou direita da mancha gráfica; 
+ Notas explicativas : Notas usadas para comentários, esclarecimentos ou 
+explanações, que não possam ser incluídos no texto. 
+ 
+As citações podem aparecer no texto e em notas de rodapé. 
+ 
+6.2 Regras gerais de apresentação 
+ 
+Nas ci tações, as chamadas pelo sobrenome do autor, pela instituição 
+responsável ou título incluído na sentença devem ser  em letras maiúsculas e 
+minúsculas e, quando estiverem entre parênteses, devem ser em letras maiúsculas.  
+Exemplos:  
+Longo e Vergueiro (2003, p . 40) afirmam  que a realidade exige das 
+organizações uma visão estratégica dos negócios,  dos modelos gerenciais adotados 
+e do capital humano, diferenciais competitivos em longo prazo.   
+  
+A realidade exige das organizações uma visão estratégica dos negócio s, dos 
+modelos gerenciais adotados e do capital humano, diferenciais  competitivos em 
+longo prazo. (LONGO, VERGUEIRO, 2003, p. 40) 
+Especificar no texto a(s) página(s), volume(s), tomo(s) ou seção(ões) da fonte 
+consultada, nas citações diretas. Este(s)  deve(m) seguir a data, separado(s) por 
+--- PAGE 61 ---
+60 
+ 
+vírgula e precedido(s) pelo termo, que o(s) caracteriza, de forma abreviada. Nas  
+citações indiretas, a indicação da(s) página(s) consultada(s) é opcional. Exemplos: 
+ 
+D z D  ke    gl e   t hell (2005  p. 22 ) “A câmara deli mitada pela parede 
+abdominal contém uma única grande cavidade peritoneal, a qual se comunica 
+l   e ente              e p l    .” 
+ 
+Rochefort (1998) defini região pela dinâmica dos fluxos espaciais, sob o raio 
+de ação de uma cidade. 
+ 
+As citações diretas, no texto, de até três linhas, devem estar contidas entre 
+aspas duplas. As aspas simples são  utilizadas para indicar citação no interior da 
+citação. Exemplos: 
+“O h  e    p e     ente   que   n   nã   . O h  e  nã   e  ef ne pel  
+que é, mas pelo que deseja ser. ” (GOMENSORO DE SÁNCHEZ, 1963 apud 
+SALVADOR, 1977, p. 160).  
+Gomensoro de Sànchez (1963 apud SAL ADOR   977  p.   0)   z: “O 
+homem é precisamente o que ainda não é. O homem não se define pelo que é, mas 
+pel  que  e ej   e .” 
+As citações diretas, no texto, com mais de três linhas, devem ser destacadas 
+com recuo de 4 cm da margem esquerda,  com letra menor que a do texto utilizado e 
+sem as aspas. No caso de documentos datilografados, deve -se observar apenas o 
+recuo. Exemplo: 
+ 
+A preocupação pela qualidade sempr e foi uma  constante, como afirma 
+Vergueiro (1993, p. 14): 
+Tradicionalmente, essas unidades de informação preocuparam -se com a 
+melhoria da qualidade de seus produtos e serviços, aprimorando a 
+organização física e estrutural do trabalho ou buscando um fluxo 
+organizacional que atendesse os objetivos pretendidos. No entanto, essa 
+iniciativa em direção à qualidade parecia basear -se mais na visão dos 
+profissionais sobre os serviços do que na opinião daqueles para quem os 
+serviços eram disponibilizados. 
+--- PAGE 62 ---
+61 
+ 
+Devem ser indicadas as supressões, interpolações, comentários, ênfase ou 
+destaques, do seguinte modo: 
+a) supressões: [...] 
+b) interpolações, acréscimos ou comentários: [   ] 
+c) ênfase ou destaque: grifo ou negrito ou itálico. 
+Quando se tratar de dados obtidos por in formação verbal (palestras, debates, 
+comunicações etc.), indicar, entre  parênteses, a expressão informação verbal, 
+mencionando-se os dados disponíveis, em nota de rodapé. Exemplo:  
+ 
+No texto: 
+O novo medicamento estará disponível até o final deste ano (info rmação 
+verbal)¹ 
+No rodapé da página: 
+____________________ 
+¹ Notícia fornecida por João Alves Silva no Congresso Brasileiro de Veterinária, em Viçosa, 
+    MG, em setembro de 2010.  
+ 
+Na citação de trabalhos em fase de elaboração, deve ser mencionado o fato, 
+indicando-se os dados disponíveis, em nota de rodapé. Exemplo: 
+  
+A aloe vera ajuda na prevenção de várias doenças. (em fase de elaboração)¹ 
+ 
+No rodapé da página: 
+___________________ 
+¹ O poder das plantas, de autoria de Ernesto Braga, a ser editado pela Ed. UFV, 2012. 
+ 
+Para enfatizar trechos da citação, deve -se destacá -los indicando  esta 
+alteração com a expressão “grifo nosso” entre parênteses, após a chamada da 
+citação, ou grifo do autor, caso o destaque já faça parte da obra consultada.  
+Exemplos: 
+Nas regiões proximal e distal do fêmur, a linha áspera alarga-se para formar 
+uma superfície posterior adicional.  (DRAKE; VOGL; MITCHELL, 2005, p. 513 , grifo 
+nosso). 
+--- PAGE 63 ---
+62 
+ 
+“[...] são separados por uma fossa intercondilar  e unem-se anteriormente, 
+onde se articulam com a pa tela.” (DRAK ; VOGL; MITCHELL, 2005, p. 513 , grifo do 
+autor). 
+ 
+Quando a citação incluir texto traduzido pelo autor, deve -se incluir, após a 
+chamada da citação, a expressão tradução nossa, entre parênteses. Exemplo: 
+ 
+“[...] Atençã :  nte     f x çã   e e  er conferido o nível (com o nível 
+ ’águ )  e efetu         p ge     l   l  n e el    e ã    l      .” (SIL A   999  
+p. 152, tradução nossa). 
+ 
+6.3 Sistema de chamada 
+ 
+As citações devem ser indicadas no texto por um sistema de chamada: 
+numérico ou autor-data. 
+Qualquer que seja o método adotado, deve ser seguido consistentemente ao 
+longo de todo o trabalho, permitindo sua  correlação na lista de referências ou em 
+notas de rodapé. 
+Quando o(s) nome(s) do(s) autor(es), instituição(ões) responsável(eis) 
+estiver(em) incluído(s) na sentença,  indica-se a data, entre parênteses, acrescida 
+da(s) página(s), se a citação for direta. Exemplos:  
+ 
+Em Braga (1999) relata -se a necessidade da preservação da biodiversidade 
+da Mata Atlântica. 
+ 
+Segundo Gomes (1984, p. 87) assinala " [...] a solução para o problema da 
+reforma agrária no Brasil." 
+ 
+Quando houver coincidência de sobrenomes de autores, acrescentam -se as 
+iniciais de seus prenomes; se mesmo  assim existir coincidência, colocam -se os 
+prenomes por extenso. Exemplos:  
+ 
+(BARROS, M., 1958) (BARROS, Mário, 1965) 
+--- PAGE 64 ---
+63 
+ 
+(MARQUES, O., 1959) (MARQUES, Carlos, 1965) 
+As citações de diversos documentos de um mesmo autor, publicados num 
+mesmo ano, são distinguidas pelo  acréscimo de letras minúsculas, em ordem 
+alfabética, após a data e sem espacej amento, conforme a lista de referências.  
+Exemplos:  
+De acordo com Silva (2009a) 
+(SILVA, 2009b) 
+ 
+As citações indiretas de diversos documentos da mesma autoria, publicados 
+em anos diferentes e mencionados  simultaneamente, têm as suas datas separadas 
+por vírgula. Exemplos:  
+ 
+(DIAS, 1999, 2002, 2007) 
+(DIAS; FONSECA; GOMES, 2004, 2005, 2009) 
+ 
+As citações indiretas de diversos documentos de vários autores, mencionados 
+simultaneamente, devem ser  separadas por ponto -e-vírgula, em ordem alfabética.  
+Exemplo:  
+ 
+Diversos autores descreve m alternativas para reduzir a emissão de gases 
+tóxicos no planeta. (PIRES, 1999; LOPES, 2001; MENDES, 2005). 
+ 
+6.3.1 Sistema numérico 
+Neste sistema, a indicação da fonte é feita por uma numeração única e 
+consecutiva, em algarismos arábico s, remetendo à  lista de referências ao final do 
+trabalho, do capítulo ou da parte, na mesma ordem em que aparecem no texto. Não 
+se inicia a numeração das citações a cada página. 
+O sistema numérico não deve ser utilizado quando há notas de rodapé. 
+A indicação da numeração pode ser feita entre parênteses, alinhada ao texto, 
+ou situada pouco acima da linha do  texto em expoente à linha do mesmo, após a 
+pontuação que fecha a citação. Exemplos:  
+ 
+Diz Fernando Pessoa: "Tudo vale a pena quando a alma não é pequena.” ( 3) 
+                                                                                                                 
+--- PAGE 65 ---
+64 
+ 
+Diz Fernando Pessoa: "Tudo vale a pena quando a alma não é pequena.” ¹³ 
+ 
+6.3.2 Sistema autor-data 
+ 
+Neste sistema, a indicação da fonte é feita: 
+ 
+a) pelo sobrenome de cada autor ou pelo nome de cada entidade responsável 
+até o primeiro sinal de pontuação,  seguido (s) da data de publicação do documento 
+e da  (s) página(s) da citação, no caso de citação direta, separados por  vírgula e 
+entre parênteses. Exemplos:  
+ 
+No texto: 
+A  h      “p n e tí t    h            f     p  t  ul   pel  qu l      e t  
+romano fora integrado no     ul  XIX n  Ale  nh  e  p  t  ul  .” (LOP S  2000  p. 
+225). 
+Na lista de referências: 
+ 
+LOPES, José Reinaldo de Lima. O Direito na História. São Paulo: Max 
+ Limonad, 2000. 
+ 
+No texto: 
+Bobbio (1995, p. 30) com muita propriedade nos lembra, ao comentar esta 
+  tu çã   que    “ju   t    e  e     ju t f       f    l ente     l    e       e t  
+romano ponderando que este era o direito d o Império Romano que tinha sido 
+ e  n t tuí   p   C  l     gn        n  e  e S     I p     R   n .” 
+Na lista de referências: 
+ 
+BOBBIO, Norberto. O positivismo jurídico: lições de Filosofia do Direito. São 
+ Paulo: Ícone, 1995. 
+ 
+No texto: 
+De fato, semelhante equacionamento do problema conteria o risco de se 
+considerar a literatura meramente como uma fonte a mais de conteúdos já 
+previamente disponíveis, em outros lugares, para a teologia (JOSSUA; METZ, 1976, 
+p. 3). 
+--- PAGE 66 ---
+65 
+ 
+Na lista de referências: 
+ 
+JOSSUA, Jean Pierre; METZ, Johann Baptist. Editorial: Teologia e Literatura. 
+ Concilium, Petrópolis, v.115, n. 5, p. 2-5, 1976. 
+ 
+No texto: 
+Merriam e Caffarella (1991) observam que a localização de recursos tem um 
+papel crucial no processo de aprendizagem autodirigida. 
+ 
+Na lista de referências: 
+ 
+MERRIAM, S.; CAFFARELLA, R. Learning in adulthood: a comprehensive 
+ guide. San Francisco: Jossey-Bass, 1991. 
+ 
+No texto: 
+“C  un    e te  que p  e   e   nte    b     e  qu lque      un tân     
+sem quaisquer restrições estatais, pelas moed as dos outros Estados - e b   .” 
+(COMISSÃO DAS COMUNIDADES EUROPÉIAS,1992, p. 34). 
+ 
+Na lista de referências: 
+ 
+COMISSÃO DAS COMUNIDADES EUROPÉIAS. A união européia. 
+ Luxemburgo: Serviço das Publicações Oficiais das Comunidades Européias, 
+ 1992. 
+ 
+No texto: 
+O mecanismo proposto para viabilizar esta concepção é o chamado Contrato 
+de Gestão, que conduziria à captação de recursos privados como forma de reduzir 
+os investimentos públicos no ensino superior (BRASIL, 1995). 
+ 
+Na lista de referências: 
+ 
+BRASIL. Ministério da Administração Federal e da Reforma do Estado. Plano 
+ diretor da reforma do aparelho do Estado. Brasília, DF, 1995. 
+ 
+--- PAGE 67 ---
+66 
+ 
+b) pela primeira palavra do título seguida de reticências, no caso das obras 
+sem indicação de autoria ou  responsabilidade, seguida da d ata de publicação do 
+documento e da(s) página(s) da citação, no caso de citação  direta, separados por 
+vírgula e entre parênteses. Exemplo:  
+ 
+No texto: 
+“A  I S   ple ent  ã   e  n       e    át      legít     e t  n p  ente  
+de avaliação sistemática das sua s atividades, levando em conta seus objetivos 
+ n t tu   n    e  eu     p         p              e   e.” (ANT PROJ TO...  
+1987, p. 55). 
+Na lista de referências: 
+ 
+ANTEPROJETO de lei. Estudos e Debates, Brasília, DF, n. 13, p. 51-60, jan. 
+ 1987. 
+ 
+c) se o títu lo iniciar por artigo (definido ou indefinido), ou monossílabo, este 
+deve ser incluído na indicação da fonte. Exemplo:  
+No texto: 
+  ele      e    “gl b l z çã ”  e   ube    que e         que  h         
+ordem absurda em que dinheiro é a única pátria à qual se serve e as fronteiras se 
+diluem, não pela fraternidade, mas pelo sangramento que engorda poderosos sem 
+nacionalidade. (A FLOR..., 1995, p. 4). 
+ 
+Na lista de referências: 
+ 
+A FLOR prometida. Folha de S. Paulo, São Paulo, p. 4, 2 abr. 1995. 
+No texto: 
+“   N va Londrina (PR), as crianças são levadas às lavouras a partir dos 5 
+ n  .” (NOS CANA IAIS...  995  p.  2). 
+ 
+Na lista de referências: 
+ 
+NOS CANAVIAIS, mutilação em vez de lazer e escola. O Globo, Rio de 
+ Janeiro, 16 jul. 1995. O País, p. 12. 
+ 
+--- PAGE 68 ---
+67 
+ 
+ 
+ 
+6.4 Notas de rodapé 
+ 
+Deve-se utilizar o sistema autor -data para as citações no texto e o numérico 
+para notas explicativas. As notas de rodapé  podem ser conforme 6.4.1 e 6.4 .2 e 
+devem ser alinhadas, a partir da segunda linha da mesma nota, abaixo da primeira 
+letra da primeira palavra, de forma a destacar o expoente e sem espaço entre elas e 
+com fonte menor. Exemplos: 
+____________________ 
+¹ Veja-se como exemplo desse tipo de abordagem o estudo de Netzer (1976). 
+² Encontramos esse tipo de perspectiva na 2ª parte do verbete referido na nota anterior, em 
+    grande parte do estudo de Rahner (1962). 
+ 
+ 
+6.4.1 Notas de referência 
+A numeração das notas de referência é feita por algarismos arábicos, 
+devendo ter numeração única e consecutiva para  cada capítulo ou parte. Não se 
+inicia a numeração a cada página. 
+A primeira citação de uma obra, em nota de rodapé, deve ter sua referência 
+completa. Exemplo:  
+ 
+No rodapé da página: 
+____________________ 
+³ SILVA, Gislene. O sonho da casa no campo: jornalismo e imaginário de leitores urbanos. 
+    Florianópolis: Insular, 2009. 
+ 
+As subsequentes citações da mesma obra podem ser referenciadas de forma 
+abreviada, utilizando as seguintes expressões, abreviadas quando for o caso: 
+ 
+a) Idem – mesmo autor – Id.; 
+Exemplo: 
+___________________ 
+² ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, 2002, p. 4. 
+³ Id., 2005, p. 6. 
+b) Ibidem – na mesma obra – Ibid.; 
+--- PAGE 69 ---
+68 
+ 
+Exemplo: 
+____________________ 
+¹ CASTRO, 2003, p. 154. 
+² Ibid., p. 675. 
+ 
+c) Opus citatum, opere citato – obra citada – op. cit.; 
+Exemplo: 
+____________________ 
+¹ ASSIS, 1981, p. 85. 
+² GOMES, 1985, p. 96-97. 
+³ ASSIS, op. cit., p. 96. 
+ 
+d) Passim – aqui e ali, em diversas passagens – passim; 
+Exemplo: 
+____________________ 
+¹³ MATOS, 2009, passim. 
+ 
+e) Loco citato – no lugar citado – loc. cit.; 
+Exemplo: 
+___________________ 
+²² SILVA; PIRES, 2010, p. 87-89. 
+²³ SILVA; PIRES, loc. cit. 
+ 
+f) Confira, confronte – Cf.; 
+Exemplo: 
+ 
+___________________ 
+³ Cf. NEVES, 2005. 
+ 
+g) Sequentia – seguinte ou que se segue – et seq.; 
+Exemplo: 
+____________________ 
+² FONTES, 2009, p. 96 et seq. 
+ 
+A expressão apud – citado por, conforme, segundo – pode, também, ser 
+usada no texto. Exemplos:  
+--- PAGE 70 ---
+69 
+ 
+ 
+No texto: 
+Estudos de Zapeda (apud MELO, 1995, p. 5) mostram [...] 
+“O h  e    p e     ente   que   n   nã   . O h  e  nã   e  ef ne pel  
+que é, mas pelo que des ej   e ”. (GO  NSORO D  SÁNCH Z   9 3 apud 
+SALVADOR, 1977, p. 160). 
+No rodapé da página: 
+____________________ 
+² GOMENSORO DE SÁNCHEZ, 1963 apud SALVADOR, 1977, p. 160. 
+ 
+As expressões constantes nas alíneas a), b), c) e f) de só podem ser usadas 
+na mesma página ou folha da citação a que se referem. 
+ 
+6.4.2 Notas explicativas 
+ 
+A numeração das notas explicativas é feita em algarismos arábicos, devendo 
+ter numeração única e consecutiva para cada  capítulo ou parte. Não se inicia a 
+numeração a cada página. 
+Exemplos:  
+ 
+No texto: 
+No primeiro período de coleta de textos, em setembro, as notícias locais 
+superam de forma expressiva as referentes a outras localidades do país.¹ 
+No rodapé da página: 
+___________________ 
+¹ É importante observar que a pesquisa não levou em conta notícias internacionais. 
+ 
+No texto: 
+Essa é a lógica do jornalismo corporativo, ³² na qual emissores e receptores 
+frequentemente cambiam seus papéis. 
+No rodapé da página: 
+____________________ 
+³² Sobre o assunto, ver Moura (2002) e Quadros (2005). 
+--- PAGE 71 ---
+70 
+ 
+REFERÊNCIAS 
+ 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 10520: informação e 
+documentação: apresentação de citações em documentos. Rio de Janeiro, 2002. 
+ 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 12225: informação e 
+documentação: lombada: apresentação. Rio de Janeiro, 2002. 
+ 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR14724: informação e 
+documentação: trabalhos acadêmicos: apresentação. Rio de Janeiro, 2011.  
+ 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS NBR 6034: informação  e 
+documentação: índice: apresentação. Rio de Janeiro, 2004. 
+ 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6024: numeração 
+progressiva das seções de um documento: procedimento. Rio de Janeiro, 2003. 
+ 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6028: informação e 
+documentação: resumo: apresentação. Rio de Janeiro, 2003. 
+ 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6027: informação e 
+documentação: sumário: apresentação. Rio de Janeiro, 2003. 
+ 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6023: informação e 
+documentação: referências: elaboração. Rio de Janeiro, 2002.  
+ 
+FRANÇA, Júnia Lessa. Manual para normalização de publicações técnico-
+científicas . 8. ed. rev. Belo Horizonte: Ed. UFMG, 2009.  
+ 
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Normas de 
+apresentação tabular. Rio de Janeiro, 1993. Disponível em: <http://biblioteca.ibge. 
+gov.br/visualizacao/monografias/GEBIS%20-%20RJ/normastabular.pdf>. Acesso 
+em: 25 out. 2010. 
+ 
+ 
+  

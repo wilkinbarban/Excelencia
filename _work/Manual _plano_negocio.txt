@@ -1,0 +1,3418 @@
+
+--- PAGE 1 ---
+COMO ELABORAR UM PLANO DE NEGÓCIO
+COMO ELABORAR UM PLANO DE NEGÓCIO
+--- PAGE 2 ---
+
+--- PAGE 3 ---
+
+COMO ELABORAR UM 
+PLANO DE NEGÓCIO
+--- PAGE 4 ---
+
+--- PAGE 5 ---
+
+COMO ELABORAR UM 
+PLANO DE NEGÓCIO
+--- PAGE 6 ---
+
+SEBRAE – NA
+Presidente do Conselho Deliberativo
+ Adelmir Araújo Santana
+Diretor-Presidente do Sebrae
+ Paulo Okamotto
+Diretor-Técnico do Sebrae
+ Luiz Carlos Barboza
+Diretor-Financeiro do Sebrae
+ Carlos Alberto dos Santos
+Gerente da Unidade de Capacitação Empre-
+sarial
+ Mirela Malvestiti
+Gerente da Unidade de Atendimento Indivi -
+dual
+ Ênio Duarte Pinto
+Coordenação 
+ Michelle Carsten Santos – Sebrae
+Atualização do Conteúdo
+ Cláudio Afrânio Rosa – Sebrae/MG
+Equipe Técnica
+ Débora Franceschini Mazzei – Sebrae
+ José Gava Neto – Sebrae/PR
+ Maria Conceição Moraes – Sebrae/PE
+ Silmar Pereira Rodrigues – Sebrae
+Tratamento de Linguagem e Revisão
+ Business do Brasil Comunicação Ltda.
+Editoração Eletrônica e Diagramação
+ All Type Assessoria Editorial Ltda.
+© 2007. Serviço Brasileiro de Apoio às Micro e Pequenas Empresas – Sebrae
+Todos os direitos reservados
+A reprodução não autorizada desta publicação, no todo ou em parte, constitui  
+violação dos direitos autorais (Lei nº 9.610)
+Informações e Contato
+ Serviço Brasileiro de Apoio às Micro e Pequenas Empresas – Sebrae
+ Unidade de Capacitação Empresarial
+ SEPN Quadra 515, Bloco C, loja 32 – CEP 70770-900 – Brasília – DF
+ Telefone (xx) (61) 3348 7168 – Fax (xx) (61) 3447 4938
+	 Internet  www.sebrae.com.br
+ Publicação elaborada pelo Sebrae/MG e atualizada e reeditada pelo Sebrae/NA
+R788 Rosa, Cláudio Afrânio.
+Como elaborar um plano de negócio / Cláudio Afrânio 
+Rosa. -- Brasília : SEBRAE, 2007.
+120 p. : il.
+1.Plano de negócio. 2. Planejamento empresarial. I. 
+Título.
+CDU 65.012.2
+SEBRAE – MG
+Presidente do Conselho Deliberativo
+ Roberto Simões
+Diretor Superintendente 
+ Afonso Maria Rocha
+Diretor Técnico
+ Luiz Márcio Haddad Pereira Santos
+Diretor de Operações
+ Matheus Cotta de Carvalho
+Gerência de Atendimento e Coordenação Geral
+ Mara Regina Veit
+Gerência de Educação e Empreendedorismo
+ Ricardo Luiz Alves Pereira
+Supervisão Técnica
+ Any Myuki Wakabayashi 
+ Cláudio Afrânio Rosa
+ Renata Duarte Foscarini
+Autor
+ Cláudio Afrânio Rosa
+Consultoria
+Organização
+ Flávio Lúcio Brito
+Colaboração
+ Haroldo Mota de Almeida 
+ Luiz Antônio Nolasco dos Santos
+ Mauro de Souza Henriques
+Editorial 
+ Núcleo de Comunicação
+Projeto Gráfico/Ilustração
+ AQMG–Associação dos Quadrinistas de Minas Gerais
+Agência 
+ Casablanca 
+--- PAGE 7 ---
+
+n  Sumário
+n Apresentação 7
+n Plano de Negócio 8
+n O que é e para que serve 8
+n Plano de Negócio – Seu Mapa de Percurso 9
+n 1ª parte – A elaboração do plano de negócio 9
+n 2ª parte – A construção do seu plano de negócio 10
+n Recomendações gerais 10
+n Parte  – A elaboração do plano de negócio 
+n . Sumário Executivo 
+n 1.1. Resumo dos principais pontos do plano de negócio 11
+n 1.2. Dados dos empreendedores, experiência profissional e atribuições 13
+n 1.3. Dados do empreendimento 16
+n 1.4. Missão da empresa 16
+n 1.5. Setores de atividade 17
+n 1.6. Forma jurídica 18
+n 1.7. Enquadramento tributário 19
+n 1.7.1. Âmbito federal  20
+n 1.7.2. Âmbito estadual 20
+n 1.7.3. Âmbito municipal 20
+n 1.8. Capital Social 20
+n 1.9. Fonte de recursos 21
+n . Análise de Mercado 
+n 2.1. Estudo dos clientes 22
+n 2.2. Estudo dos concorrentes 25
+n 2.3. Estudo dos fornecedores 28
+n . Plano de Marketing 
+n 3.1. Descrição dos principais produtos e serviços 33
+n 3.2. Preço 34
+n 3.3. Estratégias promocionais 35
+n 3.4. Estrutura de comercialização 36
+n 3.5. Localização do negócio 37
+n . Plano Operacional 9
+n 4.1. Layout 39
+n 4.2. Capacidade produtiva/comercial/serviços 41
+n 4.3. Processos operacionais 42
+n 4.4. Necessidade de pessoal 43
+--- PAGE 8 ---
+
+n . Plano Financeiro 
+n Investimento total  44
+n 5.1. Estimativa dos investimentos fixos 44
+n 5.2. Capital de giro 46
+n 5.3. Investimentos pré-operacionais 53
+n 5.4. Investimento total (resumo) 54
+n 5.5. Estimativa do faturamento mensal da empresa 56
+n 5.6. Estimativa do custo unitário de matéria-prima, materiais  
+  diretos e terceirizações 57
+n 5.7. Estimativa dos custos de comercialização 60
+n 5.8. Apuração dos custos dos materiais diretos e/ou mercadorias vendidas 62
+n 5.9. Estimativa dos custos com mão-de-obra 62
+n 5.10. Estimativa do custo com depreciação 63
+n 5.11. Estimativa dos custos fixos operacionais mensais 65
+n 5.12. Demonstrativo de resultados 67
+n 5.13. Indicadores de viabilidade 67
+n 5.13.1. Ponto de equilíbrio 67
+n 5.13.2. Lucratividade 69
+n 5.13.3. Rentabilidade 70
+n 5.13.4. Prazo de retorno do investimento 71
+n . Construção de Cenários 7
+n Ações corretivas e preventivas 75
+n 7. Avaliação Estratégica 7
+n 7.1. Análise da matriz F.O.F.A.  76
+n 8. Avaliação do Plano de Negócio 79
+n 9. Roteiro para Coleta de Informações Consolidado 80
+n 0. Referências Bibliográficas 8
+n Parte  – A Construção do seu Plano de Negócio 87
+n 1. Sumário Executivo 88
+n 2. Análise de Mercado 94
+n 3. Plano de Marketing 97
+n 4. Plano Operacional 100
+n 5. Plano Financeiro 104
+n 6. Construção de Cenários 116
+n 7. Avaliação Estratégica 118
+n 8. Avaliação do plano de negócio 118
+--- PAGE 9 ---
+7
+n Apresentação
+O Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - SEBRAE é a entidade que 
+tem por missão promover	a	competitividade	e	o	desenvolvimento	sustentável	das	micro	e	
+pequenas	empresas	e	fomentar	o	empreendedorismo.
+As empresas de pequeno porte são fundamentais para estimular a economia do País e pos -
+sibilitar a inclusão social, mediante a maior oferta de postos de trabalho. A cada ano, nascem 
+cerca de 500 mil empresas no país, o que é um número considerável.  Entretanto, segundo 
+pesquisa realizada pelo SEBRAE, em 2004, 49,4% delas encerram as atividades com até 2 
+(dois) anos de existência, 56,4% com até 3 (três) anos e 59,9% não sobrevivem além dos 4 
+(quatro) anos.
+O desafio do SEBRAE é prestar apoio ao universo de milhões de empreendedores de peque-
+nos negócios que compõem o conjunto produtivo da economia do Brasil e que necessitam 
+de aprimoramento nos processos de gestão e, principalmente, de uma visão antecipada das 
+condições do mercado em que atuam ou em que irão se estabelecer, para que possam tomar 
+decisões mais objetivas e com riscos calculados, o que demonstra a importância de planejar 
+ações. 
+O plano de negócio é o instrumento ideal para traçar um retrato fiel do mercado, do produto e 
+das atitudes do empreendedor, o que propicia segurança para quem quer iniciar uma empresa 
+com maiores condições de êxito ou mesmo ampliar ou promover inovações em seu negócio.
+Uma das prioridades da instituição, portanto, diz respeito à capacitação dos empresários e 
+dos interessados em abrir sua empresa, investindo na elaboração de planejamento do ne -
+gócio e no conhecimento direcionado às práticas gerenciais, para que estes possam criar e 
+manter seus empreendimentos, participando efetivamente no desenvolvimento do País.
+Sucesso nessa caminhada para elaboração do seu plano de negócio! E lembre-se: seu su -
+cesso depende de você!
+--- PAGE 10 ---
+8
+n Plano de Negócio
+n O que é e para que serve
+Imagine que você deseja construir uma casa, organizar uma festa, viajar para o campo ou 
+para o litoral. Com certeza, sua intenção é que tudo dê certo, mas, para que isso ocorra, é 
+necessário fazer um cuidadoso planejamento.
+Preste atenção nesta palavra: PLANEJAMENTO. Ou seja, a casa, a festa e a viagem não vão 
+se realizar apenas porque você assim deseja, mesmo que seja um desejo ardoroso. Idéias 
+assim nascem em nossos corações, porém, para que elas se tornem realidade, é preciso 
+construí-las passo a passo.
+Para que uma viagem aconteça, é necessário escolher o local a ser visitado, decidir o tempo 
+da viagem, quanto dinheiro levar, comprar passagens, reservar hotel, arrumar as malas, entre 
+tantas outras coisas.
+Se, para uma simples viagem, precisamos fazer tudo isso, imagine quando queremos abrir 
+um negócio. E empreender, muitas vezes, é uma viagem para um lugar desconhecido.
+Para você organizar suas idéias é que foi criado o PLANO DE NEGÓCIO. Nesta viagem ao 
+mundo dos empreendedores, o plano de negócio será o seu mapa de percurso.
+O plano irá orientá-lo na busca de informações detalhadas sobre o seu ramo, os produtos e 
+serviços que irá oferecer, seus clientes, concorrentes, fornecedores e, principalmente, sobre 
+os pontos fortes e fracos do seu negócio, contribuindo para a identificação da viabilidade de 
+sua idéia e na gestão da empresa.
+Um plano de negócio é um documento que descreve por escrito os objetivos de um ne -
+gócio e quais passos devem ser dados para que esses objetivos sejam alcançados, dimi -
+nuindo os riscos e as incertezas. Um plano de negócio permite identificar e restringir seus 
+erros no papel, ao invés de cometê-los no mercado.
+Ao final, seu plano irá ajudá-lo a responder a 
+seguinte pergunta: “Vale a pena abrir, manter 
+ou ampliar o meu negócio?”.
+Lembre-se de que a preparação de um plano 
+de negócio é um grande desafio, pois exige 
+persistência, comprometimento, pesquisa, 
+trabalho duro e muita criatividade.  Boa sor -
+te, ou melhor dizendo, bom trabalho! E tenha 
+claro que começar já é a metade de toda a 
+ação. Sucesso!
+Adaptado: Cláudia Pavani – Plano de Negócios: um guia 
+para o vôo de sua empresa
+
+--- PAGE 11 ---
+9
+n Plano de Negócio – Seu Mapa de Percurso
+“Se quiser que algo seja bem-feito, faça você mes-
+mo.” Nada mais certo do que essa expressão po -
+pular, principalmente quando se trata da elaboração 
+de um plano de negócio. 
+Elaborando pessoalmente o seu plano de negócio, 
+você tem a oportunidade de preparar um plano sob 
+medida, baseado em informações que você mesmo 
+levantou e nas quais pode depositar mais confiança. 
+Quanto mais você conhecer sobre o mercado e sobre o 
+ramo que pretende atuar, mais bem-feito será seu plano.
+Este manual tem por objetivo auxiliá-lo na criação do seu 
+plano de negócio, independentemente de você estar abrindo 
+um novo empreendimento ou ampliando um já existente. 
+Você terá à sua disposição um modelo de plano de negócio. Encare este roteiro como uma 
+sugestão. Provavelmente, será preciso que você faça ajustes para que seu plano esteja ade-
+quado ao tamanho e à atividade da sua empresa.
+Para ajudá-lo no desenvolvimento do seu planejamento, o manual está dividido em duas partes:
+n ª parte – A elaboração do plano de negócio
+Contém informações importantes para a elaboração do plano de negócio. Esse primeiro bloco 
+é composto pelas seguintes seções:
+O que é e como fazer
+n Você terá acesso a explicações sobre cada etapa da elaboração do plano. Leia atentamente 
+todas as orientações, pois, logo em seguida, será hora de praticar.
+Fique de olho
+n Em alguns momentos, você receberá dicas sobre um determinado assunto.  Fique alerta 
+para as recomendações que serão feitas.
+Hora de praticar
+n É hora de preencher todos os quadros e tabelas com as informações levantadas.
+Roteiro para coleta de informações
+n Ao final, você poderá planejar as providências que serão tomadas para obter as informa -
+ções necessárias à elaboração do plano.
+--- PAGE 12 ---
+0
+Esta parte do manual irá auxiliá-lo a construir passo a passo o plano de negócio do seu em -
+preendimento. Ao terminar sua elaboração, analise e reflita sobre as estratégias que está 
+adotando e, se necessário, defina quais correções deverão ser feitas.
+n ª parte – A construção do seu plano de negócio
+Ao final do manual, você encontrará um modelo do plano em branco. Utilize todas as informa-
+ções pesquisadas e transporte-as para esse formulário. 
+Sucesso e mãos à obra!
+n Recomendações gerais
+n Informações são a matéria-prima de qual -
+quer plano de negócio, portanto, pesquise 
+e procure conhecer tudo sobre o seu setor. 
+Informações podem ser obtidas em jornais, 
+revistas, associações, feiras, cursos,  junto a 
+outros empresários do ramo, na Internet ou 
+com clientes e fornecedores potenciais.
+n Lembre-se de que um plano de negócio é 
+uma trilha e não trilho e não deve ser enca -
+rado como um instrumento rígido, portanto, 
+é preciso acompanhá-lo permanentemente. 
+Um plano de negócio é feito no papel e “a 
+lápis”, pois está sujeito a correções.
+n O plano de negócio fala por você. Quanto 
+melhor sua aparência e quanto mais claras as idéias, melhores serão os resultados. Além 
+disso, procure fazê-lo bem-feito e organizado. Assim, você irá tornar mais fácil sua utiliza-
+ção e sua consulta.
+n Um plano de negócio pode ser usado para se conseguir novos sócios e investidores, para 
+estabelecer parcerias com fornecedores e clientes ou mesmo apresentado a bancos para 
+a solicitação de financiamentos. Entretanto, lembre-se de que o maior usuário do seu pla-
+no é você mesmo.
+Em caso de dúvidas, entre em contato com o SEBRAE do seu Estado, pessoalmente, por 
+telefone, carta ou e-mail. Ao final do manual, você encontrará a relação de endereços 
+do SEBRAE em todo o país.
+
+--- PAGE 13 ---
+
+n Parte  – A elaboração do plano de negócio
+n . Sumário Executivo
+O que é e como fazer
+O sumário executivo é um resumo do PLANO DE NEGÓCIO. Não se trata de uma introdu -
+ção ou justificativa e, sim, de um sumário contendo seus pontos mais importantes. Nele irá 
+constar:
+n Resumo dos principais pontos do plano de negócio;
+n Dados dos empreendedores, experiência profissional e atribuições;
+n Dados do empreendimento;
+n Missão da empresa;
+n Setores de atividades;
+n Forma jurídica;
+n Enquadramento tributário;
+n Capital social;
+n Fonte de recursos.
+Fique de olho
+n Embora o sumário executivo compreenda a primeira parte do plano, ele só deve ser ela -
+borado após a conclusão do mesmo.
+n Ao ser lido por interessados, ele deverá deixar clara a idéia e a viabilidade de sua implan-
+tação. Informações mais detalhadas virão nas partes seguintes.
+n .. Resumo dos principais pontos do plano de negócio
+O que é e como fazer
+Ao descrever o plano, faça um breve relato 
+com suas principais características. Procure 
+mencionar:
+n	o que é o negócio;
+n	quais os principais produtos e/ou servi -
+ços;
+n	quem serão seus principais clientes;
+n	onde será localizada a empresa;
+n	o montante de capital a ser investido;
+n	qual será o faturamento mensal;
+n	que lucro espera obter do negócio;
+n	em quanto tempo espera que o capital 
+investido retorne.
+
+--- PAGE 14 ---
+
+Hora de praticar
+n .. Resumo dos principais pontos do plano de negócio
+Faça um resumo dos principais pontos do seu plano.
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+Indicadores de viabilidade Valor
+Lucratividade 
+Rentabilidade
+Prazo de retorno do investimento
+Ponto de Equilíbrio (PE)
+--- PAGE 15 ---
+
+n .. Dados dos empreendedores, experiência profissional e atribuições
+O que é e como fazer
+Aqui você irá informar os dados dos responsáveis pela administração do negócio. Faça também 
+uma breve apresentação de seu perfil, destacando seus conhecimentos, habilidades e experi-
+ências anteriores. Pense em como será possível utilizar isso a favor do seu empreendimento.
+Fique de olho
+n Para prevenir-se contra a escolha equivo-
+cada de sócios:
+n	 analise se os objetivos dos sócios são 
+os mesmos, tendo em vista o grau de 
+ambição de cada um e a dimensão que 
+desejam para o negócio;
+n	 divida as tarefas antes de montar a 
+empresa. Defina o campo de atuação 
+e horários de trabalho; 
+n	 defina, com antecedência, o valor da 
+retirada pró-labore (remuneração dos 
+proprietários), como será feita a distri -
+buição dos lucros e o quanto será reinvestido na empresa; 
+n	 estabeleça o grau de autonomia de cada um e até que ponto um dos envolvidos pode, 
+sozinho, tomar decisões; 
+n	 determine se os familiares poderão ser contratados e quantos por parte de cada sócio. 
+Sempre escolha funcionários e parceiros em conjunto;
+n	 defina o que acontecerá com a sociedade quando um dos sócios falecer ou não puder 
+mais trabalhar. Determine um sistema de sucessão;
+n	 escreva todos os pontos que possam gerar atritos futuros em um contrato assinado 
+pelos sócios.
+n Tenha claro que o que vai contribuir para a permanência de uma sociedade é algo tão 
+simples como o que mantém um casamento: diálogo e clareza. Conflitos são inevitáveis, o 
+que importa é a maneira de resolvê-los.
+n Verifique se seu futuro sócio não possui restrições cadastrais ou pendências junto a ór -
+gãos como a Receita Federal, Secretaria de Estado da Fazenda e INSS. Situações como 
+essas podem dificultar o acesso a crédito junto a fornecedores e bancos, além de impedir 
+o registro do negócio.
+
+--- PAGE 16 ---
+
+Hora de praticar
+n	 .. Dados dos empreendedores, experiência profissional e atribuições
+	 Sócio 
+Nome
+Endereço
+Cidade Estado
+Telefone 1 Telefone 2
+Perfil (breve currículo)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+Atribuições do sócio 1 (papel a ser desempenhado na sociedade)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 17 ---
+
+	 Sócio 
+Nome
+Endereço
+Cidade Estado
+Telefone 1 Telefone 2
+Perfil (breve currículo)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+Atribuições do Sócio 2 (papel a ser desempenhado na sociedade)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 18 ---
+
+n .. Dados do empreendimento
+O que é e como fazer
+Nesta etapa, você irá informar o nome da empresa e o número de inscrição no CNPJ – Ca -
+dastro Nacional de Pessoas Jurídicas – se a mesma já estiver registrada. Caso contrário, 
+indique o número do seu CPF.
+Hora de praticar
+n	 .. Dados do empreendimento
+Nome da Empresa
+CNPJ/CPF
+n .. Missão da empresa
+O que é e como fazer
+A missão da empresa é o papel que ela desempenha em sua área de atuação. É a razão de 
+sua existência hoje e representa o seu ponto de partida, pois identifica e dá rumo ao negó -
+cio. 
+Para definir a missão, procure responder às seguintes perguntas:
+n Qual é o seu negócio?
+n Quem é o consumidor?
+n O que é valor para o consumidor?
+n O que é importante para os empregados, fornecedores, sócios, comunidade, etc.
+Veja alguns exemplos de missão:
+Empresa de alimentos. Servir alimentos saborosos e de qualidade com rapidez e simpatia, 
+em um ambiente limpo e agradável.
+Locadora de veículos . Oferecer soluções em transporte, por meio do aluguel de carros, 
+buscando a excelência.
+Hospital. Promover a melhoria da qualidade de vida e satisfação das pessoas, praticando a 
+melhor medicina, por meio de uma organização hospitalar auto-sustentável.
+--- PAGE 19 ---
+7
+Hora de praticar
+n	 .. Missão da empresa
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+n .. Setores de atividade
+O que é e como fazer
+Defina qual é o negócio de sua empresa e, em seguida, assinale em qual(is) setor(es) sua 
+empresa pretende atuar. Para ajudá-lo, leia a seguir as explicações sobre os principais seto-
+res da economia.
+n Agropecuária
+São os negócios cuja atividade principal diz respeito ao cultivo do solo para a produção de 
+vegetais (legumes, hortaliças, sementes, frutos, cereais, etc.) e/ou a criação e tratamento 
+de animais (bovino, suíno, etc.). Exemplos: plantio de pimenta, cultivo de laranja, apicultu-
+ra, criação de peixes ou cabras.
+n Indústria
+São as empresas que transformam matérias-primas em produtos acabados, com auxílio 
+de máquinas ou manualmente. Abrange desde o artesanato até a moderna produção de 
+instrumentos eletrônicos. Exemplos: fábrica de móveis, confecção de roupas, marcena -
+ria.
+n Comércio
+São as empresas que vendem mercadorias diretamente ao consumidor – no caso do comér-
+cio varejista – ou aquelas que compram do fabricante para vender para o varejo – comércio 
+atacadista. Exemplos: papelaria, lanchonete, loja de roupas, distribuidora de bebidas.
+n Prestação de serviços
+São as empresas cujas atividades não resultam na entrega de mercadorias e, sim, no 
+oferecimento do próprio trabalho ao consumidor. Exemplos: lavanderia, oficina mecânica, 
+escola infantil.
+--- PAGE 20 ---
+8
+Hora de praticar
+n .. Setores de atividade
+q Agropecuária
+q Indústria
+q Comércio
+q Serviços
+q Outros ______________________________________________
+n .. Forma jurídica
+O que é e como fazer
+O primeiro passo para que uma empresa exis-
+ta é a sua CONSTITUIÇÃO formal. Para tan-
+to, é necessário definir sua forma jurídica. A 
+forma jurídica determina a maneira pela qual 
+ela será tratada pela lei, assim como o seu re-
+lacionamento jurídico com terceiros. A seguir, 
+você encontrará informações básicas sobre 
+as formas jurídicas mais comuns para micro e 
+pequenas empresas:
+n Sociedade Limitada
+Nesse tipo de empresa duas ou mais pes-
+soas associam-se para a criação de uma 
+pessoa jurídica, com existência e patrimônio distintos da pessoa física dos sócios. Quem 
+exerce a atividade empresarial é a sociedade (representada pelos seus administradores), 
+e quem responde pelas dívidas contraídas é o patrimônio da sociedade. Em síntese, a 
+responsabilidade dos sócios é limitada. 
+Mas cuidado! Havendo indícios de abuso ou confusão patrimonial, a personalidade jurídica 
+pode ser desconsiderada, respondendo então os sócios e administradores pelos débitos.
+n Empresário
+É aquele que exerce individualmente e de maneira organizada atividades voltadas para a 
+produção ou comercialização de bens e serviços, sendo obrigatório seu registro na Junta 
+Comercial. Não há a presença de sócios e o proprietário assume integralmente a respon-
+sabilidade pelos resultados e riscos. Nesse tipo de empresa, o dono responsabiliza-se 
+pelas obrigações da empresa, que são ILIMITADAS, isto é, o patrimônio pessoal pode ser 
+exigido para o pagamento de certas dívidas, como por exemplo: débitos trabalhistas, com 
+fornecedores, tributos, danos ao consumidor, danos ambientais, etc.
+
+--- PAGE 21 ---
+9
+Fique de olho
+n Procure um contabilista e informe-se qual é a forma jurídica mais adequada para a 
+constituição de sua empresa.
+Hora de praticar
+n .. Forma Jurídica
+q Empresário
+q Sociedade Limitada
+q Outra: ____________________________________________________
+n .7. Enquadramento tributário
+O que é e como fazer
+Basicamente, a pequena empresa pode adotar 
+duas formas diferentes para o cálculo e o recolhi -
+mento dos impostos junto ao Governo Federal: o 
+REGIME NORMAL ou o REGIME SIMPLES. 
+Encaixam-se no Regime Normal  as empresas que 
+recolhem impostos da forma tradicional, ou seja, 
+cumprem todos os requisitos previstos em lei para 
+cada imposto existente.
+Já o Regime Simples é destinado às empresas que – 
+com possibilidade de enquadramento – irão se beneficiar da 
+redução e simplificação dos tributos, além do recolhimento de um impos-
+to único junto à União. O enquadramento no SIMPLES está sujeito à aprovação da Receita 
+Federal e leva em consideração o ramo de atividade e a estimativa de faturamento anual da 
+empresa.
+Além dos tributos federais, são devidos impostos e contribuições para o Governo Estadual 
+(ICMS) e Municipal (ISS).
+Fique de olho
+n Busque informações junto a um contabilista sobre os tributos devidos, suas alíquotas e 
+possíveis benefícios fiscais.
+
+--- PAGE 22 ---
+0
+Hora de praticar
+n .7. Enquadramento tributário
+n .7.. Âmbito federal 
+q REGIME SIMPLES
+q REGIME NORMAL
+n IRPJ – Imposto de Renda Pessoa Jurídica
+n PIS – Contribuição para os Programas de Integração Social
+n COFINS – Contribuição para Financiamento da Seguridade Social
+n CSLL – Contribuição Social sobre o Lucro Líquido
+n IPI – Imposto sobre Produtos Industrializados (apenas para indústria)
+n .7.. Âmbito estadual
+q	 ICMS	–	Regime	Simplificado
+q ICMS – Imposto sobre Circulação de Mercadorias e Serviços (SISTEMA DÉBITO E CRÉ-
+DITO)
+n .7.. Âmbito municipal
+q ISS – Imposto sobre Serviços
+n .8. Capital Social
+O que é e como fazer
+O capital social é representado por todos os re -
+cursos (dinheiro, equipamentos, ferramentas, 
+etc.) colocado(s) pelo(s) proprietário(s) para a 
+montagem do negócio. Mais adiante, ao elabo -
+rar o plano financeiro do seu empreendimento, 
+você saberá o total do capital a ser aplicado.
+Caso você escolha ter uma sociedade, será pre-
+ciso determinar o valor do capital que cada sócio 
+irá investir e o seu percentual.
+
+--- PAGE 23 ---
+
+Hora de praticar
+n .8. Capital Social
+Nome do Sócio Valor (R$) % de participação
+Sócio 1
+Sócio 2
+Sócio 3
+Sócio 4
+TOTAL 100,00
+n .9. Fonte de recursos
+O que é e como fazer
+Aqui você irá determinar de que maneira serão obtidos os recursos para a implantação da 
+empresa. Para o início das atividades, você pode contar com recursos próprios, de terceiros 
+ou com ambos. 
+Recursos próprios envolvem a aplicação por parte do(s) proprietário(s) do capital necessário 
+para a abertura da empresa, já a utilização de recursos de terceiros compreende a busca de 
+investidores ou de empréstimos junto a instituições financeiras.
+Hora de praticar
+n .9. Fonte de recursos
+Descreva qual a origem dos recursos necessários para a abertura da empresa.
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+Roteiro para coleta de informações
+Pare e pense como e onde irá buscar as informações que o ajudarão a elaborar o Sumário 
+Executivo. Uma sugestão é fazer pesquisas junto ao SEBRAE, contabilistas, órgãos governa-
+mentais, etc. Organize-se utilizando o roteiro que se encontra no final do manual.
+--- PAGE 24 ---
+
+n . Análise de Mercado
+n .. Estudo dos clientes
+O que é e como fazer
+Esta é uma das etapas mais importantes da elaboração do seu plano. Afinal, sem clientes 
+não há negócios. Os clientes não compram apenas produtos, mas soluções para algo que 
+precisam ou desejam. Você pode identificar essas soluções se conhecê-los melhor. Para isso, 
+responda às perguntas e siga os passos a seguir:
+n º passo: identificando as características gerais dos clientes.
+n Se pessoas físicas
+n	Qual a faixa etária?
+n	Na maioria são homens ou mulheres?
+n	Têm família grande ou pequena?
+n	Qual é o seu trabalho?
+n	Quanto ganham?
+n	Qual é a sua escolaridade?
+n	Onde moram?
+n Se pessoas jurídicas (outras empresas)
+n	Em que ramo atuam?
+n	Que tipo de produtos ou serviços oferecem?
+n	Quantos empregados possuem?
+n	Há quanto tempo estão no mercado?
+n	Possuem filial? Onde?
+n Qual a sua capacidade de pagamento?
+n Têm uma boa imagem no mercado?
+n º passo: identificando os interesses e comportamentos dos clientes.
+n Que quantidade e com qual freqüência compram esse tipo de produto ou serviço?
+n	Onde costumam comprar?
+n	Que preço pagam atualmente por esse produto ou serviço similar?
+n º passo: identificando o que leva essas pessoas a comprar.
+n O preço?
+n A qualidade dos produtos e/ou serviços?
+n A marca?
+n O prazo de entrega?
+n O prazo de pagamento?
+n	O atendimento da empresa?
+--- PAGE 25 ---
+
+n º passo: identificando onde estão os seus clientes.
+n Qual o tamanho do mercado em que você irá atuar?
+n É apenas sua rua?
+n O seu bairro?
+n Sua cidade?
+n Todo o Estado?
+n O País todo ou outros países?
+n Seus clientes encontrarão sua empresa com facilidade?
+Após responder essas perguntas, será possível entender melhor seus clientes. No quadro 
+Hora de praticar, escreva suas conclusões a respeito do seu mercado consumidor.
+Fique de olho
+n Uma dica é escolher apenas uma parte do 
+mercado para atender. Encontre um grupo 
+de pessoas ou empresas com características 
+e necessidades parecidas e trate-os de ma -
+neira especial. Um exemplo dessa estratégia 
+é uma loja de roupas que se especializa em 
+atender crianças ou uma confeitaria que fa -
+brica sobremesas dietéticas.
+n Uma empresa é viável quando tem clientes 
+em quantidade e com poder de compra su -
+ficiente para realizar vendas que cubram as 
+despesas, gerando lucro.
+n Você pode utilizar diversas técnicas para pesquisar seus consumidores. Essas técnicas 
+vão desde a aplicação de questionários, entrevistas e conversas informais com clientes 
+potenciais, à observação dos concorrentes.
+
+--- PAGE 26 ---
+
+Hora de praticar
+n .. Estudo dos clientes
+n Público-alvo (perfil dos clientes)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+n Comportamento dos clientes (interesses e o que os levam a comprar)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+n Área de abrangência (onde estão os clientes?)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 27 ---
+
+n .. Estudo dos concorrentes
+O que é e como fazer
+Você pode aprender lições importantes observando a atuação da concorrência. Procure iden-
+tificar quem são seus principais concorrentes. A partir daí, visite-os e examine suas boas 
+práticas e deficiências.
+Lembre-se de que concorrentes são aquelas empresas que atuam no mesmo ramo de ativi -
+dade que você e que buscam satisfazer as necessidades dos seus clientes.
+Utilize o quadro Hora de praticar e faça comparações entre a concorrência e o seu próprio 
+negócio. Enumere os pontos fortes e fracos em relação a:
+n qualidade dos materiais empregados – cores, tamanhos, embalagem, variedade, etc.;
+n preço cobrado;
+n localização;
+n condições de pagamento – prazos concedidos, descontos praticados, etc.;
+n atendimento prestado;
+n serviços disponibilizados – horário de funcionamento, entrega em domicílio, tele-atendi -
+mento, etc.;
+n garantias oferecidas.
+Após fazer essas comparações, tire algumas conclusões. 
+n Sua empresa poderá competir com as outras que já estão há mais tempo no ramo? 
+n O que fará com que as pessoas deixem de ir aos concorrentes para comprar de sua em -
+presa? 
+n Há espaço para todos, incluindo você? 
+n Se a resposta for sim, explique os motivos disso. Caso contrário, que mudanças devem ser 
+feitas para você concorrer em pé de igualdade com essas empresas?
+Fique de olho
+n Lembre-se: a concorrência também deve ser vista como uma situação favorável. Bons      
+concorrentes servem como parâmetro de comparação e de parceria, além de ser uma 
+fonte de estímulo à melhoria.
+--- PAGE 28 ---
+
+Hora de praticar
+n .. Estudo dos concorrentes
+Qualidade Preço Condições de 
+Pagamento Localização Atendimento Serviços aos clientes Garantias oferecidas
+Sua Empresa
+Concorrente 1 
+(nome)
+Concorrente 2 
+(nome)
+Conclusões
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+--- PAGE 29 ---
+7
+Qualidade Preço Condições de 
+Pagamento Localização Atendimento Serviços aos clientes Garantias oferecidas
+Sua Empresa
+Concorrente 1 
+(nome)
+Concorrente 2 
+(nome)
+Conclusões
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________
+--- PAGE 30 ---
+8
+n .. Estudo dos fornecedores
+O que é e como fazer
+O mercado fornecedor compreende todas as 
+pessoas e empresas que irão fornecer as ma-
+térias-primas e equipamentos utilizados para a 
+fabricação ou venda de bens e serviços. Inicie 
+o estudo dos fornecedores levantando quem 
+serão seus fornecedores de equipamentos, fer-
+ramentas, móveis, utensílios, matérias-primas, 
+embalagens, mercadorias e serviços. 
+Relações de fornecedores podem ser encontradas 
+em catálogos telefônicos e de feiras, sindicatos e 
+no próprio SEBRAE. Outra fonte rica de informa -
+ções é a Internet.
+Mantenha um cadastro atualizado desses fornecedo-
+res. Pesquise, pessoalmente ou por telefone, ques -
+tões como: preço, qualidade, condições de pagamento e o prazo médio de entrega. Essas 
+informações serão úteis para determinar o investimento inicial e as despesas do negócio.
+Preenchendo o quadro de estudo dos fornecedores, você terá uma melhor visão de quem são 
+e de como atuam seus fornecedores.
+
+--- PAGE 31 ---
+9
+Fique de olho
+n Analise pelo menos três empresas para cada artigo necessário;
+n Mesmo escolhendo um entre vários fornecedores, é importante manter contato com todos, 
+ou pelo menos com os principais, pois não é possível prever quando um fornecedor en -
+frentará dificuldades;
+n Ao adquirir matérias-primas, insumos ou mercadorias faça um estudo de verificação da 
+capacidade técnica dos fornecedores. Todo fornecedor deve ser capaz de suprir o material 
+ou as mercadorias desejadas, na qualidade exigida, dentro do prazo estipulado e com o 
+preço combinado;
+n A tomada e a comparação de preços facilitam a coleta de informações sobre aquilo que se 
+deseja adquirir, aumentando as chances de se tomar decisões mais acertadas;
+n Verifique se é exigida quantidade mínima de compra e lembre-se de evitar intermediários, 
+sempre que possível.
+--- PAGE 32 ---
+0
+Hora de praticar
+n .. Estudo dos fornecedores
+Ordem Descrição dos itens a serem 
+adquiridos (matérias-primas, insumos, 
+mercadorias e serviços)
+Nome do fornecedor Preço Condições de 
+pagamento
+Prazo de entrega Localização (estado 
+e/ou município)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+--- PAGE 33 ---
+
+Ordem Descrição dos itens a serem 
+adquiridos (matérias-primas, insumos, 
+mercadorias e serviços)
+Nome do fornecedor Preço Condições de 
+pagamento
+Prazo de entrega Localização (estado 
+e/ou município)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+--- PAGE 34 ---
+
+Roteiro para coleta de informações
+Planeje como irá buscar informações sobre o mercado consumidor, concorrente e fornecedor. 
+Crie uma agenda de trabalho. Conhecer o mercado é uma das tarefas mais importantes para 
+a elaboração do plano de negócio. Transporte esse planejamento para o roteiro consolidado 
+que se encontra no final do manual.
+--- PAGE 35 ---
+
+n . Plano de Marketing
+n .. Descrição dos principais produtos e serviços
+O que é e como fazer
+Aqui você deve descrever os principais itens que serão fabricados, ven -
+didos ou os serviços que serão prestados. Informe quais as 
+linhas de produtos, especificando detalhes como tamanho, 
+modelo, cor, sabores, embalagem, apresentação, rótulo, 
+marca, etc. Se necessário, fotografe os produtos e coloque 
+as fotos como documentação de apoio ao final do seu plano 
+de negócio.
+Para empresas de serviço, informe quais serviços serão pres-
+tados, suas características e as garantias oferecidas.
+Lembre-se de que a qualidade do produto é aquela que o con -
+sumidor enxerga. Quando decidir melhorar um produto ou um 
+serviço, pense sempre sob o ponto de vista do cliente. 
+Fique de olho
+n Verifique se há regulamentos ou exigências oficiais a serem atendidas (vigilância sanitária, 
+normas técnicas, etc.) para a produção ou acondicionamento dos produtos vendidos por 
+você;
+Hora de praticar 
+n .. Descrição dos principais produtos e serviços
+PRINCIPAIS PRODUTOS (a serem fabricados, revendidos ou serviços prestados)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+
+--- PAGE 36 ---
+
+n .. Preço
+O que é e como fazer
+Preço é o que consumidor está disposto a pagar pelo que você irá oferecer. A determinação 
+do preço deve considerar os custos do produto ou serviço e ainda proporcionar o retorno 
+desejado. Ao avaliar o quanto o consumidor está disposto a pagar, você pode verificar se seu 
+preço será compatível com aquele praticado no mercado pelos concorrentes diretos.
+Fique de olho
+n O preço de venda será trabalhado novamente no Plano Financeiro, quando calcularmos o 
+faturamento total da empresa.
+n .. Estratégias promocionais
+O que é e como fazer
+Promoção é toda ação que tem como objetivo apresentar, informar, convencer ou lembrar os 
+clientes de comprar os seus produtos ou serviços e não os dos concorrentes. A seguir, estão 
+relacionadas algumas estratégias que você poderá utilizar:
+n propaganda em rádio, jornais e revistas;
+n internet;
+n amostras grátis;
+n mala direta, folhetos e cartões de visita;
+n catálogos;
+n carro de som e faixas;
+n brindes e sorteios;
+n descontos (de acordo com os volumes comprados);
+n participação em feiras e eventos.
+Determine de que maneira você irá divulgar seus produtos, pois todas as formas de divulga -
+ção implicam custos. Descreva suas estratégias no quadro Hora de Praticar. Leve em conta o 
+retorno dessa estratégia, seja na imagem do negócio, no aumento do número de clientes ou 
+no acréscimo da receita.
+Existem diversos tipos de divulgação. Use a criatividade para encontrar as melhores maneiras 
+de divulgar seus produtos ou, então, observe o que seus concorrentes fazem.
+--- PAGE 37 ---
+
+Fique de olho
+n Os catálogos de produtos apresentam a empresa de forma organizada e detalhada. Inclua 
+em seu catálogo fotos, informações técnicas e formas de utilização.
+n Panfletos e volantes podem ser entregues em locais com grande fluxo de pessoas. Neles, 
+você deve colocar informações básicas sobre os produtos e serviços (nome da empresa, 
+endereço, telefone, etc.).
+n Uma alternativa interessante é a divulgação em revistas especializadas ou em jornais de 
+bairro. Esses anúncios são mais baratos e atingem diretamente o seu público-alvo.
+n Feiras são bons locais para apresentar sua empresa a um público selecionado por juntar 
+clientes, especialistas, concorrentes e fornecedores, além de gerar vendas.
+n Uma marca bem trabalhada contribui para o sucesso do empreendimento. Crie uma marca 
+(nome e logotipo) que seja fácil de pronunciar e memorizar. Consulte o nome e a logo -
+marca junto ao INPI – INSTITUTO NACIONAL DE PROPRIEDADE INDUSTRIAL –, para 
+certificar-se de que poderá fazer uso de ambos. Busque mais informações na página do 
+INPI (www.inpi.gov.br) ou em um ponto de atendimento do SEBRAE.
+Hora de praticar
+n .. Estratégias promocionais
+Descreva as estratégias de promoção e divulgação que irá utilizar.
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 38 ---
+
+n .. Estrutura de comercialização
+O que é e como fazer
+A estrutura de comercialização diz respeito aos canais de distribuição, isto é, como seus 
+produtos e/ou serviços chegarão até os seus clientes. A empresa pode adotar uma série de 
+canais para isso, como: vendedores internos e externos, representantes, etc.
+Reflita sobre quais serão os meios mais adequados para se alcançar os clientes e preencha 
+o quadro Hora de Praticar. Para isso, pense no tamanho dos pedidos, na quantidade de com-
+pradores e no comportamento do cliente, isto é, se ele tem por hábito comprar pessoalmente, 
+por telefone ou outro meio.
+Fique de olho
+n A comercialização dos produtos e/ou serviços pode ser feita pelos proprietários, por ven -
+dedores ou por outras empresas. Independente da forma, o importante é que isso seja 
+feito.
+n Uma opção é montar uma boa equipe interna de vendas, que conheça bem os produtos da 
+empresa e as vantagens sobre a concorrência.
+n Outra alternativa é a contratação de representantes comerciais. Isso é viável quando se 
+explora uma região extensa e desconhecida. Ao trabalhar com representantes, tome cui -
+dado com questões trabalhistas e não se esqueça de elaborar um contrato específico. 
+Consulte um contabilista ou um advogado.
+n O telefone é um instrumento de vendas muito utilizado atualmente. Pode ser conjugado 
+com a divulgação dos produtos e serviços da empresa.
+Hora de praticar 
+n .. Estrutura de comercialização
+Formas de comercialização e distribuição (descreva abaixo quais serão utilizadas).
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 39 ---
+7
+n .. Localização do negócio
+O que é e como fazer
+Neste momento, você deve identificar a melhor localização para a instalação de seu negócio e 
+justificar os motivos da escolha desse local. A definição do ponto está diretamente relacionada 
+com o ramo de atividades.
+Um bom ponto comercial é aquele que gera um volume razoável de vendas. Por isso, se a 
+localização é fundamental para o sucesso de seu negócio, leve em consideração os seguintes 
+aspectos.
+n Analise o contrato de locação, as condições de pagamento e o prazo do aluguel do imó -
+vel;
+n Verifique as condições de segurança da vizinhança;
+n Observe a facilidade de acesso, o nível de ruído, as condições de higiene e limpeza e a 
+existência de locais para estacionamento;
+n Fique atento para a proximidade dos clientes que compram seus produtos e o fluxo de 
+pessoas na região;
+n	Lembre–se de certificar da proximidade de concorrentes;
+n Avalie a proximidade dos fornecedores, pois isso influencia no prazo de entrega e no custo 
+do frete;
+n Visite o ponto pelo menos três vezes, em horários alternados, para verificar o movimento 
+de pessoas e de veículos no local.
+Fique de olho
+n A compra de um imóvel para a instalação da empresa é uma opção pouco comum. Agindo 
+assim, você imobiliza a maior parte dos recursos, comprometendo os valores destinados 
+para capital de giro.
+n Escolha a localização em função do tipo de empreendimento. Você pode querer montar 
+um bar em um espaço que você já tem disponível. Cuidado, pois poderá forçar o negócio 
+em um local inapropriado. Se você já possui o local, encontre o negócio mais adequado 
+para ele.
+n Caso alugue um imóvel, não feche o contrato de locação sem antes verificar se, no local é 
+permitida a atividade desejada. Essa consulta é feita na Prefeitura de sua cidade. Verifique 
+se há implicações em órgãos como a vigilância sanitária e o corpo de bombeiros.
+--- PAGE 40 ---
+8
+Hora de praticar
+n .. Localização do negócio
+Endereço
+Bairro Cidade Estado
+Fone 1 Fone 2 Fax
+Considerações sobre o ponto (localização), que justifiquem sua escolha:
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+Roteiro para coleta de informações
+Levante como e onde você irá obter informações para definir as estratégias de marketing para 
+seu futuro negócio. Se necessário busque a ajuda de especialistas, para isso verifique se o 
+SEBRAE do seu Estado disponibiliza serviços de consultoria. Utilize o quadro disponível no fi-
+nal do manual para registrar as tarefas necessárias para a conclusão do plano de marketing.
+--- PAGE 41 ---
+9
+n . Plano Operacional
+n .. Layout
+O que é e como fazer
+Por meio do layout ou arranjo físico, você irá definir como será a distribuição dos diversos 
+setores da empresa, de alguns recursos (mercadorias, matérias-primas, produtos acabados, 
+estantes, gôndolas, vitrines, prateleiras, equipamentos, móveis, matéria-prima etc.) e das 
+pessoas no espaço disponível.  Um bom arranjo físico traz uma série de benefícios, como:
+n aumento da produtividade;
+n diminuição do desperdício e do retrabalho;
+n maior facilidade na localização dos produtos pelos clientes na área de vendas;
+n melhoria na comunicação entre os setores e as pessoas.
+O ideal é contratar um profissional qualificado para ajudá-lo nessa tarefa, se isso não for pos-
+sível, faça você mesmo um esquema, distribuindo as áreas da empresa, os equipamentos, 
+móveis e as pessoas de forma racional e sensata. Veja abaixo um exemplo de layout.
+
+--- PAGE 42 ---
+0
+Fique de olho
+n Verifique se há exigências específicas quanto ao layout, conforme a legislação vigente 
+para este tipo de negócio;
+n Certifique se é possível adequar o layout da empresa para pessoas portadoras de neces-
+sidades especiais.
+Hora de praticar
+n .. Layout ou arranjo físico
+Desenhe abaixo um esquema de como ficarão as principais áreas e como serão alocadas 
+máquinas, equipamentos, móveis, etc.
+--- PAGE 43 ---
+
+n .. Capacidade produtiva/comercial/serviços
+O que é e como fazer
+É importante estimar a capacidade instalada da 
+empresa, isto é, o quanto pode ser produzido 
+ou quantos clientes podem ser atendidos com a 
+estrutura existente. Com isso, é possível dimi -
+nuir a ociosidade e o desperdício.
+Fique de olho
+n Seja realista e considere na projeção do 
+volume de produção, de vendas ou de ser -
+viços: o tipo de produto ou serviço, as suas 
+instalações e maquinário, sua disponibilidade 
+financeira, o fornecimento de matérias-primas e 
+ou mercadorias e o tamanho do mercado.
+n Leve em conta, também, a sazonalidade, isto é, as oscilações do mercado, em função 
+daquilo que irá produzir ou revender.
+Hora de praticar
+n .. Capacidade produtiva/comercial/serviços
+Qual será a capacidade máxima de produção (ou serviços) e comercialização?
+Qual será o volume de produção (ou serviços) e comercialização iniciais?
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+
+--- PAGE 44 ---
+
+n .. Processos operacionais
+O	que	é	e	como	fazer
+É o momento de registrar como a empresa irá funcionar. Você deve pensar em como serão 
+feitas as várias atividades, descrevendo, etapa por etapa, como será a fabricação dos produ-
+tos, a venda de mercadorias, a prestação dos serviços e, até mesmo, as rotinas administra -
+tivas.
+Identifique que trabalhos serão realizados, quem serão os responsáveis, assim como os ma-
+teriais e equipamentos necessários.
+Para isso, você mesmo poderá elaborar um roteiro com essas informações. Veja, a seguir, o 
+exemplo de um dos processos de uma indústria de artigos do vestuário. Em seguida, faça o 
+mesmo para as diversas atividades da sua empresa.
+Hora de praticar
+n .. Processos operacionais
+Descreva como serão feitas as principais atividades do negócio.
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 45 ---
+
+n .. Necessidade de pessoal
+O que é e como fazer
+Faça a projeção do pessoal necessário para o funcionamento do negócio. Esse item inclui 
+o(s) sócio(s), os familiares (se for o caso) e as pessoas a serem contratadas.
+Fique de olho
+n Verifique a disponibilidade de mão-de-obra qualificada na região. Se não for essa a situa-
+ção, procure investir no treinamento de sua equipe;
+n Lembre-se de consultar os sindicatos de classe a fim de obter informações sobre a legis -
+lação específica, acordos coletivos, piso salarial, quadro de horários, etc.
+Hora de praticar
+n .. Necessidade de pessoal
+CARGO/FUNÇÃO QUALIFICAÇÕES NECESSÁRIAS
+Roteiro para coleta de informações
+Defina quais informações você precisa obter para concluir a elaboração do plano operacional. 
+Novamente utilize o roteiro disponibilizado ao fim do manual para planejar-se melhor.
+--- PAGE 46 ---
+
+n . Plano Financeiro
+n Investimento total 
+Nessa etapa, você irá determinar o total de recursos a ser investido para que a empresa co -
+mece a funcionar. O investimento total é formado pelos:
+n Investimentos fixos. 
+n Capital de Giro.
+n Investimentos pré-operacionais.
+n .. Estimativa dos investimentos fixos
+O que é e como fazer
+O investimento fixo corresponde a todos os bens que você deve comprar para que seu negó-
+cio possa funcionar de maneira apropriada. 
+No quadro a seguir, relacione os equipamentos, máquinas, móveis, utensílios, ferramentas 
+e veículos a serem adquiridos, a quantidade necessária, o valor de cada um e o total a ser 
+desembolsado. 
+Fique de olho
+n Evite imobilizações desnecessárias. Quando possível, alugue ao invés de construir ou 
+comprar;
+n Considere a possibilidade de terceirizar algumas atividades, isso reduzirá a necessidade 
+de compra de máquinas e equipamentos;
+n Pesquise e avalie as diversas opções de aquisição (leilões, classificados, lojas de usados). 
+Cuidado com o estado de conservação e a garantia do que irá comprar.
+--- PAGE 47 ---
+
+Hora de praticar
+	 A – Máquinas e equipamentos
+Descrição Qtde. x Valor Unitário Total 
+1 x
+2 x
+3 x
+4 x
+5 x
+6 x
+7 x
+8 x
+9 x
+10 x
+SUB-TOTAL(A) $
+	 B – Móveis e utensílios
+Descrição Qtde. x Valor Unitário Total 
+1 x
+2 x
+3 x
+4 x
+5 x
+6 x
+7 x
+8 x
+9 x
+10 x
+SUB-TOTAL(B) $
+--- PAGE 48 ---
+
+	 C- Veículos
+Descrição Qtde. x Valor Unitário Total 
+1 x
+2 x
+3 x
+4 x
+5 x
+SUB-TOTAL(C) $
+ 
+TOTAL DOS INVESTIMENTOS FIXOS SUB-TOTAL(A+B+C) $
+n .. Capital de giro
+O que é e como fazer
+O capital de giro é o montante de recursos necessário para o funcionamento normal da em -
+presa, compreendendo a compra de matérias-primas ou mercadorias, financiamento das ven-
+das e o pagamento das despesas. Ao estimar o capital de giro para o começo das atividades 
+da empresa, você deverá apurar o estoque inicial e o caixa mínimo necessário.
+	 A – Estimativa do estoque inicial
+O estoque inicial é composto pelos materiais (matéria-prima, embalagens, etc.) indispensá -
+veis à fabricação de seus produtos ou pelas mercadorias que serão revendidas. 
+No quadro Hora de Praticar, identifique quais ma-
+teriais ou mercadorias devem ser comprados, as 
+quantidades, seu preço unitário e o total a ser 
+gasto. Para isso, leve em consideração a sua ca-
+pacidade de produção, o tamanho do mercado e 
+o seu potencial de vendas.
+Fique de olho
+n Faça uma ampla pesquisa junto a seus forne-
+cedores. Pechinche, negociando bons preços 
+e condições de pagamento, assim você reduz 
+despesas, oferecendo preços competitivos e 
+aumentando as receitas e o lucro da empre -
+sa.
+
+--- PAGE 49 ---
+7
+n Tenha um controle apurado dos seus estoques, assim você saberá qual o momento certo 
+para adquirir novos produtos. 
+n Para a formação dos estoques, dê preferência aos itens de maior giro, ou seja, aqueles 
+que têm maior saída e aceitação. Estoque parado por muito tempo, na maior parte das 
+vezes, representa prejuízo.
+Hora de Praticar
+	 A – Estimativa do estoque inicial
+Descrição Qtde. x Valor Unitário Total 
+1 x
+2 x
+3 x
+4 x
+5 x
+6 x
+7 x
+8 x
+9 x
+10 x
+11 x
+12 x
+13 x
+14 x
+15 x
+16 x
+17 x
+18 x
+19 x
+20 x
+TOTAL(A) $
+--- PAGE 50 ---
+8
+	 B – Caixa Mínimo
+É o capital de giro próprio necessário para movimentar seu negócio. Representa o valor em 
+dinheiro que a empresa precisa ter disponível para cobrir os custos até que as contas a rece-
+ber de clientes entrem no caixa. Corresponde a uma reserva inicial de caixa.
+Para calcular a necessidade líquida de capital de giro é preciso conhecer os prazos médios 
+de vendas, compras e estocagem. Essas informações podem ser pesquisadas junto a con -
+correntes e fornecedores e serão utilizadas na apuração do caixa mínimo, isso porque nas 
+vendas financiamos os clientes por meio dos prazos concedidos e somos financiados pelos 
+fornecedores por meio dos  prazos para pagamento negociados.
+Acompanhe o exemplo a seguir e aprenda como calcular a necessidade de capital de giro pró-
+prio e o caixa mínimo. Posteriormente, faça o mesmo no quadro Hora de Praticar, utilizando 
+os dados específicos da sua atividade.
+n º Passo: Contas a receber – Cálculo do prazo médio de vendas
+É a média do prazo de financiamento a clientes, ou seja, do prazo concedido aos clientes para 
+que estes efetuem o pagamento do que compraram.
+Prazo médio de 
+vendas (%) x Número de dias Média Ponderada em dias
+a vista 20% x 0 0
+a prazo (1) 45% x 30 13,5
+a prazo (2) 30% x 60 18
+a prazo (3) 5% x 90 4,5
+a prazo (4) - x - -
+Prazo médio total 36 dias
+No exemplo acima, para a política de vendas da empresa, estimou-se que:
+n 20% das vendas serão à vista;
+n 45% das vendas com 30 dias;
+n 30% das vendas com 60 dias e 
+n	 5% das vendas com 90 dias.
+Para calcularmos a média ponderada dos prazos de vendas, basta multiplicarmos o percen -
+tual das vendas pelo número de dias que serão concedidos aos clientes. O resultado acima 
+indica que em média a empresa leva 36 dias para receber suas vendas a prazo.
+--- PAGE 51 ---
+9
+	 B – Caixa Mínimo
+É o capital de giro próprio necessário para movimentar seu negócio. Representa o valor em 
+dinheiro que a empresa precisa ter disponível para cobrir os custos até que as contas a rece-
+ber de clientes entrem no caixa. Corresponde a uma reserva inicial de caixa.
+Para calcular a necessidade líquida de capital de giro é preciso conhecer os prazos médios 
+de vendas, compras e estocagem. Essas informações podem ser pesquisadas junto a con -
+correntes e fornecedores e serão utilizadas na apuração do caixa mínimo, isso porque nas 
+vendas financiamos os clientes por meio dos prazos concedidos e somos financiados pelos 
+fornecedores por meio dos  prazos para pagamento negociados.
+Acompanhe o exemplo a seguir e aprenda como calcular a necessidade de capital de giro pró-
+prio e o caixa mínimo. Posteriormente, faça o mesmo no quadro Hora de Praticar, utilizando 
+os dados específicos da sua atividade.
+n º Passo: Contas a receber – Cálculo do prazo médio de vendas
+É a média do prazo de financiamento a clientes, ou seja, do prazo concedido aos clientes para 
+que estes efetuem o pagamento do que compraram.
+Prazo médio de 
+vendas (%) x Número de dias Média Ponderada em dias
+a vista 20% x 0 0
+a prazo (1) 45% x 30 13,5
+a prazo (2) 30% x 60 18
+a prazo (3) 5% x 90 4,5
+a prazo (4) - x - -
+Prazo médio total 36 dias
+No exemplo acima, para a política de vendas da empresa, estimou-se que:
+n 20% das vendas serão à vista;
+n 45% das vendas com 30 dias;
+n 30% das vendas com 60 dias e 
+n	 5% das vendas com 90 dias.
+Para calcularmos a média ponderada dos prazos de vendas, basta multiplicarmos o percen -
+tual das vendas pelo número de dias que serão concedidos aos clientes. O resultado acima 
+indica que em média a empresa leva 36 dias para receber suas vendas a prazo.
+n º Passo: Fornecedores – Cálculo do prazo médio de compras
+Segue a mesma lógica do item anterior, porém devemos calcular o prazo médio dado pelos 
+fornecedores para o pagamento dos produtos e serviços adquiridos.
+Prazo médio de 
+compras (%) x Número de dias Média Ponderada
+a vista 50% x 0 0
+a prazo (1) 50% x 30 15
+a prazo (2) - x - -
+a prazo (3) - x - -
+a prazo (4) - x - -
+Prazo médio total 15 dias
+Partindo da premissa que 50% das compras são realizadas à vista e 50% em 30 dias, nova -
+mente devemos ponderar os prazos, multiplicando o percentual do volume de compras pelos 
+prazos médios concedidos pelos diversos fornecedores. Nessa situação a empresa tem apro-
+ximadamente 15 dias para o pagamento de seus débitos.
+n º Passo: Estoques – Cálculo da necessidade média de estoques
+É o prazo médio de PERMANÊNCIA da matéria prima ou das mercadorias nos estoques da 
+empresa. Abrange desde a data em que é feito o pedido ao fornecedor até o momento em que 
+os produtos são vendidos. Lembre-se de que um prazo maior de permanência das mercado-
+rias em estoque irá gerar uma necessidade maior de capital de giro.
+Necessidade média de estoques
+Número de dias
+5 dias
+Dando continuidade ao nosso exemplo, foi estimado um prazo médio de permanência em 
+estoque de 5 dias.
+--- PAGE 52 ---
+0
+n º Passo: Cálculo da necessidade líquida de capital de giro em dias
+É a diferença entre os recursos da empresa que se encontram fora do seu caixa (contas a re-
+ceber + estoques) e os recursos de terceiros no caixa da empresa (fornecedores). Se positivo, 
+o resultado indica quantos dias em que o caixa ficará descoberto, se negativo aponta que os 
+recursos financeiros das vendas entram no caixa antes que sejam feitos os pagamentos.
+Recursos da empresa fora do seu caixa Número de dias
+1. Contas a Receber – prazo médio de vendas 36 dias
+2. Estoques – necessidade média de estoques 5 dias
+Subtotal 1 (item 1 + 2) 41 dias
+Recursos de terceiros no caixa da empresa
+3. Fornecedores – prazo médio de compras 15 dias
+Subtotal 2 15 dias
+Necessidade Líquida de Capital de Giro em dias (Subtotal 1 
+– Subtotal 2)
+26 dias
+Somando o prazo médio de vendas (contas a receber) e o prazo médio de estocagem (esto -
+ques) e diminuindo desse resultado o prazo médio de compras (fornecedores) encontraremos 
+a necessidade líquida de capital de giro em dias. Em nosso exemplo, o prazo de 26 dias sig-
+nifica que a empresa irá necessitar de caixa nesse período para cobrir seus gastos e financiar 
+clientes.
+	 B – Caixa Mínimo
+Representa a reserva em dinheiro necessária para que a empresa financie suas operações 
+iniciais. É obtida ao multiplicarmos a necessidade líquida de capital de giro em dias pelo custo 
+total diário da empresa.
+1. Custo fixo mensal (Quadro 5.11 – Estimativa dos Custos Fixos 
+Operacionais Mensais)
+R$ 4.400,00
+2. Custo variável mensal (Subtotal 2 do quadro 5.12 – Demonstrativo 
+de Resultados)
+R$ 9.000,00
+3. Custo total da empresa (item 1 + 2) R$ 13.400,00
+4. Custo  total diário (item 3 ÷ 30 dias) R$ 446,66
+5. Necessidade Líquida de Capital de Giro em dias (vide resultado do 
+quadro anterior)
+26 dias
+ Total de B – Caixa Mínimo (item 4 x 5) R$ 11.613,16
+--- PAGE 53 ---
+
+A partir dos dados fornecidos acima o caixa mínimo necessário para a cobertura dos custos 
+da empresa para um período de 26 dias é de R$ 11.613,16.
+Fique de olho
+n O custo total corresponde ao somatório dos 
+custos fixos e variáveis. Mais adiante você irá 
+aprender a calcular esses custos. Essas infor -
+mações poderão ser obtidas no demonstrativo 
+de resultados que é elaborado ao final do plano 
+financeiro, por isso prossiga na leitura do ma -
+nual e quando estiver com tais informações em 
+mãos retorne ao cálculo do caixa mínimo.
+n Você deve ter notado, que quanto maior sua 
+necessidade líquida de capital de giro em dias, 
+maior é o caixa mínimo. Portanto, procure nego-
+ciar bem os prazos com clientes e fornecedores 
+e não mantenha mercadorias e matérias-primas 
+paradas por muito tempo em estoque.
+
+--- PAGE 54 ---
+
+Hora de praticar
+	 B – Caixa Mínimo
+n º Passo: Contas a receber – Cálculo do prazo médio de vendas
+Prazo médio  
+de vendas (%) x Número de dias Média Ponderada  
+em dias
+a vista x
+a prazo (1) x
+a prazo (2) - x - -
+a prazo (3) - x - -
+a prazo (4) - x - -
+x Prazo médio total
+n º Passo: Fornecedores – Cálculo do prazo médio de compras
+Prazo médio de 
+compras (%) x Número de dias Média Ponderada  
+em dias
+a vista x
+a prazo (1) x
+a prazo (2) - x - -
+a prazo (3) - x - -
+a prazo (4) - x - -
+x Prazo médio total
+n º Passo: Estoques – Cálculo da necessidade média de estoques
+Necessidade média de estoques
+Número de dias
+--- PAGE 55 ---
+
+n º Passo: Cálculo da necessidade líquida de capital de giro em dias
+Recursos da empresa fora do seu caixa Número de dias
+1. Contas a Receber – prazo médio de vendas
+2. Estoques – necessidade média de estoques
+Subtotal 1 (item 1 + 2)
+Recursos de terceiros no caixa da empresa
+3. Fornecedores – prazo médio de compras
+Subtotal 2
+Necessidade Líquida de Capital de Giro em dias (Subtotal 1 
+– Subtotal 2)
+	 B – Caixa Mínimo
+1. Custo fixo mensal (Quadro 5.11 – Estimativa dos Custos Fixos 
+Operacionais Mensais)
+R$
+2. Custo variável mensal (Subtotal 2 do quadro 5.12 – Demonstrativo 
+de Resultados)
+R$
+3. Custo total da empresa (item 1 + 2) R$
+4. Custo  total diário (item 3 ÷ 30 dias) R$
+5. Necessidade Líquida de Capital de Giro em dias (vide resultado do 
+quadro anterior)
+_____ dias
+ Total de B – Caixa Mínimo (item 4 x 5) R$
+n .. Capital de giro (resumo)
+Descrição R$
+A – Estoque Inicial
+B – Caixa Mínimo
+TOTAL DO CAPITAL DE GIRO (A + B)
+n .. Investimentos pré-operacionais
+O	que	é	e	como	fazer
+Compreendem os gastos realizados antes do início das atividades da empresa, isto é, antes 
+que ela abra as portas e comece a vender. São exemplos de investimentos pré-operacionais: 
+despesas com reforma (pintura, instalação elétrica, troca de piso, etc.) ou mesmo as taxas de 
+registro da empresa. 
+--- PAGE 56 ---
+
+Hora de praticar
+n .. Investimentos pré-operacionais
+Investimentos Pré-Operacionais R$
+Despesas de legalização
+Obras civis e/ou reformas
+Divulgação
+Cursos e treinamentos
+Outras despesas
+TOTAL
+n .. Investimento total (resumo)
+O que é e como fazer 
+Agora que você estimou os valores para investimentos fixos, financeiros e pré-operacionais, 
+é o momento de conhecer o total a ser investido no negócio. 
+Transporte para o quadro 5.4, INVESTIMENTO TOTAL, o somatório dos:
+n quadro 5.1 – Estimativa dos Investimentos Fixos.
+n quadro 5.2 – Capital de Giro.
+n quadro 5.3 – Estimativa de Investimentos Pré-Operacionais. 
+Em seguida avalie se o capital para criação da empresa será feito a partir de recursos próprios 
+(investimento dos proprietários) ou de terceiros (pessoas externas ou instituições financeiras). 
+Então preencha o quadro de fontes de recursos definindo em que proporção isso irá aconte -
+cer.
+--- PAGE 57 ---
+
+Fique de olho
+n Pense em como e onde irá buscar os recursos para iniciar ou ampliar o negócio. Você 
+dispõe do capital necessário para isso (recursos próprios) ou será necessário recorrer a 
+bancos (recursos de terceiros), por exemplo? 
+n Ao fazer uso de financiamento, procure saber quais são as linhas de crédito para peque -
+nas empresas. Peça ao gerente do banco escolhido orientações sobre o que pode ser 
+financiado, até quanto, a taxa de juros, a carência e o prazo de pagamento, a documenta-
+ção e as garantias exigidas. 
+n Verifique se você está apto a atender essas condições e se a empresa irá gerar resultados 
+que possibilitem a quitação do financiamento. Caso contrário, busque alternativas, mesmo 
+que, para isso, tenha que adiar o projeto ou iniciar um empreendimento menor.
+Hora de praticar
+n .. Investimento total (resumo)
+Descrição dos investimentos Valor (R$) (%)
+1. Investimentos Fixos – Quadro 5.1
+2. Capital de Giro – Quadro 5.2
+3. Investimentos Pré-Operacionais 
+– Quadro 5.3
+TOTAL (1 + 2 + 3) 100,00
+Fontes de recursos Valor (R$) (%)
+1. Recursos próprios
+2. Recursos de terceiros
+3. Outros
+TOTAL (1 + 2 + 3) 100,00
+--- PAGE 58 ---
+
+n .. Estimativa do faturamento mensal da empresa
+O que é e como fazer
+Esta talvez, é uma das tarefas mais difíceis 
+para quem ainda não iniciou as atividades. 
+Uma forma de estimar o quanto a empresa irá 
+faturar por mês é multiplicar a quantidade de 
+produtos a serem oferecidos pelo seu preço de 
+venda, que deve ser baseado em informações 
+de mercado. Para isso, considere:
+n o preço praticado pelos concorrentes dire -
+tos; e
+n o quanto seus potenciais clientes estão dis-
+postos a pagar.
+Fique de olho
+n As previsões de vendas devem ser baseadas na avaliação do potencial do seu mercado e 
+em sua capacidade produtiva.
+n Faça suas estimativas de faturamento para um período de, pelo menos, 12 meses. Seja cau-
+teloso ao projetar as receitas e verifique se há sazonalidade no seu ramo, isto é, se existem 
+épocas em que as vendas aumentam ou diminuem, como no Natal ou férias escolares.
+n Ao estimar as vendas, foi considerado o preço de mercado. Porém, existem outros meios 
+para se precificar um produto, como por exemplo, fixar uma margem de ganho sobre o 
+custo do produto.
+
+--- PAGE 59 ---
+7
+Hora de Praticar
+n .. Estimativa do faturamento mensal da empresa
+Produto/Serviço
+Quantidade 
+(Estimativa de 
+Vendas)
+x Preço de Venda 
+Unitário (em R$)
+Faturamento 
+Total (em R$)
+1. x
+2. x
+3. x
+4. x
+5. x
+6. x
+7. x
+8. x
+9. x
+10. x
+TOTAL
+n .. Estimativa do custo unitário de matéria-prima, materiais diretos e 
+terceirizações
+Aqui, será calculado o custo com materiais (ma-
+téria-prima + embalagem) para cada unidade 
+fabricada. Essa informação é importante, caso 
+você deseje abrir uma indústria. 
+Os gastos com matéria-prima e embalagem são 
+classificados como custos variáveis numa  in -
+dústria, assim como as mercadorias em um co -
+mércio. Como o próprio nome diz, esses custos 
+variam (aumentam ou diminuem) de acordo com 
+o volume produzido ou vendido. 
+Observe o exemplo a seguir e, depois, calcule o 
+custo unitário com materiais para os produtos de sua 
+empresa.
+
+--- PAGE 60 ---
+8
+	 Produto: calça masculina
+Material Quantidade Custo Unitário (R$) Total (R$)
+1. Tecido 4 metros 2,50 10,00
+2. Elástico 2 metros 0,30 0,60
+3. Linha 15 metros 0,10 1,50
+4. Zíper  de 15 cm 1 unidade 0,80 0,80
+5. Botão 4 unidades 0,10 0,40
+6. Etiqueta 1 unidade 0,30 0,30
+7 Saco plástico 1 unidade 0,05 0,05
+8 Caixa 1 unidade 0,50 0,50
+Total 14,15
+Hora de Praticar
+n .. Estimativa dos custos de matéria-prima, materiais diretos e 
+terceirizações
+(Este item deverá ser preenchido somente pelo setor industrial.) 
+	 Produto : 
+Materiais/insumos usados Qtde. x Custo Unitário 
+(R$) Total (R$)
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Total
+--- PAGE 61 ---
+9
+	 Produto : 
+Materiais/insumos usados Qtde. x Custo Unitário 
+(R$) Total (R$)
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Total
+	 Produto : 
+Materiais/insumos usados Qtde. x Custo Unitário 
+(R$) Total (R$)
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Total
+--- PAGE 62 ---
+0
+	 Produto : 
+Materiais/insumos usados Qtde. x Custo Unitário 
+(R$) Total (R$)
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Total
+n .7. Estimativa dos custos de comercialização
+O que é e como fazer
+Aqui, serão registrados os gastos com impostos e comissões de vendedores ou representan-
+tes. Esse tipo de despesa incide diretamente sobre as vendas e, assim como o custo com 
+materiais diretos ou mercadorias vendidas, é classificado como um custo variável.
+Para calculá-los, basta aplicar, sobre o total das vendas previstas, o percentual dos impostos 
+e de comissões.
+Fique de olho
+n As empresas optantes pelo SIMPLES devem desconsiderar o recolhimento dos seguintes 
+impostos: IRPJ, PIS, COFINS, Contribuição Social e IPI;
+n O ICMS é um imposto de abrangência estadual e estão obrigadas a recolhê-lo as empre -
+sas que trabalhem com a venda de produtos ou com serviços de transporte intermunicipal 
+e interestadual. O ISS é devido à prefeitura pelas empresas prestadoras de serviços.
+--- PAGE 63 ---
+
+Hora de Praticar
+n .7. Estimativa dos custos de comercialização
+Descrição % x Faturamento
+Estimado (quadro 5.5)
+Custo Total 
+(R$)
+1. Impostos
+ Impostos Federais
+ SIMPLES x
+ IRPJ x
+ PIS x
+ COFINS x
+ IPI x
+ CSLL – Contribuição Social sobre 
+o Lucro Líquido x
+ Impostos Estaduais
+ ICMS – Imposto sobre Circulação 
+de Mercadorias e Serviços x
+ Impostos Municipais
+ ISS – Imposto sobre Serviços x
+Subtotal 1
+2. Gastos com vendas
+ Comissões x
+ Propaganda x
+ Taxa de administração do cartão 
+de crédito x
+Subtotal 2
+TOTAL (Subtotal 1 + 2)
+--- PAGE 64 ---
+
+n .8. Apuração dos custos dos materiais diretos e/ou mercadorias vendidas
+O que é e como fazer
+Nesta etapa, você deverá apurar o CMD – Custos com Materiais Diretos (para a indústria) 
+– ou o CMV – Custo das Mercadorias Vendidas (para o comércio).
+O custo dos materiais diretos ou das mercadorias vendidas representa o valor que deverá ser 
+baixado dos estoques pela sua venda efetiva. Para calculá-lo, basta multiplicar a quantidade 
+estimada de  vendas pelo seu custo de fabricação ou aquisição.
+O custo com materiais diretos e ou mercadorias vendidas é classificado como um custo vari-
+ável, aumentando ou diminuindo em função do volume de produção ou de vendas.
+Hora de Praticar
+n .8. Apuração do custo dos materiais diretos e/ou mercadorias vendidas
+Produto/Serviço
+Estimativa de 
+Vendas (em 
+unidades)
+x
+Custo Unitário 
+de Materiais/
+Aquisição (R$)
+CMD/CMV 
+(R$)
+1. x
+2. x
+3. x
+4. x
+5. x
+6. x
+7. x
+8. x
+9. x
+10. x
+TOTAL
+n .9. Estimativa dos custos com mão-de-obra
+O que é e como fazer
+Agora, você deverá definir quantas pessoas serão contratadas (se necessário) para realizar 
+as diversas atividades do negócio. Pesquise e determine quanto cada empregado receberá. 
+Não se esqueça de que, além dos salários, devem ser considerados os custos com encargos 
+sociais (FGTS, férias, 13º salário, INSS, horas-extras, aviso prévio, etc.)
+--- PAGE 65 ---
+
+Sobre o total de salários, você deve aplicar o percentual relativo aos encargos sociais, soman-
+do-os aos salários, você saberá qual o custo total com mão-de-obra.
+Fique de olho
+n Um contabilista poderá informá-lo quais são os encargos sociais devidos pela sua empresa. 
+Pesquise no sindicato patronal, o piso salarial a ser pago e quais os benefícios devidos.
+Hora de Praticar
+n .9. Estimativa dos custos com mão-de-obra
+Função Nº de 
+Empregados x
+Salário 
+Mensal 
+(R$)
+Subtotal 
+(R$) x
+(%) de 
+encargos 
+sociais
+Encargos 
+sociais 
+(R$)
++ Total 
+(R$)
+1. x x +
+2. x x +
+3. x x +
+4. x x +
+5. x x +
+6. x x +
+7. x x +
+8. x x +
+9. x x +
+10. x x +
+TOTAL x x +
+n .0. Estimativa do custo com depreciação
+O que é e como fazer
+Lembre-se de que as máquinas, equipamentos e ferramentas desgastam-se ou tornam-se 
+ultrapassados com o passar dos anos, sendo necessária sua reposição. O reconhecimento 
+da perda do valor dos bens pelo uso é chamado de depreciação.
+Para calcular a depreciação dos investimentos fixos, é necessário seguir os passos descritos 
+abaixo:
+n relacione as máquinas, equipamentos, ferramentas, utensílios, veículos, etc. utilizados. 
+Lembre-se de que estas informações foram levantadas na planilha de investimentos fixos 
+(quadro 5.1.);
+--- PAGE 66 ---
+
+n determine o tempo médio de vida útil (em anos) desses bens;
+n divida o valor do bem pela sua vida útil em anos para saber o valor anual da deprecia -
+ção;
+n divida o custo anual com depreciação por 12, para calcular a depreciação mensal.
+Entenda melhor como calcular a depreciação com o seguinte exemplo:
+Informações Gerais
+Nome do bem máquina de costura
+Tempo médio de vida  útil 5 anos
+Valor do bem R$ 5.000,00
+Depreciação anual 
+R$ 5.000,00
+= R$ 1.000,00 ao ano
+5 anos
+Depreciação mensal 
+R$ 1.000,00
+= R$ 83,33 ao mês
+12 meses
+Isso quer dizer que, a cada mês, esse equipamento vale R$83,33 menos, ou seja, possivel -
+mente, ao final de 5 anos, será preciso adquirir um nova máquina de costura, mais moderna 
+e eficiente.
+Fique de olho
+n Apesar de ser um custo e influenciar na formação do preço, a depreciação não representa 
+um desembolso (saída de dinheiro do caixa). Entretanto, dependendo da situação finan -
+ceira e das estratégias do negócio, pode-se fazer uma reserva para a troca do bem ao final 
+de sua vida útil.
+n A título de informação, a Receita Federal considera, para efeito de vida útil, os seguintes 
+prazos:
+n imóveis – 25 anos;
+n	 máquina – 10 anos;
+n	 equipamentos – 5 anos;
+n	 móveis e utensílios – 10 anos;
+n	 veículos – 5 anos;
+n	 computadores – 3 anos.
+--- PAGE 67 ---
+
+n Essas informações funcionam como referência e não devem ser seguidas como regra. 
+n Em algumas atividades empresariais, máquinas e equipamentos sofrem desgastes maio -
+res. Isso deve ser considerado no cálculo da depreciação;
+n Lembre-se de que máquinas e equipamentos sucateados têm maiores custos de manu -
+tenção, além de produtividade mais baixa.
+Hora de Praticar
+n .0. Estimativa do custo com depreciação
+Ativos Fixos
+Valor do 
+Bem 
+(R$)
+Vida útil
+em Anos
+Depreciação 
+Anual 
+(R$)
+Depreciação 
+Mensal 
+(R$)
+5.1.A – Máquinas e equipamentos 
+5.1.B – Móveis e máquinas
+5.1.C – Veículos
+TOTAL
+n .. Estimativa dos custos fixos operacionais mensais
+O que é e como fazer
+Os custos fixos são todos os gastos que não se alteram em função do volume de produção 
+ou da quantidade vendida em um determinado período. 
+Por exemplo, imagine que, em um determinado mês, uma empresa sofra uma queda em suas 
+vendas. Ainda assim, pagará despesas com aluguel, energia, salários, etc. Esses valores 
+são custos fixos porque são pagos, normalmente, independente do nível de faturamento do 
+negócio.
+No quadro abaixo, liste todos os seus custos fixos e estime os valores mensais de cada um. 
+Procure ajustar o quadro de acordo com os tipos de despesas do seu empreendimento.
+Fique de olho
+n Ao levantar os custos fixos, seja cauteloso. Já diz o ditado que “o seguro morreu de velho”; 
+por isso, trabalhe com alguma “margem de segurança” na hora de estimar esses gastos.
+n Sem perder a qualidade, procure reduzir ao máximo os custos fixos.  Adote práticas que 
+contribuam para a diminuição do desperdício e do retrabalho.
+--- PAGE 68 ---
+
+n O pró-labore é a remuneração do dono pelo seu trabalho e deve ser considerado men -
+salmente como um custo. Lembre-se de que, caso você não disponha de outra fonte de 
+renda, é pelo pró-labore que irá pagar seus compromissos pessoais.
+n Não se esqueça de relacionar o valor da depreciação mensal das máquinas e equipamen-
+tos calculados anteriormente.
+Hora de Praticar
+n .. Estimativa de custos fixos operacionais mensais
+Descrição Custo Total Mensal (em R$)
+Aluguel
+Condomínio
+IPTU
+Água
+Energia elétrica
+Telefone
+Honorários do contador
+Pró-labore
+Manutenção dos equipamentos
+Salários + encargos – quadro 5.9
+Material de limpeza
+Material de escritório
+Combustível
+Taxas diversas
+Serviços de terceiros
+Depreciação – quadro 5.10
+Outras despesas
+TOTAL
+--- PAGE 69 ---
+7
+n .. Demonstrativo de resultados
+O que é e como fazer
+Após reunir as informações sobre as estimativas de faturamento e os custos totais (fixos e 
+variáveis), é possível prever o resultado da empresa, verificando se ela possivelmente irá 
+operar com lucro ou prejuízo.
+Hora de Praticar
+n .. Demonstrativo de resultados
+Quadro Descrição (R$) %
+5.5. 1. Receita Total com Vendas
+2. Custos Variáveis Totais
+5.8. (-) Custos com materiais diretos e/ou CMV(*)
+5.7. (Subtotal 1) (-) Impostos sobre vendas
+5.7. (Subtotal 2) (-) Gastos com vendas
+Subtotal de 2
+3. Margem de Contribuição (1 – 2) 
+5.11 4. (-) Custos Fixos Totais
+5. Resultado Operacional (Lucro/Prejuízo) (3 – 4)
+(*) CMV – Custo das Mercadorias Vendidas
+Fique de olho
+n Volte ao quadro 5.2. e utilize as informações do Demonstrativo de Resultados para  calcu-
+lar o caixa mínimo necessário.
+n .. Indicadores de viabilidade
+n ... Ponto de equilíbrio
+O que é e para que serve
+O ponto de equilíbrio representa o quanto sua empresa precisa faturar para pagar todos os 
+seus custos em um determinado período.  Utilizando as fórmulas a seguir, você pode calcular 
+o ponto de equilíbrio em faturamento.
+--- PAGE 70 ---
+8
+A) PE =
+Custo Fixo Total
+Índice da Margem de Contribuição (*)
+(*) Observação
+Índice da Margem de Contribuição =
+Margem de Contribuição  
+(Receita Total – Custo Variável Total)
+Receita Total
+O valor da margem de contribuição, do custo fixo e da receita total são encontrados no De -
+monstrativo de Resultados (quadro 5.12.)
+	 Exemplo
+Valores anuais:
+Receita Total: R$ 100.000,00
+Custo Variável Total: R$ 70.000,00
+Custo Fixo Total: R$ 19.500,00
+Índice da Margem de Contribuição =
+R$ 100.000,00 – R$ 70.000,00
+= 0,30
+R$ 100.000,00
+PE =
+R$ 19.500,00
+= R$ 65.000,00
+0,30
+Isso quer dizer que é necessário que a empresa tenha uma receita total de R$ 65.000,00 ao 
+ano para cobrir todos os seus custos.
+Fique de olho
+n O ponto de equilíbrio também pode ser calculado em unidades vendidas. Entretanto, para 
+as empresas que trabalham com uma grande variedade de produtos ou serviços, é reco -
+mendável calcular o ponto de equilíbrio em faturamento.
+n Concentre seus esforços para que o empreendimento ultrapasse o ponto de equilíbrio, 
+pois, somente assim, você irá obter lucro. 
+--- PAGE 71 ---
+9
+Hora de praticar
+	 Ponto de equilíbrio
+n ... Lucratividade
+O que é e para que serve
+É um indicador que mede o lucro líquido em relação às vendas. É um dos principais indica -
+dores econômicos, pois está relacionado à competitividade. Se sua empresa possui uma boa 
+lucratividade, ela apresentará maior capacidade de competir, isso porque poderá investir mais 
+em divulgação, na diversificação dos produtos e serviços, na aquisição de novos equipamen-
+tos, etc.
+Lucratividade =
+Lucro Líquido
+x 100
+Receita Total
+	 Exemplo
+Receita Total: R$ 100.000,00/ano
+Lucro Líquido: R$ 8.000,00/ano
+Lucratividade =
+R$ 8.000,00
+x 100 = 8%
+R$ 100.000,00
+Isso quer dizer que sob os R$ 100.000,00 de receita total “sobram” R$ 8.000,00 na forma de 
+lucro, depois de pagas todas as despesas e impostos, o que indica uma lucratividade de 8% 
+ao ano.
+--- PAGE 72 ---
+70
+Hora de praticar
+	 Lucratividade
+n ... Rentabilidade
+O que é e para que serve
+É um indicador de atratividade dos negócios, pois mede o retorno do capital investido aos só-
+cios. É obtido sob a forma de percentual por unidade de tempo (mês ou ano). É calculada por 
+meio da divisão do lucro líquido pelo investimento total. A rentabilidade deve ser comparada 
+com índices praticados no mercado financeiro.
+Rentabilidade =
+Lucro Líquido
+x 100
+Investimento Total
+	 Exemplo
+Lucro Líquido: R$ 8.000,00/ano
+Investimento Total: R$ 32.000,00
+Rentabilidade =
+R$ 8.000,00
+x 100 = 25% ao ano
+R$ 32.000,00
+Isso significa que, a cada ano, o empresário recupera 25% do valor investido através dos 
+lucros obtidos no negócio.
+--- PAGE 73 ---
+7
+Hora de praticar
+	 Rentabilidade
+n ... Prazo de retorno do investimento
+O que é e para que serve
+Assim como a rentabilidade, também é um indicador de atratividade. Indica o tempo necessá-
+rio para que o empreendedor recupere o que investiu. 
+Prazo de Retorno do Investimento =
+Investimento Total
+Lucro Líquido 
+	 Exemplo
+Lucro Líquido: R$ 8.000,00/ano
+Investimento Total: R$ 32.000,00
+Prazo de Retorno do Investimento =
+R$ 32.000,00
+= 4 anos
+R$ 8.000,00 
+Isso significa que, 4 anos após o início das atividades da empresa, o empreendedor terá re -
+cuperado, sob a forma de lucro, tudo o que gastou com a montagem.
+--- PAGE 74 ---
+7
+Hora de praticar
+n Prazo de retorno do investimento
+Roteiro para coleta de informações
+É hora de trabalhar os números do empreendimento. Orçamentos, cálculos e projeções deve-
+rão ser feitas. Estabeleça quais são as informações mais importantes a serem pesquisadas e 
+registre como irá obtê-las no roteiro para coleta de informações disponível no fim do manual.
+--- PAGE 75 ---
+7
+n . Construção de Cenários
+O que é e como fazer
+Após a finalização do seu plano de negócio, simule valores e situações diversas para a em -
+presa. Prepare cenários onde o negócio obtenha resultados pessimistas (queda nas vendas 
+e/ou aumento dos custos) ou otimistas (crescimento do faturamento e diminuição das despe-
+sas). A partir daí, pense em ações para evitar e prevenir-se frente às adversidades ou então 
+para potencializar situações favoráveis. Faça quantas simulações julgar necessário e tenha 
+sempre alternativas (plano B).
+Fique de olho
+Na construção de cenários é fundamental considerar algumas possibilidades:
+n Nos primeiros meses, as vendas serem menores que o previsto;
+n O início das atividades ser um pouco mais demorado que o programado;
+n	 Estratégias de marketing podem não surtir os efeitos esperados no curto prazo;
+n	 Necessidade de obter mais recursos financeiros que o previamente planejado;
+n	 Possíveis reações de concorrentes.
+--- PAGE 76 ---
+7
+Quadro Descrição
+Cenário provável Cenário 
+pessimista Cenário otimista
+Valor (R$) (%) Valor (R$) (%) Valor (R$) (%)
+5.5. 1. Receita total com vendas
+2. Custos variáveis totais
+5.8. (-) Custos com materiais diretos e ou CMV
+5.7. (Subtotal 1) (-) Impostos sobre vendas
+5.7. (Subtotal 2) (-) Gastos com vendas
+Subtotal 2
+3. Margem de contribuição (1 – Subtotal 2)
+5.11. 4. (-) Custos fixos totais
+5. Lucro/Prejuízo Operacional (3 – 4)
+Hora de praticar
+--- PAGE 77 ---
+7
+n Ações corretivas e preventivas
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 78 ---
+7
+n 7. Avaliação Estratégica
+n 7.. Análise da matriz F.O.F.A. 
+O que é e como fazer
+A matriz F.O.F.A. é um instrumento de análise simples e valioso. Seu objetivo é detectar 
+pontos fortes e fracos, com a finalidade de tornar a empresa mais eficiente e competitiva, 
+corrigindo assim suas deficiências. F.O.F.A. é um acróstico para:
+F orças
+O portunidades
+F raquezas
+A meaças
+A análise F.O.F.A. levará você pensar nos aspectos favoráveis e desfavoráveis do negócio, 
+dos seus proprietários e do mercado. 
+A matriz F.O.F.A. é sempre feita em quadrantes, ou seja, em quatro quadrados iguais. Em 
+cada quadrado são registrados fatores positivos e negativos para a implantação do negócio. 
+Saiba como construir a matriz lendo as explicações abaixo.
+FORÇAS
+Faça uso das forças
+São características internas da empresa ou 
+de seus donos que representam vantagens 
+competitivas sobre seus concorrentes ou 
+uma facilidade para atingir os objetivos 
+propostos.
+Exemplos:
+• Atendimento personalizado ao cliente
+•	 Preço de venda competitivo
+•	 Equipe treinada e motivada
+•	 Localização estratégica da empresa
+OPORTUNIDADES
+Explore as oportunidades
+São situações positivas do ambiente 
+externo que permitem à empresa alcançar 
+seus objetivos ou melhorar sua posição no 
+mercado.
+Exemplos:
+•	 Existência	de	linhas	de	financiamento	
+•	 Poucos concorrentes na região
+•	 Aumento crescente da demanda 
+•	 Disponibilidade de bons imóveis para 
+locação
+--- PAGE 79 ---
+77
+FRAQUEZAS 
+Elimine as fraquezas
+São fatores internos que colocam a empresa 
+em situação de desvantagem frente à 
+concorrência ou que prejudicam sua atuação 
+no ramo escolhido.
+Exemplos:
+•	 Pouca qualificação dos funcionários
+•	 Indisponibilidade de recursos financeiros 
+(capital)
+•	 Falta de experiência anterior no ramo 
+•	 Custos de manutenção elevados
+AMEAÇAS 
+Evite as ameaças
+São situações externas nas quais se têm 
+pouco controle e que colocam a empresa 
+diante de dificuldades, ocasionando a 
+perda de mercado ou a redução de sua 
+lucratividade.
+Exemplos:
+•	 Impostos elevados e exigências legais 
+rigorosas
+•	 Existência de poucos fornecedores
+•	 Escassez de mão-de-obra qualificada
+•	 Insegurança  e violência na região
+No quadro Hora de praticar, reúna as pessoas envolvidas diretamente na montagem do em -
+preendimento. Busque identificar os fatores internos da empresa e do mercado que possam 
+impactar sua atividade futura, identificando forças, fraquezas, ameaças e oportunidades.
+Fique de olho
+n Na análise do ambiente externo, existe a chamada “faca de dois gumes”, isto é, situações 
+que são ao mesmo tempo oportunidades e ameaças. Por exemplo, o crescimento do setor 
+onde se atua, pode representar tanto uma oportunidade de aumento das vendas, como 
+uma ameaça por facilitar a entrada de novos concorrentes.
+n Seja honesto e objetivo ao elaborar essa análise. Não seja pessimista ou otimista em 
+excesso. Procure enfocar a realidade e não como você gostaria que as coisas fossem. O 
+ideal é que você registre sempre uma idéia por linha, isso torna a avaliação mais fácil.
+--- PAGE 80 ---
+78
+Hora de praticar
+n 7.. Análise da matriz F.O.F.A.
+FATORES INTERNOS 
+(controláveis)
+FATORES EXTERNOS 
+(incontroláveis)
+PONTOS FORTES
+FORÇAS OPORTUNIDADES
+PONTOS FRACOS
+FRAQUEZAS AMEAÇAS
+--- PAGE 81 ---
+79
+n 8. Avaliação do Plano de Negócio
+O Plano de Negócio desenvolvido por você é um valioso instrumento de planejamento. Por 
+ser o seu mapa de percurso, ele deve ser consultado e acompanhado constantemente.
+Avalie cada uma das informações e lembre-se de que o plano de negócio tem por objetivo 
+ajudá-lo a responder a pergunta lançada no início desse manual: “Vale a pena abrir, manter 
+ou ampliar o meu negócio?”.
+Saiba que o mundo e o mercado estão sujeitos a mudanças; a cada dia surgem novas opor -
+tunidades e ameaças. Assim sendo, procure adaptar seu planejamento às novas realidades. 
+É por este motivo que um plano de negócio é “feito a lápis”, para que possa ser corrigido, 
+alterado e ajustado. Procure refazer seu plano de tempos em tempos.
+Empreender é sempre um risco, mas empreender sem planejamento é um risco que pode ser 
+evitado. O plano de negócio, apesar de não ser a garantia de sucesso, irá auxiliá-lo a tomar 
+decisões mais acertadas, assim como a não se desviar de seus objetivos.
+Hora de praticar
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 82 ---
+80
+n 9. Roteiro para Coleta de Informações 
+    Consolidado
+1. SUMÁRIO EXECUTIVO
+O que
+(atividade)
+Onde
+(local)
+Como
+(método)
+Quando
+(prazo)
+Quem
+(responsável)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+--- PAGE 83 ---
+8
+2. ANÁLISE DE MERCADO
+O que
+(atividade)
+Onde
+(local)
+Como
+(método)
+Quando
+(prazo)
+Quem
+(responsável)
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+--- PAGE 84 ---
+8
+3. PLANO DE MARKETING
+O que
+(atividade)
+Onde
+(local)
+Como
+(método)
+Quando
+(prazo)
+Quem
+(responsável)
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+--- PAGE 85 ---
+8
+4. PLANO OPERACIONAL
+O que
+(atividade)
+Onde
+(local)
+Como
+(método)
+Quando
+(prazo)
+Quem
+(responsável)
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+--- PAGE 86 ---
+8
+5. PLANO FINANCEIRO
+O que
+(atividade)
+Onde
+(local)
+Como
+(método)
+Quando
+(prazo)
+Quem
+(responsável)
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+--- PAGE 87 ---
+8
+n 0. Referências Bibliográficas
+n CEAG/MG. Programa microempresa. Belo Horizonte: CEAG, 1987. 83 p., il.
+n CENNI, Marcelo. Montando uma empresa : dicas para obter sucesso. Belo Horizonte: 
+Autêntica, 1998. 94 p., il. (Coleção Pequena Empresa,v.1).
+n CHIAVENATO, Idalberto. Vamos abrir um negócio? São Paulo: Makron Books, 1995. 
+140 p., il.
+n COMO administrar uma pequena empresa: manual metodológico. [Belo Horizonte]: SE -
+BRAE/MG, [19--].
+n DE FELIPPE JÚNIOR, Bernardo. Pesquisa: o que é e para que serve. Brasília: SEBRAE, 
+71 p., il. (Série Marketing para a Pequena Empresa, 6).
+n DOLABELLA, Fernando. O segredo de Luísa. São Paulo: Cultura, 1999. 312 p., il.
+n FUNDAÇÃO ROBERTO MARINHO. Aprender a empreender. [S.l]: SEBRAE, 2001. 160 
+p.,il.
+n GUIA PEQUENAS EMPRESAS GRANDES NEGÓCIOS : como montar seu próprio negó-
+cio. São Paulo: Globo, 2002. 152 p., il.
+n MANUAL iniciando um pequeno grande negócio. [Brasília]: SEBRAE, [19--].
+n MANUAL do curso básico de formação de contabilistas consultores. [Belo Horizonte]: SE-
+BRAE/MG, [19--].
+n MANUAL do plano de negócios. [S.l.: s.n], [19--]. Baseado no Business Plan Work book, 
+publicado pela Entrepreneurship Development Corporation of Honolulu em 1984.
+n MENDONÇA, Carlos Alberto Veríssimo de; PINTO, Paulo César Ferreira. Gestão estraté-
+gica: Série Contabilizando o sucesso. Brasília. SEBRAE, 2003. 47 p.
+n PEQUENOS negócios: treinamento gerencial básico. [Belo Horizonte]: SEBRAE/MG, [19--].
+n PROGRAMA de desenvolvimento de empreendedores: plano de negócios. [Belo Horizon-
+te]: SEBRAE/MG, [19--].
+--- PAGE 88 ---
+8
+--- PAGE 89 ---
+87
+n Parte  – A Construção do seu Plano de Negócio
+n Formulário Plano de Negócio
+--- PAGE 90 ---
+88
+n . Sumário Executivo
+n . – RESUMO DOS PRINCIPAIS PONTOS DO PLANO DE NEGÓCIO
+Faça um resumo dos  principais pontos do seu plano.
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+Indicadores de viabilidade Valor
+Lucratividade 
+Rentabilidade
+Prazo de retorno do investimento
+Ponto de Equilíbrio (PE)
+--- PAGE 91 ---
+89
+n .. Dados dos empreendedores, experiência profissional e atribuições
+	 Sócio 
+Nome
+Endereço
+Cidade Estado
+Telefone 1 Telefone 2
+Perfil (breve currículo)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+Atribuições do sócio 1 (papel a ser desempenhado na sociedade)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 92 ---
+90
+	 Sócio 
+Nome
+Endereço
+Cidade Estado
+Telefone 1 Telefone 2
+Perfil (breve currículo)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+Atribuições do Sócio 2 (papel a ser desempenhado na sociedade)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 93 ---
+9
+n	 .. Dados do empreendimento
+Nome da Empresa
+CNPJ/CPF
+n	 .. Missão da empresa
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+n .. Setores de atividade
+q Agropecuária
+q Indústria
+q Comércio
+q Serviços
+q Outros ______________________________________________
+n .. Forma Jurídica
+q Empresário
+q Sociedade Limitada
+q Outra: ____________________________________________________
+--- PAGE 94 ---
+9
+n .7. Enquadramento tributário
+n .7.. Âmbito federal 
+q REGIME SIMPLES
+q REGIME NORMAL
+n IRPJ – Imposto de Renda Pessoa Jurídica
+n PIS – Contribuição para os Programas de Integração Social
+n COFINS – Contribuição para Financiamento da Seguridade Social
+n CSLL – Contribuição Social sobre o Lucro Líquido
+n IPI – Imposto sobre Produtos Industrializados (apenas para indústria)
+n .7.. Âmbito estadual
+q	 ICMS	–	Regime	Simplificado
+q ICMS – Imposto sobre Circulação de Mercadorias e Serviços (SISTEMA DÉBITO E CRÉ-
+DITO)
+n .7.. Âmbito municipal
+q ISS – Imposto sobre Serviços
+n .8. Capital Social
+Nome do Sócio Valor (R$) % de participação
+Sócio 1
+Sócio 2
+Sócio 3
+Sócio 4
+TOTAL 100,00
+--- PAGE 95 ---
+9
+n .9. Fonte de recursos
+Descreva qual a origem dos recursos necessários para a abertura da empresa.
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 96 ---
+9
+n . Análise de Mercado
+n .. Estudo dos clientes
+n Público-alvo (perfil dos clientes)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+n Comportamento dos clientes (interesses e o que os levam a comprar)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+n Área de abrangência (onde estão os clientes?)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 97 ---
+9
+n .. Estudo dos concorrentes
+Qualidade Preço Condições de 
+Pagamento
+Localização Atendimento Serviços aos 
+clientes
+Garantias 
+oferecidas
+Sua Empresa
+Concorrente 1 
+(nome)
+Concorrente 2 
+(nome)
+Conclusões
+--- PAGE 98 ---
+9
+n .. Estudo dos fornecedores
+Ordem Descrição dos itens 
+a serem adquiridos 
+(matérias-primas, 
+insumos, mercadorias 
+e serviços)
+Nome do 
+fornecedor
+Preço Condições de 
+pagamento
+Prazo de 
+entrega
+Localização 
+(estado e/ou 
+município)
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+--- PAGE 99 ---
+97
+n . Plano de Marketing
+n .. Descrição dos principais produtos e serviços
+PRINCIPAIS PRODUTOS (a serem fabricados, revendidos ou serviços prestados)
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+n .. Preço
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 100 ---
+98
+n .. Estratégias promocionais
+Descreva as estratégias de promoção e divulgação que irá utilizar.
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+n .. Estrutura de comercialização
+Formas de comercialização e distribuição (descreva abaixo quais serão utilizadas).
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 101 ---
+99
+n .. Localização do negócio
+Endereço
+Bairro Cidade Estado
+Fone 1 Fone 2 Fax
+Considerações sobre o ponto (localização), que justifiquem sua escolha:
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 102 ---
+00
+n . Plano Operacional
+n .. Layout ou arranjo físico
+Desenhe abaixo um esquema de como ficarão as principais áreas e como serão alocadas 
+máquinas, equipamentos, móveis, etc.
+--- PAGE 103 ---
+0
+n .. Capacidade produtiva/comercial/serviços
+Qual será a capacidade máxima de produção (ou serviços) e comercialização?
+Qual será o volume de produção (ou serviços) e comercialização iniciais?
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 104 ---
+0
+n .. Processos operacionais
+Descreva como serão feitas as principais atividades do negócio.
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 105 ---
+0
+n .. Necessidade de pessoal
+CARGO/FUNÇÃO QUALIFICAÇÕES NECESSÁRIAS
+--- PAGE 106 ---
+0
+n . Plano Financeiro
+n .. Estimativa dos investimentos fixos
+ A – Máquinas e equipamentos
+Descrição Qtde. x Valor Unitário Total 
+1 x
+2 x
+3 x
+4 x
+5 x
+6 x
+7 x
+8 x
+9 x
+10 x
+SUB-TOTAL(A) $
+	 B – Móveis e utensílios
+Descrição Qtde. x Valor Unitário Total 
+1 x
+2 x
+3 x
+4 x
+5 x
+6 x
+7 x
+8 x
+9 x
+10 x
+SUB-TOTAL(B) $
+--- PAGE 107 ---
+0
+	 C- Veículos
+Descrição Qtde. x Valor Unitário Total 
+1 x
+2 x
+3 x
+4 x
+5 x
+SUB-TOTAL(C) $
+ 
+TOTAL DOS INVESTIMENTOS FIXOS SUB-TOTAL(A+B+C) $
+n .. Capital de giro
+	 A – Estimativa do estoque inicial
+Descrição Qtde. x Valor Unitário Total 
+1 x
+2 x
+3 x
+4 x
+5 x
+6 x
+7 x
+8 x
+9 x
+10 x
+TOTAL DE A $
+--- PAGE 108 ---
+0
+	 B – Caixa Mínimo
+n º Passo: Contas a receber – Cálculo do prazo médio de vendas
+Prazo médio de 
+vendas (%) x Número de dias Média Ponderada em dias
+a vista x
+a prazo (1) x
+a prazo (2) x
+a prazo (3) x
+a prazo (4) x
+Prazo médio total
+n º Passo: Fornecedores – Cálculo do prazo médio de compras
+Prazo médio de 
+compras (%) x Número de dias Média Ponderada
+a vista x
+a prazo (1) x
+a prazo (2) x
+a prazo (3) x
+a prazo (4) x
+Prazo médio total
+n º Passo: Estoques – Cálculo da necessidade média de estoques
+Necessidade média de estoques
+Número de dias
+--- PAGE 109 ---
+07
+	 B – Caixa Mínimo
+n º Passo: Contas a receber – Cálculo do prazo médio de vendas
+Prazo médio de 
+vendas (%) x Número de dias Média Ponderada em dias
+a vista x
+a prazo (1) x
+a prazo (2) x
+a prazo (3) x
+a prazo (4) x
+Prazo médio total
+n º Passo: Fornecedores – Cálculo do prazo médio de compras
+Prazo médio de 
+compras (%) x Número de dias Média Ponderada
+a vista x
+a prazo (1) x
+a prazo (2) x
+a prazo (3) x
+a prazo (4) x
+Prazo médio total
+n º Passo: Estoques – Cálculo da necessidade média de estoques
+Necessidade média de estoques
+Número de dias
+n º Passo: Cálculo da necessidade líquida de capital de giro em dias
+Recursos da empresa fora do seu caixa Número de dias
+1. Contas a Receber – prazo médio de vendas
+2. Estoques – necessidade média de estoques
+Subtotal 1 (item 1 + 2)
+Recursos de terceiros no caixa da empresa
+3. Fornecedores – prazo médio de compras
+Subtotal 2
+Necessidade Líquida de Capital de Giro em dias (Subtotal 1 
+– Subtotal 2)
+	 B – Caixa Mínimo
+1. Custo fixo mensal (Quadro 5.11 – Estimativa dos Custos Fixos 
+Operacionais Mensais)
+2. Custo variável mensal (Subtotal 2 do quadro 5.12 – Demonstrativo 
+de Resultados)
+3. Custo total da empresa (item 1 + 2)
+4. Custo  total diário (item 3 ÷ 30 dias)
+5. Necessidade Líquida de Capital de Giro em dias (vide resultado do 
+quadro anterior)
+dias
+ Total de B – Caixa Mínimo (item 4 x 5)
+n .. Capital de giro (resumo)
+Descrição R$
+A – Estoque Inicial
+B – Caixa Mínimo
+TOTAL DO CAPITAL DE GIRO (A +B)
+--- PAGE 110 ---
+08
+n .. Investimentos pré-operacionais
+Investimentos Pré-Operacionais R$
+Despesas de legalização
+Obras civis e/ou reformas
+Divulgação
+Cursos e treinamentos
+Outras despesas
+TOTAL
+n .. Investimento total (resumo)
+Descrição dos investimentos Valor (R$) (%)
+1. Investimentos Fixos – Quadro 5.1
+2. Capital de Giro – Quadro 5.2
+3. Investimentos Pré-Operacionais 
+– Quadro 5.3
+TOTAL (1 + 2 + 3) 100,00
+Fontes de recursos Valor (R$) (%)
+1. Recursos próprios
+2. Recursos de terceiros
+3. Outros
+TOTAL (1 + 2 + 3) 100,00
+--- PAGE 111 ---
+09
+n .. Estimativa do faturamento mensal da empresa
+Produto/Serviço
+Quantidade 
+(Estimativa de 
+Vendas)
+x Preço de Venda 
+Unitário (em R$)
+Faturamento 
+Total (em R$)
+1. x
+2. x
+3. x
+4. x
+5. x
+6. x
+7. x
+8. x
+9. x
+10. x
+TOTAL
+n .. Estimativa dos custos de matéria-prima, materiais diretos e 
+terceirizações
+	 Produto : 
+Materiais/insumos usados Qtde. x Custo Unitário 
+(R$) Total (R$)
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Total
+--- PAGE 112 ---
+0
+	 Produto : 
+Materiais/insumos usados Qtde. x Custo Unitário 
+(R$) Total (R$)
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Total
+	 Produto : 
+Materiais/insumos usados Qtde. x Custo Unitário 
+(R$) Total (R$)
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Total
+--- PAGE 113 ---
+
+	 Produto : 
+Materiais/insumos usados Qtde. x Custo Unitário 
+(R$) Total (R$)
+x
+x
+x
+x
+x
+x
+x
+x
+x
+x
+Total
+--- PAGE 114 ---
+
+n .7. Estimativa dos custos de comercialização
+Descrição % x Faturamento
+Estimado (quadro 5.5)
+Custo Total 
+(R$)
+1. Impostos
+ Impostos Federais
+ SIMPLES x
+ IRPJ x
+ PIS x
+ COFINS x
+ IPI x
+ CSLL – Contribuição Social sobre 
+o Lucro Líquido x
+ Impostos Estaduais
+ ICMS – Imposto sobre Circulação 
+de Mercadorias e Serviços x
+ Impostos Municipais
+ ISS – Imposto sobre Serviços x
+Subtotal 1
+2. Gastos com vendas
+ Comissões x
+ Propaganda x
+ Taxa de administração do cartão 
+de crédito x
+Subtotal 2
+TOTAL (Subtotal 1 + 2)
+--- PAGE 115 ---
+
+n .8. Apuração do custo dos materiais diretos e/ou mercadorias vendidas
+Produto/Serviço
+Estimativa de 
+Vendas (em 
+unidades)
+x
+Custo Unitário 
+de Materiais/
+Aquisição (R$)
+CMD/CMV 
+(R$)
+1. x
+2. x
+3. x
+4. x
+5. x
+6. x
+7. x
+8. x
+9. x
+10. x
+TOTAL
+n .9. Estimativa dos custos com mão-de-obra
+Função Nº de 
+Empregados x
+Salário 
+Mensal 
+(R$)
+Subtotal 
+(R$) x
+(%) de 
+encargos 
+sociais
+Encargos 
+sociais 
+(R$)
++ Total 
+(R$)
+1. x x +
+2. x x +
+3. x x +
+4. x x +
+5. x x +
+6. x x +
+7. x x +
+8. x x +
+9. x x +
+10. x x +
+TOTAL x x +
+--- PAGE 116 ---
+
+n .0. Estimativa do custo com depreciação
+Ativos Fixos
+Valor do 
+Bem 
+(R$)
+Vida útil
+em Anos
+Depreciação 
+Anual 
+(R$)
+Depreciação 
+Mensal 
+(R$)
+5.1.A – Máquinas e equipamentos 
+5.1.B – Móveis e máquinas
+5.1.C – Veículos
+TOTAL
+n .. Estimativa de custos fixos operacionais mensais
+Descrição Custo Total Mensal (em R$)
+Aluguel
+Condomínio
+IPTU
+Água
+Energia elétrica
+Telefone
+Honorários do contador
+Pró-labore
+Manutenção dos equipamentos
+Salários + encargos – quadro 5.9
+Material de limpeza
+Material de escritório
+Combustível
+Taxas diversas
+Serviços de terceiros
+Depreciação – quadro 5.10
+Outras despesas
+TOTAL
+--- PAGE 117 ---
+
+n .. Demonstrativo de resultados
+Quadro Descrição (R$) %
+5.5. 1. Receita Total com Vendas
+2. Custos Variáveis Totais
+5.8. (-) Custos com materiais diretos e/ou CMV(*)
+5.7. (Subtotal 1) (-) Impostos sobre vendas
+5.7. (Subtotal 2) (-) Gastos com vendas
+Subtotal de 2
+3. Margem de Contribuição (1 – 2) 
+5.11 4. (-) Custos Fixos Totais
+5. Resultado Operacional (Lucro/Prejuízo) (3 – 4)
+(*) CMV – Custo das Mercadorias Vendidas
+n .. Indicadores de viabilidade
+n ... Ponto de equilíbrio
+n ... Lucratividade
+n ... Rentabilidade
+n ... Prazo de retorno do investimento
+--- PAGE 118 ---
+
+n . Construção de Cenários
+Quadro Descrição
+Cenário provável Cenário 
+pessimista Cenário otimista
+Valor (R$) (%) Valor (R$) (%) Valor (R$) (%)
+5.5. 1. Receita total com vendas
+2. Custos variáveis totais
+5.8. (-) Custos com materiais diretos e ou CMV
+5.7. (Subtotal 1) (-) Impostos sobre vendas
+5.7. (Subtotal 2) (-) Gastos com vendas
+Subtotal 2
+3. Margem de contribuição (1 – Subtotal 2)
+5.11. 4. (-) Custos fixos totais
+5. Lucro/Prejuízo Operacional (3 – 4)
+--- PAGE 119 ---
+7
+n Ações corretivas e preventivas
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 120 ---
+8
+n 7. Avaliação Estratégica
+n 7.. Análise da matriz F.O.F.A.
+FATORES INTERNOS 
+(controláveis)
+FATORES EXTERNOS 
+(incontroláveis)
+PONTOS FORTES
+FORÇAS OPORTUNIDADES
+PONTOS FRACOS
+FRAQUEZAS AMEAÇAS
+n 8. Avaliação do plano de negócio
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+ _________________________________________________________________________
+--- PAGE 121 ---
+9
+	 ONDE ENCONTRAR O SEBRAE
+SEBRAE	ACRE
+Rua Rio Grande do Sul, 109 - Centro 
+CEP: 69903-420 – Rio Branco/AC
+Fone: (68) 3216-2100
+SEBRAE	ALAGOAS
+Rua Dr. Marinho de Gusmão, 46 - Centro
+CEP: 57020-560 – Maceió/AL
+Fone: (82) 3216-1600
+SEBRAE	AMAZONAS	
+Rua Leonardo Malcher, 924 – Centro 
+CEP 69010-170 – Manaus/AM
+Fone: (92) 2121-4900
+SEBRAE	AMAPÁ
+Av. Ernestino Borges, 740 – Bairro do Laguinho
+CEP: 68908-010 – Macapá/AP
+Fone: (96) 3214-1400 / 1408
+SEBRAE	BAHIA	
+Travessa Horácio César, 64 – Largo dos Aflitos
+CEP: 40060-350 – Salvador/BA
+Fone: (71) 3320-4300 / 0800-284000
+SEBRAE	CEARÁ
+Av. Monsenhor Tabosa, 777 – Praia de Iracema
+CEP: 60150-010 – Fortaleza/CE
+Fone: (85) 3255-6600
+SEBRAE	DISTRITO	FEDERAL
+SIA Trecho 03 – Lote 1580
+CEP: 71200-030 – Brasília/DF
+Fone: (61) 3362-1600
+SEBRAE	ESPÍRITO	SANTO
+Av. Jerônimo Monteiro, 935 – Centro
+CEP: 29010-003 – Vitória/ES
+Fone: 0800-399192
+SEBRAE	GOIÁS
+Av. T-3 N, 1000 – Setor Bueno
+CEP: 74210-240 – Goiás/GO
+Fone: (62) 3250-2000
+SEBRAE	MARANHÃO
+Av. Prof. Carlos Cunha, s/nº – Jaracaty
+CEP: 65076-820 – São Luiz/MA
+Fone: (98) 3216-6166
+SEBRAE	MINAS	GERAIS
+Av. Barão Homem de Melo, 329 – Nova Suíça
+CEP: 30460-090 – Belo Horizonte/MG
+Fone: (31) 3269-0180
+SEBRAE	MATO	GROSSO	
+Av. Historiador Rubens de Mendonça, 3999 - CPA
+CEP: 78050-904 – Cuiabá/MT
+Fone: (65) 3648-1200
+SEBRAE	MATO	GROSSO	DO	SUL
+Av. Mato Grosso, 1661 – Centro
+CEP: 79002-950 – Campo Grande/MS
+Fone: (67) 2106-5511 / 0800-7035511
+SEBRAE	PARÁ	
+Rua Municipalidade, 1461 – Bairro do Umarizal
+CEP: 66050-350 – Belém/PA
+Fone: (91) 3181-9000
+SEBRAE	PARAÍBA
+Av. Maranhão, 983 – Bairro dos Estados 
+CEP: 58030-261 – João Pessoa/PB
+Fone: (83) 3218-1000
+SEBRAE	PERNAMBUCO
+Rua Tabaiares, 360 – Ilha do Retiro.
+CEP: 50750-230 – Recife/PE
+Fone: (81) 2101-8400
+SEBRAE	PIAUÍ
+Av. Campos Sales, 1046 – Centro Norte
+CEP: 64000-300 – Teresina/PI
+Fone: (86) 3216-1300
+SEBRAE	PARANÁ
+Rua Caeté, 150 – Prado Velho 
+CEP: 80220-300 – Curitiba/PR
+Fone: (41) 3330-5800
+--- PAGE 122 ---
+0
+SEBRAE	RIO	DE	JANEIRO
+Rua Santa Luzia, 685 – 7º, 8º e 9º andares – Centro
+CEP: 20030-041 – Rio de Janeiro/RJ
+Fone: 0800-782020
+SEBRAE	RIO	GRANDE	DO	NORTE
+Av. Lima e Silva, 76 – Lagoa Nova 
+CEP: 59075-970 – Natal/RN
+Fone: (84) 3616-7900 / 3616-7954 / 0800-842020
+SEBRAE	RONDÔNIA
+Av. Campos Sales, 3421 – Bairro Olaria
+CEP: 78902-080 – Porto Velho/RO
+Fone: (69) 3217-3800
+SEBRAE	RORAIMA
+Av. Major Willians, 680 – São Pedro
+CEP: 69301-110 – Boa Vista/RR
+Fone: (95) 3623-1700
+SEBRAE	RIO	GRANDE	DO	SUL
+Av. Sete de Setembro, 555 – Centro
+CEP: 90010-190 – Porto Alegre/RS
+Fone: (51) 3216-5006
+SEBRAE	SANTA	CATARINA
+Av. Rio Branco, 611 – Centro
+CEP: 88015-203 – Florianópolis/SC
+Fone: (48) 3221-0800 / 0800-483300
+SEBRAE	SERGIPE
+Av. Tancredo Neves, 5500 – América 
+CEP: 49080-480 – Aracaju/SE
+Fone: (79) 2106-7700
+SEBRAE	SÃO	PAULO
+Rua Vergueiro, 1117 – Paraíso 
+CEP: 01504-001 – São Paulo/SP
+Fone: 0800-780202
+SEBRAE	TOCANTINS
+102 Norte Av. LO 4 Lote 1, cj. 2
+Plano Diretor Norte. 
+CEP: 77006-006 – Palmas/TO
+Fone: (63) 3223-3300
+--- PAGE 123 ---
+
+--- PAGE 124 ---
+COMO ELABORAR UM PLANO DE NEGÓCIO
+COMO ELABORAR UM PLANO DE NEGÓCIO

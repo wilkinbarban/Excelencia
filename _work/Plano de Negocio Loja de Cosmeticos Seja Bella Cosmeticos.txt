@@ -1,0 +1,3259 @@
+
+--- PAGE 1 ---
+ 
+ 
+UNIVERSIDADE FEDERAL DA PARAÍBA – UFPB 
+Centro De Ciências Sociais Aplicadas – CCSA  
+Curso de Administração – CADM  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLANO DE NEGÓCIO: Seja Bela Cosméticos  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+JÉSSICA MARIA BERNARDO DA SILVA  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+João Pessoa 
+ 
+Novembro 2020 
+ 
+--- PAGE 2 ---
+ 
+ 
+JÉSSICA MARIA BERNARDO DA SILVA 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLANO DE NEGÓCIO: Seja Bela Cosméticos  
+ 
+ 
+ 
+ 
+ 
+ 
+Trabalho de  Conclusão de  Curso apresentado 
+como parte  dos requisitos obtenção do Grau de  
+Bacharela em Administração, pelo Centro de 
+Ciências Sociais Aplicadas, da Universidade 
+Federal da Paraíba / UFPB.  
+ 
+Professor Orientador: Suelle Cariele de Souza e 
+Silva, Mestra. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+João Pessoa 
+ 
+Novembro 2020 
+ 
+ 
+ 
+ 
+--- PAGE 3 ---
+S586p Silva, Jessica Maria Bernardo da.
+         Plano de negócio: Seja Bela Cosméticos / Jessica Maria
+      Bernardo da Silva. - João Pessoa, 2020.
+         58 f. : il.
+         Orientação: Suelle Cariele de Souza e Silva.
+         TCC (Graduação)  - UFPB/CCSA.
+         1. Plano de negócio. 2. Mercado de cosméticos. 3.
+      Administração de vendas. I. Silva, Suelle Cariele de
+      Souza e. II. Título.
+UFPB/CCSA                                             CDU 658
+Catalogação na publicação
+Seção de Catalogação e Classificação
+Elaborado por ANDRE DOMINGOS DA SILVA - CRB-00730-PB
+--- PAGE 4 ---
+Folha de aprovação
+ 
+ 
+ 
+Trabalho
+apresentado
+à
+banca
+examinadora
+como
+requisito
+parcial
+para
+a
+Conclusão
+do
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Curso de Bacharelado em Administração.
+ 
+ 
+Aluna: 
+​
+Jéssica Maria Bernardo da Silva
+ 
+ 
+Trabalho: 
+​
+Plano de Negócio: Seja Bela Cosméticos
+ 
+ 
+ 
+Área da Pesquisa: 
+​
+Finanças
+ 
+ 
+ 
+Data de Aprovação: 
+​
+01/12/2020
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Banca Examinadora
+ 
+ 
+ 
+ 
+ 
+____________________________________________
+ 
+Orientador
+ 
+Profª. Suelle Cariele de Souza e Silva, Mestra
+ 
+ 
+ 
+ 
+ 
+Membro 1
+ 
+ 
+Prof. Rosivaldo de Lima Lucena, Doutor
+ 
+ 
+
+--- PAGE 5 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                                               Dedico este trabalho de conclusão de curso a 
+meu esposo que sempre esteve comigo e me 
+deu forças nos momentos difíceis. A minha 
+mãe pelo seu apoio e dedicação. E aos meus 
+professores do curso de administração que  
+através de seus ensinamentos contribuíram 
+para meu crescimento profissional 
+ 
+ 
+ 
+ 
+--- PAGE 6 ---
+ 
+ 
+AGRADECIMENTOS 
+ 
+Agradeço, em primeiro lugar, a Deus que me permitiu ter paciência e persistência para atingir 
+meus objetivos. 
+ 
+Aos meus pa is Edson Bernardo da Silva (in memorian) e Rosélia Maria Bernardo da  Silva, 
+que sempre me apoiaram e comemoram as minhas vitórias. 
+ 
+Ao meu esposo José Nildo Moreira dos Santos pelo amor, companheirismo, paciência e 
+compreensão. 
+ 
+Aos meus irmãos Eudes e Euz ivan, e familiares que de forma direta ou indireta contribuíram 
+para o que sou hoje. 
+ 
+A minha orientadora e professora, Suelle Cariele de Souza e Silva, pela paciência, dedicação e 
+pelos conhecimentos compartilhados, os quais foram fundamentais para a conc lusão deste 
+trabalho. 
+ 
+Aos meus amigos Bertulio, Daiana, Erick, Gustavo, Larissa e Polyanna, pela amizade, apoio e 
+compreensão. 
+ 
+E a todos os gestores que gentilmente abriram as portas de suas empresas para a realização de  
+meus trabalhos acadêmicos. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 7 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+“Ser competente é acertar um alvo que ninguém 
+acertou, ser administrador é acertar um alvo que 
+ninguém viu”. 
+(Erlandson F. A. Andrade) 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 8 ---
+ 
+ 
+SUMÁRIO EXECUTIVO 
+ 
+ 
+Seja Bela Cosméticos é uma empresa  que atua rá no município de João Pessoa -PB com a 
+venda de produtos de qualidade com preços acessíveis. A proprietária Jéssica Maria Bernardo 
+da Silva apresenta características empreendedoras, sabe administrar todos os setores da 
+empresa, possui experiência de 5 ano s com vendas e atualmente está se graduando em 
+Administração pela Universidade Federal da Paraíba. A razão social do empreendimento será 
+Jéssica Maria Bernardo da Silva cosméticos – ME, a mesma deverá ser legalizada como  
+empresário individual. O capital social virá de recursos próprios da proprietária e possui valor 
+estimado de R$ 63.170,93. Desse valor R$ 36.858,17 estará reservado para suprir a 
+necessidade de capital de giro. A projeção do investimento é de R$ 63.170,93, ao levar em 
+consideração um cenári o onde a empresa consiga atuar com 60% de  capacidade instalada, 
+obtém-se uma receita mensal de R$ 20.378,55 com lucro líquido de R$ 8.859,82 e prazo de 
+retorno do investimento de aproximadamente 7 meses, mostrando que o negócio é viável.  A 
+empresa possui como missão proporcionar bem -estar e autoestima por meio da venda de 
+produtos que realcem a beleza natural de nossos clientes. Esse plano de negócios foi 
+elaborado seguindo a metodologia do Sebrae (2013).  
+ 
+ 
+ Indicadores da Viabilidade  
+Ponto de Equilíbrio R$ 10.294,65 
+Lucratividade 43,47% aa 
+Rentabilidade 168,30% aa 
+Prazo de Retorno do Investimento 7 meses  
+                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 9 ---
+ 
+ 
+ 
+LISTA DE FIGURAS  
+ 
+Figura 1 - Descrição CNAE .................................................................................................... 14 
+Figura 2 - Logomarca da empresa Seja Bela .......................................................................... 27 
+Figura 3 - Layout ..................................................................................................................... 31 
+Figura 4 - Organograma .......................................................................................................... 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 10 ---
+ 
+ 
+ 
+LISTA DE QUADROS 
+  
+Quadro 1 - Capital Social ........................................................................................................ 14 
+Quadro 2 - Indicadores da Viabilidade ................................................................................... 15 
+Quadro 3 - Análise da Concorrência ....................................................................................... 17 
+Quadro 4 - Análise dos Fornecedores...................................................................................... 18 
+Quadro 5 - Análise SWOT ...................................................................................................... 18 
+Quadro 6 - Lojas de cosméticos onde os respondentes fizeram a sua última compra............. 26 
+Quadro 7 - Precificação ........................................................................................................... 27 
+Quadro 8 - Investimento Fixo Inicial ...................................................................................... 34 
+Quadro 9 - Investimento em estoque inicial............................................................................ 34 
+Quadro 10 - Prazo Médio de Recebimento de Vendas ........................................................... 37 
+Quadro 11 - Prazo Médio de Compras .................................................................................... 37 
+Quadro 12 - Necessidade Média de Estoques ......................................................................... 38 
+Quadro 13 - Necessidade Líquida de Capital de Giro (em dias) ............................................. 38 
+Quadro 14 - Caixa Mínimo...................................................................................................... 38 
+Quadro 15 -  Capital de Giro (Resumo) .................................................................................. 38 
+Quadro 16 -  Investimentos pré-operacionais ......................................................................... 39 
+Quadro 17 -  Investimento Total ............................................................................................. 39 
+Quadro 18 - Fonte de recursos ................................................................................................ 39 
+Quadro 19 - Estimativa do Faturamento Mensal .................................................................... 39 
+Quadro 20 - Custos de Comercialização ................................................................................. 42 
+Quadro 21 - Despesa com Pessoal .......................................................................................... 42 
+Quadro 22 - Depreciação ........................................................................................................ 43 
+Quadro 23 - Despesas Operacionais ....................................................................................... 43 
+Quadro 24 - DRE .................................................................................................................... 44 
+Quadro 25 - Projeção da Receita para o cenário otimista ....................................................... 47 
+Quadro 26 - Projeção dos Custos de Comercialização para o cenário otimista ...................... 50 
+Quadro 27 - Projeção da DRE para o cenário otimista ........................................................... 50 
+Quadro 28 - Projeção da Receita para o cenário pessimista ................................................... 50 
+Quadro 29 - Projeção dos Custos de Comercialização para o cenário pessimista .................. 53 
+Quadro 30 - Projeção da DRE para o cenário pessimista ....................................................... 53 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 11 ---
+ 
+ 
+ 
+LISTA DE GRÁFICOS 
+ 
+Gráfico 1 - Idade dos respondentes ......................................................................................... 20 
+Gráfico 2 - Renda Familiar ..................................................................................................... 20 
+Gráfico 3 - Frequência de visita a lojas de cosméticos ........................................................... 21 
+Gráfico 4 - Produtos que os respondentes costumam comprar .............................................   22 
+Gráfico 5 - Produtos que os respondentes costumam comprar ............................................... 22 
+Gráfico 6 - Quantidade de itens que os respondentes costumam comprar ............................. 23 
+Gráfico 7 - Valor médio gasto em visita a loja de cosméticos ................................................ 23 
+Gráfico 8 - Fatores levados em consideração no momento da compra .................................. 24 
+Gráfico 9 - Meios pelos quais os respondentes procuram informações sobre loja de cosméticos 
+.................................................................................................................................................. 26 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 12 ---
+ 
+ 
+ 
+SUMÁRIO 
+ 
+1.   DESCRIÇÃO DO EMPREENDIMENTO ......................................................................... 13 
+1.1 Definição do Negócio ......................................................................................................... 13 
+1.2 Empreendedora ................................................................................................................... 13 
+1.3 Síntese das Responsabilidades da Equipe Dirigente .......................................................... 13 
+1.4 Exigências Legais ............................................................................................................... 13 
+1.5 Área de Atuação ................................................................................................................. 13 
+1.6 Capital Social ...................................................................................................................... 14 
+1.7 Indicadores Estratégicos da Organização ........................................................................... 14 
+1.7.1 Missão .............................................................................................................................. 14 
+1.7.2 Visão ................................................................................................................................ 14 
+1.7.3 Valores ............................................................................................................................. 14 
+1.8 Indicadores Financeiros ...................................................................................................... 15 
+2.   ANÁLISE DE MERCADO ................................................................................................ 16 
+2.1 Análise dos Clientes ........................................................................................................... 16 
+2.1.1 Público – Alvo ................................................................................................................. 16 
+2.1.2 Comportamento dos Clientes .......................................................................................... 16 
+2.2 Análise da Concorrência ..................................................................................................... 17 
+2.3 Análise dos Fornecedores ................................................................................................... 17 
+2.4 Análise SWOT .................................................................................................................... 18 
+2.4.1 Forças .............................................................................................................................. 19 
+2.4.2 Fraquezas ......................................................................................................................... 19 
+2.4.3 Oportunidades .................................................................................................................. 19 
+2.4.4 Ameaças .......................................................................................................................... 19 
+3. PESQUISA DE MERCADO ................................................................................................ 20 
+3.1 Análise do Perfil do Cliente ............................................................................................... 20 
+3.2 Análises das preferências dos clientes ................................................................................ 21 
+3.3 Análises Gerais ................................................................................................................... 25 
+4. PLANO DE MARKETING ................................................................................................. 27 
+4.1 Logomarca .......................................................................................................................... 27 
+4.2 Produtos .............................................................................................................................. 27 
+4.3 Preço ................................................................................................................................... 27 
+4.4 Estratégias Promocionais .................................................................................................... 29 
+4.5 Estrutura de Comercialização ............................................................................................. 30 
+4.6 Localização do Negócio ..................................................................................................... 30 
+5.  PLANO OPERACIONAL ................................................................................................... 31 
+--- PAGE 13 ---
+ 
+ 
+5.1 Layout ................................................................................................................................. 31 
+5.2 Capacidade Instalada .......................................................................................................... 31 
+5.3 Processos Operacionais ...................................................................................................... 32 
+5.3.1 Compra ............................................................................................................................ 32 
+5.3.2 Estocagem e reposição .................................................................................................... 32 
+5.3.3 Recepção .......................................................................................................................... 32 
+5.3.4 Pagamento ....................................................................................................................... 32 
+5.3.5 Pesquisa de Satisfação ..................................................................................................... 32 
+5.3.6 Saída do Estabelecimento ................................................................................................ 32 
+5.3.7 Pós-Venda ........................................................................................................................ 32 
+5.4 Necessidade de Pessoal ...................................................................................................... 33 
+5.4.1 Estrutura Organizacional ................................................................................................. 33 
+6  PLANO FINANCEIRO ........................................................................................................ 34 
+6.1. Investimentos Fixos ........................................................................................................... 34 
+6.2 Capital de Giro ................................................................................................................... 34 
+6.2.1 Estoque Inicial ................................................................................................................. 34 
+6.2.2 Caixa Mínimo .................................................................................................................. 37 
+6.3 Investimentos Pré-Operacionais ......................................................................................... 39 
+6.4 Investimento Total .............................................................................................................. 39 
+6.5 Estimativa do Faturamento Mensal .................................................................................... 39 
+6.6 Custo de Comercialização .................................................................................................. 42 
+6.7 Custos com Mão de Obra ................................................................................................... 42 
+6.8 Custos com Depreciação .................................................................................................... 43 
+6.9 Custos Fixos Operacionais Mensais ................................................................................... 43 
+6.10 Demonstrativo dos Resultados ......................................................................................... 43 
+7 INDICADORES DE VIABILIDADE ................................................................................... 45 
+7.1 Ponto de Equilíbrio ............................................................................................................. 45 
+7.2 Lucratividade ...................................................................................................................... 45 
+7.3 Rentabilidade ...................................................................................................................... 45 
+7.4 Prazo de Retorno do Investimento...................................................................................... 46 
+8 CONSTRUÇÃO DOS CENÁRIOS ...................................................................................... 47 
+8.1 Cenário Otimista ................................................................................................................. 47 
+8.2 Cenário Pessimista .............................................................................................................. 50 
+9 DECISÃO GERENCIAL ...................................................................................................... 54 
+REFERÊNCIA ......................................................................................................................... 55 
+APÊNDICE .............................................................................................................................. 56 
+--- PAGE 14 ---
+13 
+ 
+ 
+ 
+1.   DESCRIÇÃO DO EMPREENDIMENTO 
+ 
+Neste capítulo, serão vistos os dados que descrevem o empreendimento, bem como as 
+informações necessárias para que ocorra a compreensão do negócio e de suas características 
+de mercado. 
+ 
+1.1 Definição do Negócio  
+ 
+A empresa, aqui apresentada, tem como finalidade realçar a beleza natural de seus 
+clientes por meio do comércio varejista de cosméticos de qualidade e com preços acessíveis 
+aos moradores da região metropolitana de João Pessoa- PB.  
+ 
+1.2 Empreendedora 
+ 
+ Jéssica Maria Bernardo da Silva, brasileira, natural de Guarabira -PB, casada, auxiliar 
+administrativo, res idente na Rua Severina Crispim Veras, nº 307, Planalto Boa Esperança, 
+João Pessoa, PB. Apresenta características empreendedoras, sabe administrar todos os setores 
+da empresa, possui experiência de 5 anos com vendas  e atualmente está se graduando em 
+Administração pela Universidade Federal da Paraíba (UFPB).  
+ 
+1.3 Síntese das Responsabilidades da Equipe Dirigente 
+ 
+ A responsabilidade de dirigente da empresa fica a cargo de Jéssica, o que inclui a s 
+tarefas de contração, demissão e remuneração de funcionários ; compra de material, controle 
+de estoque  e previsão de demanda; controle de  entradas e saída de caixa , planejamento e 
+controle financeiro; divulgação da empresa, entre outros.  
+ 
+1.4 Exigências Legais 
+ 
+A razão social do empreendimento Seja Bela  Cosméticos será Jéssica Maria Bernardo 
+da Silva cosméticos – ME, a mesma deverá ser legalizada como empresário individual. 
+Segundo o SEBRAE ( 2013), a lei enquadra como empresário individual a pessoa 
+jurídica com receita bruta anual de até R$ 360 mil reais, o pagamento de tributos é feito pelo 
+simples nacional que ocorre de forma reduzida e simplificada, além disso, o recolhimento do 
+imposto é único. O enquadramento no simples nacional esta relacionado ao faturamento da 
+empresa, e também possui os benefícios d a desburocratização, incent ivo a inovação, entre 
+outros.   
+ 
+1.5 Área de Atuação  
+ 
+A Seja Bela esta enquadrada na área de comércio varejista de cosméticos, produtos de 
+perfumaria e de higiene pessoal, como pode ser visto na Classificação Nacional de Atividades 
+Econômicas (CNAE/IBGE) que esta representada na figura 1.  
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 15 ---
+14 
+ 
+Figura 1 - Descrição CNAE 
+ 
+ 
+         
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+               Fonte: CNAE/IBGE (2020) 
+ 
+ 
+1.6 Capital Social 
+ 
+O capital social virá de recursos próprios da proprietária e possui valor estimado de R$ 
+63.170,93. Desse valor R$ 36.858,17 estará reservado para suprir a necessidade de capital de 
+giro.  
+Quadro 1 - Capital Social 
+Sócios Valor (R$) Participação (%) 
+Jéssica Maria Bernardo da Silva  63.170,93 100 
+Fonte: Elaboração Própria (2020) 
+ 
+ 
+1.7 Indicadores Estratégicos da Organização  
+ 
+1.7.1 Missão 
+ 
+Proporcionar bem-estar e autoestima por meio da venda de produtos que realcem a 
+beleza natural de nossos clientes.  
+ 
+1.7.2 Visão 
+ 
+Tornar-se referência na venda de produtos de beleza em Jo ão Pessoa, até 2027, sendo 
+reconhecida pela qualidade dos produtos e excelência no atendimento. 
+ 
+1.7.3 Valores 
+ 
+Ética: agimos com ética e respeito em todos os processos da empresa; 
+Qualidade: procuramos a melhoria contínua da qualidade de nos sos produtos e d e 
+nosso atendimento; 
+
+--- PAGE 16 ---
+15 
+ 
+Inovação: buscamos produtos inovadores que satisfaçam as necessidades de nossos 
+clientes;  
+Responsabilidade ambiental: procuramos reduzir o impacto ambiental por meio de 
+ações relacionadas à reciclagem.  
+ 
+1.8 Indicadores Financeiros 
+ 
+Quadro 2 – Indicadores da Viabilidade  
+Ponto de Equilíbrio R$ 10.294,65 
+Lucratividade 43,47% aa 
+Rentabilidade 168,30% aa 
+Prazo de Retorno do Investimento 7 meses  
+                                            Fonte: Elaboração Própria (2020) 
+  
+--- PAGE 17 ---
+16 
+ 
+2.   ANÁLISE DE MERCADO  
+ 
+No ano de 2019 , o mercado de higiene pessoal, perfumaria e cosméticos  (HPPC) teve 
+um bom desempenho, segundo a Associação Brasileira de Embalagem (2020) . Houve um 
+crescimento de 3,9% , alcançando 116,8 bilhões de reais . Contudo, dados d a Associação 
+Brasileira da Indústria de Higiene P essoal, Perfumaria e Cosméticos  mostram um 
+crescimento de 4,2% para o setor. 
+A ABIHPEC (2019) apontou em seu relatório de resultados do mercado de HPPC que, 
+em 2018 , o Brasil tornou -se o terceiro mercado global em lançame ntos de produtos de 
+cosméticos por ano, ficando atrás dos Estados Unidos e China (primeiro e segundo lugar, 
+respectivamente). A contribuição do setor  para a movimentação da economia também vem 
+crescendo nos últimos anos, tendo movimentado um valor estimado  de 14,9 bilhões  de reais 
+em 2018 (ABIHPEC, 2019). 
+O panorama do setor feito pela ABIHPEC  com dados da Euromonitor mostra que, em 
+2018, o Brasil era o quarto maior consumidor de HPPC do mundo movimentando 30 bilhões 
+de dólares em 2018 , que corresponde a ce rca de 6,9% do mercado mundial , ficando atrás 
+apenas do Estados Unidos (que movimentou US$ 89,5), China (que movimentou US$ 62,0) e  
+Japão (que movimentou  US$ 37,5). 
+O crescimento do setor, em 2020, está sendo modesto em decorrência da pandemia d o 
+Covid-19, a alta no faturamento de janeiro a maio foi de apenas 0,6%, quando comparado ao 
+ano mesmo período no ano anterior (ABIHPEC, 2020). Apesar disso, espera -se que um 
+resultado melhor no segundo semestre de 2020. A venda de alguns produtos de higiene 
+considerados “cesta da covid -19” (sabonete, álcool em gel, entre outros) obtiveram um 
+aumento considerável nesse período.  
+ 
+2.1 Análise dos Clientes 
+ 
+2.1.1 Público – Alvo 
+ 
+ O público alvo  da loja  são mulheres , de diferentes faixas etárias,  que pertencem à s 
+classes C e D, e moram em João Pessoa - PB ou região metropolitana. E estão à procura de 
+cosméticos de qualidade, com preço acessível, que satisfaçam as suas necessidades.  
+2.1.2 Comportamento dos Clientes 
+ 
+Os consumidores de cosméticos estão se tornando cada vez  mais exigentes. Segundo o 
+caderno de tendências 2019 -2020 do SEBRAE em parceria com a ABIHPEC (2019), o 
+mercado brasileiro acabou assimilando algumas tendências internacionais, entre elas: a 
+personalização que é o desejo por produtos que atendam as caract erísticas individuais; e a 
+beleza com foco em ingredientes de origem natural, que são produtos com formulação de 
+origem vegetal e ingredientes ecocertificados. 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 18 ---
+17 
+ 
+2.2 Análise da Concorrência 
+ 
+ No município de João Pessoa existem diversas lojas de cosm éticos que farão 
+concorrência com a empresa. No quadro abaixo é possível observar algumas delas. As lojas 
+analisadas ficam distantes umas das outras, a primeira fica no bairro Anatólia, a segunda no 
+Centro, a terceira em Mangabeira e a quarta no Valentina.  
+ A loja Nova cosméticos e Sheila Cosméticos vendem produtos semelhantes, porém a 
+estrutura física da primeira é maior o que possibilita o atendimento de uma grande demanda, 
+além disso, os vendedores da Nova cosméticos atendem bem os clientes, tiram dúvidas, fazem 
+indicação de produtos, etc. O que não ocorre com a segunda empresa. 
+ A loja Fricotes de luxo  possui um excelente espaço físico, ótimo atendimento  e 
+produtos de qualidade, porém seu foco é maquiagem e produtos para cabelo, limitando assim 
+as opções d o cliente. Já a Franquia O Boticário , localizada no Mangabeira Shopping  possui 
+uma excelente localização e produtos de qualidade, porém os vendedores não atentem bem os 
+clientes. Todas se assemelham na forma de pagamento, que pode ser à vista ou no cartão.     
+ 
+Quadro 3 - Análise da Concorrência 
+Fonte: Elaboração Própria (2020) 
+2.3 Análise dos Fornecedores 
+ 
+No Quadro 4 é possível observar a lista com os principais fo rnecedores da empresa . 
+Eles diferenciam na disponibilidade de itens, preço e prazo de entrega. A forma de pagamento 
+pode ser feita à vista ou a prazo em todos os fornecedores. As compras serão feitas 
+exclusivamente online, por isso o  prazo de entrega varia de 10 a 15 dias úteis, a depender do 
+fornecedor. 
+Empresa Serviços Qualidade Pagamento Localização Atendimento Infraestrutura 
+ 
+Fricotes de 
+luxo 
+Comércio de 
+maquiagem e 
+produtos para 
+cabelo 
+ 
+Ótima 
+ 
+À vista ou 
+no cartão 
+ 
+Excelente 
+ 
+ 
+Ótimo 
+Excelente, 
+atende uma 
+grande 
+demanda. 
+ 
+Nova 
+cosméticos 
+(Em frente 
+a Praça 
+Pedro 
+Américo) 
+Comércio de 
+acessórios, 
+maquiagem, 
+equipamentos, 
+produtos para 
+depilação, mãos 
+e unhas e rosto e 
+corpo. 
+ 
+ 
+Ótima 
+ 
+À vista ou 
+no cartão 
+ 
+Ótima 
+ 
+Bom 
+Excelente, 
+atende uma 
+grande 
+demanda. 
+ 
+O Boticário 
+(Mangabeir
+a 
+Shopping) 
+Comércio de 
+produtos para 
+corpo e rosto, 
+mãos e unhas e 
+maquiagem 
+ 
+Ótima 
+ 
+À vista ou 
+no cartão 
+ 
+Excelente 
+ 
+ 
+Razoável 
+ 
+Espaço 
+pequeno, porém 
+bem organizado. 
+Sheila 
+Cosméticos 
+Comércio de 
+acessórios, 
+maquiagem, 
+equipamentos, 
+produtos para 
+depilação,  mãos 
+e unhas e rosto e 
+corpo. 
+ 
+Boa 
+ 
+À vista ou 
+no cartão 
+ 
+Boa 
+ 
+Razoável 
+ 
+Espaço 
+pequeno, porém 
+bem organizado. 
+--- PAGE 19 ---
+18 
+ 
+Quadro 4- Análise dos Fornecedores 
+Fonte: Elaboração Própria (2020) 
+ 
+2.4 Análise SWOT     
+ 
+ No Quadro 5 é apresentada a análise do s fatores interno e externo da empresa. O fator 
+interno é composto pelas forças e fraquezas, já o externo é formado pelas oportunidades e 
+ameaças. 
+Quadro 5- Análise SWOT 
+FATORES 
+INTERNOS 
+FORÇAS FRAQUEZAS 
+ Qualidade do atendimento; 
+ Produtos com ótimo custo  x 
+benefício; 
+ Preço competitivo; 
+ Localização estratégica. 
+ Poucos funcionários;  
+ Pouca força da marca; 
+ Pouco espaço físico.  
+FATORES 
+EXTERNOS OPORTUNIDADES AMEAÇAS 
+ Produtos personalizados; 
+ Perspectiva de crescimento para 
+o setor; 
+  
+ 
+ Mudança de Legislação. 
+ Crise econômica.  
+ Novos concorrentes;  
+Fonte: Elaboração Própria (2020) 
+N° Itens Fornecedor Preço Pagamento Prazo 
+de 
+entrega 
+Localização 
+1 Acessórios 
+Cabelo, 
+Equipamentos, 
+Maquiagem e 
+Rosto e corpo. 
+  
+Master 
+Beauty 
+ 
+Bom  
+ 
+À vista ou 
+a prazo 
+ 
+10 dias 
+ 
+Av. Itamarati, 2.989, 
+Santo André, São Paulo. 
+2 Acessórios, 
+Maquiagem, 
+Mãos e unhas 
+e Rosto e 
+corpo. 
+  
+Atacadão 
+das 
+maquiagens 
+ 
+Bom 
+ 
+À vista ou 
+a prazo 
+ 
+15 dias 
+ 
+Av. Francisco Rodrigues 
+Filho, 4680, Mogi Das 
+Cruzes, São Paulo. 
+3 Cabelo, 
+Maquiagem, 
+Mãos e unhas, 
+Rosto e corpo. 
+ 
+Forever 
+Liss 
+ 
+Ótimo 
+ 
+À vista ou 
+a prazo 
+  
+10 dias 
+ 
+Rua José Bonifácio, 690 
+Lençóis Paulista, São 
+Paulo. 
+4 Cabelo, 
+Maquiagem, 
+Mãos e unhas, 
+Pés e pernas, 
+Rosto e corpo. 
+ 
+Bio 
+Cosméticos 
+ 
+Bom 
+ 
+À vista ou 
+a prazo 
+ 
+ 
+15 dias 
+ 
+Av. Araguaia, 822, Setor 
+Central, Goiânia, Goiás. 
+5 Depilação Depil Bella  
+Ótimo  
+ 
+À vista ou 
+a prazo 
+ 
+10 dias 
+Av. Marginal Projetada, 
+1810, Barueri, São 
+Paulo. 
+--- PAGE 20 ---
+19 
+ 
+2.4.1 Forças 
+ 
+ Qualidade do atendimento : o treinamento oferecido para os funcionários 
+proporcionará os recursos necessários para que o atendimento seja de qualidade e com 
+isso se conquiste o cliente. 
+ Produtos com ótimo custo x benefício : produtos de qualidade proporcionaram aos 
+clientes benefícios que serão maiores que os custos.  
+ Preço competitivo:  o preço dos produtos levará em consideração os valores 
+praticados pela concorrência, c om isso é possível conhecer melhor os concorrentes e 
+captar novos clientes.  
+ Localização estratégica: o local escolhido para abertura da empresa será em uma rua 
+movimentada, de fácil acesso, próximo de estacionamento e parada de ônibus.  
+2.4.2 Fraquezas  
+ 
+ Poucos funcionários : a quantidade reduzida de colaboradores poderá prejudicar o 
+atendimento simultâneo e gerar um aumento no tempo de espera do cliente.  
+ Pouca força da marca: por estar entrando no mercado a marca ainda não é conhecida 
+pelos clientes. 
+ Pouco espaço físico: a impossibilidade de expansão do ambiente físico poderá limita r 
+o crescimento futuro da loja. 
+2.4.3 Oportunidades  
+ 
+ Produtos personalizados:  a tendência do consumo de produtos que atendam as 
+individualidades pode atrair um número maior de clientes.  
+ Perspectiva de crescimento para o setor: apesar do faturamento do setor no primeiro 
+semestre ter sido baixa, espera-se que haja uma melhora no segundo semestre de 2020. 
+2.4.4 Ameaças   
+ 
+ Mudança de Legislação : mudanças em obrigações fiscais, legi slação tributaria e 
+trabalhistas podem afetar o negócio.  
+ Crise econômica: a crise econômica gerada pelo fechamento do comércio devido à 
+pandemia do covid -19 poderá afetar o poder econômico dos clientes e 
+consequentemente diminuir o consumo de cosméticos.  
+ Novos concorrentes: o surgimento de novos concorrentes com produtos de qualidade 
+e preços semelhantes poderá “roubar” os clientes da loja.    
+ 
+ 
+ 
+ 
+ 
+--- PAGE 21 ---
+20 
+ 
+3. PESQUISA DE MERCADO  
+ 
+Neste capítulo, serão vistos os resultados obtidos com a pesquisa de mercado 
+referentes à análise do perfil do cliente, análises das preferências e análises gerais.  
+3.1 Análise do Perfil do Cliente   
+ 
+Com o intuito de conhecer melhor o perfil dos clientes e suas preferências, foi 
+realizada uma pesquisa de mercado quantitativa aplicada p or meio de um questionário do  
+Google Forms, o mesmo foi divulgado em grupos de Whatsapp e Facebook. Espera -se que 
+esses dados auxiliem na criação de estratégias para o desenvolvimento do negócio. 
+ Durante o período em que estava disponível coletou -se os dados de 111 respondentes, 
+desses 91% são do gênero feminino e 9% do masculino. Evidenciando a predominância do 
+público feminino na compra de cosméticos  nessa amostra . No que diz respeito à idade 
+constatou-se que a maioria 54,1% pertencem a faixa etária entre 22 e 29 anos,  como pode ser 
+visto no Gráfico 1.  
+Gráfico 1- Idade dos respondentes 
+ 
+ 
+                                     Fonte: Dados da Pesquisa (2020) 
+ 
+No Gráfico 2 é possível perceber que a maioria dos respondentes possuem renda 
+familiar acima de 1 até 2 salários mínimos ( 30,6%), a segunda maior faixa é acima d e 2 até 3 
+salários mínimos (20,7 %). Esses resultados revelam que os consumidores dessa amostra 
+pertencem a faixa renda proposta pela empresa.  
+ 
+Gráfico 2- Renda Familiar 
+ 
+ 
+           Fonte: Dados da Pesquisa (2020) 
+ 
+
+--- PAGE 22 ---
+21 
+ 
+Com relação ao local onde vivem constatou -se que 79,27% moram em Jo ão Pessoa, 
+4,5% em Cabedelo, 3,6 % em Bayeux, 2,7% em Santa Rita, 0,9% em Guarabira, 0,9% em 
+Cruz do Espírito Santo, 0,9% em Mamanguape e 7,23% não responderam  ou são de outros 
+estados. Das 111 pessoas que responderam o questionário, apenas 12,6% não moram, nem 
+fazem compras em João Pessoa, mostrando que a grande maioria dos respondentes pode ser 
+potenciais compradores. 
+Para saber a periodicidade de compra de produtos  de beleza foi questionado sobre a 
+última vez que o consumidor frequentou uma loja de cosméticos. As respostas mais citadas 
+foram, antes da pandemia (19%), mês passado (19%), há alguns dias (18%) e há mais de 4 
+meses (17%). Esse resultado mostra o impacto na pandemia do covid -19 no mercado de 
+cosméticos, corroborando com a an álise de mercado vista anteriormente, no capítulo 2, que 
+evidencia o baixo crescimento do setor de HPPC no primeiro semestre de 2020.     
+ 
+               Gráfico 3- Frequência de visita a lojas de cosméticos 
+ 
+ 
+                      Fonte: Dados da Pesquisa (2020) 
+ 
+3.2 Análises das preferências dos clientes  
+ 
+Buscou-se verificar quais eram os produtos que os respondentes costumam consumir 
+(Gráfico 4), usando como base as categorias de pr odutos que serão vendidos na loja. Os 
+produtos mais consumidos pelos clientes são: produtos para cabelo ( 79,3%), maquiagem 
+(75,7%) e produtos para o rosto e corpo ( 67,6%). As categorias que apresentam  consumo 
+médio são: produtos para mão e unha ( 34,2%), pr odutos para depilação ( 25,2%) e 
+equipamentos. Os menos c omprados são produtos para pés e pernas (16,2%) . A partir dessas 
+informações será  possível identificar a importância de cada categoria e fazer um 
+gerenciamento estratégico para a compra dos produtos. 
+ 
+18% 
+17% 
+19% 
+19% 
+9% 
+8% 
+3% 
+7% 
+Última vez que o consumidor frequentou uma 
+loja de cosméticos 
+Há alguns dias
+Há mais de 4 meses
+Mês passado
+Antes da pandemia
+Semana passada
+Há 15 dias
+Ano passado
+Não se recordam
+--- PAGE 23 ---
+22 
+ 
+Gráfico 4- Produtos que os respondentes costumam comprar 
+ 
+ 
+                         Fonte: Dados da Pesquisa (2020) 
+ 
+ Ao serem questionados sobre a frequência que compram os produtos listados n o 
+Gráfico 5, verificou-se que a maioria dos respondentes ( 55,9%) adquire de 1 a 2 vezes por 
+mês. No entanto, o percentual de pessoas que raramente compram também foi alto 41, 4%. Ao 
+fazer uma relação das respostas “raramente” com a questão “Quando foi a última vez que 
+você frequentou uma loja de cosméticos ” observou-se que 9 das 46 pessoas que responderam 
+raramente afirmaram que não vão a uma loja de cosmético desde o início da quarentena, o que 
+deixa a dúvida se esse pode ou não ter sido o motivo que levou as respostas raramente. 
+Fazendo essa mesma análise com as pes soas que responderam de 1 a 2 vezes por mês 
+percebe-se que 8 dos 62 respondentes afirmaram que fizeram a sua última compra antes da 
+quarentena, indicando que houve uma queda de vendas devido da pandemia. 
+ 
+                 Gráfico 5- Produtos que os respondentes costumam comprar  
+ 
+ 
+ 
+                             Fonte: Dados da Pesquisa (2020) 
+  
+Ao irem às compras , 45,9% dos respondentes costumam adquirir de 3 a 5 itens, 45% 
+de 1 a 2 itens e 9,1% mais de 5 itens (Gráfico 6). Esse resultado evidencia a import ância da 
+organização das prateleiras de modo que haja visibilidade dos produtos complementares.  
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 24 ---
+23 
+ 
+Gráfico 6 - Quantidade de itens que os respondentes costumam comprar 
+ 
+ 
+                          Fonte: Dados da Pesquisa (2020) 
+ 
+Com relação ao valor mé dio comprado 41,4% gastam entre R$ 51,00 e 100,00 reais 
+em suas compras, 32,4% entre R$ 1,00 e 50,00 reais, 15,3% entre R$ 101,00 e 150,00 e 
+10,8% R$ 151,00 ou mais (Gráfico 7). Saber o valor que o cliente esta habituado a gastar é 
+importante para a determinação da precificação, estratégias de vendas, entre outros.    
+ 
+Gráfico 7 - Valor médio gasto em visita a loja de cosméticos 
+ 
+                              Fonte: Dados da Pesquisa (2020) 
+ 
+Com o intuito de verificar os fatores que influenciam os clientes  na hora da compra,  
+pediu-se para que selecionassem as características levadas em consideração na compra de 
+seus cosméticos. No Gráfico 8 é possível observar que as características mais consideradas 
+são: qualidade ( 91,9%), preço ( 81,1%) e utilidade ( 61,3%). Essas mesmas características 
+foram avaliadas de forma isolada, ou seja, observou -se a quantidade de pessoas que 
+selecionaram apenas uma característica, obtendo os seguintes resultados: 6 pessoas 
+responderam apenas qualidade; 3 pessoas, preço; e 1, utilidade. Analisando de forma conjunta 
+observou-se que 3 6 pessoas selecionaram preço, qualidade e utilidade e 2 9 selecionaram 
+preço e qualidade. Esses dados relevam que características isoladas são menos atrativas, por 
+isso os produtos da loja precisam estar de acordo com as perspectivas dos clientes.  
+ 
+ 
+ 
+
+--- PAGE 25 ---
+24 
+ 
+Gráfico 8- Fatores levados em consideração no momento da compra 
+ 
+                        Fonte: Dados da Pesquisa (2020) 
+ 
+Foram realizados alguns questionamentos sobre as escolhas que os respondentes 
+fazem no processo de compra por meio de afirmações nas quais teriam que escolher se 
+discordam totalmente, discordam parcialmente, se são indiferentes, concordam parci almente 
+ou concordam totalmente, os resultados podem ser observados na Tabela 1.  
+A primeira  afirmação dizia “Faço pesquisa de preço antes da compra e escolho o  
+produto mais barato”. A maioria (52 pessoas) concordou com a afirmação, 34 discordaram e 
+25 foram indiferentes. Mostrando que o preço é um importante fator de decisão de compra. 
+Na segunda  afirmação foi questionado “Quando tenho dúvida entre do is produtos , 
+compro o mais barato”. A maioria ( 49 pessoas) respondeu que discorda, 42 concorda e 20 
+são indiferentes. Já para a afirmação “Quando tenho dúvida entre dois produtos , compro o 
+que possui qualidade superior” 78 respondentes concordaram com afirmação, 9 discordaram 
+e 24 foram indiferentes. Com isso, percebe -se que a qualidade do produto apresenta maior 
+importância do que o preço. 
+Também foram realizadas afirmações a respeito das preferências na es colha da loja,. 
+Para a afirmação “Com relação a escolha da loja, dou preferência a que tiver menor preço ” 
+64 pessoas responderam que concordaram com a afirmação, 29 foram indiferentes, e 18 
+discordaram, mostrando o preço novamente como um fator decisivo para a compra. 
+Na quinta afirmação  vemos que a maioria dos consumidores ( 84) concordam com a 
+afirmação que dão preferência a loja que tiver maior variedade de produtos. Os desejos e 
+necessidades dos clientes são variados, por isso o mix diversificado de prod utos consegue 
+atingir um número maior de pessoas, além de aumentar o faturamento e fazer com que o 
+cliente não precise recorrer a concorrentes para comprar o que deseja.  
+Para a afirmação “ Com relação a escolha da loja, dou preferência a que tiver o 
+melhor atendimento”, foi possível observar que 87 respondentes concordam com essa 
+afirmação. Como visto anteriormente na análise Swot, a qualidade no atendimento é uma das 
+forças que a empresa pretende ter, visto que esse é um fator importante para a fidelização  do 
+cliente. 
+Questionou-se também sobre a concordância com as afirmações “ Com relação a 
+escolha da loja, dou preferência a que tiver a melhor organização e exposição de produtos” e 
+“Com relação a escolha da loja, dou preferência a que tiver facilidade de p agamento”. A 
+maioria dos respondentes concordou com ambas, apresentando resultado de 68 e 84, 
+respectivamente. Por ser um fator importante , a organização da loja deve pensada de modo 
+que atraia os clientes, por isso os produtos devem ser estudados para ver ificar quais são os 
+
+--- PAGE 26 ---
+25 
+ 
+mais vendidos, os que chamam mais atenção, entre outros. Por fim, a disponibilidade de 
+várias formas de pagamento  proporciona uma maior comodidade ao cliente,  além disso,  
+poderá absorver um número maior de clientes.  
+ 
+Tabela 1 - Afirmações referentes ao hábito de compra de cosmético, sendo: 1– discordo 
+totalmente, 2- discordo parcialmente, 3- indiferente, 4- concordo parcialmente e 5- concordo 
+totalmente 
+ 
+Afirmação 
+Grau de concordância 
+    1         2          3         4          5 
+Faço pesquisa de preço antes da compra e escolho o 
+produto mais barato.  
+12 22 25 29 23 
+Quando tenho dúvida entre dois produtos compro o 
+mais barato. 
+29 20 20 23 19 
+Quando tenho dúvida entre dois produtos compro o 
+que possui qualidade superior. 
+7 2 24 33 45 
+Com relação a escolha da loja, dou preferência a que 
+tiver menor preço.  
+11 7 29 33 31 
+Com relação a escolha da loja, dou preferência a que 
+tiver maior variedade de produtos. 
+7 4 16 34 50 
+Com relação a escolha da loja, dou preferência a que 
+tiver o melhor atendimento. 
+2 2 20 34 53 
+Com relação a escolha da loja, dou preferência a que 
+tiver o melhor organização e exposição de produtos.  
+7 10 26 28 40 
+Com relação a escolha da loja, dou preferência a que 
+tiver facilidade de pagamento. 
+7 6 14 33 51 
+Fonte: Dados da Pesquisa (2020) 
+ 
+3.3 Análises Gerais 
+ 
+A d ivulgação da empresa é essencial para a captação de novos clientes, por isso 
+conhecer os meios pelos são feitas as buscas por lojas de cosméticos é importante para o 
+desenvolvimento da comunicação mais ade quada para a loja. Os resul tados da pesquisa 
+indicam que 74,8 % dos respondentes procuram por essas informações no Instagram, 64,9% 
+por indicação de amigos e familiares, 44,1% pelo Google e 30,6% pelo site da empresa 
+(Gráfico 9). Poucas pessoas responderam que procuram pelo Facebook, Whatsapp, entre 
+outros. Dito isso, percebe -se que o Instagram possui um grande potencial para a divulgação 
+dos produtos da loja e pode ser usado para atrair novos consumidores. 
+ 
+ 
+--- PAGE 27 ---
+26 
+ 
+Gráfico 9- Meios pelos quais os respondentes procuram informações sobre loja de cosméticos
+ 
+ 
+ 
+                     Fonte: Dados da Pesquisa (2020) 
+ 
+Por fim, buscou -se identificar em qual loja de cosméticos os respondentes realizaram 
+sua última compra, com a finalidade de conhecer os concorrentes onde ele s estão comprando, 
+o resultado pode ser visto n o Quadro 6. As lojas que citadas por mais de um respondente 
+foram: Fricotes de Luxo (11), O Boticário (10) , Farmácia ( 8), Nova cosméticos (6) e Online 
+(5). Conhecendo os concorrentes é possível é possível anal isar quais são seus pontos fortes e 
+fracos, suas características, suas estratégias, entre outros.  
+ 
+ 
+Quadro 6– Lojas de cosméticos onde os respondentes fizeram a sua última compra 
+ 
+LOJA 
+N° DE 
+RESPOSTAS  
+ 
+LOJA 
+N° DE 
+RESPOSTAS 
+ 
+LOJA 
+N° DE 
+RESPOSTAS 
+A belíss ima 
+cosméticos 
+1 Farmácia 8 Não lembro 14 
+Adonanas  1 Fricotes de Luxo 11 Nova 
+Cosméticos 
+6 
+Americanas 1 Glamshop 4 Online 5 
+Bela Ju 1 Iap cosméticos 3 Pink 1 
+Beleza 1 Krika cosméticos 4 Paraibela 1 
+O Boticário 10 Lidi Cosméticos 1 Quem disse 
+berenice 
+3 
+Cherry 
+Cosméticos 
+1 Loja Purple   2 Riachuelo 1 
+Cosmético 
+center 
+4 MAC Cosmetics  1 Sd intermares  3 
+Consumos de 
+mulher  
+1 Makeme store 1 Sephora 2 
+Di rosy 1 Maricota Makeup 1 Sheila 
+Cosméticos 
+2 
+Embeleze  3 Missiana 1 Supermercado 3 
+Época 
+Cosméticos  
+3 Mary Key 1 Vanessa Lima 
+Makeup 
+1 
+Eudora 1 Mundo das 
+bijuterias 
+1 Vendedora 
+autônoma 
+1 
+Fonte: Dados da Pesquisa (2020) 
+ 
+ 
+
+--- PAGE 28 ---
+27 
+ 
+4. PLANO DE MARKETING  
+  
+Neste capítulo, serão apontadas informações sobre o mix de produtos vendidos e a 
+localização da empresa.   
+4.1 Logomarca 
+Figura 2  - Logomarca da empresa Seja Bela 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                       Fonte: Elaboração Própria (2020) 
+ 
+4.2 Produtos  
+ 
+ O mix de produtos da Seja Bela Cosméticos constará com diversos itens para cabelo, 
+depilação, equipamento, maquiagens, mãos e unhas, pés e pernas, rosto e corpo  e acessórios 
+diversos. As marcas serão escolhidas de acordo com as preferências dos clientes e analise das 
+tendências do mercado. Entre as marcas que serão vendidas na loja encontram -se: Ruby Rose, 
+Dalla makeup, Salon Line e Forever Liss.    
+  
+ 
+4.3 Preço 
+ 
+Para a  determinação do preço foram levados em consideração os custos fixos e 
+variáveis do empreendimento, a adequação com o preço de mercado e uma mar gem de lucro 
+mínima de 30%. No Quadro 7 é possível observar o valor unitário dos produtos.  
+ 
+Quadro 7- Precificação 
+ 
+PRODUTOS VALOR 
+UNITÁRIO  
+ACESSÓRIOS DIVERSOS   
+Algodão hidrófilo bola   R$ 3,45 
+Alicate cutícula Macrilan  R$ 13,90 
+Amolecedor de cutícula R$ 4,15 
+Cortador de unha pequeno Macrilan R$ 2,55 
+Escova de cabelo R$ 26,00 
+Escova de limpeza facial esfoliante R$ 12,20 
+Elástico de cabelo R$ 0,20 
+Espelho de bolsa R$ 5,60 
+Espelho de mesa R$ 51,70 
+
+--- PAGE 29 ---
+28 
+ 
+Esponja de esfoliação R$ 10,40 
+Esponja Master beauty R$ 4,30 
+Kit de pincéis Master beauty 7 peças R$ 35,10 
+Lenços umedecidos  R$ 4,75 
+Nécessaire R$ 3,30 
+Pincel Master beauty R$ 6,50 
+Pente R$ 6,30 
+Tesoura para unha R$ 5,50 
+CABELOS 
+Água oxigenada 10 Vol.  R$ 1,70 
+Água oxigenada 20 Vol. R$ 1,70 
+Água oxigenada 40 Vol. R$ 1,70 
+Alisante Hair life R$ 11,00 
+Ampolas Power sock R$ 3,30 
+Ativador de cachos Salon Line R$ 15,50 
+Botox Capilar Forever liss R$ 32,50 
+Condicionador home care Forever liss R$ 28,60 
+Creme de cabelo Skala R$ 7,10 
+Creme de pentear Boom R$ 12,50 
+Defrizante Salon line R$ 11,35 
+Descolorante pó Ligtner  R$ 5,60 
+Fixador care liss R$ 13,10 
+Gel redutor de volume Salon line R$ 16,40 
+Kit semi definitivo Forever liss R$ 130,00 
+Kit shampoo + condicionador Bothânico R$ 11,20 
+Leave-in Forever liss R$ 29,90 
+Mascará de hidratação intensa  R$ 20,20 
+Máscara Forever liss R$ 19,50 
+Progressiva Forever liss R$ 103,90 
+Óleo de cabelo Salon line R$ 17,65 
+Reparador de pontas Fina flor R$ 6,00 
+Selagem Argan oil R$ 39,00 
+Shampoo anticaspa Clear R$ 17,55 
+Shampoo Home care Forever liss R$ 27,88 
+Tintura Cor e ton R$ 11,85 
+Tintura Duty color R$ 10,95 
+Tintura Forever liss R$ 16,90 
+Tintura tonalizante Salon line  R$ 16,90 
+DEPILAÇÃO 
+ Aparelho depilatório R$ 22,20 
+Cera depilatória Depi roll  R$ 6,40 
+Creme depilatório Depi roll R$ 20,15 
+Loção depilatória R$ 23,95 
+EQUIPAMENTOS 
+Mini chapinha portátil  R$ 23,30 
+Secador de cabelo Taiff 1900W R$ 363,00 
+MÃOS E UNHAS 
+Acetona R$ 3,40 
+Adesivo para unha R$ 0,65 
+Creme para mãos anti-idade  Nivea R$ 21,32 
+Esmalte Ludurana  R$ 2,60 
+Esmalte Risqué R$ 4,35 
+Espátula Macrilan  R$ 5,25  
+Hidratante para cutícula Belle R$ 7,35 
+Lenço removedor de esmalte R$ 3,60 
+Lixa R$ 0,25 
+Palito para cutícula  R$ 0,10 
+Óleo de banana R$ 2,55 
+--- PAGE 30 ---
+29 
+ 
+Removedor de esmalte sem acetona R$ 3,70 
+Spray secante Fenzza R$ 15,80 
+MAQUIAGEM 
+Água miscelar  Ruby Rose R$ 3,85 
+Base vegana efeito matte Dalla makeup R$ 14,17 
+Base líquida Ruby Rose R$ 24,70 
+Batom matte Ruby Rose R$ 5,25 
+Batom líquido efeito matte Dalla makeup R$ 12,35 
+Blush Dalla make-up R$ 7,10 
+Brilho labial Vivai R$ 3,51 
+Cílio postiço Sabrina Sato R$ 7,80 
+Corretivo alta cobertura Dalla makeup R$ 16,80 
+Delineador Ruby Rose R$ 19,50 
+Fixador Master beauty R$ 5,40 
+Iluminador Glow baby glow Dalla makeup R$ 10,90 
+Lápis sobrancelha Luirance R$ 5,20 
+Lápis de olho Lebruce R$ 2,40 
+Lip tint Fenzza R$ 8,55 
+Loção demaquilante  R$ 28,30 
+Paleta de sombra Ruby Rose R$ 19,40 
+Primer Dalla make-up R$ 22,70 
+Pó compacto Ruby rose R$ 13,00 
+Pó solto Ruby rose R$ 18,20 
+Pó translúcido HD vegano Dalla makeup R$ 10,90 
+Rímel Ruby rose R$ 21,60 
+Sombra para sobrancelha R$ 7,20 
+PÉS E PERNAS 
+Antisséptico para pés R$ 9,80 
+Lixa de pés R$ 5,30 
+Hidratante para pés Bio instinto R$ 5,15 
+ROSTO E CORPO 
+Creme facial Nivea R$ 30,90 
+Esfoliante Mia Make R$ 15,20 
+Gel esfoliante skin care Belle R$ 3,40 
+Gel para corpo e rosto aloe vera R$ 39,00 
+Hidratante corporal Belle R$ 13,45 
+Hidratante corporal Paixão R$ 7,35 
+Hidratante corporal Skala R$ 5,95 
+Hidratante corporal Yeva R$ 10,85 
+Máscara de esfoliação  R$ 6,80 
+Máscara facial Bonny hill R$ 11,70 
+Máscara facial Pell off R$ 2,20 
+Sérum facial Fenzza  R$ 11,90 
+Tônico facial Beauty R$ 10,30 
+                                  Fonte: Elaboração Própria (2020) 
+ 
+4.4 Estratégias Promocionais 
+ 
+A estratégia promocional se dará , inicialmente, por meio de postagens em redes 
+sociais, por exemplo, Instagram e Facebook. Nelas serão divulgados os principais produtos, 
+dicas para utilização dos mesmos, promoções de venda, entre outros. Também serão 
+contratados influenciadores digitais para fazerem a divulgação da loja.  
+ Além disso, os clientes ganhar ão amostras grátis de alguns produtos e brindes . Dessa 
+forma, pretende-se apresentar os produtos que são vendidos na loja e fazer com que eles se 
+lembrem da empresa, construindo assim uma relação de longo prazo com os mesmos.  
+--- PAGE 31 ---
+30 
+ 
+4.5 Estrutura de Comercialização 
+ 
+ A estrutura física da loja proporcionará um ambiente agradável aos clientes, por meio 
+de uma distribuição estratégica dos produto s e uso do marketing sensorial. Essa estratégia 
+estimula os 5 sentidos do corpo humano (olfato, tato, visão, audição e paladar) buscando 
+construir laços com os clientes por meio de experiências/emoções.   
+De acordo com Philippi e Zambon (2016) , o olfato é a forma mais rápida da empresa 
+de acessar as emoções  dos clientes; o som tem uma forte influência no humor das pessoas;  a 
+visão tem sido o sentido mais explorado ao longo do tempo e o seu uso permanece sendo 
+muito importante para a for mação da identificação da marca; o  tato auxilia na formação da 
+noção de perc epção da qualidade e pode ser usado na embalagem do produto  para levar a 
+diferenciação de produtos semelhantes ; por fim o paladar está  muito ligado ao olfato e ao 
+acesso da memória.   
+Além disso, a empresa trabalhará com venda direta e seus funcionários pa rticiparão de 
+treinamentos e capacitações para obter conhecimentos sobre os produtos vendidos , o mercado 
+de beleza e o atendimento ao cliente.   
+4.6 Localização do Negócio 
+ 
+A estrutura física da loja ficará localizada na Rua Luiza Soares Leite, 191, Gramam e 
+João Pessoa,  PB. A escolha do imóvel lev ou em consideração a proximidade com 
+concorrentes, facilidade de acesso à rua, dimensões que comportem as instalações da empresa, 
+entre outros. O imóvel pertence à proprietária, por isso não haverá custo com aluguel.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+--- PAGE 32 ---
+31 
+ 
+5.  PLANO OPERACIONAL 
+ 
+Neste capítulo, serão mostrados o arranjo físico do empreendimento e as principais 
+atividades realizadas na empresa.  
+ 
+5.1 Layout 
+ 
+ Como pode ser visto na planta baixa ( Figura 3) a loja esta dividida e m três ambientes, 
+sendo eles a, sala principal, escritório e depósito. Na sala principal ocorrerá a circulação de 
+clientes, nela estão presentes prateleiras e mesas para a organização dos produtos e o balcão 
+do caixa. O escritório será utilizado para o des envolvimento das atividades admin istrativas e 
+possui poltrona, cadeira de escritório , armário, entre outros . No depósito serão armazenados 
+os produtos em estoque, nesse ambiente encontram-se distribuídas prateleiras. 
+ 
+ 
+Figura 3 - Layout 
+ 
+                Fonte: Elaboração Própria (2020) 
+ 
+5.2 Capacidade Instalada 
+ 
+ Espera-se que o atendimento de cada cliente dure em média 5min. Levando em 
+consideração que a loja ficará aberta 48 horas semanalmente, tem -se uma capacidade de 
+atendimento semanal de 480 clientes . O atendimento simultâneo é prejudicado, visto que a 
+loja possuirá apenas um(a) vendedor(a).  
+ 
+ 
+ 
+ 
+
+--- PAGE 33 ---
+32 
+ 
+5.3 Processos Operacionais 
+ 
+Os processos operacionais envolvem as tarefas que serão desempenhadas na empresa, 
+abaixo segue uma lista das principais atividades.   
+ 
+5.3.1 Compra 
+  
+A compra dos produtos que serão vendidos na  loja ocorrerá depois de uma aná lise da 
+previsão de demanda  que será realizada pela gestora. Em seguida , será feita  uma pesquisa 
+junto aos fornecedores para que se observem os preços, prazo de  pagamento e tempo de 
+entrega. Após esses processos, a compra será finalizada.  
+ 
+5.3.2 Estocagem e reposição 
+ 
+ Os produtos comprados serão recebidos e armazenados no depósito pelo funcionário 
+responsável pela reposição. Em seguida , será observada a necessi dade da reposição de 
+produtos nas prateleiras, esses produtos serão colocados na prateleira respeitando a regra do 
+primeiro que entra é o primeiro que sai, ou seja, serão colocados os produtos que estão no 
+estoque há mais tempo. 
+ 
+5.3.3 Recepção 
+  
+Ao chegar na loja o cliente é recepcionado pelo vendedor que irá auxiliá-lo em suas 
+compras, tirando dúvidas, mostrando opções de produtos, entre outros.  
+ 
+5.3.4 Pagamento  
+ 
+Após o atendimento e finalização da venda , o cliente é acompanhado até o caixa para 
+que sej a efetuado o pagamento  e o cadastramento de seus dados, caso tenha interesse . O 
+mesmo pode ser feito em espécie,  cartão de crédito ou débito, não sendo permitido o  
+pagamento em cheque ou duplicata.   
+ 
+5.3.5 Pesquisa de Satisfação  
+ 
+ No caixa estará disponível para o cliente um breve questionário de satisfação, para que 
+o mesmo avalie o atendimento e destaque os pontos que precisam de melhoria. O 
+preenchimento dessa avaliação será opcional e respeitará o anonimato.  
+ 
+5.3.6 Saída do Estabelecimento  
+ 
+O cliente será acompanhado até a saída da loja.  
+5.3.7 Pós-Venda 
+  
+ Além do questionário de satisfação, os funcionários da loja entrarão em contato com o 
+cliente para ouvir sua opinião a respeito da sua satisfação com o atendimento prestado, bem 
+como a probabilidade de retorno, reclamações, sugestões, entre outros. 
+ 
+ 
+ 
+--- PAGE 34 ---
+33 
+ 
+5.4 Necessidade de Pessoal 
+ 
+ O quadro inicial de funcionários contará com 1 (um) vendedor (a), 1 (um) caixa, 1 
+(um) repositor(a) e 1 (um) gerente, sendo esta a proprietária do estabelecimento, totaliza ndo 4 
+funcionários.  O vendedor fará a recepção do cliente, bem como o atendimento durante o 
+processo de venda. O caixa irá finalizar o atendimento com o recebimento do pagamento. O 
+repositor ficará responsável pela organização do estoque e da reposição do s produtos na 
+prateleira e a gerente fará todas as atividades relacionadas a área administrativa.  
+ 
+5.4.1 Estrutura Organizacional 
+ 
+A construção inicial do organograma se deu com base no quadro inicial de 
+funcionários, nele são mostradas as relações entre os funcionários, com o pode ser visto na 
+Figura 4. 
+ 
+ 
+Figura 4 - Organograma 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                 Fonte: Elaboração Própria (2020) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Gerente 
+Vendedor(a) 
+ Caixa 
+ Repositor(a) 
+--- PAGE 35 ---
+34 
+ 
+6  PLANO FINANCEIRO 
+ 
+Nesse capítulo serão vistos os recursos que serão investidos para que o n egócio 
+comece a funcionar.    
+6.1. Investimentos Fixos 
+ 
+O investimento fixo é composto pelos bens necessários para que as atividades da 
+empresa tenham um bom resultado, nele apresenta-se o custo com móveis, equipamentos, 
+eletroeletrônicos, entre outros. No  Quadro 8 é possível observar os itens que compõem o 
+investimento fixo inicial do negócio.    
+  
+Quadro 8 – Investimento Fixo Inicial 
+ 
+Item Descrição Quantidade Valor Unitário Valor Total 
+01 Aparelho Telefônico 01 R$ 45,00 R$ 45,00 
+02 Ar Condicionado  02 R$ 1.400,00 R$ 2.800,00 
+03 Armário de escritório 01 R$ 550,00 R$ 550,00 
+04 Balcão do caixa 01 R$ 300,00 R$ 300,00 
+05 Bebedouro 01 R$ 680,00 R$ 680,00 
+06 Cadeira de escritório 01 R$ 220,00 R$ 220,00 
+07 Computador  02 R$ 1.500,00 R$ 3.000,00 
+08 Espelhos 02 R$ 150,00 R$ 300,00 
+09 Impressora  01 R$ 300,00 R$ 300,00 
+10 Maquineta de cartão 01 R$ 240,00 R$ 240,00 
+11 Mesa 04 R$ 277,19 R$ 1.108,76 
+12 Poltrona 02 R$ 292,00 R$ 584,00 
+13 Prateleira 09 R$ 265,00 R$ 2.385,00 
+TOTAL R$ 12.512,76 
+ Fonte: Elaboração Própria (2020) 
+ 
+6.2 Capital de Giro 
+ 
+O capital de giro é um recurso financeiro utilizado para suprir as necessidades da 
+empresa, compreende a compra de produtos,  pagamento de despesas e  financiamento das 
+vendas.     
+ 
+6.2.1 Estoque Inicial 
+ 
+ No Q uadro 9 é possível visualizar o estoque inicial da empresa, onde estão 
+discriminadas as quantidades de cada produto, bem como o seu valor unitário e total. 
+Quadro 9 – Investimento em estoque inicial 
+Item Descrição Quantidade Valor 
+Unitário Valor Total 
+01 Algodão hidrófilo bola   50 R$ 2,65 R$ 132,50 
+02 Alicate cutícula Macrilan  20 R$ 10,70 R$ 214,00 
+03 Amolecedor de cutícula 30 R$ 3,20 R$ 96,00 
+04 Cortador de unha Macrilan 20 R$ 1,97     R$ 39,40 
+05 Escova de cabelo 15 R$ 20,00 R$ 300,00 
+--- PAGE 36 ---
+35 
+ 
+06 Escova de limpe za facial 
+esfoliante 
+ 
+30 
+ 
+R$ 9,38 R$ 281,40 
+07 Elástico de cabelo 100 R$ 0,125 R$ 12,50 
+08 Espelho de bolsa 20 R$ 4,31 R$ 86,20 
+09 Espelho de mesa 04 R$ 39,83 R$ 159,32 
+10 Esponja de esfoliação 20 R$ 7,99 R$ 159,80 
+11 Esponja Master beauty 20 R$ 3,33 R$ 66,60 
+12 Kit de pincéis Master beauty 7 
+peças 
+ 
+05 
+ 
+R$ 26,99 R$ 134,95 
+13 Lenços umedecidos  30 R$ 3,66 R$ 109,80 
+14 Nécessaire 05 R$ 2,51 R$ 12,55 
+15 Pincel Master beauty 15 R$ 4,99 R$ 74,85 
+16 Pente 20 R$ 4,84 R$ 96,80 
+17 Tesoura para unha 20 R$ 4,22 R$ 84,40 
+18 Água oxigenada 10 Vol.  30 R$ 1,34 R$ 40,20 
+19 Água oxigenada 20 Vol. 30 R$1,31 R$ 39,30 
+20 Água oxigenada 40 Vol. 30 R$1,31 R$ 39,30 
+21 Alisante Hair life 30 R$8,44 R$ 253,20 
+22 Ampolas Power sock 30 R$ 2,56 R$ 76,80 
+23 Ativador de cachos Salon Line 30 R$ 11,92 R$ 357,60 
+24 Botox Capilar Forever liss 30 R$24,99 R$ 749,70 
+25 Condicionador home care 
+Forever liss 
+ 
+30 
+ 
+R$ 21,99 R$ 659,70 
+26 Creme de cabelo Skala 30 R$ 5,48 R$ 164,40 
+27 Creme de pentear Boom 30 R$ 9,59 R$ 287,70 
+28 Defrizante Salon line 30 R$ 8,72 R$ 261,60 
+29 Descolorante pó Ligtner  30 R$ 4,29 R$ 128,70 
+30 Fixador care liss 30 R$ 10,08 R$ 302,40 
+31 Gel redutor de volume Salon 
+line 
+ 
+30 
+ 
+R$ 12,60 R$ 378,00 
+32 Kit semi definitivo Forever 
+liss 
+ 
+10 
+ 
+R$ 99,99 R$ 999,90 
+33 Kit shampoo + condicionador 
+Bothânico 
+ 
+20 
+ 
+R$ 8,59 R$ 171,80 
+34 Leave-in Forever liss 20 R$ 22,99 R$ 459,80 
+35 Mascará de hidratação intensa  20 R$ 15,51 R$ 310,20 
+36 Máscara Forever liss 30 R$ 14,99 R$ 449,70 
+37 Progressiva Forever liss 10 R$79,99 R$ 799,90 
+38 Óleo de cabelo Salon line 20 R$ 13,57 R$ 271,40 
+39 Reparador de pontas Fina flor 30 R$ 4,69 R$ 140,70 
+40 Selagem Argan oil 20 R$ 29,99 R$ 599,80 
+41 Shampoo anticaspa Clear 30 R$ 13,49 R$ 404,70 
+42 Shampoo Home care Forever 
+liss 
+ 
+30 
+ 
+R$ 20,99 R$ 629,70 
+43 Tintura Cor e ton 20 R$ 9,10 R$ 182,00 
+44 Tintura Duty color 20 R$ 8,43 R$ 168,60 
+45 Tintura Forever liss 20 R$ 12,99 R$ 259,80 
+46 Tintura tonalizante Salon line  20 R$ 12,99 R$ 259,80 
+47  Aparelho depilatório 10 R$ 17,06 R$ 170,60 
+48 Cera depilatória Depi roll  30 R$ 4,90 R$ 147,00 
+--- PAGE 37 ---
+36 
+ 
+49 Creme depilatório Depi roll 20 R$ 15,51 R$ 310,20 
+50 Loção depilatória 20 R$ 18,42 R$ 368,40 
+51 Mini chapinha portátil  05 R$ 17,90 R$ 89,50 
+52 Secador de cabelo Taiff 
+1900W 
+ 
+03 
+ 
+R$ 330,00 R$ 990,00 
+53 Acetona 50 R$ 2,59 R$ 129,50 
+54 Adesivo para unha 50 R$ 0,49 R$ 24,50 
+55 Creme para mãos anti -idade  
+Nivea 
+ 
+20 
+ 
+R$ 16,40 R$ 328,00 
+56 Esmalte Ludurana  30 R$ 1,97 R$ 59,10 
+57 Esmalte Risqué 30 R$ 3,33 R$ 99,90 
+58 Espátula Macrilan  20 R$ 4,04  R$ 80,80 
+59 Hidratante para cutícula Belle 30 R$ 5,66 R$ 169,80 
+60 Lenço removedor de esmalte 30 R$ 2,77 R$ 83,10 
+61 Lixa 100 R$ 0,12 R$ 12,00 
+62 Palito para cutícula  100 R$ 0,0889 R$ 8,89 
+63 Óleo de banana 30 R$ 1,96 R$ 58,80 
+64 Removedor de esmal te sem 
+acetona 
+ 
+30 
+ 
+R$ 2,88 R$ 86,40 
+65 Spray secante Fenzza 15 R$ 12,14 R$ 182,10 
+66 Água miscelar  Ruby Rose 40 R$ 2,95 R$ 118,00 
+67 Base vegana efeito matte 
+Dalla makeup 
+ 
+40 
+ 
+R$ 10,90 R$ 436,00 
+68 Base líquida Ruby Rose 40 R$ 19,00 R$ 760,00 
+69 Batom matte Ruby Rose 40 R$ 4,02 R$ 160,80 
+70 Batom líquido efeito matte 
+Dalla makeup 
+ 
+40 
+ 
+R$ 9,50 R$ 380,00 
+71 Blush Dalla makeup 40 R$ 5,40 R$ 216,00 
+72 Brilho labial Vivai 40 R$ 2,70 R$ 108,00 
+73 Cílio postiço Sabrina Sato 40 R$ 5,99 R$ 239,60 
+74 Corretivo alta cobertura Dalla 
+makeup 
+ 
+40 
+ 
+R$ 12,90 R$ 516,00 
+75 Delineador Ruby Rose 30 R$ 14,99 R$ 449,70 
+76 Fixador Master beauty 40 R$ 4,16 R$ 166,40 
+77 Iluminador Glow baby glow 
+Dalla makeup 
+ 
+40 
+ 
+R$ 8,36 R$ 334,40 
+78 Lápis sobrancelha Luirance 40 R$ 3,98 R$ 159,20 
+79 Lápis de olho Lebruce 40 R$ 1,83 R$ 73,20 
+80 Lip tint Fenzza 40 R$ 6,59 R$ 263,60 
+81 Loção demaquilante  20 R$ 21,76 R$ 435,20 
+82 Paleta de sombra Ruby Rose 30 R$ 14,91 R$ 447,30 
+83 Primer Dalla makeup 30 R$ 17,45 R$ 523,50 
+84 Pó compacto Ruby rose 40 R$ 10,00 R$ 400,00 
+85 Pó solto Ruby rose 40 R$ 14,00 R$ 560,00 
+86 Pó translúcido HD vegano 
+Dalla makeup 
+ 
+40 
+  
+ R$ 8,36 R$ 334,40 
+87 Rímel Ruby rose 30 R$ 16,63 R$ 498,90 
+88 Sombra para sobrancelha 40 R$ 5,52 R$ 220,80 
+89 Antisséptico para pés 30 R$ 7,52 R$ 225,60 
+90 Lixa de pés 30 R$ 4,08 R$ 122,40 
+--- PAGE 38 ---
+37 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+ 
+ 
+ 
+ 
+ 
+Fonte: Elaboração Própria (2020) 
+ 
+ 
+6.2.2 Caixa Mínimo 
+ 
+ O caixa mínimo mostra o valor que é necessário ter para que a empresa consiga arcar 
+com seus custos até que o dinheiro das contas a receber  dos clientes esteja disponível no 
+caixa. Para a sua determinação é necessário fazer o cálculo do prazo médio de recebimento de 
+vendas, do prazo médio de compr as, da necessidade de estoque e  da necessidade líquida de 
+capital de giro em dias, como pode ser visto nos passos abaixo. 
+ 
+1° passo: Contas a receber – cálculo do prazo médio de recebimento das vendas. 
+ 
+Quadro 10 - Prazo Médio de Recebimento de Vendas 
+Prazo (%) Nº de dias Média em dias 
+À vista 40 0 0 
+A prazo  60 30 18 
+Prazo Médio Total                                                               18 dias 
+                     Fonte: Elaboração Própria (2020) 
+ 
+ 
+2° passo: Fornecedores – cálculo do prazo médio de compras 
+  
+Quadro 11 - Prazo Médio de Compras 
+Prazo (%) Nº de dias Média em dias 
+À vista 30 0 0 
+A prazo (1) 40 30 12 
+A prazo (2) 30 60 18 
+Prazo Médio Total                                                            30 dias 
+                    Fonte: Elaboração Própria (2020) 
+ 
+ 
+ 
+ 
+ 
+91 Hidratante para pés Bio 
+instinto 
+ 
+30 
+ 
+R$ 3,94 R$ 118,20 
+92 Creme facial Nivea 20 R$ 23,74 R$ 474,80 
+93 Esfoliante Mia Make 30 R$ 11,68 R$ 350,40 
+94 Gel esfoliante skin care Belle 30 R$ 2,63 R$ 78,90 
+95 Gel para corpo e rosto aloe 
+vera 
+ 
+20 
+ 
+R$ 30,00 R$ 600,00 
+96 Hidratante corporal Belle 15 R$ 10,33 R$ 154,95 
+97 Hidratante corporal Paixão 15 R$ 5,66 R$ 84,90 
+98 Hidratante corporal Skala 20 R$ 4,59 R$ 91,80 
+99 Hidratante corporal Yeva 15 R$ 8,33 R$ 124,95 
+100 Máscara de esfoliação  20 R$ 5,21 R$ 104,20 
+101 Máscara facial Bonny hill 20 R$ 8,98 R$ 179,60 
+102 Máscara facial Pell off 20 R$ 1,70 R$ 34,00 
+103 Sérum facial Fenzza  15 R$ 9,14 R$ 137,10 
+104 Tônico facial Beauty 15 R$ 7,90 R$ 118,50 
+TOTAL R$ 26.107,36 
+--- PAGE 39 ---
+38 
+ 
+3° passo: Estoques – cálculo da necessidade média de estoque 
+ 
+ 
+Quadro 12 - Necessidade Média de Estoques 
+         
+ 
+ 
+                    Fonte: Elaboração própria (2020) 
+ 
+4° passo: Cálculo da necessidade líquida de capital de giro em dias 
+ 
+Quadro 13 – Necessidade Líquida de Capital de Giro (em dias) 
+Recursos da empresa fora do seu caixa Número de dias 
+1. Contas a receber - prazo médio de vendas 18 
+2. Estoques - necessidade média de estoques 40 
+Subtotal 1 (item 1 + item 2) 58 
+Recursos de terceiros no caixa da empresa Número de dias 
+3. Fornecedores - prazo médio de compras 30 
+Subtotal 2 (item 3) 30 
+Necessidade líquida de capital de giro 
+(Subtotal 1 – Subtotal 2) 28 
+                   Fonte: Elaboração Própria (2020) 
+ 
+ Após a conclusão desses passos é possível re alizar a projeção do caixa mínimo, que 
+contará com os valores do custo fixo, variável e total da empresa, bem como a quantidade de 
+dias da necessidade líquida de capital de giro.  
+ 
+Quadro 14 - Caixa Mínimo  
+Custo Fixo Mensal R$ 8.956,35 
+Custo Variável Mensal R$ 2.562,38 
+Custo Total da Empresa R$ 11.518,73 
+Custo Total diário R$ 383,95 
+Necessidade Líquida de Capital de 
+Giro (dias) 28 
+Caixa Mínimo R$ 10.750,81 
+                                         Fonte: Elaboração Própria (2020) 
+ 
+Para a determinação do capital de giro somou-se o valor do estoque inicial com o do 
+caixa mínimo, como pode ser visto no Quadro 15.  
+ 
+Quadro 15 – Capital de Giro (Resumo) 
+ Descrição  Valor 
+A – Estoque Inicial R$ 26.107,36 
+B – Caixa Mínimo R$ 10.750,81 
+TOTAL DO CAPITAL DE G IRO 
+(A+B) R$ 36.858,17 
+                                         Fonte: Elaboração Própria (2020) 
+ 
+ 
+ 
+ 
+ 
+ Número de dias 
+Necessidade média de estoques  40 
+--- PAGE 40 ---
+39 
+ 
+6.3 Investimentos Pré-Operacionais 
+ 
+O investimento pré -operacional diz respeito aos gastos que precisaram ser realizados 
+antes da empresa iniciar sua atividade comercial, nele está presente despesas com legalização, 
+construção, divulgação, cursos e treinamentos (Quadro 16).  
+Quadro 16 – Investimentos pré-operacionais 
+Descrição Valor 
+Despesas de legalização R$ 800,00 
+Construção da loja R$ 10.000,00 
+Divulgação R$ 1.000,00 
+Cursos e treinamentos R$ 2.000,00 
+Total R$ 13.800,00 
+                                          Fonte: Elaboração Própria (2020) 
+ 
+6.4 Investimento Total 
+ 
+ O investimento total é resultado da soma das estimativas do investimento fixo, ca pital 
+de giro e investimento pré-operacional, como pode ser visto no Quadro 17.  
+  
+Quadro 17– Investimento Total 
+Descrição Valor % 
+Estimativa dos investimentos 
+fixos – Quadro 8 R$ 12.512,76 19,8 
+Estimativa do capital de giro –  
+Quadro 15 R$ 36.858,17 58,4 
+Estimativa dos investimentos pré-
+operacionais – Quadro 16 R$ 13.800,00 21,8 
+Total R$ 63.170,93 100 
+                                 Fonte: Elaboração Própria (2020) 
+ 
+ 
+Quadro 18 – Fonte de recursos 
+Descrição Valor % 
+Recursos próprios R$ 63.170,93 100 
+Total R$ 63.170,93 100 
+                                 Fonte: Elaboração Própria (2020) 
+ 
+6.5 Estimativa do Faturamento Mensal 
+  
+No Quadro 19 observa-se uma projeção da receita do negócio, supondo que a empresa 
+funcione com 60% de sua capacidade. 
+ 
+Quadro 19 – Estimativa do Faturamento Mensal 
+Item 
+Descrição  Preço 
+Quantidade 
+estimada de 
+venda 
+Faturamento/
+mês Faturamento/ano 
+01 Algodão hidrófilo bola   R$ 3,45 30 R$ 103,50 R$ 1.242,00 
+02 Alicate cutícula Macrilan  R$ 13,90 12 R$ 166,80 R$ 2.001,60 
+03 Amolecedor de cutícula R$ 4,15 18 R$ 74,70 R$ 896,40 
+--- PAGE 41 ---
+40 
+ 
+04 Cortador de unha pequeno 
+Macrilan 
+R$ 2,55 12 
+ 
+R$ 30,60 
+ 
+R$ 367,20 
+ 
+05 Escova de cabelo R$ 26,00 9 R$ 234,00 R$ 2.808,00 
+06 Escova de limpeza facial 
+esfoliante 
+R$ 12,20 18 
+ 
+R$ 219,60 
+ 
+R$ 2.635,20 
+ 
+07 Elástico de cabelo R$ 0,20 60 R$ 12,00 R$ 144,00 
+08 Espelho de bolsa R$ 5,60 12 R$ 67,20 R$ 806,40 
+09 Espelho de mesa R$ 51,70 3 R$ 155,10 R$ 1.861,20 
+10 Esponja de esfoliação R$ 10,40 12 R$ 124,80 R$ 1.497,60 
+11 Esponja Master beauty R$ 4,30 12 R$ 51,60 R$ 619,20 
+12 Kit de pincéis Master beauty 7 
+peças 
+R$ 35,10 3 
+ 
+R$ 105,30 
+ 
+R$ 1.263,60 
+ 
+13 Lenços umedecidos  R$ 4,75 18 R$ 85,50 R$ 1.026,00 
+14 Nécessaire R$ 3,30 3 R$ 9,90 R$ 118,80 
+15 Pincel Master beauty R$ 6,50 9 R$ 58,50 R$ 702,00 
+16 Pente R$ 6,30 12 R$ 75,60 R$ 907,20 
+17 Tesoura para unha R$ 5,50 12 R$ 66,00 R$ 792,00 
+18 Água oxigenada 10 Vol.  R$ 1,70 18 R$ 30,60 R$ 367,20 
+19 Água oxigenada 20 Vol. R$ 1,70 18 R$ 30,60 R$ 367,20 
+20 Água oxigenada 40 Vol. R$ 1,70 18 R$ 30,60 R$ 367,20 
+21 Alisante Hair life R$ 11,00 18 R$ 198,00 R$ 2.376,00 
+22 Ampolas Power sock R$ 3,30 18 R$ 59,40 R$ 712,80 
+23 Ativador de cachos Salon Line R$ 15,50 18 R$ 279,00 R$ 3.348,00 
+24 Botox Capilar Forever liss R$ 32,50 18 R$ 585,00 R$ 7.020,00 
+25 Condicionador h ome care 
+Forever liss 
+R$ 28,60 18 
+ 
+R$ 514,80 
+ 
+R$ 6.177,60 
+ 
+26 Creme de cabelo Skala R$ 7,10 18 R$ 127,80 R$ 1.533,60 
+27 Creme de pentear Boom R$ 12,50 18 R$ 225,00 R$ 2.700,00 
+28 Defrizante Salon line R$ 11,35 18 R$ 204,30 R$ 2.451,60 
+29 Descolorante pó Ligtner  R$ 5,60 18 R$ 100,80 R$ 1.209,60 
+30 Fixador care liss R$ 13,10 18 R$ 235,80 R$ 2.829,60 
+31 Gel redutor de volume Salon line R$ 16,40 18 
+ 
+R$ 295,20 
+ 
+R$ 3.542,40 
+ 
+32 Kit semi definitivo Forever liss R$ 130,00 6 R$ 780,00 R$ 9.360,00 
+33 Kit sha mpoo + condicionador 
+Bothânico 
+R$ 11,20 12 
+ 
+R$ 134,40 
+ 
+R$ 1.612,80 
+ 
+34 Leave-in Forever liss R$ 29,90 12 R$ 358,80 R$ 4.305,60 
+35 Mascará de hidratação intensa  R$ 20,20 12 R$ 242,40 R$ 2.908,80 
+36 Máscara Forever liss R$ 19,50 18 R$ 351,00 R$ 4.212,00 
+37 Progressiva Forever liss R$ 103,90 6 R$ 623,40 R$ 7.480,80 
+38 Óleo de cabelo Salon line R$ 17,65 12 R$ 211,80 R$ 2.541,60 
+39 Reparador de pontas Fina flor R$ 6,00 18 R$ 108,00 R$ 1.296,00 
+40 Selagem Argan oil R$ 39,00 12 R$ 468,00 R$ 5.616,00 
+41 Shampoo anticaspa Clear R$ 17,55 18 R$ 315,90 R$ 3.790,80 
+42 Shampoo Home care Forever liss R$ 27,88 18 
+ 
+R$ 501,84 
+ 
+R$ 6.022,08 
+ 
+43 Tintura Cor e ton R$ 11,85 12 R$ 142,20 R$ 1.706,40 
+44 Tintura Duty color R$ 10,95 12 R$ 131,40 R$ 1.576,80 
+45 Tintura Forever liss R$ 16,90 12 R$ 202,80 R$ 2.433,60 
+46 Tintura tonalizante Salon line  R$ 16,90 12 R$ 202,80 R$ 2.433,60 
+47  Aparelho depilatório R$ 22,20 6 R$ 133,20 R$ 1.598,40 
+48 Cera depilatória Depi roll  R$ 6,40 18 R$ 115,20 R$ 1.382,40 
+49 Creme depilatório Depi roll R$ 20,15 12 R$ 241,80 R$ 2.901,60 
+--- PAGE 42 ---
+41 
+ 
+50 Loção depilatória R$ 23,95 12 R$ 287,40 R$ 3.448,80 
+51 Mini chapinha portátil  R$ 23,30 3 R$ 69,90 R$ 838,80 
+52 Secador de cabelo Taiff 1900W R$ 363,00 2 
+ 
+R$ 726,00 
+ 
+R$ 8.712,00 
+ 
+53 Acetona R$ 3,40 30 R$ 102,00 R$ 1.224,00 
+54 Adesivo para unha R$ 0,65 30 R$ 19,50 R$ 234,00 
+55 Creme para mãos anti -idade  
+Nivea 
+R$ 21,32 12 
+ 
+R$ 255,84 
+ 
+R$ 3.070,08 
+ 
+56 Esmalte Ludurana  R$ 2,60 18 R$ 46,80 R$ 561,60 
+57 Esmalte Risqué R$ 4,35 18 R$ 78,30 R$ 939,60 
+58 Espátula Macrilan  R$ 5,25  12 R$ 63,00 R$ 756,00 
+59 Hidratante para cutícula Belle R$ 7,35 18 R$ 132,30 R$ 1.587,60 
+60 Lenço removedor de esmalte R$ 3,60 18 R$ 64,80 R$ 777,60 
+61 Lixa R$ 0,25 60 R$ 15,00 R$ 180,00 
+62 Palito para cutícula  R$ 0,10 60 R$ 6,00 R$ 72,00 
+63 Óleo de banana R$ 2,55 18 R$ 45,90 R$ 550,80 
+64 Removedor de esmalte sem 
+acetona 
+R$ 3,70 18 
+ 
+R$ 66,60 
+ 
+R$ 799,20 
+ 
+65 Spray secante Fenzza R$ 15,80 9 R$ 142,20 R$ 1.706,40 
+66 Água miscelar  Ruby Rose R$ 3,85 24 R$ 92,40 R$ 1.108,80 
+67 Base vegana efeito matte Dalla 
+makeup 
+R$ 14,17 24 
+ 
+R$ 340,08 
+ 
+R$ 4.080,96 
+ 
+68 Base líquida Ruby Rose R$ 24,70 24 R$ 592,80 R$ 7.113,60 
+69 Batom matte Ruby Rose R$ 5,25 24 R$ 126,00 R$ 1.512,00 
+70 Batom líquido efeito matte Dalla 
+makeup 
+R$ 12,35 24 
+ 
+R$ 296,40 
+ 
+R$ 3.556,80 
+ 
+71 Blush Dalla makeup R$ 7,10 24 R$ 170,40 R$ 2.044,80 
+72 Brilho labial Vivai R$ 3,51 24 R$ 84,24 R$ 1.010,88 
+73 Cílio postiço Sabrina Sato R$ 7,80 24 R$ 187,20 R$ 2.246,40 
+74 Corretivo alta cobertura Dalla 
+makeup 
+R$ 16,80 24 
+ 
+R$ 403,20 
+ 
+R$ 4.838,40 
+ 
+75 Delineador Ruby Rose R$ 19,50 18 R$ 351,00 R$ 4.212,00 
+76 Fixador Master beauty R$ 5,40 24 R$ 129,60 R$ 1.555,20 
+77 Iluminador Glow baby glow 
+Dalla makeup 
+R$ 10,90 24 
+ 
+R$ 261,60 
+ 
+R$ 3.139,20 
+ 
+78 Lápis sobrancelha Luirance R$ 5,20 24 R$ 124,80 R$ 1.497,60 
+79 Lápis de olho Lebruce R$ 2,40 24 R$ 57,60 R$ 691,20 
+80 Lip tint Fenzza R$ 8,55 24 R$ 205,20 R$ 2.462,40 
+81 Loção demaquilante  R$ 28,30 12 R$ 339,60 R$ 4.075,20 
+82 Paleta de sombra Ruby Rose R$ 19,40 18 R$ 349,20 R$ 4.190,40 
+83 Primer Dalla makeup R$ 22,70 18 R$ 408,60 R$ 4.903,20 
+84 Pó compacto Ruby rose R$ 13,00 24 R$ 312,00 R$ 3.744,00 
+85 Pó solto Ruby rose R$ 18,20 24 R$ 436,80 R$ 5.241,60 
+86 Pó translúcido HD vegano Dalla 
+makeup 
+R$ 10,90 24 
+ 
+R$ 261,60 
+ 
+R$ 3.139,20 
+ 
+87 Rímel Ruby rose R$ 21,60 18 R$ 388,80 R$ 4.665,60 
+88 Sombra para sobrancelha R$ 7,20 24 R$ 172,80 R$ 2.073,60 
+89 Antisséptico para pés R$ 9,80 18 R$ 176,40 R$ 2.116,80 
+90 Lixa de pés R$ 5,30 18 R$ 95,40 R$ 1.144,80 
+91 Hidratante para pés Bio instinto R$ 5,15 18 
+ 
+R$ 92,70 
+ 
+R$ 1.112,40 
+ 
+92 Creme facial Nivea R$ 30,90 12 R$ 370,80 R$ 4.449,60 
+93 Esfoliante Mia Make R$ 15,20 18 R$ 273,60 R$ 3.283,20 
+94 Gel esfoliante skin care Belle R$ 3,40 18 R$ 61,20 R$ 734,40 
+--- PAGE 43 ---
+42 
+ 
+95 Gel para corpo e rosto aloe vera R$ 39,00 12 
+ 
+R$ 468,00 
+ 
+R$ 5.616,00 
+ 
+96 Hidratante corporal Belle R$ 13,45 9 R$ 121,05 R$ 1.452,60 
+97 Hidratante corporal Paixão R$ 7,35 9 R$ 66,15 R$ 793,80 
+98 Hidratante corporal Skala R$ 5,95 12 R$ 71,40 R$ 856,80 
+99 Hidratante corporal Yeva R$ 10,85 9 R$ 97,65 R$ 1.171,80 
+100 Máscara de esfoliação  R$ 6,80 12 R$ 81,60 R$ 979,20 
+101 Máscara facial Bonny hill R$ 11,70 12 R$ 140,40 R$ 1.684,80 
+102 Máscara facial Pell off R$ 2,20 12 R$ 26,40 R$ 316,80 
+103 Sérum facial Fenzza  R$ 11,90 9 R$ 107,10 R$ 1.285,20 
+104 Tônico facial Beauty R$ 10,30 9 R$ 92,70 R$ 1.112,40 
+TOTAL  R$ 20.378,55   R$ 244.542,60 
+Fonte: Elaboração Própria (2020) 
+ 
+ 
+6.6 Custo de Comercialização 
+ 
+No cu sto de comercialização (Q uadro 20 ) são descritas as despesas que vão incidir 
+diretamente sobre as vendas,  ele é classificado como custo variável e vai inclui gastos com 
+impostos, publicidade, entre outros.  
+ 
+Quadro 20 – Custos de Comercialização 
+Descrição % Faturamento Estimado Custo Total  
+1. Impostos    
+SIMPLES 7,30 R$ 20.378,55 R$ 1.487,63 
+Subtotal 1   R$ 1.487,63 
+2. Gastos com vendas    
+Publicidade 3 R$ 20.378,55 R$ 611,35 
+Taxa de administração 
+do cartão de crédito 3,79 R$ 12.227,13 R$ 463,40 
+Subtotal 2   R$ 1.074,75 
+TOTAL   R$ 2.562,38 
+             Fonte: Elaboração Própria (2020) 
+ 
+6.7 Custos com Mão de Obra 
+ 
+ No Quadro 21 vemos as despesas com os salários e encargos dos funcionários para os 
+cargos de caixa, repositor e vendedor. Nele não esta incluso o salário da gerente, visto que o 
+cargo será exercido pela proprietária e seu custo está incluso no pró-labore.   
+ 
+ Quadro 21 - Despesa com Pessoal 
+Função N° de Empregados Salário Mensal Encargos (%) Salário Total 
+Caixa 1 R$ 1.155,00 9 R$ 1.258,95 
+Repositor 1 R$ 1.155,00 9 R$ 1.258,95 
+Vendedor 1 R$ 1.155,00 9 R$ 1.258,95 
+TOTAL                                                                                                    R$ 3.776,85 
+              Fonte: Elaboração Própria (2020) 
+  
+ 
+--- PAGE 44 ---
+43 
+ 
+6.8 Custos com Depreciação 
+ 
+ A depreciação é um processo pelo qual um bem perde seu  valor durante a sua vida 
+útil. Os valores apresentados no Quadro 22  mostram os custos com a depreciação mensal e 
+anual que os bens da empresa sofrerão ao longo do tempo.  
+Quadro 22 - Depreciação 
+Descrição Valor Vida Útil Depreciação Anual Depreciação Mensal 
+Obras 
+Civis/Reformas R$ 10.000,00 15 anos R$ 666,66 R$ 55,55 
+Máquinas e 
+Equipamentos R$ 4.065,00 05 anos R$ 813,00 R$ 67,75 
+Computadores R$ 3.000,00 05 anos R$ 600,00 R$ 50,00 
+Móveis e Utensílios R$ 5.447,76 10 anos R$ 544,77 R$ 45,40 
+TOTAL                                                                                            R$ 2.624,43                   R$ 218,70 
+    Fonte: Elaboração Própria (2020) 
+ 
+6.9 Custos Fixos Operacionais Mensais 
+ 
+Os custos fixos operacionais mensais mostram o valor somado da s despesas 
+operacionais que são independentes da quantidade de produtos vendidos, em outras palavras, 
+são os custos que a empresa terá que arcar mesmo que não venda nenhum produto. 
+Quadro 23 - Despesas Operacionais 
+Item Descrição Valor  
+01 Energia Elétrica R$ 500,00 
+02 Telefone R$ 82,90 
+03 Internet R$ 50,00 
+04 Salários + Encargos R$ 3.776,85 
+05 Transporte  R$ 972,90 
+06 Material de Limpeza R$ 100,00 
+07 Material de Escritório R$ 80,00 
+08 Contador R$ 1.045,00 
+09 Pró-Labore    R$ 2.000,00 
+10 Depreciação R$ 218,70 
+11 IPTU  R$ 130,00 
+TOTAL                                          R$ 8.956,35 
+                             Fonte: Elaboração Própria (2020) 
+ 
+ 6.10 Demonstrativo dos Resultados 
+  
+O Demonstrativo dos Resultados mostra qual será o lucro líquid o do negocio a partir 
+das estimativas realizadas, que vão demonstrar se haverá lucro ou prejuízo.  
+ 
+--- PAGE 45 ---
+44 
+ 
+ 
+ 
+Quadro 24 - DRE 
+Descrição Valores Mensais em R$ Valor Anual em R$ 
+RECEITA TOTAL (=) R$ 20.378,55 R$ 244.542,60 
+CUSTOS VARIÁVEIS TOTAIS (-) R$ 2.562,38 R$ 30.748,56 
+RESULTADO OPERACIONAL (=) R$ 17.816,17 R$ 213.794,04 
+CUSTOS FIXOS TOTAIS (-) R$ 8.956,35 R$ 107.476,20 
+LUCRO LÍQUIDO (=) R$ 8.859,82 R$ 106.317,84 
+             Fonte: Elaboração Própria (2020) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 46 ---
+45 
+ 
+7 INDICADORES DE VIABILIDADE 
+ 
+Nesse capítulo serão vistos indicadores que permitiram avaliar se o negócio será ou 
+não viável.  
+ 
+7.1 Ponto de Equilíbrio 
+ 
+ O ponto de equilíbrio  mostra o valor que a empresa precisa fatura r para pagar  seus 
+custos operacionais. Para  seu cálculo deve -se inicialmente encontrar o valor do IMC (Índice 
+de Margem de Contribuição) utilizando a fórmula abaixo: 
+ 
+IMC =       Receita Total – Custo Variável    =  20.378,55 – 2.562,38 = 0,87                                                  
+Receita                   Receita Total                                   20.378,55 
+  
+Após a obtenção do Índice de Margem de Contribuição calcula -se o Ponto de 
+Equilíbrio (PE) usando a fórmula abaixo:  
+ 
+PE =     Custo Fixo                    =         8.956,35                   PE= 10.294,65 
+                     IMC                                     0,87 
+ 
+Logo, chega-se a conclusão de que a empresa deve contar com uma receita mínima de 
+R$ 10.294,65 para que não funcione no prejuízo.  
+ 
+7.2 Lucratividade 
+ 
+ Esse indicador esta relacionado com a competitividade da empresa e vai medir o lucro 
+líquido em relação a receita. Seu cálculo é realizado conforme a fórmula abaixo.  
+ 
+Lucratividade:      Lucro Líquido * 100     =       106.317,84    *100  =  43,47% aa 
+                                 Receita Total                         244.542,60  
+ Após o pagamento das despesas e impostos “sobram” R$ 106.317,84 na forma de 
+lucro, indicando que o negócio gera uma lucratividade anual de 43,47%.  
+ 
+7.3 Rentabilidade 
+ 
+ O indicador de rentabilidade mostra o retorno do capital investido dos sócios, por isso 
+ele indica a atratividade do negócio. Ele é obtido através da divisão do lucro líquido pelo 
+investimento total, cuja fórmula é apresentada abaixo:  
+ 
+Rentabilidade:        Lucro Líquido    *100    =   106.317,84    *100  =  168,30% aa 
+                             Investimento Total                      63.170,93 
+  
+Conclui-se que o negócio é rentável, visto que a empresaria irá recuperar 168,30% do 
+total investido a cada ano. 
+--- PAGE 47 ---
+46 
+ 
+ 
+7.4 Prazo de Retorno do Investimento 
+ 
+ O Prazo do Retorno do Investimento (PRI) mostra o tempo que será necessário para 
+que se recupere o valor investido no negócio, seu cálculo é realizado usando a formula abaixo.  
+ 
+               PRI=          Investimento Total        =      63.170,93       =  0,59 ano 
+                                     Lucro Líquido                     106.317,84 
+  
+ O resultado mostra que para recuperar o dinheiro investido na empresa serão 
+necessários aproximadamente 7 meses, após a inauguração do negócio.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 48 ---
+47 
+ 
+8 CONSTRUÇÃO DOS CENÁRIOS 
+ 
+8.1 Cenário Otimista 
+ 
+A projeção de cenários simula situações que podem ocorrer na empresa , o cenário 
+otimista representa um ambiente favorável onde todas as metas são atingidas. Ele permite a 
+existência de folgas financeiras e um maior lucro líquido. Para a projeção do cenário otimista 
+da Seja Bela Cosméticos considerou-se a receita de vendas com 80% de sua capacidade 
+instalada, como pode ser visto no Quadro 2 5. Nos Quadros 26 e 27 vemos, respectivamente, 
+as projeções dos custos de comercialização e da DRE que foram realizadas considerando esse 
+cenário. 
+ 
+ 
+Quadro 25- Projeção da Receita para o cenário otimista 
+Item 
+Descrição  Preço 
+Quantidade 
+estimada de 
+venda 
+Faturamento
+/mês Faturamento/ano 
+01 Algodão hidrófilo bola   R$ 3,45 40  R$ 138,00   R$ 1.656,00  
+02 Alicate cutícula Macrilan  R$ 13,90 16  R$ 222,40   R$ 2.668,80  
+03 Amolecedor de cutícula R$ 4,15 24  R$ 99,60   R$ 1.195,20  
+04 Cortador de unha pequeno 
+Macrilan 
+R$ 2,55 
+16  R$ 40,80   R$ 489,60  
+05 Escova de cabelo R$ 26,00 12  R$ 312,00   R$ 3.744,00  
+06 Escova de limpeza facial 
+esfoliante 
+R$ 12,20 
+24  R$ 292,80   R$ 3.513,60  
+07 Elástico de cabelo R$ 0,20 80  R$ 16,00   R$ 192,00  
+08 Espelho de bolsa R$ 5,60 16  R$ 89,60   R$ 1.075,20  
+09 Espelho de mesa R$ 51,70 3  R$155,10   R$ 1.861,20  
+10 Esponja de esfoliação R$ 10,40 16  R$166,40   R$ 1.996,80  
+11 Esponja Master beauty R$ 4,30 16  R$ 68,80   R$ 825,60  
+12 Kit de pincéis Master beauty 7 
+peças 
+R$ 35,10 
+4  R$ 140,40   R$ 1.684,80  
+13 Lenços umedecidos  R$ 4,75 24  R$ 114,00   R$ 1.368,00  
+14 Nécessaire R$ 3,30 4  R$13,20   R$ 158,40  
+15 Pincel Master beauty R$ 6,50 12  R$ 78,00   R$ 936,00  
+16 Pente R$ 6,30 16  R$ 100,80   R$ 1.209,60  
+17 Tesoura para unha R$ 5,50 16  R$ 88,00   R$ 1.056,00  
+18 Água oxigenada 10 Vol.  R$ 1,70 24  R$ 40,80   R$ 489,60  
+19 Água oxigenada 20 Vol. R$ 1,70 24  R$ 40,80   R$ 489,60  
+20 Água oxigenada 40 Vol. R$ 1,70 24  R$ 40,80   R$ 489,60  
+21 Alisante Hair life R$ 11,00 24  R$ 264,00   R$ 3.168,00  
+22 Ampolas Power sock R$ 3,30 24  R$ 79,20   R$ 950,40  
+23 Ativador de cachos Salon Line R$ 15,50 24  R$ 372,00   R$ 4.464,00  
+24 Botox Capilar Forever liss R$ 32,50 24  R$ 780,00   R$ 9.360,00  
+25 Condicionador home care 
+Forever liss 
+R$ 28,60 
+24  R$ 686,40   R$ 8.236,80  
+--- PAGE 49 ---
+48 
+ 
+26 Creme de cabelo Skala R$ 7,10 24  R$ 170,40   R$ 2.044,80  
+27 Creme de pentear Boom R$ 12,50 24  R$ 300,00   R$ 3.600,00  
+28 Defrizante Salon line R$ 11,35 24  R$ 272,40   R$ 3.268,80  
+29 Descolorante pó Ligtner  R$ 5,60 24  R$ 134,40   R$ 1.612,80  
+30 Fixador care liss R$ 13,10 24  R$ 314,40   R$ 3.772,80  
+31 Gel redutor de volume Salon line R$ 16,40 24  R$ 393,60   R$ 4.723,20  
+32 Kit semi definitivo Forever liss R$ 130,00 8  R$ 1.040,00   R$ 12.480,00  
+33 Kit shampoo + condicionador 
+Bothânico 
+R$ 11,20 
+16  R$ 179,20   R$ 2.150,40  
+34 Leave-in Forever liss R$ 29,90 16  R$ 478,40   R$ 5.740,80  
+35 Mascará de hidratação intensa  R$ 20,20 16  R$ 323,20   R$ 3.878,40  
+36 Máscara Forever liss R$ 19,50 24  R$ 468,00   R$ 5.616,00  
+37 Progressiva Forever liss R$ 103,90 8  R$ 831,20   R$ 9.974,40  
+38 Óleo de cabelo Salon line R$ 17,65 16  R$ 282,40   R$ 3.388,80  
+39 Reparador de pontas Fina flor R$ 6,00 24  R$144,00   R$ 1.728,00  
+40 Selagem Argan oil R$ 39,00 16  R$ 624,00   R$ 7.488,00  
+41 Shampoo anticaspa Clear R$ 17,55 24  R$ 421,20   R$ 5.054,40  
+42 Shampoo Home care Forever liss R$ 27,88 24  R$ 669,12   R$ 8.029,44  
+43 Tintura Cor e ton R$ 11,85 16  R$ 189,60   R$ 2.275,20  
+44 Tintura Duty color R$ 10,95 16  R$ 175,20   R$ 2.102,40  
+45 Tintura Forever liss R$ 16,90 16  R$ 270,40   R$ 3.244,80  
+46 Tintura tonalizante Salon line  R$ 16,90 16  R$ 270,40   R$ 3.244,80  
+47  Aparelho depilatório R$ 22,20 8  R$ 177,60   R$ 2.131,20  
+48 Cera depilatória Depi roll  R$ 6,40 24  R$ 153,60   R$ 1.843,20  
+49 Creme depilatório Depi roll R$ 20,15 16  R$ 322,40   R$ 3.868,80  
+50 Loção depilatória R$ 23,95 16  R$ 383,20   R$ 4.598,40  
+51 Mini chapinha portátil  R$ 23,30 4  R$ 93,20   R$ 1.118,40  
+52 Secador de cabelo Taiff 1900W R$ 363,00 2  R$ 726,00   R$ 8.712,00  
+53 Acetona R$ 3,40 40  R$ 136,00   R$ 1.632,00  
+54 Adesivo para unha R$ 0,65 40  R$ 26,00   R$ 312,00  
+55 Creme para mãos anti -idade  
+Nivea 
+R$ 21,32 
+16  R$ 341,12   R$ 4.093,44  
+56 Esmalte Ludurana  R$ 2,60 24  R$ 62,40   R$ 748,80  
+57 Esmalte Risqué R$ 4,35 24  R$ 104,40   R$ 1.252,80  
+58 Espátula Macrilan  R$ 5,25  16  R$ 84,00   R$ 1.008,00  
+59 Hidratante para cutícula Belle R$ 7,35 24  R$ 176,40   R$ 2.116,80  
+60 Lenço removedor de esmalte R$ 3,60 24  R$ 86,40   R$ 1.036,80  
+61 Lixa R$ 0,25 80  R$ 20,00   R$ 240,00  
+62 Palito para cutícula  R$ 0,10 80  R$ 8,00   R$ 96,00  
+63 Óleo de banana R$ 2,55 24  R$ 61,20   R$ 734,40  
+64 Removedor de esmalte sem R$ 3,70 24  R$ 88,80   R$ 1.065,60  
+--- PAGE 50 ---
+49 
+ 
+acetona 
+65 Spray secante Fenzza R$ 15,80 12  R$ 189,60   R$ 2.275,20  
+66 Água miscelar  Ruby Rose R$ 3,85 32  R$ 123,20   R$ 1.478,40  
+67 Base vegana efeito matte Dalla 
+makeup 
+R$ 14,17 
+32  R$ 453,44   R$ 5.441,28  
+68 Base líquida Ruby Rose R$ 24,70 32  R$ 790,40   R$ 9.484,80  
+69 Batom matte Ruby Rose R$ 5,25 32  R$ 168,00   R$ 2.016,00  
+70 Batom líquido efeito matte Dalla 
+makeup 
+R$ 12,35 
+32  R$ 395,20   R$ 4.742,40  
+71 Blush Dalla makeup R$ 7,10 32  R$ 227,20   R$ 2.726,40  
+72 Brilho labial Vivai R$ 3,51 32  R$ 112,32   R$ 1.347,84  
+73 Cílio postiço Sabrina Sato R$ 7,80 32  R$ 249,60   R$ 2.995,20  
+74 Corretivo alta cobertura Dalla 
+makeup 
+R$ 16,80 
+32  R$ 537,60   R$ 6.451,20  
+75 Delineador Ruby Rose R$ 19,50 24  R$ 468,00   R$ 5.616,00  
+76 Fixador Master beauty R$ 5,40 32  R$ 172,80   R$ 2.073,60  
+77 Iluminador Glow baby glow 
+Dalla makeup 
+R$ 10,90 
+32  R$ 348,80   R$ 4.185,60  
+78 Lápis sobrancelha Luirance R$ 5,20 32  R$ 166,40   R$ 1.996,80  
+79 Lápis de olho Lebruce R$ 2,40 32  R$ 76,80   R$ 921,60  
+80 Lip tint Fenzza R$ 8,55 32  R$ 273,60   R$ 3.283,20  
+81 Loção demaquilante  R$ 28,30 16  R$ 452,80   R$ 5.433,60  
+82 Paleta de sombra Ruby Rose R$ 19,40 24  R$ 465,60   R$ 5.587,20  
+83 Primer Dalla makeup R$ 22,70 24  R$ 544,80   R$ 6.537,60  
+84 Pó compacto Ruby rose R$ 13,00 32  R$ 416,00   R$ 4.992,00  
+85 Pó solto Ruby rose R$ 18,20 32  R$ 582,40   R$ 6.988,80  
+86 Pó translúcido HD vegano Dalla 
+makeup 
+R$ 10,90 
+32  R$ 348,80   R$ 4.185,60  
+87 Rímel Ruby rose R$ 21,60 24  R$ 518,40   R$ 6.220,80  
+88 Sombra para sobrancelha R$ 7,20 32  R$ 230,40   R$ 2.764,80  
+89 Antisséptico para pés R$ 9,80 24  R$ 235,20   R$ 2.822,40  
+90 Lixa de pés R$ 5,30 24  R$ 127,20   R$1.526,40  
+91 Hidratante para pés Bio instinto R$ 5,15 24  R$ 123,60   R$ 1.483,20  
+92 Creme facial Nivea R$ 30,90 16  R$ 494,40   R$ 5.932,80  
+93 Esfoliante Mia Make R$ 15,20 24  R$ 364,80   R$ 4.377,60  
+94 Gel esfoliante skin care Belle R$ 3,40 24  R$ 81,60   R$ 979,20  
+95 Gel para corpo e rosto aloe vera R$ 39,00 16  R$ 624,00   R$ 7.488,00  
+96 Hidratante corporal Belle R$ 13,45 12  R$ 161,40   R$ 1.936,80  
+97 Hidratante corporal Paixão R$ 7,35 12  R$ 88,20   R$ 1.058,40  
+98 Hidratante corporal Skala R$ 5,95 16  R$ 95,20   R$ 1.142,40  
+99 Hidratante corporal Yeva R$ 10,85 12  R$ 130,20   R$ 1.562,40  
+100 Máscara de esfoliação  R$ 6,80 16  R$ 108,80   R$ 1.305,60  
+101 Máscara facial Bonny hill R$ 11,70 16  R$ 187,20   R$ 2.246,40  
+--- PAGE 51 ---
+50 
+ 
+102 Máscara facial Pell off R$ 2,20 16  R$ 35,20   R$ 422,40  
+103 Sérum facial Fenzza  R$ 11,90 12  R$ 142,80   R$ 1.713,60  
+104 Tônico facial Beauty R$ 10,30 12  R$ 123,60   R$ 1.483,20  
+TOTAL  R$ 26.877,70   R$ 322.532,40 
+Fonte: Elaboração Própria (2020) 
+ 
+ 
+Quadro 26 - Projeção dos Custos de Comercialização para o cenário otimista 
+ 
+Descrição % Faturamento Estimado Custo Total  
+1. Impostos    
+SIMPLES 7,30 R$ 26.877,70 R$ 1.962,07 
+Subtotal 1   R$ 1.962,07 
+2. Gastos com vendas    
+Publicidade 3 R$ 26.877,70 R$ 806,33 
+Taxa de administração 
+do cartão de crédito 3,79 R$ 18.814,40 R$ 713,05 
+Subtotal 2   R$ 1.519,38 
+TOTAL   R$ 3.481,45 
+          Fonte: Elaboração Própria (2020) 
+ 
+Quadro 27 - Projeção da DRE para o cenário otimista 
+Descrição Valores Mensais em R$ Valor Anual em R$ 
+RECEITA TOTAL (=) R$ 26.877,70   R$ 322.532,40 
+CUSTOS VARIÁVEIS TOTAIS (-) R$ 3.481,45 R$ 41.777,40 
+RESULTADO OPERACIONAL (=) R$ 23.396,25 R$ 280.755,00 
+CUSTOS FIXOS TOTAIS (-) R$ 8.956,35 R$ 107.476,20 
+LUCRO LÍQUIDO (=) R$ 14.439,90 R$ 173.278,80 
+             Fonte: Elaboração Própria (2020) 
+ 
+ 
+8.2 Cenário Pessimista 
+ 
+No cenário pessimista foi realizada uma si mulação prevendo que as vendas ser ão 
+menores no inicio do negócio, esses dados são importantes para que sejam elaborados planos 
+de ação visando o aumento das vendas. Para essa projeção da  receita de vendas utilizou -se 
+40% da capacidade instalada, como pode ser visto no Quadro 2 8. A partir dos resultados 
+foram calculadas a projeção de custos de comercialização e a projeção da DRE , Quadros 29 e 
+30, respectivamente.  
+ 
+ 
+Quadro 28- Projeção da Receita para o cenário pessimista 
+Item Descrição Preço Quantidade 
+estimada de 
+venda 
+Faturamento/
+mês 
+Faturamento/ano 
+01 Algodão hidrófilo bola   R$ 3,45 20 R$ 69,00 R$ 828,00 
+02 Alicate cutícula Macrilan  R$ 13,90 8 R$ 111,20 R$ 1.334,40 
+03 Amolecedor de cutícula R$ 4,15 12 R$ 49,80 R$ 597,60 
+04 Cortador de unha pequeno Macrilan R$ 2,55 8 R$ 20,40 R$ 244,80 
+05 Escova de cabelo R$ 26,00 6 R$ 156,00 R$ 1.872,00 
+06 Escova de limpeza facial esfoliante R$ 12,20 12 R$ 146,40 R$ 1.756,80 
+--- PAGE 52 ---
+51 
+ 
+07 Elástico de cabelo R$ 0,20 40 R$ 8,00 R$ 96,00 
+08 Espelho de bolsa R$ 5,60 8 R$ 44,80 R$ 537,60 
+09 Espelho de mesa R$ 51,70 2 R$ 103,40 R$ 1.240,80 
+10 Esponja de esfoliação R$ 10,40 8 R$ 83,20 R$ 998,40 
+11 Esponja Master beauty R$ 4,30 8 R$ 34,40 R$ 412,80 
+12 Kit de p incéis Master beauty 7 
+peças 
+R$ 35,10 2 
+ 
+R$ 70,20 
+ 
+R$ 842,40 
+ 
+13 Lenços umedecidos  R$ 4,75 12 R$ 57,00 R$ 684,00 
+14 Nécessaire R$ 3,30 2 R$ 6,60 R$ 79,20 
+15 Pincel Master beauty R$ 6,50 6 R$ 39,00 R$ 468,00 
+16 Pente R$ 6,30 8 R$ 50,40 R$ 604,80 
+17 Tesoura para unha R$ 5,50 8 R$ 44,00 R$ 528,00 
+18 Água oxigenada 10 Vol.  R$ 1,70 12 R$ 20,40 R$ 244,80 
+19 Água oxigenada 20 Vol. R$ 1,70 12 R$ 20,40 R$ 244,80 
+20 Água oxigenada 40 Vol. R$ 1,70 12 R$ 20,40 R$ 244,80 
+21 Alisante Hair life R$ 11,00 12 R$ 132,00 R$ 1.584,00 
+22 Ampolas Power sock R$ 3,30 12 R$ 39,60 R$ 475,20 
+23 Ativador de cachos Salon Line R$ 15,50 12 R$ 186,00 R$ 2.232,00 
+24 Botox Capilar Forever liss R$ 32,50 12 R$ 390,00 R$ 4.680,00 
+25 Condicionador home care Forever 
+liss 
+R$ 28,60 12 
+ 
+R$ 343,20 
+ 
+R$ 4.118,40 
+ 
+26 Creme de cabelo Skala R$ 7,10 12 R$ 85,20 R$ 1.022,40 
+27 Creme de pentear Boom R$ 12,50 12 R$ 150,00 R$ 1.800,00 
+28 Defrizante Salon line R$ 11,35 12 R$ 136,20 R$ 1.634,40 
+29 Descolorante pó Ligtner  R$ 5,60 12 R$ 67,20 R$ 806,40 
+30 Fixador care liss R$ 13,10 12 R$ 157,20 R$ 1.886,40 
+31 Gel redutor de volume Salon line R$ 16,40 12 R$ 196,80 R$ 2.361,60 
+32 Kit semi definitivo Forever liss R$ 
+130,00 
+4 
+ 
+R$ 520,00 
+ 
+R$ 6.240,00 
+ 
+33 Kit shampoo + condicionador 
+Bothânico 
+R$ 11,20 8 
+ 
+R$ 89,60 
+ 
+R$ 1.075,20 
+ 
+34 Leave-in Forever liss R$ 29,90 8 R$ 239,20 R$ 2.870,40 
+35 Mascará de hidratação intensa  R$ 20,20 8 R$ 161,60 R$ 1.939,20 
+36 Máscara Forever liss R$ 19,50 12 R$ 234,00 R$ 2.808,00 
+37 Progressiva Forever liss R$ 
+103,90 
+4 
+ 
+R$ 415,60 
+ 
+R$ 4.987,20 
+ 
+38 Óleo de cabelo Salon line R$ 17,65 8 R$ 141,20 R$ 1.694,40 
+39 Reparador de pontas Fina flor R$ 6,00 12 R$ 72,00 R$ 864,00 
+40 Selagem Argan oil R$ 39,00 8 R$ 312,00 R$ 3.744,00 
+41 Shampoo anticaspa Clear R$ 17,55 12 R$ 210,60 R$ 2.527,20 
+42 Shampoo Home care Forever liss R$ 27,88 12 R$ 334,56 R$ 4.014,72 
+43 Tintura Cor e ton R$ 11,85 8 R$ 94,80 R$ 1.137,60 
+44 Tintura Duty color R$ 10,95 8 R$ 87,60 R$ 1.051,20 
+45 Tintura Forever liss R$ 16,90 8 R$ 135,20 R$ 1.622,40 
+46 Tintura tonalizante Salon line  R$ 16,90 8 R$ 135,20 R$ 1.622,40 
+47  Aparelho depilatório R$ 22,20 4 R$ 88,80 R$ 1.065,60 
+48 Cera depilatória Depi roll  R$ 6,40 12 R$ 76,80 R$ 921,60 
+49 Creme depilatório Depi roll R$ 20,15 8 R$ 161,20 R$ 1.934,40 
+50 Loção depilatória R$ 23,95 8 R$ 191,60 R$ 2.299,20 
+51 Mini chapinha portátil  R$ 23,30 2 R$ 46,60 R$ 559,20 
+52 Secador de cabelo Taiff 1900W R$ 363,00 2 R$ 726,00 R$ 8.712,00 
+53 Acetona R$ 3,40 20 R$ 68,00 R$ 816,00 
+54 Adesivo para unha R$ 0,65 20 R$ 13,00 R$ 156,00 
+55 Creme para mãos anti-idade  Nivea R$ 21,32 8 R$ 170,56 R$ 2.046,72 
+56 Esmalte Ludurana  R$ 2,60 12 R$ 31,20 R$ 374,40 
+57 Esmalte Risqué R$ 4,35 12 R$ 52,20 R$ 626,40 
+58 Espátula Macrilan  R$ 5,25  8 R$ 42,00 R$ 504,00 
+59 Hidratante para cutícula Belle R$ 7,35 12 R$ 88,20 R$ 1.058,40 
+--- PAGE 53 ---
+52 
+ 
+60 Lenço removedor de esmalte R$ 3,60 12 R$ 43,20 R$ 518,40 
+61 Lixa R$ 0,25 40 R$ 10,00 R$ 120,00 
+62 Palito para cutícula  R$ 0,10 40 R$ 4,00 R$ 48,00 
+63 Óleo de banana R$ 2,55 12 R$ 30,60 R$ 367,20 
+64 Removedor de esmalte sem acetona R$ 3,70 12 R$ 44,40 R$ 532,80 
+65 Spray secante Fenzza R$ 15,80 6 R$ 94,80 R$ 1.137,60 
+66 Água miscelar  Ruby Rose R$ 3,85 16 R$ 61,60 R$ 739,20 
+67 Base vegana efeito matte Dalla 
+makeup 
+R$ 14,17 16 
+ 
+R$ 226,72 
+ 
+R$ 2.720,64 
+ 
+68 Base líquida Ruby Rose R$ 24,70 16 R$ 395,20 R$ 4.742,40 
+69 Batom matte Ruby Rose R$ 5,25 16 R$ 84,00 R$ 1.008,00 
+70 Batom líquido efeito matte Dalla 
+makeup 
+R$ 12,35 16 
+ 
+R$ 197,60 
+ 
+R$ 2.371,20 
+ 
+71 Blush Dalla makeup R$ 7,10 16 R$ 113,60 R$ 1.363,20 
+72 Brilho labial Vivai R$ 3,51 16 R$ 56,16 R$ 673,92 
+73 Cílio postiço Sabrina Sato R$ 7,80 16 R$ 124,80 R$ 1.497,60 
+74 Corretivo alta cobertura Dalla 
+makeup 
+R$ 16,80 16 
+ 
+R$ 268,80 
+ 
+R$ 3.225,60 
+ 
+75 Delineador Ruby Rose R$ 19,50 12 R$ 234,00 R$ 2.808,00 
+76 Fixador Master beauty R$ 5,40 16 R$ 86,40 R$ 1.036,80 
+77 Iluminador Glow baby glow Dalla 
+makeup 
+R$ 10,90 16 
+ 
+R$ 174,40 
+ 
+R$ 2.092,80 
+ 
+78 Lápis sobrancelha Luirance R$ 5,20 16 R$ 83,20 R$ 998,40 
+79 Lápis de olho Lebruce R$ 2,40 16 R$ 38,40 R$ 460,80 
+80 Lip tint Fenzza R$ 8,55 16 R$ 136,80 R$ 1.641,60 
+81 Loção demaquilante  R$ 28,30 8 R$ 226,40 R$ 2.716,80 
+82 Paleta de sombra Ruby Rose R$ 19,40 12 R$ 232,80 R$ 2.793,60 
+83 Primer Dalla makeup R$ 22,70 12 R$ 272,40 R$ 3.268,80 
+84 Pó compacto Ruby rose R$ 13,00 16 R$ 208,00 R$ 2.496,00 
+85 Pó solto Ruby rose R$ 18,20 16 R$ 291,20 R$ 3.494,40 
+86 Pó translúcido HD vegano Dalla 
+makeup 
+R$ 10,90 16 
+ 
+R$ 174,40 
+ 
+R$ 2.092,80 
+ 
+87 Rímel Ruby rose R$ 21,60 12 R$ 259,20 R$ 3.110,40 
+88 Sombra para sobrancelha R$ 7,20 16 R$ 115,20 R$ 1.382,40 
+89 Antisséptico para pés R$ 9,80 12 R$ 117,60 R$ 1.411,20 
+90 Lixa de pés R$ 5,30 12 R$ 63,60 R$ 763,20 
+91 Hidratante para pés Bio instinto R$ 5,15 12 R$ 61,80 R$ 741,60 
+92 Creme facial Nivea R$ 30,90 8 R$ 247,20 R$ 2.966,40 
+93 Esfoliante Mia Make R$ 15,20 12 R$ 182,40 R$ 2.188,80 
+94 Gel esfoliante skin care Belle R$ 3,40 12 R$ 40,80 R$ 489,60 
+95 Gel para corpo e rosto aloe vera R$ 39,00 8 R$ 312,00 R$ 3.744,00 
+96 Hidratante corporal Belle R$ 13,45 6 R$ 80,70 R$ 968,40 
+97 Hidratante corporal Paixão R$ 7,35 6 R$ 44,10 R$ 529,20 
+98 Hidratante corporal Skala R$ 5,95 8 R$ 47,60 R$ 571,20 
+99 Hidratante corporal Yeva R$ 10,85 6 R$ 65,10 R$ 781,20 
+100 Máscara de esfoliação  R$ 6,80 8 R$ 54,40 R$ 652,80 
+101 Máscara facial Bonny hill R$ 11,70 8 R$ 93,60 R$ 1.123,20 
+102 Máscara facial Pell off R$ 2,20 8 R$ 17,60 R$ 211,20 
+103 Sérum facial Fenzza  R$ 11,90 6 R$ 71,40 R$ 856,80 
+104 Tônico facial Beauty R$ 10,30 6 R$ 61,80 R$ 741,60 
+TOTAL   R$ 13.827,70 R$ 165.932,40 
+Fonte: Elaboração Própria (2020) 
+ 
+ 
+ 
+--- PAGE 54 ---
+53 
+ 
+Quadro 29 - Projeção dos Custos de Comercialização para o cenário pessimista 
+Descrição % Faturamento Estimado Custo Total  
+1. Impostos    
+SIMPLES 4 R$ 13.827,70 R$ 553,10 
+Subtotal 1   R$ 553,10 
+2. Gastos com vendas    
+Publicidade 3 R$ 13.827,70 R$ 414,83 
+Taxa de administração 
+do cartão de crédito 3,79 R$ 8.296,62 R$ 314,44 
+Subtotal 2   R$ 729,27 
+TOTAL   R$ 1.282,37 
+                Fonte: Elaboração Própria (2020) 
+ 
+Quadro 30 - Projeção da DRE para o cenário pessimista 
+Descrição Valores Mensais em R$ Valor Anual em R$ 
+RECEITA TOTAL (=)  R$ 13.827,70 R$ 165.932,40 
+CUSTOS VARIÁVEIS TOTAIS (-) R$ 1.282,37 R$ 15.388,44 
+RESULTADO OPERACIONAL (=) R$ 12.545,33 R$ 150.543,96 
+CUSTOS FIXOS TOTAIS (-) R$ 8.956,35 R$ 107.476,20 
+LUCRO LÍQUIDO (=) R$ 3.588,98 R$ 43.067,76 
+           Fonte: Elaboração Própria (2020) 
+ 
+A partir do resultado dessa simulação conclui -se que a empresa apresentaria lucro 
+líquido mesmo que funcione com 4 0% de sua capacidade instalada, mostrando que o negócio  
+é viável. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 55 ---
+54 
+ 
+9 DECISÃO GERENCIAL 
+ 
+O mercado de higiene pessoal, perfumaria e cosméticos  apresentou um bom 
+desempenho nos últimos anos, e apesar do modesto crescimento no primeiro semestre de 
+2020, devido à pandemia do COVID -19, e spera-se que haja uma melhora a partir  segundo 
+semestre. Tendo em vista esse panorama e as projeções dos cenários , que mesmo no cenário 
+pessimista apresenta lucro, conclui-se que a implementação do negócio é viável.  
+O índice de rentabilidade mostra que a proprietá ria vai recuperar 168,30% de seu 
+capital investido a cada ano, o que torna o negócio bastante atrativo. Além disso, o valor total 
+investido na empresa será recuperado em menos de 1 ano.  
+As informações p resentes nesse plano  auxiliam na analise das variávei s e dos riscos  
+que podem comprometer a viabilidade do empreendimento , a partir dos resultados obtidos  
+com a DRE e os indicadores de viabilidade  percebe-se que a probabilidade do negócio t er 
+sucesso é maior do que ter fracasso, o que leva a decisão de abertura do empreendimento. 
+Logo, espera-se que após a sua inauguração a empresa possa permanecer e se 
+desenvolver no mercado de João Pessoa. Para isso, pretende -se investir em cursos de 
+capacitação para os funcionários, fazer um gerenciamento estratégico das compras, estreitar as 
+relações com os clientes por meio da criação de redes sociais, entre outros.      
+Dessa maneira, almeja-se que a loja seja inaugurada até o início de 202 2, visto que 
+será necessário concluir a obra da construção da empresa e dar entrad a na documentação para 
+a sua legalização.  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 56 ---
+55 
+ 
+REFERÊNCIA 
+  
+ABIHPEC, SEBRAE. Caderno de Tendências 2019 -2020.  Higiene Pessoal, Perfumaria e 
+Cosméticos. São Paulo , p. 13 -41, 2019 . Disponível em: 
+https://m.sebrae.com.br/Sebrae/Portal%20Sebrae/Anexos/CADERNO%20DE%20TENDENC
+IAS%202019-2020%20Sebrae%20Abihpec%20vs%20final.pdf. Acesso em 21 jul. 2020. 
+ 
+ABIHPEC. Durante a pandemia, indústria de HPPC registra alta de apenas 0,6% no 
+faturamento, entre janeiro e maio de 2020. Disponível em:  
+https://abihpec.org.br/comunicado/durante-a-pandemia-industria-de-hppc-registra-alta-de-
+apenas-06-no-faturamento-entre-janeiro-e-maio-de-2020/. Acesso em 20 jul. 2020. 
+ 
+______. Panorama do Setor de Higiene Pessoal, Perfumaria e Cosméticos 2019. Disponível 
+em: https://pub.flowpaper.com/docs/https://abihpec.org.br/site2019/wp-
+content/uploads/2019/05/2019-PANORAMA-S-M__.pdf. Acesso em: 20 jul 2020. 
+ 
+ABRE. Setor de HPPC cresce 3,9% e atinge R$ 116,8 bilhões em 2019. Disponível em: 
+https://www.abre.org.br/inovacao/setor-de-hppc-cresce-39-e-atinge-r-1168-bilhoes-em-2019/. 
+Acesso em: 20 jul 2020. 
+ 
+CONCLA Comissão Nacional de Classificação. CNAE Classificação Nacional de Atividades 
+Econômicas. Disponível  em:  https://concla.ibge.gov.br/busca-online-
+cnae.html?view=subclasse&tipo=cnae&versao=10.1.0&subclasse=4772500&chave=4772-
+5/00. Acesso em: 06 jul. 2020.  
+ 
+PHILIPPI, A. C. ; ZAMBON, M. C. F. A. Potencialidades do marketing sensorial: estudo de 
+caso em empresa multimarcas catarinense do ram o de cosméticos. e-Revista LOGO, v. 5, n. 
+2, p. 146 -163, 2016. Disponível em:  
+http://stat.cbsm.incubadora.ufsc.br/index.php/eRevistaLOGO/article/view/4273/4825. Acesso 
+em 20 jul. 2020. 
+ 
+SEBRAE. Como elaborar um plano de negócios. Brasília: Sebrae, 2013. 164 f. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 57 ---
+56 
+ 
+APÊNDICE 
+ 
+Pesquisa sobre hábito de consumo de cosméticos 
+Prezado(a) respondente, 
+ 
+Este questionário de pesquisa tem como finalidade a obtenç ão de dados para verificar 
+a viabilidade da abertura de uma loja de cosméticos no município de João Pessoa -PB, e faz 
+parte de um Trabalho de Conclusão de Curso apresentado como parte dos requisitos 
+necessários à obtenção do grau de Bacharela em Administraç ão pela Universidade Federal da 
+Paraíba. Os dados recolhidos serão tratados respeitando o anonimato. A sua participação é 
+indispensável para a consolidação dessa pesquisa, desde já agradeço a colaboração prestada. 
+1. Qual seu gênero? 
+( ) Feminino ( ) Masculino ( ) Prefiro não dizer 
+ 
+2. Qual sua idade? 
+(    ) Menor de 18 anos    
+(    ) Entre 18 e 21 anos   
+(    ) Entre 22 e 29 anos   
+(    ) Entre 30 e 39 anos   
+(    ) 40 anos ou mais 
+ 
+3. Incluindo você, qual a sua renda familiar? 
+ 
+(    ) Até 1 salário mínimo 
+(    ) Acima de 1 até 2 salários mínimos 
+(    ) Acima de 3 até 4 salários mínimos 
+(    ) Acima de 4 até 5 salários mínimos 
+(    ) Acima de 5 salários mínimos 
+ 
+4. Você reside ou faz compras em João Pessoa-PB? 
+( ) Sim ( ) Não 
+ 
+5. Atualmente, em qual bairro você reside?   
+ 
+6. Quando foi a última vez que você frequentou uma loja de cosméticos?  
+(  ) Há alguns dias (  ) Semana passada  (  ) Há 15 dias ( ) Mês passado Outro:  
+ 
+7. Dentre os produtos abaixo, qual ou quais você costuma consumir? 
+( ) Maquiagem   
+( ) Produtos para mão e unha  
+(  )  Equipamentos (Exemplo: chapinha)  
+(  ) Produtos para cabelo 
+( ) Produtos para depilação 
+( ) Produtos para pés e pernas 
+( ) Produtos para rosto e corpo 
+ 
+--- PAGE 58 ---
+57 
+ 
+8. Com que frequência você costuma comprar os produtos listados acima?  
+( ) Mais de 3 vezes por semana  
+( ) De 3 a 2 vezes por semana  
+( ) 1 vez por semana  
+( ) De 1 a 2 vezes por mês  
+( ) Raramente 
+ 
+9. Você costuma comprar quantos itens de cosméticos? 
+( ) de 1 a 2 itens ( ) de 3 a 5 itens ( ) mais de 5 itens 
+ 
+10. O que você leva em consideração na compra de um cosmético?  
+( ) Preço  
+( ) Qualidade  
+( ) Novidade  
+( ) Utilidade  
+( ) Outros:  
+ 
+11. Em média, qual o valor gasto por você em uma visita à loja de cosmético? 
+(     ) Entre R$10 e R$ 50 (    ) Entre R$ 51 e R$ 100 (   ) Entre R$101 e R$150 
+(    ) R$151,00 ou mais  
+ 
+12. Por quais meios você costuma procurar informações sobre loja de cosméticos?  
+(    ) Facebook  (    ) Instagram  (    ) Google (avaliações, localização etc.) 
+(    ) Site da empresa  (    ) Indicações de amigos/familiares 
+Outro(s):  
+ 
+13. Levando em consideração seus hábitos de compra, avalie as afirmações abaixo 
+indicando seu grau de concordância ou discordância com cada afirmação, sendo 1 – 
+discordo totalmente e 5 – concordo totalmente. 
+ 
+Afirmação  Grau de concordância 
+Faço pesquisa de preço antes da compra e escolho o 
+produto mais barato. 
+1 2 3 4 5 
+Quando tenho dúvida entre dois produtos compro o 
+mais barato. 
+1 2 3 4 5 
+Quando tenho dúvida entre dois produtos compro o 
+que possui qualidade superior. 
+1 2 3 4 5 
+Com relação a escolha da loja, dou preferência a que 
+tiver menor preço.  
+1 2 3 4 5 
+Com relação a escolha da loja, dou preferência a que 
+tiver maior variedade de produtos. 
+1 2 3 4 5 
+Com relação a escolha da loja, dou preferência a que 
+tiver o melhor atendimento. 
+1 2 3 4 5 
+Com relação a escolha da loja, dou preferência a que 
+tiver o melhor organização e exposição de produtos.  
+1 2 3 4 5 
+Com relação a escolha da loja, dou preferência a que 
+tiver facilidade de pagamento. 
+1 2 3 4 5 
+ 
+ 
+14. Sua última compra em loja de cosmético foi em qual loja? 

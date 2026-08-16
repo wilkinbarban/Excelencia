@@ -1,0 +1,921 @@
+    FACULDADE DE CIÊNCIAS E EMPREENDEDORISMO - FACEMP
+
+
+
+
+             BACHARELADO EM ADMINISTRAÇÃO
+
+
+
+
+                 WILKIN BARBAN ROSABAL
+
+
+
+
+              CASA DE ASSADOS SOFIA
+
+PLANO DE NEGÓCIO PARA IMPLANTAÇÃO DE UMA MICROEMPRESA
+      DE ASSADOS COM CRM EM UMBARÁ, CURITIBA - PR
+
+
+
+
+                        CURITIBA - PR
+                             2026
+
+
+
+
+                   Casa de Assados Sofia | 1
+                   WILKIN BARBAN ROSABAL
+
+
+
+
+CASA DE ASSADOS SOFIA: PLANO DE NEGÓCIO PARA UMA OPERAÇÃO DE
+               FIM DE SEMANA APOIADA POR CRM
+
+
+
+
+                                Trabalho de Conclusão de Curso
+                                apresentado       ao    Bacharelado    em
+                                Administração da Faculdade de Ciências
+                                e Empreendedorismo - FACEMP, como
+                                requisito parcial para obtenção do grau de
+                                Bacharel          em        Administração.
+
+                                Orientador(a):
+                                ______________________________
+
+
+
+
+                         CURITIBA - PR
+                              2026
+
+
+
+
+                    Casa de Assados Sofia | 2
+RESUMO
+
+      Este trabalho apresenta o plano de negócio da Casa de Assados Sofia,
+microempresa projetada para operar aos sábados, domingos e feriados em Umbará,
+Curitiba. O modelo combina retirada no local e entrega em raio controlado, cardápio
+enxuto de quatro combos familiares e um sistema próprio de gestão do
+relacionamento com clientes (CRM). A pesquisa é aplicada, exploratória e
+documental, apoiada em manuais de plano de negócio, normas acadêmicas, dados
+públicos e simulação econômico-financeira. No cenário-base de 160 combos
+mensais, a receita estimada é de R$ 15.809,00, o lucro operacional de R$ 2.015,46,
+o ponto de equilíbrio de R$ 12.148,95 e o prazo de retorno de 9,92 meses. Conclui-
+se que o empreendimento é viável sob controle rigoroso de custos, validação prévia
+da demanda, regularização sanitária e uso responsável do CRM, com consentimento
+e proteção de dados.
+
+      Palavras-chave: plano de negócio; alimentação; delivery; CRM; Curitiba.
+
+
+
+
+                            Casa de Assados Sofia | 3
+                                                         SUMÁRIO
+
+INTRODUÇÃO......................................................................................................5
+
+1 SUMÁRIO EXECUTIVO....................................................................................7
+
+2 ANÁLISE DE MERCADO..................................................................................9
+
+3 PLANO DE MARKETING................................................................................11
+
+4 PLANO OPERACIONAL..................................................................................13
+
+5 PLANO FINANCEIRO......................................................................................16
+
+6 ANÁLISE DE VIABILIDADE............................................................................ 20
+
+7 ANEXOS E INSTRUMENTOS DE IMPLANTAÇÃO.......................................23
+
+CONCLUSÃO.....................................................................................................25
+
+REFERÊNCIAS..................................................................................................26
+                        Paginação provisória do rascunho; atualizar após a revisão institucional final.
+
+
+
+
+                                         Casa de Assados Sofia | 4
+INTRODUÇÃO
+
+      O projeto nasce da oportunidade de atender famílias da região sul de Curitiba
+que buscam almoço de fim de semana pronto, com sabor caseiro, previsibilidade de
+horário e pedido simples pelo celular. A proposta não tenta competir por variedade
+infinita: concentra capacidade em poucos produtos de giro elevado e usa dados de
+relacionamento para planejar produção, reduzir desperdícios e estimular recompra.
+
+      Problema de pesquisa: em que condições mercadológicas, operacionais,
+financeiras e tecnológicas a Casa de Assados Sofia pode iniciar suas atividades de
+modo sustentável em Umbará? O objetivo geral é elaborar um plano de negócio
+completo. Os objetivos específicos são analisar o mercado local; definir marketing,
+operação e CRM; projetar investimento, receitas e custos; calcular indicadores de
+viabilidade; e organizar riscos e ações de implantação.
+
+METODOLOGIA E LIMITAÇÕES
+
+      Adota-se abordagem aplicada e exploratória, com pesquisa documental em
+materiais acadêmicos, manuais de plano de negócio e fontes institucionais. Os
+valores de preços, custos e demanda são premissas de planejamento em reais de
+2026 e devem ser confirmados por três cotações e por um piloto comercial de quatro
+fins de semana. Não houve pesquisa de campo auditada. Questionários, personas e
+imagens dos anexos são instrumentos simulados/ilustrativos; não constituem prova
+de entrevistas, clientes, instalações ou vendas reais.
+
+FUNDAMENTAÇÃO TEÓRICA
+
+      O plano de negócio transforma hipóteses em decisões verificáveis sobre
+clientes, proposta de valor, recursos, operação e retorno. Na perspectiva de
+Schumpeter, o empreendedor combina recursos de forma inovadora; em Dornelas e
+Dolabela, planejamento e aprendizagem reduzem incerteza sem eliminar o risco. O
+CRM, entendido como estratégia e processo apoiado por tecnologia, integra
+aquisição, atendimento, histórico de compra, segmentação e fidelização. Para um
+pequeno negócio, sua utilidade não está em acumular dados, mas em gerar
+decisões: quanto produzir, a quem comunicar, quando recuperar um cliente e quais
+ofertas aumentam valor sem destruir margem.
+
+
+                              Casa de Assados Sofia | 5
+Casa de Assados Sofia | 6
+1 SUMÁRIO EXECUTIVO
+
+          A Casa de Assados Sofia será instalada na Rua Deputado Pinheiro Júnior,
+1380, Umbará, Curitiba - PR, com funcionamento concentrado em fins de semana e
+feriados. O negócio oferecerá frango assado, costela bovina, costelinha suína,
+linguiça e acompanhamentos em quatro combos. Os pedidos serão recebidos por
+canal digital e confirmados pelo CRM, com janelas de retirada e entrega que
+protegem a qualidade e a capacidade da cozinha.
+
+              Item                                          Definição
+
+Razão/forma           SLU enquadrada como microempresa no Simples Nacional; validação com contador.
+
+Proprietário          Wilkin Barban Rosabal
+
+                      Entregar refeições de fim de semana saborosas, seguras e pontuais, criando vínculo com
+Missão
+                      as famílias do bairro.
+
+Visão                 Ser referência de assados por encomenda na região do Bairro Novo até 2029.
+
+Diferencial           Operação enxuta + produção orientada por reservas + CRM de recompra.
+
+
+
+          A opção por SLU/ME corrige um risco do rascunho inicial: a receita anual
+projetada e a necessidade de mais de uma pessoa na operação tornam o MEI
+inadequado como premissa central. O enquadramento definitivo depende da
+atividade econômica, do faturamento efetivo e da orientação contábil.
+
+1.1 Perfil do empreendedor e objetivos estratégicos
+
+          Wilkin Barban Rosabal exercerá a administração geral, com responsabilidade
+por compras, caixa, fornecedores, indicadores e governança do CRM. A
+concentração inicial é coerente com uma microempresa, mas exige rotinas
+documentadas e delegação gradual para evitar que toda decisão dependa de uma
+única pessoa. Nos primeiros doze meses, os objetivos são validar a demanda
+recorrente, atingir pontualidade mínima de 90%, limitar desperdício a 5% da
+produção e formar uma base consentida de clientes ativos.
+
+
+
+
+                                  Casa de Assados Sofia | 7
+1.2 Metas por horizonte
+
+   Horizonte                Meta operacional                                 Evidência no CRM
+
+0-3 meses      Piloto e estabilização em 160 combos/mês         Pedidos, capacidade, atrasos e perdas
+
+               Elevar recompra     e   chegar   a     220-248
+4-12 meses                                                      Coortes, frequência, ticket e margem
+               combos/mês
+
+13-24 meses    Avaliar compra de mais duas máquinas             Fila perdida, ocupação e retorno incremental
+
+
+
+
+                                 Casa de Assados Sofia | 8
+2 ANÁLISE DE MERCADO
+
+         Curitiba possuía população estimada de 1.829.225 habitantes em 2024 e PIB
+per capita de R$ 67.691,30 em 2023, segundo o IBGE. Umbará integra a
+Administração Regional Bairro Novo, junto de Ganchinho e Sítio Cercado. Para a
+empresa, o mercado relevante não é toda a cidade, mas famílias em raio
+operacional aproximado de 5 km, com maior demanda entre 11h e 14h nos fins de
+semana.
+
+2.1 Delimitação e dimensionamento do mercado
+
+         O dimensionamento utiliza três níveis. O mercado total é a população de
+Curitiba; o mercado atendível corresponde aos domicílios do entorno que aceitam
+retirada ou entrega curta; o mercado-alvo inicial é limitado pela capacidade de
+produção, não pelo tamanho da cidade. Com 160 combos por mês, o negócio
+precisa de 40 pedidos por fim de semana ou aproximadamente 20 por dia regular.
+Essa meta é operacionalmente observável e deve ser testada, enquanto qualquer
+estimativa de participação municipal seria artificialmente ampla.
+
+2.2 Público-alvo e necessidade
+
+        Famílias de 3 a 6 pessoas que desejam reduzir tempo de preparo e limpeza.
+        Moradores que valorizam comida conhecida, porção previsível e compra por
+    WhatsApp.
+        Clientes de retirada no bairro e delivery curto, evitando perda de temperatura.
+
+2.3 Concorrência e posicionamento
+
+        Tipo                  Força concorrente                          Resposta Sofia
+
+Assadores locais    Tradição e proximidade             Reserva, pontualidade e combos completos
+
+Supermercados       Preço e fluxo de clientes          Especialização, frescor e relacionamento
+
+Apps/marketplaces   Variedade e conveniência           Canal direto, menor dependência de comissão
+
+
+
+
+2.4 Fornecedores e critérios de homologação
+
+         A proximidade da CEASA Curitiba favorece compras de hortifrutigranjeiros às
+sextas-feiras, mas preço não deve ser o único critério. Carnes e bebidas serão
+
+                                      Casa de Assados Sofia | 9
+cotadas com distribuidores da região sul de Curitiba e de São José dos Pinhais.
+Cada fornecedor receberá nota para regularidade fiscal e sanitária, temperatura de
+entrega, prazo, padrão do corte, preço, substituição de lote e capacidade de atender
+picos. Pelo menos dois fornecedores devem permanecer homologados para cada
+insumo crítico.
+
+       Grupo                Fonte primária                Plano B                   Controle
+
+Hortifruti           CEASA Curitiba             Atacadista local        Preço, lote, qualidade e perda
+
+Carnes               Distribuidor homologado    Segundo frigorífico     Temperatura, corte, validade
+
+Bebidas/
+                     Atacarejo/Linha Verde      Distribuidor regional   Prazo, volume e ruptura
+embalagens
+
+
+
+
+2.5 Validação proposta
+
+             Antes da abertura definitiva, recomenda-se um teste de quatro fins de semana
+com limite de 25, 35, 45 e 55 combos. O CRM registrará origem do pedido, combo,
+horário, bairro, canal, atraso, avaliação e intenção de recompra. A decisão de
+avançar exige venda mínima de 75% da capacidade, desperdício inferior a 5%,
+pontualidade acima de 90% e margem de contribuição compatível com o plano.
+
+
+
+
+                                      Casa de Assados Sofia | 10
+3 PLANO DE MARKETING
+
+            O posicionamento proposto é 'o almoço de domingo resolvido': comida
+familiar, reserva fácil e entrega pontual. A identidade deve comunicar calor,
+confiança e simplicidade; preço baixo isoladamente não será a promessa, pois
+compromete qualidade e margem.
+
+3.1 Composto de marketing
+
+        P                                                      Aplicação
+
+Produto          Quatro combos, porções padronizadas, embalagem segura e adicionais controlados.
+
+Preço            Custo por ficha técnica, margem de contribuição e comparação local; revisão mensal.
+
+Praça            Retirada no Umbará e delivery em raio inicial de 5 km por janelas.
+
+Promoção         Conteúdo local, pré-venda, indicação, pós-venda e reativação consentida.
+
+
+
+            Combo                            Conteúdo resumido                        Preço                 CMV
+
+O Clássico da Sofia             Conforme ficha técnica do Apêndice A              R$ 69,90             R$ 26,50
+
+Costela Suprema                 Conforme ficha técnica do Apêndice A              R$ 119,90            R$ 48,00
+
+Dueto Sofia                     Conforme ficha técnica do Apêndice A              R$ 94,90             R$ 36,00
+
+Kit Churrasco Família           Conforme ficha técnica do Apêndice A              R$ 169,90            R$ 68,00
+
+
+
+
+3.2 Canais, promoção e CRM
+
+           Google Business Profile e Instagram para descoberta; WhatsApp para
+     conversão e atendimento.
+           Pré-venda na sexta-feira, lembrete no sábado e recuperação apenas de
+     clientes com consentimento.
+           Cupom de segunda compra com validade curta; programa simples de
+     indicação, medido por código.
+           Indicadores: taxa de conversão, ticket médio, recompra em 30 dias, custo de
+     aquisição, opt-out e satisfação.
+
+            O CRM Sofia organiza contatos, histórico, preferências, restrições alimentares
+informadas,           consentimento,         pedidos,        pagamentos,          horários     e       ocorrências.
+Segmentos iniciais: novos clientes, recorrentes, inativos há 45 dias e compradores
+
+
+                                        Casa de Assados Sofia | 11
+de alto ticket. Mensagens devem ter finalidade clara e opção de saída. Dados
+desnecessários não serão coletados.
+
+3.3 Jornada do cliente e indicadores
+
+     Etapa                     Experiência desejada                              Indicador CRM
+
+Descoberta      Ver cardápio e prova social local                   Origem e custo por contato
+
+                Escolher, pagar e reservar horário em poucos
+Pedido                                                              Conversão e abandono
+                passos
+
+Recebimento     Pedido completo, quente e pontual                   Atraso, erro e ocorrência
+
+Pós-venda       Avaliação curta e resolução rápida                  Satisfação e tempo de solução
+
+Recompra        Oferta relevante, sem excesso de mensagens          Recompra 30/60 dias e opt-out
+
+
+
+
+                           Figura 1 - Mix de vendas do cenário-base.
+
+                Fonte/Fuente: Elaboração própria a partir das premissas do plano (2026).
+
+
+
+
+                                  Casa de Assados Sofia | 12
+4 PLANO OPERACIONAL
+
+           A operação será dimensionada para oito dias regulares por mês, com feriados
+tratados como capacidade adicional. Sexta-feira concentra compras, recebimento,
+pré-preparo autorizado e confirmação de reservas; sábado e domingo concentram
+cocção, montagem, expedição e higienização.
+
+4.1 Arranjo físico e fluxo sanitário
+
+           O arranjo físico deve impedir cruzamentos entre recebimento de matéria-
+prima, manipulação de alimentos crus, cocção, montagem de itens prontos e saída
+de pedidos. A sequência recomendada é: recebimento e inspeção; armazenamento
+seco/refrigerado; pré-preparo; cocção; bancada limpa de montagem; conferência;
+expedição. A lavagem de utensílios e o descarte seguem rota separada. O
+computador do CRM fica protegido de calor, gordura e respingos, sem substituir
+registros sanitários obrigatórios.
+
+4.2 Capacidade instalada e gargalos
+
+           Para fins de planejamento, cada máquina giratória é considerada capaz de
+processar aproximadamente 10 frangos por ciclo. Com duas máquinas e dois ciclos
+úteis, a capacidade teórica é de 40 frangos por dia, antes de ajustes por peso,
+tempo e especificação do fabricante. A churrasqueira atende costelas, linguiças e
+pão de alho. Entretanto, o gargalo provável não é apenas a cocção: montagem,
+conferência e concentração de retiradas entre 11h30 e 13h podem limitar o serviço.
+Por isso, o CRM distribui pedidos em janelas de 15 minutos e bloqueia horários
+quando a capacidade é atingida.
+
+     Etapa                            Horário/regras                          Controle no CRM
+
+Planejamento       Quinta: previsão por reservas e histórico       Demanda por combo e janela
+
+Compras            Sexta: CEASA/atacadistas e carnes homologadas   Lote, fornecedor, custo e validade
+
+Produção           Sáb/dom: sequência por tempo de cocção          Status e hora prometida
+
+Expedição          Conferência dupla; retirada ou rota curta       Comanda, pagamento e prova de entrega
+
+Pós-venda          Pesquisa curta após entrega                     NPS/nota, ocorrência e recuperação
+
+
+
+
+                                     Casa de Assados Sofia | 13
+4.3 Pessoas e conformidade
+
+             A equipe operacional prevista é composta pelo proprietário/gerente, um
+churrasqueiro, dois auxiliares e um entregador nos dias de funcionamento. A
+contratação por diária não elimina risco trabalhista quando existem pessoalidade,
+habitualidade, subordinação e onerosidade. Portanto, contador e advogado devem
+definir contratos e jornada adequados; o plano não usa a informalidade como fonte
+artificial de viabilidade.
+
+             A abertura depende de consulta prévia de viabilidade do endereço, CNPJ,
+inscrições        aplicáveis,    alvará/licenciamento          municipal,   exigências          sanitárias,
+prevenção contra incêndio e procedimentos de boas práticas. Temperatura, higiene,
+separação de alimentos crus e prontos, água potável, rastreabilidade e descarte
+devem ser documentados.
+
+4.4 Responsabilidades e rotinas
+
+       Função                        Responsabilidade principal                         Controle
+
+Gerente                Compras, caixa, capacidade, CRM e ocorrências        Fechamento diário e painel
+
+Churrasqueiro          Cocção, temperatura e padrão                         Ficha de produção
+
+Auxiliar 1             Pré-preparo e acompanhamentos                        Lotes e checklist
+
+Auxiliar 2             Montagem, conferência e higienização                 Comanda e checklist
+
+Motoboy                Rota, conservação e prova de entrega                 Status e horário
+
+
+
+
+4.5 Arquitetura do CRM Sofia
+
+             A arquitetura mínima prevê VPS, banco de dados, aplicação web, proxy
+reverso, certificado TLS, rotina de backup e painel no computador local. O bot coleta
+o pedido, valida disponibilidade e oferece adicional; a cozinha recebe uma comanda
+única; o gerente acompanha fila, produção e entrega. O uso de integração não
+oficial com WhatsApp pode gerar bloqueio e descontinuidade. Para produção,
+recomenda-se canal oficial ou provedor autorizado; a Evolution API pode
+permanecer apenas em protótipo controlado, sem ser tratada como garantia de
+custo zero.
+
+
+
+
+                                     Casa de Assados Sofia | 14
+4.6 Estoque, qualidade e sustentabilidade
+
+       O estoque seguirá o princípio primeiro que vence, primeiro que sai, com
+registros de lote e validade. Reservas permitem comprar e produzir perto da
+demanda, reduzindo sobra. A empresa adotará embalagens dimensionadas à
+porção, separação de óleo e resíduos, consumo racional de água e avaliação futura
+de embalagens recicláveis compatíveis com calor e segurança do alimento.
+Sustentabilidade, neste plano, significa reduzir perda e risco sem promessas
+ambientais não comprovadas.
+
+
+
+
+                              Casa de Assados Sofia | 15
+5 PLANO FINANCEIRO
+
+          A projeção usa moeda corrente de 2026 e separa investimento, custos
+variáveis e custos fixos. Embalagens estão incluídas no CMV dos combos. Tributos
+foram estimados em 4% da receita e meios de pagamento em 2%; ambos devem
+ser substituídos por alíquotas e contratos reais.
+
+                                 Investimento fixo                                 Valor
+
+2 máquinas giratórias usadas                                         R$ 3.600,00
+
+Churrasqueira tradicional                                            R$ 1.200,00
+
+Freezer                                                              R$ 2.200,00
+
+Computador                                                           R$ 1.000,00
+
+Lavadora de pressão                                                  R$ 700,00
+
+Mesa inox                                                            R$ 900,00
+
+Balança                                                              R$ 300,00
+
+Caixas térmicas                                                      R$ 400,00
+
+Utensílios                                                           R$ 1.300,00
+
+TOTAL                                                                R$ 11.600,00
+
+
+
+                            Capital de giro e implantação                          Valor
+
+Caução + primeiro aluguel                                            R$ 2.000,00
+
+Estoque inicial                                                      R$ 2.300,00
+
+Embalagens                                                           R$ 700,00
+
+Licenças/contabilidade                                               R$ 500,00
+
+Comunicação visual                                                   R$ 600,00
+
+Marketing de lançamento                                              R$ 500,00
+
+Caixa operacional                                                    R$ 1.800,00
+
+TOTAL                                                                R$ 8.400,00
+
+
+
+          Fontes: R$ 10.000,00 de capital próprio e R$ 10.000,00 de crédito. Para a
+simulação, o crédito é pago em 24 parcelas de R$ 500,00, totalizando R$ 12.000,00;
+a parcela está incluída nos custos fixos. A proposta real de Fomento Paraná deve
+substituir esta hipótese antes da entrega final.
+
+
+
+
+                                        Casa de Assados Sofia | 16
+                    Produto                       Qtde.          Preço unit.                      Receita
+
+O Clássico da Sofia                          70             R$ 69,90                  R$ 4.893,00
+
+Costela Suprema                              35             R$ 119,90                 R$ 4.196,50
+
+Dueto Sofia                                  35             R$ 94,90                  R$ 3.321,50
+
+Kit Churrasco Família                        20             R$ 169,90                 R$ 3.398,00
+
+TOTAL                                        160            -                         R$ 15.809,00
+
+
+
+                    Produto                          CMV unit.              CMV mensal               Margem unit.
+
+O Clássico da Sofia                          R$ 26,50                   R$ 1.855,00              R$ 43,40
+
+Costela Suprema                              R$ 48,00                   R$ 1.680,00              R$ 71,90
+
+Dueto Sofia                                  R$ 36,00                   R$ 1.260,00              R$ 58,90
+
+Kit Churrasco Família                        R$ 68,00                   R$ 1.360,00              R$ 101,90
+
+TOTAL                                        -                          R$ 6.155,00              R$ 60,34
+
+
+
+                                 Custo fixo mensal                                                   Valor
+
+Diárias da equipe (8 dias)                                                            R$ 3.840,00
+
+Aluguel                                                                               R$ 1.000,00
+
+Água, energia e gás                                                                   R$ 350,00
+
+Internet/telefone                                                                     R$ 120,00
+
+VPS                                                                                   R$ 50,00
+
+Contabilidade                                                                         R$ 250,00
+
+Marketing                                                                             R$ 200,00
+
+Limpeza/manutenção                                                                    R$ 180,00
+
+Parcela do crédito                                                                    R$ 500,00
+
+Reserva/diversos                                                                      R$ 200,00
+
+TOTAL                                                                                 R$ 6.690,00
+
+
+
+                              DRE mensal simplificada                                                Valor
+
+Receita bruta                                                                         R$ 15.809,00
+
+(-) CMV                                                                               R$ 6.155,00
+
+(-) Tributos estimados (4%)                                                           R$ 632,36
+
+(-) Taxas de pagamento (2%)                                                           R$ 316,18
+
+= Margem de contribuição                                                              R$ 8.705,46
+
+(-) Custos fixos                                                                      R$ 6.690,00
+
+= Lucro operacional                                                                   R$ 2.015,46
+
+                                       Casa de Assados Sofia | 17
+                           Figura 2 - Composição do resultado mensal.
+
+                 Fonte/Fuente: Elaboração própria a partir das premissas do plano (2026).
+
+
+5.1 Fluxo de caixa projetado
+
+     Mês    Combos             Receita                   Resultado               Saldo após investimento
+
+
+1          160        R$ 15.809,00               R$ 2.015,46                R$ -17.984,54
+
+2          168        R$ 16.599,45               R$ 2.450,73                R$ -15.533,81
+
+3          176        R$ 17.389,90               R$ 2.886,01                R$ -12.647,80
+
+4          184        R$ 18.180,35               R$ 3.321,28                R$ -9.326,52
+
+5          192        R$ 18.970,80               R$ 3.756,55                R$ -5.569,97
+
+6          200        R$ 19.761,25               R$ 4.191,82                R$ -1.378,15
+
+7          208        R$ 20.551,70               R$ 4.627,10                R$ 3.248,95
+
+8          216        R$ 21.342,15               R$ 5.062,37                R$ 8.311,32
+
+9          224        R$ 22.132,60               R$ 5.497,64                R$ 13.808,97
+
+10         232        R$ 22.923,05               R$ 5.932,92                R$ 19.741,88
+
+11         240        R$ 23.713,50               R$ 6.368,19                R$ 26.110,07
+
+12         248        R$ 24.503,95               R$ 6.803,46                R$ 32.913,54
+
+
+
+
+                                     Casa de Assados Sofia | 18
+   Figura 3 - Evolução projetada do resultado operacional.
+
+Fonte/Fuente: Elaboração própria a partir das premissas do plano (2026).
+
+
+
+
+                 Casa de Assados Sofia | 19
+6 ANÁLISE DE VIABILIDADE
+
+                                     Indicador                                                  Resultado
+
+Margem de contribuição                                                             55,07%
+
+Ponto de equilíbrio mensal                                                         R$ 12.148,95
+
+Combos equivalentes no equilíbrio                                                  123
+
+Lucratividade operacional                                                          12,75%
+
+Payback simples                                                                    9,92 meses
+
+
+
+         Os indicadores foram calculados pelas relações: margem de contribuição =
+receita - CMV - tributos - taxas; índice de margem = margem de contribuição ÷
+receita; ponto de equilíbrio = custos fixos ÷ índice de margem; lucratividade = lucro
+operacional ÷ receita; e payback simples = investimento inicial ÷ lucro operacional
+mensal. As fórmulas tornam as premissas auditáveis e facilitam a atualização após
+cotações reais.
+
+
+
+
+                            Figura 4 - Ponto de equilíbrio em combos equivalentes.
+
+                     Fonte/Fuente: Elaboração própria a partir das premissas do plano (2026).
+
+         O cenário-base apresenta folga de 37 combos sobre o ponto de equilíbrio,
+mas não suporta perda prolongada de volume. Se as vendas caírem 20% para 128
+combos, o resultado mensal aproxima-se de R$ 275,00; se subirem 20% para 192
+
+
+
+                                       Casa de Assados Sofia | 20
+combos, aproxima-se de R$ 3.756,00, mantidas as proporções. Portanto, reservas e
+previsão no CRM são controles de viabilidade, não meros recursos promocionais.
+
+6.1 Construção de cenários
+
+       Cenário           Combos                Receita                     Resultado                 Margem líquida
+
+Pessimista             128            R$ 12.647,20               R$ 274,37                    2,2%
+
+Base                   160            R$ 15.809,00               R$ 2.015,46                  12,7%
+
+Otimista               192            R$ 18.970,80               R$ 3.756,55                  19,8%
+
+
+
+           No cenário pessimista, a empresa permanece ligeiramente positiva, porém
+sem folga suficiente para imprevistos ou remuneração adicional do proprietário. A
+gestão deve acionar um gatilho: duas semanas abaixo de 75% da meta exigem
+redução de produção, revisão de campanhas e análise dos motivos de abandono. O
+cenário otimista não autoriza expansão automática; primeiro deve-se comprovar que
+atrasos, reclamações e desperdício permanecem controlados.
+
+6.2 Matriz SWOT
+
+                         Forças                                                   Fraquezas
+
+                                                           Marca nova;      capacidade   limitada;    dependência     do
+Cardápio enxuto; canal direto; CRM próprio; proximidade.
+                                                           proprietário.
+
+
+
+                    Oportunidades                                                  Ameaças
+
+Cultura de almoço familiar; delivery; recompra orientada   Inflação de alimentos; fiscalização; falha do canal;
+por dados.                                                 concorrência.
+
+
+
+
+                                       Casa de Assados Sofia | 21
+6.3 Riscos e respostas
+
+             Risco               Prob./impacto                               Resposta
+
+Demanda      abaixo   de   123
+                                 M/A             Piloto, reservas, reduzir produção e custo variável
+combos
+
+Aumento de carnes                A/A             Ficha técnica semanal, fornecedores alternativos, reajuste seletivo
+
+Incidente sanitário              B/Muito A       Boas práticas, temperatura, rastreabilidade, seguro
+
+Bloqueio de mensageria           M/A             Canal oficial, exportação de contatos consentidos, contingência
+
+                                                 Mínimo de dados, acesso por função, backup cifrado, resposta
+Vazamento de dados               B/A
+                                                 LGPD
+
+
+
+
+                                       Casa de Assados Sofia | 22
+7 ANEXOS E INSTRUMENTOS DE IMPLANTAÇÃO
+
+      Este capítulo reúne instrumentos produzidos para o plano. Por terem sido
+elaborados pelo autor, são tecnicamente apêndices; documentos externos futuros,
+como licenças e cotações assinadas, deverão ser apresentados como anexos. As
+imagens abaixo são ilustrações geradas por IA e não comprovam a existência do
+imóvel, dos produtos ou do sistema.
+
+
+
+
+           Figura 5 - Conceito ilustrativo: fachada, produtos e estação do CRM Sofia.
+
+                      Fonte: imagem gerada por IA para este rascunho (2026).
+
+
+
+
+                               Casa de Assados Sofia | 23
+7.1 Plano 5W2H dos primeiros 30 dias
+
+           O quê/Qué                        Por quê/Por qué                Quem/Quién              Quando/Cuándo
+
+
+Validar endereço              Evitar impedimento                      Wilkin                     D1-D3
+
+Formalizar empresa            Regularidade                            Wilkin/contador            D3-D10
+
+Homologar fornecedores        Preço e segurança                       Wilkin                     D5-D12
+
+Configurar CRM                Pedido e dados                          Wilkin                     D7-D18
+
+Treinar operação              Padronizar qualidade                    Equipe                     D15-D22
+
+Executar piloto               Validar demanda                         Equipe                     D23-D30
+
+
+
+
+           Ação/Acción                                    Como/Cómo                              Quanto/Cuánto
+
+
+Validar endereço                   Consulta municipal                                    R$ 0,00
+
+Formalizar empresa                 SLU/ME + licenças                                     R$ 500,00
+
+Homologar fornecedores             3 cotações/fichas                                     R$ 0,00
+
+Configurar CRM                     MVP, backup, consentimento                            R$ 50,00
+
+Treinar operação                   Simulação de serviço                                  R$ 300,00
+
+Executar piloto                    Pré-venda e métricas                                  R$ 500,00
+
+
+
+
+7.2 Questionário de validação (não aplicado)
+
+           1. Quantas pessoas costumam participar do almoço de fim de semana?
+
+           2. Com que frequência compra refeição pronta aos sábados ou domingos?
+
+           3. Prefere retirada ou entrega? Qual distância/tempo aceita?
+
+           4. Qual combo e faixa de preço parecem mais adequados?
+
+           5. Aceitaria receber o cardápio semanal por mensagem? [ ] Sim [ ] Não
+
+           6. Quais fatores determinam a recompra: sabor, porção, preço, pontualidade,
+atendimento?
+
+7.3 Dicionário mínimo de dados do CRM
+
+         Campo                             Finalidade                              Retenção/controle
+
+Nome e telefone          Atender e identificar pedido                 Acesso restrito; exclusão sob solicitação
+
+Endereço                 Entrega                                      Somente quando necessário
+
+Consentimento            Comprovar autorização de marketing           Data, canal e finalidade
+
+Itens/valores            Produção, financeiro e recomendação          Prazo fiscal e analítico definido
+
+                                       Casa de Assados Sofia | 24
+        Campo                         Finalidade                   Retenção/controle
+
+Ocorrência/avaliação   Qualidade e recuperação          Sem dados sensíveis desnecessários
+
+
+
+
+                                 Casa de Assados Sofia | 25
+CONCLUSÃO
+
+      O estudo indica viabilidade condicionada, não garantia de sucesso. O modelo
+torna-se interessante porque combina foco operacional e relacionamento direto, mas
+a margem depende de vender ao menos 123 combos equivalentes por mês, manter
+CMV por ficha técnica e evitar informalidade trabalhista, sanitária e digital. O CRM é
+central porque transforma reserva, produção, expedição e pós-venda em um único
+fluxo mensurável. A recomendação é avançar por etapas: validar endereço e
+licenças, obter cotações, executar piloto, revisar números e somente então
+comprometer todo o investimento.
+
+
+
+
+                             Casa de Assados Sofia | 26
+REFERÊNCIAS
+
+      ASSOCIAÇÃO         BRASILEIRA       DE   NORMAS      TÉCNICAS.    NBR       14724:
+informação e documentação - trabalhos acadêmicos - apresentação. Rio de Janeiro:
+ABNT, 2011.
+
+      DOLABELA, Fernando. O segredo de Luísa. São Paulo: Cultura, 2008.
+
+      DORNELAS, José Carlos Assis. Empreendedorismo: transformando ideias
+em negócios. São Paulo: Empreende, 2021.
+
+      SCHUMPETER, Joseph A. Teoria do desenvolvimento econômico. São
+Paulo: Nova Cultural, 1997.
+
+      SWIFT, Ronald. CRM: customer relationship management. Rio de Janeiro:
+Campus, 2001.
+
+      IBGE. Curitiba: panorama municipal, população estimada de 1.829.225
+habitantes (2024) e PIB per capita de R$ 67.691,30 (2023). Disponível
+em/Disponible     en:      https://www.ibge.gov.br/cidades-e-estados/pr/curitiba.html.
+Acesso/Acceso em: 15 ago. 2026.
+
+      Prefeitura de Curitiba. Administração Regional Bairro Novo, que atende
+Umbará,    Ganchinho      e    Sítio     Cercado.    Disponível   em/Disponible      en:
+https://www.curitiba.pr.gov.br/noticias/veja-como-entrar-em-contato-com-as-
+regionais-e-qual-delas-cuida-do-seu-bairro/40912. Acesso/Acceso em: 15 ago. 2026.
+
+      SEBRAE. Orientações sobre alimentação fora do lar, implantação de delivery
+e    adequação      ao     perfil      regional.    Disponível    em/Disponible      en:
+https://meuatendimento.sebrae.com.br/sites/PortalSebrae/artigos/como-implantar-
+delivery-na-era-digital,039214266f1e2710VgnVCM1000004c00210aRCRD.
+Acesso/Acceso em: 15 ago. 2026.
+
+      SEBRAE. CRM e automação de marketing para restaurantes e deliveries
+como instrumentos de recompra e fidelização. Disponível em/Disponible en:
+https://meuatendimento.sebrae.com.br/sites/PortalSebrae/ufs/sp/programas/sebrae-
+conecta-repediu,801a0f9160f5a910VgnVCM1000001b00320aRCRD.
+Acesso/Acceso em: 15 ago. 2026.
+
+
+
+                              Casa de Assados Sofia | 27
+      BRASIL. Portal oficial do empreendedor e regras de enquadramento
+empresarial; consulta realizada em 15 ago. 2026. Disponível em/Disponible en:
+https://www.gov.br/empresas-e-negocios/pt-br/empreendedor. Acesso/Acceso em:
+15 ago. 2026.
+
+      CURITIBA. Informações municipais sobre alvará, vigilância sanitária e
+licenciamento. Disponível em/Disponible en: https://www.curitiba.pr.gov.br/servicos/.
+Acesso/Acceso em: 15 ago. 2026.
+
+      CEASA PARANÁ. Referência institucional para abastecimento hortigranjeiro
+em    Curitiba.   Disponível      em/Disponible   en:      https://www.ceasa.pr.gov.br/.
+Acesso/Acceso em: 15 ago. 2026.
+
+      FACEMP.             Materiais           fornecidos            no          projeto:
+Estrutura_Plano_de_Negocio_Passo_a_Passo.pptx; manuais de plano de negócio;
+manuais e modelos de normas ABNT; exemplos de planos de negócio. Consulta em
+agosto de 2026.
+
+
+
+
+                               Casa de Assados Sofia | 28
+

@@ -1,0 +1,47 @@
+
+--- PAGE 1 ---
+REGRAS GERAIS DA ASSOCIAÇÃO BRASILEIRA NORMAS TÉCNICAS - ABNT  1 DA ESTRUTURA DA MONOGRAFIA   a) Elementos pré-textuais:    
+Capa (obrigatório)  
+Folha de rosto (obrigatório)  
+Folha de Aprovação (obrigatório)  
+Dedicatória (opcional)   
+Agradecimentos (opcional)  
+Epígrafe (opcional)  
+trata-se de um pensamento, frase, poesia ou música que tenha alguma relação com o tema da monografia. Se o texto não tiver alguma relação com o tema, não pode ser utilizado como epígrafe.  
+Resumo na língua vernácula (obrigatório)  
+Resumo em língua estrangeira (obrigatório)  
+Sumário (obrigatório)  c) Elementos textuais:  (todos obrigatórios)    
+Introdução  
+Desenvolvimento (será dividido em capítulos)  
+Conclusão  d) Elementos pós-textuais:    
+Referências (obrigatório)  
+Glossário (opcional)  
+Apêndices (opcional)  
+Trata-se de material utilizado como fontes de informação e coleta de dados, mas é um material produzido pelo próprio pesquisador, como, por exemplo, questionários, entrevistas, relatórios, gráficos etc. 
+--- PAGE 2 ---
+ 2 Anexos1 (opcional)  Trata-se de material utilizado como fontes de informação e coleta de dados, mas é não é um material produzido pelo próprio pesquisador e, sim, por terceiros. Exemplo: projetos de lei, documentos etc.   2 DA FORMATAÇÃO    
+Espacejamento: 1,5 para os elementos textuais; simples para os elementos pré e pós-textuais  
+Margem: Superior: 3cm; Esquerda: 3cm; Direita: 2cm; Inferior: 2cm  
+Fonte: Times New Roman   
+Tamanho da fonte: 12 para o corpo do texto e 11 para o recuo nas citações diretas com mais de três linhas  
+Paginação: fica na margem superior direita. Capa e folha de rosto contam como uma única página, os outros elementos pré-textuais contam normalmente, só que não são enumerados, o número fica omitido. Somente a partir da Introdução, que colocamos o número.    
+Recuo do parágrafo: 1, 25 cm  
+Distância entre os parágrafos: 6pt  
+Distância entre o texto e o subcapítulo, e entre este e o texto seguinte: 2 espaços 1,5    3 DAS REFERÊNCIAS   
+Livro com 1 autor: FAULCSTICH, Enilde L. de J. Como ler, entender e redigir um texto. 6. ed. Petrópolis: Vozes, 1996.   
+Livro com até 3 autores:                                                   
+1 Só devemos colocar em anexo algo que é de difícil acesso, como por exemplo, documentos, projetos de lei etc. Não devemos colocar em anexo um material que está disponível, como, por exemplo, páginas de uma revista ou de um jornal. A não ser que seja de uma revista muito antiga. 
+--- PAGE 3 ---
+ 3BARUFFI, Helder; CIMADON, Aristides. A metodologia científica e a ciência do Direito. 2. ed. Dourados: Evangraf, 1997.   Livros com mais de 3 autores:  LUCKESI, E. (Org.) et alii. Fazer universidade: uma proposta metodológica. São Paulo: Cortez, 1991.   
+Quando é o mesmo autor, substitui-se o seu nome por um travessão equivalente a seis espaços.   
+Livros com volumes  SILVEIRA, Augusto. História da humanidade. 2. ed. São Paulo: Atividade, 1999, v.3.   
+Revistas e periódicos  TOURINHO NETO, F. C. Dano ambiental. Consulex, Brasília, DF, ano 1, n.1, p. 18-23, fev. 1997.   
+Jornais  LANDIM, P. M. B. Situação dramática. Folha de São Paulo, São Paulo, 9 de jan. 1991. Cidades, p. 8.   
+Legislação  BRASIL. Código civil (2002). 2. ed. São Paulo: Saraiva, 2005.   
+Livros escritos por vários autores, mas utilizamos como fonte de pesquisa somente 1 capítulo cuja autoria é de uma só pessoa  PIZARRO, Ana. Palabra, literatura y cultura en las formaciones discursivas coloniales. In: PIZARRO, Ana (Org.) América Latina, Palabra, Literatura e Cultura. Campinas: UNICAMP, 1993.   
+Artigos publicados na internet  PLASSAT, Xavier. Trabalho escravo no Brasil, até quando? Disponível em: <www.dhnet.org.br> Acesso em 19 de mar de 2004.  
+--- PAGE 4 ---
+ 4  3.1  DO ESPACEJAMENTO NAS REFERÊNCIAS   As Referências devem ser organizadas em ordem alfabética.  
+O espaço deve ser 1,5 entre uma referência e outra, e simples dentro de uma mesma referência.  Ex:   ARIOSI, Mariângela. Manual de redação jurídica. Rio de Janeiro: Editora Forense, 2003.  DAMIÃO, R.T. ; HENRIQUES, Antônio. Curso de Português Jurídico. São Paulo: Atlas, 1988.  GARCIA, Othon M. Comunicação em prosa moderna. Rio de Janeiro: Fundação Getúlio Vargas, 1986.  GNERRE, Maurizzio. Linguagem, poder e escrita. São Paulo: Martins Fontes, 1997.  HERKENHOFF, João Batista. 1000 perguntas: introdução ao Direito. Rio de Janeiro: Thex, 1996.  KOCK, Ingedore Villaça. Argumentação e linguagem. São Paulo: Cortez, 2000.   4 DAS CITAÇÕES   4.1 Citação direta até três linhas: permanece no corpo do texto, entre aspas; colocam-se ano e página entre parênteses.   a) Quando mencionamos o autor: Segundo Gnerre (1985, p.4), uma variedade lingüística vale o que valem na sociedade os seus falantes, isto é, vale como reflexo do poder e da autoridade que eles têm nas relações econômicas e sociais.  
+--- PAGE 5 ---
+ 5b) Quando não mencionamos o autor: Podemos afirmar que uma variedade lingüística vale o que valem na sociedade os seus falantes, isto é, vale como reflexo do poder e da autoridade que eles têm nas relações econômicas e sociais. (GNERRE, 1985, p.4).  4.2 Citação direta com mais de 3 linhas:  fica em recuo de 4cm (espaço simples, fonte 11, sem aspas, sem itálico); colocam-se ano e páginas entre parênteses.   Ex:    Entre esses aparelhos, podemos citar os seguintes: a escola, a família, as igrejas, as leis, os meios de comunicação, os partidos políticos dominados pelo capital e outros. Vejamos:  a sociedade civil se realiza através de um conjunto de instituições sociais encarregadas de permitir a reprodução ou a reposição das relações sociais- família, escola, igrejas, polícia, partidos políticos [...] etc. Ela é também o lugar onde essas instituições e o conjunto das instituições sociais interpretadas por meio das idéias. (CHAUI, 1988, p. 75).    4.3 Citação indireta: permanece no corpo do texto, sem aspas; coloca-se somente o ano entre parênteses.    De acordo com Gnerre (1985), linguagem é espaço para interação social através do qual podemos atuar sobre o outro.       

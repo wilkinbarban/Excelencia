@@ -1,0 +1,2514 @@
+
+--- PAGE 1 ---
+1 
+ 
+ 
+ 
+FACULDADE DE CIÊNCIAS E EMPREENDEDORISMO 
+CURSO DE BACHAREL EM ADMINISTRAÇÃO 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  GUIA PARA ELABORAÇÃO DE PLANO DE NEGÓCIO - GPN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Santo Antônio de Jesus – BA 
+2017 
+ 
+      
+ 
+--- PAGE 2 ---
+2 
+ 
+FACULDADE DE CIÊNCIAS E EMPREENDEDORISMO 
+COORDENAÇÃO DO CURSO DE BACHARELADO EM ADMINISTRAÇÃO 
+BIBLIOTECA UNIVERSITÁRIA PROFESSORA LÍDIA HELENA LEAL MARTINI  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  GUIA PARA ELABORAÇÃO DE PLANO DE NEGÓCIO - GPN 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2. ed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Santo Antônio de Jesus – BA 
+2018 
+ 
+ 
+--- PAGE 3 ---
+3 
+ 
+Expediente: 
+ 
+DIRETORA GERAL  
+Mariana Leal Martini  
+ 
+DIRETORA ACADÊMICA 
+MS. Rosana Fonseca Neiva Melo  
+ 
+COORDENADORA DO CURSO DE ADMINISTRAÇÃO  
+Josiene de Souza Almeida Oliveira 
+ 
+COMISSÃO DE ELABORAÇÃO  
+Professores do Curso de Administração  
+ 
+Alessandra Oliveira de Carvalho 
+Antônia Barreto Rodrigues de Almeida 
+Antônio Raimundo Chagas Magalhães  
+Claudia Beatriz Gonzalez Silvera Glaiber  
+Luciano Pimentel de Oliveira 
+Mariana Amado Alvarez Coelho 
+Mônica da Silva Machado dos Santos 
+ 
+BIBLIOTECA UNIVERSITÁRIA PROFESSORA LÍDIA HELENA LEAL MARTINI  
+Daniele Santos Santana do Nascimento - Bibliotecária 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 4 ---
+4 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dados Internacionais de Catalogação (CIP) 
+ 
+ 
+  
+ F143g 
+  
+ 
+Faculdade de Ciências e Empreendedorismo . Diretoria Geral. 
+Coordenação do Curso de Bacharelado em Administração .     
+      Guia para elaboração de plano de negócio - GPN/ FACEMP. – 2 ed. – 
+Santo Antônio de Jesus, 2017.  
+         xx f. : il. ;  29 cm 
+  
+ 
+       1. Plano de negócio – elaboração. I. Título. 
+                                   CDD 070.041 
+ 
+ 
+--- PAGE 5 ---
+5 
+ 
+FACULDADE DE CIÊNCIAS E EMPREENDEDORISMO 
+ 
+ 
+ 
+ 
+ 
+DIRETORA GERAL  
+Mariana Leal Martini  
+ 
+DIRETORA ACADÊMICA  
+MS. Rosana Fonseca Neiva Melo  
+ 
+COORDENADORA DO CURSO DE ADMINISTRAÇÃO 
+Josiene de Souza Almeida Oliveira  
+ 
+ 
+                       COMISSÃO DE ELABORAÇÃO/REVISÃO  
+  (Professores da Facemp) 
+ 
+ 
+Alessandra Oliveira de Carvalho 
+Antônia Barreto Rodrigues de Almeida 
+Antônio Raimundo Chagas Magalhães 
+Claudia Beatriz Gonzalez Silvera Glaiber 
+Luciano Pimentel de Oliveira 
+Mariana Amado Alvarez Coelho 
+Mônica da Silva Machado dos Santos 
+ 
+--- PAGE 6 ---
+CONTROLE DE REVISÕES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVISÃO DATA HISTÓRICO 
+00 05/07/2017 Emissão inicial. 
+01 
+02 
+07/08/2017 
+23/04/2018 
+Itens revisados: 
+ Capa 
+ Contracapa 
+ Folha de Controle de Revisões 
+ Introdução 
+ Sumário 
+ Sumário Executivo 
+ A Empresa 
+ Pesquisa de Mercado 
+ Gestão Estratégica  
+ Plano de Marketing 
+ Plano Operacional 
+ Plano Financeiro 
+ Considerações Finais do Plano de Negócio 
+ Ações a Curto Prazo 
+ Referências 
+--- PAGE 7 ---
+ 
+ 
+ 
+APRESENTAÇÃO 
+ 
+O presente GUIA PARA ELABORAÇÃO DE PLANO DE NEGÓCIO – GPN tem 
+como objetivo orientar o aluno formando do curso de Bacharel em Administração, no 
+que se refere à construção e elaboração de seu Trabalho de Conclusão de Curso  - 
+TCC, que deve ser apresentado em formato de Plano de Negócio. 
+Nesse contexto, busca-se orientar o aluno para que desenvolva, estruture e 
+apresente seu Plano de Negócio, aplicando os conhecimentos adquiridos no decorrer 
+do curso. 
+Bernardi (2008) complementa que é essencial que haja equilíbrio entre  a técnica 
+aplicada no trabalho, juntamente com a experiência vivida, fruto dos anos de estudo do 
+conteúdo teórico e aplicabilidade do mesmo na prática a fim de que , possa ser 
+encontrada excelência no desenvolvimento do plano de negócio. Percebe-se que, 
+nesse processo há uma simbiose e necessidade de equilíbrio entre ciência e arte, entre 
+visionar e sonhar, entre sonhar e realizar e entre pretender e realizar.  
+Importante salientar que, para a elaboração do Plano de Negócio, o aluno deve 
+seguir com rigor as normas atualizadas indicadas no GUIA DE PROCEDIMENTOS 
+PARA APRESENTAÇÃO DE TRABALHOS ACADÊMICOS - GPATA. 
+Destaca-se que no Plano de Negócio, devem ser apresentados os seguintes 
+capítulos: 
+1. SUMÁRIO EXECUTIVO 
+2. A EMPRESA 
+3. PESQUISA DE MERCADO 
+4. GESTÃO ESTRATÉGICA  
+5. PLANO DE MARKETING 
+6. PLANO OPERACIONAL 
+7. PLANO FINANCEIRO 
+8. CONSIDERAÇÕES FINAIS DO PLANO DE NEGÓCIO 
+9. AÇÕES A CURTO PRAZO 
+ 
+ 
+--- PAGE 8 ---
+9 
+ 
+ 
+1 ESTRUTURA DE APRESENTAÇÃO 
+ 
+A estrutura de um Projeto de pesquisa e de um Trabalho de Conclusão de Curso 
+compreende elementos pré-textuais, textuais e pós-textuais, mas apresentam algumas 
+diferenças que podem ser vistas no quadro comparativo abaixo. 
+ 
+Quadro 1 – Estrutura de um trabalho acadêmico e de um projeto de pesquisa 
+Estrutura Elementos para trabalhos acadêmicos 
+– NBR 14724/2011 
+Elementos para projetos de pesquisa – 
+NBR 15287/2011 
+ 
+Parte 
+Externa 
+ 
+Capa - (obrigatório) 
+Lombada - (opcional) 
+ 
+ 
+Capa (opcional) 
+Lombada (opcional) 
+Parte Interna 
+ 
+ Elementos Pré-textuais 
+ 
+Folha de rosto - (obrigatório) 
+Errata - (opcional) 
+Folha de aprovação - (obrigatório) 
+Dedicatória - (opcional) 
+Agradecimento - (opcional)  
+Epígrafe - (opcional) 
+Resumo na língua vernácula - 
+(obrigatório) 
+Resumo na língua estrangeira - 
+(obrigatório) 
+Lista de ilustrações  
+Lista de tabelas 
+Lista de abreviaturas e siglas - 
+(opcional) 
+Lista de símbolos - (opcional) 
+Sumário - (obrigatório) 
+ 
+ Elementos Pré-textuais 
+ 
+Folha de rosto - (obrigatório) 
+Lista de ilustrações  
+Lista de tabelas  
+Lista de abreviaturas e siglas (opcional)  
+Lista de símbolos (opcional) 
+Sumário (obrigatório) 
+ 
+ 
+ 
+ 
+ Elementos Textuais  
+ 
+Introdução 
+Desenvolvimento 
+Conclusão 
+ 
+ Elementos Textuais 
+ 
+Introdução com o tema do projeto, 
+problema a ser abordado, hipótese 
+(quando couber), objetivo e justificativa; 
+referencial teórico; metodologia a ser 
+utilizada; recursos; e cronograma. 
+ Elementos Pós-textuais  
+ 
+Referências - (obrigatório) 
+Glossário - (opcional) 
+Apêndice - (opcional) 
+Anexo - (opcional) 
+Índice - (opcional)  
+ 
+ Elementos Pós-textuais  
+ 
+Referências - (obrigatório) 
+Glossário - (opcional) 
+Apêndice - (opcional) 
+Anexo - (opcional) 
+Índice - (opcional) 
+Fonte: elaborado pela Biblioteca FACEMP. 
+--- PAGE 9 ---
+10 
+ 
+ 
+1.1 PARTE EXTERNA 
+ 
+Capa 
+  
+Esta norma específica os princípios gerais para a elaboração de trabalhos acadêmicos 
+(teses, dissertações e outros), visando a sua apresentação para a instituição. 
+ 
+Elemento obrigatório. Recomenda-se que todas as informações sejam centralizadas na 
+folha na seguinte ordem: 
+ 
+ nome da  Instituição seguido do nome do curso na margem superior da folha 
+(opcional); 
+ nome do autor; 
+ título: deve ser claro e preciso, identificando o seu conteúdo e possibilitando a 
+indexação e recuperação da informação; 
+ subtítulo: se houver, deve ser evidenciada a sua subordinação ao t ítulo, 
+precedido de dois pontos (:); 
+ número de volumes (se houver mais de um, deve constar em cada capa a  
+especificação do respectivo volume); 
+ local (cidade) da entidade, onde deve ser apresentado;  
+Nota - No caso de cidades homônimas recomenda -se o acréscimo da sigla da unidade da 
+federação. 
+ ano de depósito (da entrega) na margem inferior da folha. 
+Nota – No exemplo a seguir de capa, estamos usando fonte tamanho 12 
+ 
+Veja modelo a seguir: 
+ABNT NBR 14724:2011 
+--- PAGE 10 ---
+11 
+ 
+ 
+Fonte: Elaborada pela Biblioteca Facemp. 
+ 
+ 
+FACULDADE DE CIÊNCIAS E EMPREENDEDORISMO 
+CURSO DE GRADUAÇÃO EM ADMINISTRAÇÃO  
+ 
+NOME DO AUTOR 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TÍTULO: SUBTÍTULO  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOCAL (cidade da instituição)    
+                                                            Ano de depósito 
+ 
+Fonte Arial 12, Negrito, Maiúscula, Espaçamento entre linhas simples 
+3 cm 
+3 cm 2 cm 
+2 cm 
+--- PAGE 11 ---
+12 
+ 
+ 
+1.2 PARTE INTERNA 
+Dividida em elementos pré-textuais, textuais e pós-textuais. 
+ 
+1.2.1 Elementos pré-textuais 
+Elementos que antecedem a parte textual. 
+ 
+Folha de rosto 
+ 
+  
+Elemento obrigatório. Recomenda-se que todas as informações sejam centralizadas na 
+folha na seguinte ordem: 
+ 
+Anverso da folha de rosto: 
+ nome do autor na margem superior da folha; 
+ título; 
+ subtítulo (se houver, deve ser evidenciada a sua subordi nação ao título, 
+precedido de dois pontos (:); 
+ número do volume (se houver mais de um, deve constar em cada  folha de rosto 
+a especificação do respectivo volume);  
+ natureza do trabalho ( tese, dis sertação, t rabalho de conclusão de curso e 
+outros), objetivo ( aprovação em disciplina, grau pretendido , etc. ), nome da 
+instituição a que é submetida e área de concentração;  
+ nome do orientador e, se houver, do coorientador; 
+ local (cidade) da instituição, onde deve ser apresentado; 
+ ano de depósito (da entrega) na margem inferior da folha. 
+Nota – No exemplo a seguir de folha de rosto, estamos usando fonte tamanho 12  
+ 
+Veja modelo a seguir: 
+ 
+ 
+ABNT NBR 14724:2011 
+--- PAGE 12 ---
+13 
+ 
+ 
+Fonte: Elaborada pela Biblioteca Facemp. 
+ 
+ 
+ 
+ 
+ 
+NOME DO AUTOR  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TÍTULO: SUBTÍTULO 
+ 
+ 
+ 
+ 
+ 
+ 
+Plano de negócios apresentado ao curso de 
+Administração da Faculdade de Ciências e 
+Empreendedorismo – FACEMP, como requisito 
+parcial para o Título de Bacharel em Administração  
+____________. 
+ 
+ 
+Orientador: Prof.______________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+LOCAL (cidade da instituição)    
+                                                            Ano de depósito 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Local (cidade da instituição)  
+Ano de depósito    
+ 
+Fonte Arial 12, Espaçamento simples, Recuo 8 cm a esquerda 
+Fonte Arial 12, Negrito, Maiúscula, Espaçamento 
+SIMPLES 
+--- PAGE 13 ---
+14 
+ 
+ 
+Verso da folha de rosto 
+ 
+Deve constar a ficha catalográfica, conforme o Código d e Catalogação Anglo -
+Americano vigente. Para a sua confecção  deverá ser solicitado auxílio de  um 
+bibliotecário da instituição. 
+ 
+ A ficha catalográfica deverá estar localizada na parte inferior do verso da folha 
+de rosto, de forma centralizada.  
+ Deve ser preenchida conforme modelo disponível no site da biblioteca.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ficha catalográfica elaborada pela Biblioteca Universitária Professora Lídia Helena Leal Martini  
+Bibliotecária: Daniele S. S. do Nascimento – CRB-5/1939. 
+ 
+ 
+ 
+ 
+C268p 
+ 
+ 
+Cardoso, Thayana dos Santos Fernandes. 
+        Plano de negócios : clínica Odonto Médica Vida / Thayana 
+dos santos Fernandes Cardoso . – Santo Antônio de Jesus  , 
+2013. 
+ 80 f. : il. ; 29 cm 
+  
+ Trabalho de Conclusão de Curso (Bacharelado em 
+Administração) – Faculdade de Ciências e Empreendedorismo , 
+Curso de Administração, Santo Antônio de Jesus - BA, 2013. 
+ Orientadora: Profª. Claudia Beatriz González Glaiber. 
+ 
+ 1. Plano de ne gócios. 2. Clínica odontológica . 3. 
+Administração de empresas . I.Título. II.  Faculdade de Ciências 
+e Empreendedorismo. 
+                                                                                         CDD 658 
+ 
+ 
+VERSO DA FOLHA DE ROSTO 
+ 
+MODELO DE FICHA 
+CATALOGRÁFICA 
+--- PAGE 14 ---
+15 
+ 
+ 
+ 
+1.2.1.2 Errata 
+ 
+Errata 
+Elemento opcional que deve ser inserido logo após a folha de rosto, constituído pela 
+referência do trabalho e pelo texto da errata . Apresentada em papel avulso ou 
+encartado, acrescida ao trabalho depois de impresso. Veja exemplo abaixo: 
+ 
+FERRIGNO, C. R. A. Tratamento de neoplasias ósseas apendiculares com 
+reimplantação de enxerto ósseo autólogo autoclav ado associado ao plasma rico 
+em plaquetas : estudo crítico na cirurgia de  preservação de membro em cães. 2011. 
+128 f. Tese (Livre -Docência) - Faculdade de Medicina Veterinária e Zootecnia, 
+Universidade de São Paulo, São Paulo, 2011. 
+ 
+ 
+Folha Linha Onde se lê Leia-se 
+16 10 auto-clavado autoclavado 
+ 
+ 
+ 
+Folha de aprovação  
+Elemento obrigatório. Colocado logo após a folha de rosto. Assim deve constar: 
+ 
+ nome do autor; 
+ título do trabalho e subtítulo (se houver); 
+ natureza (tipo do trabalho, objetivo,  nome da instit uição a que é sub metido e a 
+área de concentração); 
+ data de aprovação; 
+ nome, titulação, assinatura dos componentes da banca examinadora e 
+instituições a que pertencem. A data da aprovação e as assinaturas dos 
+membros componentes da banca examinadora devem s er colocadas após a 
+aprovação do trabalho.  
+ 
+Veja modelo a seguir: 
+--- PAGE 15 ---
+16 
+ 
+ 
+Fonte: Elaborada pela Biblioteca FACEMP. 
+FACULDADE DE CIÊNCIAS E EMPREENDEDORISMO 
+CURSO DE GRADUAÇÃO EM ADMINISTRAÇÃO 
+(Arial – Negrito – Fonte 12)                             
+ 
+ 
+FOLHA DE APROVAÇÃO 
+ 
+ 
+ 
+NOME DO AUTOR    
+ 
+ 
+TÍTULO: SUBTÍTULO    
+                        
+ 
+ 
+Trabalho de Conclusão de Curso apresentado 
+como requisito parcial para obtenção do título 
+de Bacharel em Administração, pela 
+Faculdade de Ciências e Empreendedorismo.  
+ 
+ 
+ 
+Aprovado em: ___de _________ de _____.  
+ 
+ 
+Banca Examinadora 
+ 
+_______________________ 
+Professor Orientador: (Nome do orientador, sua titulação e Instituição a que pertence). 
+ 
+ 
+_______________________ 
+Professor Avaliador: (nome, titulação e instituição a que pertence). 
+ 
+ 
+ 
+_______________________ 
+Professor Avaliador: (nome, titulação e instituição a que pertence). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 16 ---
+17 
+ 
+ 
+Dedicatória  
+Elemento opcional. Colocado após a folha de aprovação.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A minha família pelo apoio e contribuição. 
+ 
+ 
+ 
+ 
+ 
+ 
+Fonte: Elaborada pela Biblioteca FACEMP. 
+ 
+Modelo de dedicatória  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A minha família... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Modelo de 
+Dedicatória 
+--- PAGE 17 ---
+18 
+ 
+ 
+Agradecimentos  
+Elemento opcional. Colocado após a dedicatória. 
+Fonte: Elaborada pela Biblioteca FACEMP. 
+ 
+ 
+ 
+ 
+AGRADECIMENTOS 
+ 
+ 
+ 
+A Deus pela vida... 
+ 
+Aos meus pais pelo apoio... 
+ 
+A Biblioteca da FACEMP pela ajuda e orientação na confecção deste trabalho... 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Modelo de 
+Agradecimento 
+ 
+ 
+--- PAGE 18 ---
+19 
+ 
+ 
+Epígrafe  
+Elemento opcional. Colocado após os agradecimentos e com a i ndicação da autoria. 
+Podem também constar epígrafes nas folhas de abertura das seções primárias. 
+Fonte: Elaborada pela Biblioteca FACEMP. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Modelo de 
+Epígrafe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segundo Jacques Bossuet [17 --?], bispo e teólogo francês, no Egito, as 
+bibliotecas eram chamadas ‘Tesouro dos remédios da alma’. De fato é 
+nelas que se cura a ignorância, a mais perigosa das enfermidades e a 
+origem de todas as outras. 
+ 
+--- PAGE 19 ---
+20 
+ 
+ 
+Lista de ilustrações  
+Elemento opcional. Elaborada de acordo com a ordem apresentada no texto, com cada 
+item designado por seu nome específico, tr avessão, título e acompanhado do 
+respectivo número da folha ou página. Quando necessário, recomenda-se a elaboração 
+de lista própria para cada tipo de ilustração (desenhos, esquemas, fluxogramas, 
+fotografias, gráficos, mapas, organogramas, plantas, quadros, retratos e outros). 
+ 
+Exemplo 
+ 
+Quadro 1 – Síntese da Legislação Brasileira de Incentivos a P&D e Inovação  
+para as empresas de TIC           
+ 
+Lista de tabelas  
+Elemento opcional. Elaborada de acordo com a ordem apresentada no texto, com cada 
+item designado por seu nome específico, aco mpanhado do respectivo número da folha 
+ou página. As tabelas devem ser elaboradas de acordo com as normas de 
+apresentação tabular do IBGE.  
+Disponível em:< http://biblioteca.ibge.gov.br/visualizacao/livros/liv23907.pdf> 
+ 
+Exemplo 
+ 
+Tabela 1 – Relação de bens de Informática e Automação     
+ 
+Lista de abreviaturas e siglas 
+Elemento opcional. C onsiste na relação alfabética das abreviaturas e siglas utilizadas  
+no texto, seguidas das palavras ou expressões correspondentes grafadas por extenso. 
+Recomenda-se a elaboração de lista própria para cada tipo. 
+ 
+Exemplo 
+ 
+EMBRAPA       Empresa Brasileira de Pesquisa Agropecuária 
+ 
+Fil.                    Filosofia 
+ 
+ 
+--- PAGE 20 ---
+21 
+ 
+ 
+ 
+Lista de símbolos  
+Elemento opcional. Deve ser elaborada  de acordo com a ordem apr esentada no texto, 
+com o devido significado. 
+ 
+Exemplo 
+ 
+O(n) Ordem de um algoritmo 
+ 
+Sumário 
+ 
+ 
+Elemento obrigatório. É o último elemento pré -textual. As seções  são acompanhadas 
+do(s) respectivo(s) número(s) da(s)  página(s). Havendo mais de um volume, em cad a 
+um deve constar o sumário completo do trabalho. Veja mais detalhes abaixo: 
+ 
+ a palavra sumário deve ser centralizada e com a mesma tipologia da fonte 
+utilizada para as seções primárias; 
+ a subordinação dos itens do sumário deve ser destacada pela apresenta ção 
+tipográfica utilizada no texto; 
+ os elementos pré-textuais não devem constar no sumário; 
+ os indicativos das seções, se houver, devem ser alinhados à esquerda; 
+ recomenda-se que o alinhamento do sumário seja pela margem do título do 
+indicativo mais extenso. 
+Nota – Observe como modelo o sumário a seguir. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABNT NBR 6027:2012  
+--- PAGE 21 ---
+22 
+ 
+ 
+SUMÁRIO 
+ 
+1 SUMÁRIO EXECUTIVO 27 
+   
+2 A EMPRESA 28 
+2.1 JUSTIFICATIVA 28 
+2.2 DADOS DOS EMPREENDEDORES, EXPERIÊNCIA PROFISSIONAL E      
+ATRIBUIÇÕES 
+28 
+2.3 EQUIPE DIRIGENTE 28 
+2.3.1 Organograma 28 
+2.4 FORMA JURÍDICA 29 
+2.5 ENQUADRAMENTO TRIBUTÁRIO 29 
+2.6 CAPITAL SOCIAL 29 
+2.7 FONTES DE RECURSOS 29 
+   
+3 PESQUISA DE MERCADO 30 
+3.1 SEGMENTO DE MERCADO 30 
+3.2 ESTUDO DOS CLIENTES E CONSUMIDORES 31 
+3.3 ESTUDO DOS CONCORRENTES 31 
+3.4 ESTUDO DOS FORNECEDORES 31 
+3.5 O NEGÓCIO E AS TENDÊNCIAS DE MERCADO 32 
+3.6 PERCURSO METODOLÓGICO DA PESQUISA 32 
+3.6.1 Localização da área em estudo 33 
+3.6.2 Problema e objetivo do projeto 33 
+3.6.2.1 Objetivo geral 33 
+3.6.2.2 Objetivos específicos  33 
+3.6.3 Tipos de pesquisa 34 
+3.6.4 Cálculo amostral 35 
+3.6.5 Pré-teste 36 
+3.6.6 Coleta de dados 37 
+3.6.7 Análise e interpretação dos dados 38 
+   
+4 GESTÃO ESTRATÉGICA 40 
+4.1 MISSÃO DA EMPRESA  40 
+4.2 VISÃO DA EMPRESA 40 
+4.3 VALORES DA EMPRESA 40 
+4.4 NEGÓCIO DA EMPPRESA 41 
+4.5 SETOR DE ATIVIDADE 41 
+4.6 ANÁLISE ESTRATÉGICA 41 
+4.6.1 Modelo das Cinco Forças de Porter 42 
+4.6.2 Estudo PEST 42 
+4.6.3 Análise da matriz SWOT 43 
+4.6.4 Balanced Scorecard 44 
+   
+5 PLANO DE MAERKETING 47 
+ 
+--- PAGE 22 ---
+23 
+ 
+ 
+5.1 O COMPOSTO DE MARKETING 47 
+5.1.1 Produto/serviço 47 
+5.1.1.1  A Marca 47 
+5.1.1.2 Embalagem e rotulagem 48 
+5.1.1.3 Garantia 48 
+5.1.1.4 Posicionamento  48 
+5.1.2 Preço 48 
+5.1.3 Praça 48 
+5.1.3.1 Localização do negócio 49 
+5.1.3.2 Forma de comercialização 49 
+5.1.4 Promoção 49 
+5.1.4.1 Propaganda/mídias 49 
+5.1.4.2 Promoção de vendas 49 
+5.1.4.3 Merchandising 50 
+5.1.4.4 Marketing de relacionamento 50 
+5.1.2 Posicionamento de Mercado 50 
+5.2 VANTAGEM COMPETITIVA 50 
+   
+6 PLANO OPERACIONAL 52 
+6.1 LAYOUT OU ARRANJO FÍSICO 52 
+6.2 CAPACIDADE PRODUTIVA/COMERCIAL/SERVIÇOS 52 
+6.3 PROCESSOS OPERACIONAIS 52 
+6.3.1 Fluxograma 52 
+6.3.2 Tecnologia 52 
+6.4 NECESSIDADE DE PESSOAL 52 
+6.4.1 Terceirização 53 
+6.4.2 Parcerias 53 
+6.5 MODELO DE GESTÃO 53 
+   
+7 PLANO FINANCEIRO 55 
+7.1 DEMONSTRATIVO DE INVESTIMENTO 56 
+7.2 ESTRUTURA DO CAPITAL: CAPITAL PRÓPRIO E CAPITAL DE 
+TERCEIROS 
+56 
+7.3 DIMENSIONAMENTO DA MÃO DE OBRA 56 
+7.3.1 Diretoria/ administração de mão de obra indireta 57 
+7.3.2 Produção ou mão de obra direta 57 
+7.3.3 Terceirização ou profissionais autônomos 57 
+7.4 RECEITAS 57 
+7.5 CUSTOS E DESPESAS 57 
+7.6 RATEIO (QUANDO NECESSÁRIO) 58 
+7.7 IMPOSTOS E TAXAS 58 
+7.8 DEMONSTRATIVO DE RESULTADO 58 
+7.9 ANÁLISE DO INVESTIMENTO 58 
+7.9.1 Análise do ponto de equilíbrio 59 
+7.9.2 Pay-Back 59 
+7.9.3 Rentabilidade 59 
+7.9.4 Lucratividade  60 
+--- PAGE 23 ---
+24 
+ 
+ 
+7.10 CAIXA OPERACIONAL MINÍMO 60 
+7.11 CAPITAL DE GIRO 60 
+7.12 MARGEM DE CONTRIBUIÇÃO 60 
+7.13 RESERVA LEGAL 60 
+   
+8 CONSIDERAÇÕES FINAIS DO PLANO DE NEGÓCIO 62 
+   
+9 AÇÕES A CURTO  PRAZO 63 
+   
+ REFERÊNCIAS 64 
+ APÊNDICES 65 
+ ANEXOS 66 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A seguir uma síntese dos elementos textuais do Plano de negócios.  
+--- PAGE 24 ---
+25 
+ 
+ 
+1 SUMÁRIO EXECUTIVO 
+ 
+ 
+Neste capítulo, o autor deverá apresentar uma escrita direta e o bjetiva, para, de 
+forma sucinta, incentivar a leitura de todas as etapas do plano  de negócio. Deverá 
+também ressaltar a importância do negócio a ser implantado, apontar a ideia básica do 
+empreendimento, apresentar a proposta para esta investigação e relata r o que será 
+realizado para encontrar a melhor forma de gerir o empreendimento.  
+Cabe ressaltar, neste momento que quando for realizada uma reestruturação de 
+empresa, o(s) discente(s) irá fazer um estudo de caso, principalmente no que tange ao 
+Capítulo 7 – Financeiro. 
+Logo, neste momento cabe relatar, de forma objetiva e sucinta os fenômenos 
+investigados no decorrer da pesquisa  e as descobertas realizadas nos capítulos 
+desenvolvidos no plano de negócio, a saber: a empresa, a pesquisa de mercado, 
+gestão estr atégica, a pesquisa de mercado, o plano operacional e os  principais 
+resultados financeiros que comprovem a viabilidade do negócio. 
+Ressalta-se que a leitura do Sumário Executivo deve atrair e cativar o leitor; é 
+relevante c aptar sua atenção  e motivar a le itura d o conteúdo do  restante do  seu 
+trabalho.  
+Deve-se e screver de uma a três páginas. A presente suas  ideias claras e 
+coerentes; não pode  haver erros ortográficos ou gramaticais segundo a norma culta.  
+Evidencia-se que o Sumário Executivo é o convite ao leitor para prosseguir a leitura do 
+referido trabalho.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 25 ---
+26 
+ 
+ 
+2 A EMPRESA 
+  
+Neste momento, cabe um texto, explicando de forma objetiva, o que será 
+explanado no capítulo.  
+ 
+2.1  JUSTIFICATIVA 
+ 
+ Neste capítulo, o aluno deve elaborar um texto contendo a ju stificativa da 
+escolha do negócio, a motivação que o instigou a empreender em determinada área, e 
+a necessidade que este projeto irá atender na sociedade no qual estiver inserido.  
+No caso da empresa já existir, sugere -se que seja elaborada uma narrativa 
+sobre a empresa; um breve histórico das origens da mesma.  
+ 
+2.2 DADOS DOS EMPREENDEDORES, EXPERIÊNCIA PROFISSIONAL E      
+ATRIBUIÇÕES  
+ 
+ Neste caso, devem ser apresentados os empreendedores da empresa, que não 
+são necessariamente sócios da mesma. Por exempl o: investidores; o próprio dono, 
+quando for o caso de reestruturação. 
+ 
+2.3 EQUIPE DIRIGENTE 
+ 
+Explique a função de cada sócio. 
+ 
+2.3.1 Organograma 
+ 
+Justificar a escolha do organograma, de acordo com o tipo de negócio e estrutura 
+organizacional.  
+ As empresas terceirizadas não entram no Organograma;  
+ Se for reestruturação de uma empresa, o aluno deverá apresentar o 
+organograma atual e como este ficará após a reestruturação. 
+--- PAGE 26 ---
+27 
+ 
+ 
+ 
+2.4 FORMA JURÍDICA  
+ 
+ Apresentar a forma jurídica da empresa. 
+ 
+2.5 ENQUADRAMENTO TRIBUTÁRIO  
+ 
+ Expor e justificar o enquadramento tributário. 
+ 
+2.6 CAPITAL SOCIAL  
+ 
+ Dizer qual será o valor investido por cada sócio. 
+ 
+2.7 FONTE DE RECURSOS  
+ 
+Informar o montante a ser investido pelos sócios e o valor do financiamento, 
+formas de amortização, juros, dentre outras informações que julgar necessárias. 
+Observa-se que devem ser p esquisadas formas de captaç ão de recursos junto 
+aos bancos; em boa hora, evidencia -se que este item deve estar vinculado ao capítulo 
+7 do Plano Financeiro.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 27 ---
+28 
+ 
+ 
+3 PESQUISA DE MERCADO  
+ 
+Recomenda-se, neste capítulo, que o discente elabore uma pesquisa de 
+mercado, que compreenda as etapas do propósito e objetivo da pesquisa.  Deverão ser 
+explicados os tipos de pesquisa adotados, assim como os métodos de coleta de dados, 
+de que forma será realizada a análise, tabulação dos dados  e como serão gerenciados 
+e/ou previstos os erros no projeto da pesquisa. Observa-se que esse conjunto de ações 
+são realizadas para a melhor tomada de decisões frente à resolução de problemas 
+(LAS CASAS, 2010, p.2). 
+Observa-se que o discente trabalhará neste tópico, todo resultado obtido através 
+dos questionários, entrevistas, entre outros tipos de pesquisa que podem ser 
+realizados. Estes podem ser tratad os previamente na forma  de gráficos, tabelas, 
+quadros, relatórios; posteriormente, este material deverá será analisado e editado pelo 
+aluno (AAKER, 2004).  
+Sugere-se ao pesquisador que apresente os resultados e conclusões da 
+pesquisa e faça recomendações para a solução de problemas específicos da empresa,  
+sempre que estes forem relevantes.  
+ 
+3.1  SEGMENTO DE MERCADO 
+ 
+Neste momento, deve ser identificado o segmento de mercado que o 
+pesquisador busca conquistar, atrair para sua empresa: 
+ Identificar e decidir qual(is) será o segmento e/ou nicho de mercado e/o u 
+mercado de massa que sua empresa irá concentrar sua atuação.  
+ Segmentar os mercados consumidores. 
+ Determinar o público alvo da empresa e o motivo de este ter sido escolhido. 
+ Definição Geográfica (qual a localização do público) 
+ Definição Demográfica (características do público – idade, sexo, poder aquisitivo, 
+nível de instrução...) 
+ Definição Psicográfica (estilo de vida do público) 
+--- PAGE 28 ---
+29 
+ 
+ 
+ Definição Comportamental (comportamento de compra, o que motiva seu público 
+ao comportamento de compra?)  
+ 
+3.2 ESTUDO DOS CLIENTES E CONSUMIDORES 
+ 
+ Analisar, definir e conhecer o perfil dos atuais clientes e consumidores e/ou 
+prospects (estudar os hábitos dos clientes e como eles vivem); determinar a frequência 
+de uso do produto/serviço (dos concorrentes e/ou substitutos).  
+ Apresentar que tipos de prospects e/ou clientes a empresa tem e/ou virá a ter: 
+usuários, revendedores, consultores.  
+ Salienta-se que a exata definição do público consumidor, auxiliará o pesquisador 
+na formação de seu Universo/População. 
+ 
+3.3 ESTUDO DOS CONCORRENTES  
+ 
+Estudar e conhecer os concorrentes por meio de realização de entrevista 
+(observação direta), assim como pode ser utilizada também a técnica do Cliente Oculto 
+(observação indireta). Devem ser destacados os três principais concorrentes do negócio 
+e realizada uma avaliação comparativa, destacando em que momento o novo negócio 
+terá vantagens ou desvantagens em relação ao (s) concorrente (s). 
+ Determinar o Market Share  (participação de mercado) dentre os principais 
+concorrentes e definir o potencial de mercado; apontar se o mercado encontra-se 
+bem atendido; descobrir quais são as melhores oportunidades para o seu 
+produto/serviço obter uma maior participação. 
+ Neste item, o aluno deve descrever as pesquisas e entrevistas realizadas com os 
+concorrentes, trazer citações e outras fontes de pesquisas.  
+ 
+3.4 ESTUDO DOS FORNECEDORES  
+ 
+a) Discutir e analisar perfil dos 5 (cinco) principais fornecedores que atenderão a 
+empresa.  
+--- PAGE 29 ---
+30 
+ 
+ 
+b) Destacar formas de relacionamento comercial da empresa com estes fornecedores.  
+C) O aluno deve realizar entrevista com fornecedores e trazer para o corpo do texto os 
+pontos mais relevantes da entrevista.  
+ 
+3.5 O NEGÓCIO E AS TENDÊNCIAS DE MERCADO 
+ 
+Neste item, o autor deverá apresentar quais são as atuais tendências de 
+mercado; além de dest acar qual(is) tendências foram as escolhidas para seu Plano de 
+Negócios. O autor deverá argumentar com suas próprias palavras e trazer a voz do 
+autor de embasamento para o texto, a fim de comprovar por que e como as referidas 
+tendências serão colocadas em prática. 
+Pode trazer a voz dos empresários por meio de entrevistas e com profissionais 
+que atuam na área (desde que com a devida autorização dos mesmos).  
+ 
+3.6 PERCURSO METODOLÓGICO DA PESQUISA 
+ 
+Considera-se que toda pesquisa deve ter um percurso a ser seguido o qual terá 
+por objetivo auxiliar na tomada de decisões, encontrar uma nova oportunidade, 
+solucionar problemas. Este caminho a ser tomado pode ser elaborado com técnicas de 
+metodologia da pesquisa, que nada mais são do que um grupo de procedimentos qu e 
+direcionam o pesquisador, de forma racional e ordenada, a atingir seus objetivos e 
+alcançar determinados resultados. (SILVEIRA, 2010). Em relação ao exposto, Silveira 
+(2010, p.29, 30) observa apropriadamente que: 
+ 
+[...] no campo tanto da ciência pura qua nto da ciência aplicada, o método – 
+método científico – implica utilizar adequadamente a reflexão e a 
+experimentação. A reflexão e a experimentação são evidenciadas em um 
+conjunto ordenado de sequências operacionais, essencial ao processo de 
+investigação, imprescindível à produção de conhecimentos.  
+ 
+Para o desenvolvimento desta pesquisa científica, em conforme com Silveira 
+(2010, p.30) os investigadores terão como finalidade envolver: 
+ conhecimentos válidos e verdadeiros; 
+--- PAGE 30 ---
+31 
+ 
+ 
+ sinalização do caminho a ser seguido; 
+ identificação de possíveis erros; 
+ ferramentas para a tomada de decisões. 
+ 
+Sugere-se, diante do exposto, que o aluno elabore um roteiro com os 
+procedimentos a serem seguidos para alcançar as respostas procuradas, no qual 
+deverá explicar o motivo de suas a ções, quais procedimentos realizará, qual problema 
+busca solucionar com a determinada pesquisa, conforme sugerido nos próximos itens: 
+ 
+3.6.1 Localização da Área em Estudo 
+ 
+ Indique o quadro histórico e geográfico onde sua empresa está(ou estará) 
+localizada. 
+ 
+3.6.2 Problema e Objetivo do Projeto 
+ 
+Você deve determinar o problema e o objetivo de seu projeto de pesquisa. Para 
+a elaboração dos mesmos, Samara e Barros (2002) observam apropriadamente que: 
+ O objetivo é diretamente ligado ao problema. 
+ Busca descobrir que informações são necessárias para resolver o problema da 
+pesquisa. 
+ Deve ser o mais detalhado e específico possível. 
+ 
+3.6.2.1 Objetivo Geral 
+ 
+É o objetivo principal e geral do projeto da pesquisa. 
+ 
+3.6.2.1 Objetivos Específicos 
+ 
+São os objetivos específicos qu e podem auxiliar na solução do problema ou 
+apenas levantar outras informações. Também posso levantar algumas hipóteses 
+--- PAGE 31 ---
+32 
+ 
+ 
+sugerindo o que pode vir a acontecer ou não, o que será confirmado pelo resultado da 
+pesquisa. 
+ 
+Quadro 1 – Exemplo de determinação de Objetivo de um Projeto 
+ 
+Uma empresa de alimentos pretende lançar no mercado uma pastilha roxa com um sabor novo. O 
+produto é posicionado para mulheres e seu preço é premium na categoria. Portanto, há necessidade 
+de pesquisar para identificar a opinião do públ ico-alvo sobre o produto, de forma que estes forneçam 
+informações se o produto agradou ou não, motivos, de forma que a empresa possa adequar o sabor 
+conforme os resultados do estudo realizado.  
+ 
+Objetivo Geral: avaliar a aceitação de uma pastilha com sabor inédito roxo. 
+Objetivos Específicos: levantar as seguintes informações –  
+ Perfil demográfico (idade, escolaridade, classe social, etc);  
+ Hábito de consumo de pastilhas (marcas que consome, sabores consumidos e preferidos);  
+ Degustação da pastilha e avaliaç ão por atributos (avaliação geral, teor da doçura, 
+consistência, cor, tamanho, durabilidade).  
+Fonte: Adaptado de Martins (2017) 
+ 
+3.6.3 Tipos de Pesquisa  
+ 
+Neste item, você deverá determinar quais são os tipos de pesquisa quanto aos 
+objetivos a serem utilizados no seu plano de negócio (Figura 1).  
+ 
+Figura 1 – Tipos de Pesquisa de Marketing 
+ 
+Fonte: Samara e Barros (2002), adaptado. 
+ 
+--- PAGE 32 ---
+33 
+ 
+ 
+Com a finalidade de auxiliar o discente no desenvolvimento do percurso 
+metodológico de sua pesquisa, pode-se ressaltar que todo estudo de mercado costuma 
+ser elaborado com o objetivo de levantar informações para buscar alguma solução ou 
+oportunidades tais como as que constam na Tabela 1:  
+ 
+Tabela 1 – Busca de Soluções e/ou Oportunidades para o Negócio 
+Descobrir a qual é a participação de mercado ( Market Share ) de determinada marca na categoria de um 
+produto/serviço;  
+Saber qual é o perfil demográfico, socioeconômico e psicológico do consumidor de um produto/serviço;  
+Determinar o grau de satisfação dos usuários com relação aos produtos e serviços; 
+Encontrar as razões de rejeição/ não uso do produto;  
+Definir os pontos fortes e os pontos fracos do produto/serviço, na percepção do usuário;  
+Decidir quais critérios podem ser utilizados para identificar e compor a estratégia de segmentaçã o de 
+mercado. 
+Fonte: Adaptado de Samara e Barros (2002) 
+ 
+3.6.4 Cálculo Amostral  
+ 
+O discente deve identificar Universo/População do público alvo do seu negócio a 
+fim de, posteriormente, calcular a Amostra para a qual será aplicada a pesquisa de 
+campo.   
+Salienta-se que as pessoas a serem ouvidas (amostra) devem representar de 
+modo bastante exato a População determinada, o que faz com que assumam um 
+caráter conclusivo. Portanto, é necessária a realização de um cálculo amostral  com 
+base em técnicas rigorosas,  podendo-se utilizar programas estatísticos como o 
+StatDisk, que pode ser encontrado na internet gratuitamente. 
+O pesquisador não pode prescindir de filtrar quem vai responder à pesquisa, de 
+modo a assegurar que só serão ouvidas pessoas dentro do perfil de sejado, para que 
+haja uma fidelidade absoluta ao que foi definido na amostra. 
+ 
+Ligados na dica! 
+A exatidão estatística dos resultados de um levantamento de dados depende de quantas pessoas 
+serão entrevistadas, ou seja, do tamanho da amostra . Quanto maior a  amostra, menor a 
+probabilidade de erro; quanto menor a amostra, maior a probabilidade de erro.  
+ 
+Em outras palavras: a margem de erro aumenta à proporção que o tamanho da amostra diminui. As 
+necessidades de exatidão devem ser estabelecidas logo no planeja mento do estudo em função da 
+importância que ele tem para a empresa, isto é, em função do risco envolvido na decisão a ser 
+--- PAGE 33 ---
+34 
+ 
+ 
+tomada. 
+ 
+Isso determinará a margem de erro tolerável e, portanto, o menor tamanho de amostra que poderá 
+ser utilizado.  No entanto, em se tratando de pesquisa de mercado, esses níveis nem sempre podem 
+ser atingidos em função de custo e de prazos. Ainda assim, deve -se procurar a todo custo trabalhar 
+com margens de erros inferiores a 5%, a não ser que o tipo de estudo justifique decisão e m 
+contrário. 
+ 
+Já o intervalo de confiança mostra o quanto é possível confiar nos resultados.  
+Um intervalo de confiança de 95%, por exemplo, indica que, se fossem feitas 100 pesquisas para  
+o mesmo fim e com a mesma metodologia, em 95 delas, os resultados estariam dentro das margens 
+utilizadas, e que a tolerância seria de 5 pesquisas erradas – 5%. 
+ 
+As situações mais frequentes de uso de pesquisas qualitativas são aquelas em 
+que se pretende: 
+ mapear determinado problema ou produto, em relação ao qual não se d isponha 
+de informações anteriores; 
+ verificar mudanças de valores, hábitos e atitudes do consumidor; 
+ avaliar reações a novos produtos ou a mudanças em produtos já conhecidos, 
+ inclusive de embalagens, rótulos, sabores, aromas, cores...; 
+ qualificar o posicion amento de determinada marca em um segmento de 
+mercado; 
+ conhecer os motivos que balizam a preferência ou a rejeição a determinadas 
+marcas ou produtos – likes e dislikes; 
+ interpretar informações novas, inesperadas ou imprevistas, obtidas em pesquisa 
+quantitativa anterior. 
+ 
+3.6.5 Pré-teste 
+ 
+Em primeiro lugar, é necessário que seja feito um pré-teste do questionário para 
+verificar as possíveis reações dos questionados, o entendimento das questões e o 
+tempo despendido nas entrevistas (quando houver necessidade d e aplicar 
+questionários).  
+O pré-teste deve ser feito com pessoas que se encontrem no mesmo perfil e 
+nas mesmas regiões geográficas do respondente do questionário. Assim, poderemos 
+ter a real sensação do que poderá ocorrer no momento em que estivermos faze ndo o 
+trabalho de campo (CASTRO, 2008). 
+--- PAGE 34 ---
+35 
+ 
+ 
+ O número de questionários a serem testados como pré -teste é o equivalente a 
+10% da Amostra.  
+ 
+3.6.6 Coleta de Dados 
+ 
+O trabalho de campo consta na coleta dos dados necessários para 
+solucionar o problema , no registro de informações obtidas  e posterior análise e 
+interpretação dos dados reunidos.  
+ Para realizar a coleta de dados, você deverá descrever como os dados serão 
+obtidos no projeto.  Na pesquisa de marketing costumam ser usados 3 métodos, 
+conforme pode ser visualizado no Quadro 2: 
+ 
+Quadro 2 – Métodos de Pesquisa de Marketing 
+MÉTODO EXPLICAÇÃO 
+OBSERVAÇÃO - O pesquisador observa o comportamento.  
+Ex.: Vou num supermercado e fico observando 
+um consumidor de chocolate – como ele observa 
+a gôndola, manipulação do produto, quais itens 
+verifica, como escolhe o produto. 
+- Nesse tipo de situação sugere-se que sejam 
+observados grande quantidade de casos.  
+INQUÉRITO OU CONTATO - Pessoal (abordagem): Entrevistador pesquisa 
+pessoalmente o entrevistado. Deve-se tomar o 
+cuidado para que o entrevistador não interfira 
+nas respostas. 
+- Telefone: impessoal, custo relativamente mais 
+barato e rápido. Imparcialidade e menos adesão 
+dos candidatos. 
+- Correspondência: Grande alcance geográfico. 
+As questões devem ser simples e fáceis de 
+responder. Existe grande número de recusas é 
+--- PAGE 35 ---
+36 
+ 
+ 
+mais lento e mais custoso. 
+- Aplicação de formulário de pesquisa 
+INTERATIVO Este acontece entre o consumidor e o 
+computador. As respostas são diretamente em 
+um programa. Assim como no método por 
+inquérito, as perg untas devem ser mais simples 
+em razão do entrevistador não poder 
+acompanhar o entrevistado, com a finalidade de 
+obter erros de interpretação dos dados por parte 
+da pessoa que irá responder as questões.  
+Fonte: Manual Plano de Negócios - FACEMP. 
+ 
+3.6.7 Análise e Interpretação dos Dados 
+ 
+ Depois de coletadas as informações, reúna os dados, leia todos com atenção e 
+elabore uma crítica objetiva sobre estes: evidencia -se que o “pesquisador não pode 
+incorporar no seu trabalho conclusões alheias que não repousem s obre provas 
+convincentes”. (CERVO, 2002, p. 99)  
+ Sugere-se, portanto, que neste item o discente relacione os problemas existentes 
+na pesquisa e discorra sobre soluções encontradas, de forma breve, objetiva e precisa.  
+ Cabe, neste momento: 
+ Apresentar as informações obtidas pelos tipos de pesquisa de mercado utilizados 
+sejam estes Exploratório, Descritivo, Experimental (opiniões, sugestões 
+registradas). 
+ Relatar as descobertas de pesquisas realizadas pelo método de Observação 
+(direta e/ou indireta); Inquérito ou Contato; Interativo. 
+ Apresentar os gráficos elaborados depois de ter analisado os questionários e/ou 
+entrevistas (pesquisas quanti e qualitativas).   
+ Apresentar qual será a abordagem da empresa em relação a cada segmento 
+identificado. 
+ 
+ 
+--- PAGE 36 ---
+37 
+ 
+ 
+4 GESTÃO ESTRATÉGICA 
+ 
+Neste capítulo, deve -se construir com base em modelos apresentados, uma 
+avaliação estratégica do negócio.  
+Sugere-se explicar o que é gestão estratégica e sua importância para a 
+elaboração do Plano de Negócio, iniciando pela Missão, Visão e Valores  que 
+representam a identidade organizacional das empresas.  
+No caso de reestruturação de uma empresa, o discente deverá avaliar a atual 
+gestão estratégica do negócio, mesmo que este não seja formal; para, a partir dese 
+levantamento, possa propor novas estratégias para o negócio.  
+ 
+4.1 MISSÃO DA EMPRESA 
+ 
+Philip Kotler defende a ideia de que “uma missão bem difundida desenvolve nos 
+funcionários um senso comum de oportunidade, direção, significância e realização” 
+(KOTLER, 2005).  
+Uma empresa não se define pelo  seu nome, estatuto ou produto que faz; ela se 
+define pela sua missão. Trazer a voz do autor sobre o tema deste item e apresentar a 
+Missão criada para a empresa. 
+ 
+4.2 VISÃO DA EMPRESA 
+  
+A visão representa um horizonte almejado para alcance pela empresa. O 
+conceito de visão pode ser definido como uma descrição da sua auto -imagem futura, 
+como ela se enxerga daqui a “x” anos a frente, como ela gostaria de ser lembrada. 
+Trazer a voz do autor sobre o tema deste item e apresentar a Visão criada para a 
+empresa. 
+ 
+4.3 VALORES DA EMPRESA 
+ 
+--- PAGE 37 ---
+38 
+ 
+ 
+Elencar e explicar neste tópico, os valores da empresa; observar que para o 
+ambiente organizacional estes norteiam a conduta e permeiam comportamentos no 
+funcionamento de toda estrutura. Definem as formas de relacionamento interno, b em 
+como perante os clientes, fornecedores e sociedade, que são partes interessadas 
+também no negócio. 
+ 
+4.4 NEGÓCIO DA EMPRESA 
+ 
+Apresentar descrição sucinta do negócio da empresa. 
+ 
+4.5 SETOR DE ATIVIDADE  
+ 
+Apresentar o ramo de atuação da empresa. A empresa pode ser industrial, 
+comercial ou de prestação de serviço. Ainda terceiro setor, como uma ONG 
+(organização não governamental). Dentro dessas atividades, trazer explicação do ramo 
+específico. Na indústria, por exemplo, o ramo pode ser uma metalúrgica, uma fábrica de 
+móveis ou fábrica de roupas. As indústrias são as empresas que transformam uma 
+matéria-prima em uma mercadoria. Já as empresas do  comércio, atendem diretamente 
+o consumidor final e, geralmente, revendem itens comprados de fornecedores. 
+Possíveis ramos são lojas de roupas, farmácias, supermercados e lojas de produtos 
+naturais. Nos serviços, não se vende produtos, mas presta uma atividade útil ao cliente. 
+São exemplos de serviços: táxi, lavanderia, curso de idiomas, escritório de 
+contabilidade são negócios cuja proposta de valor é a prestação de um serviço. 
+ 
+4.6 ANÁLISE ESTRATÉGICA  
+ 
+Nesta etapa, o aluno deve preparar e apresentar o diagnóstico e o prognóstico 
+da empresa em estudo. Para isso, deverá ser realizada: uma pesquisa bibliográfica 
+sobre o t ema, coleta dos dados no campo da pesquisa, análise do cenário no qual a 
+empresa está inserida, e apresentação das ações estratégicas que deverão guiar a 
+empresa para um futuro promissor e inovador.  
+Sugere-se que o aluno: 
+--- PAGE 38 ---
+39 
+ 
+ 
+ Seja objetivo, apresente estratégias objetivas, exequíveis, precisas, flexíveis.  
+ Busque eficiência operacional no seu negócio. 
+ Apresente e compreenda os pontos fortes e fracos, ameaças e oportunidades. 
+ Defina os objetivos e metas.  
+ Formule as estratégias (soluções ou medidas recomendadas) e demonstre como 
+estas serão implementadas.  
+ Apresente como será realizado o controle e retorno das informações do 
+planejamento estratégico.  
+ Elabore o diagnóstico e apresente onde se encontra o melhor resultado da 
+empresa, para fazer disto sua vantagem competitiva. 
+ 
+4.6.1 Modelo das Cinco Forças de Porter 
+ 
+O modelo das Cinco Forças de Porter  é opcional para a elaboração do plano, 
+pois depende do setor de atividade que a empresa está inserida. Este modelo auxilia na 
+análise do grau de atratividade de um s etor da economia. Ele identifica os “fatores que 
+afetam a competitividade, dentre os quais uma das forças está dentro do próprio setor, 
+sendo que os demais são externos” (ADMINISTRADORES, 2017). 
+Observa-se que é essencial para uma empresa , possuir profundo conhecimento 
+de suas forças rivais para desenvolver seu planejamento estratégico. 
+ 
+4.6.2 Estudo PEST 
+ 
+Nesta etapa, você deverá elaborar um estudo das tendências do macroambiente 
+(oportunidades e ameaças) que possam vir a afetar uma empresa em análise que 
+precise ter seu Planejamento realizado ou reestruturado é essencial. Para isso, devem -
+se analisar todos os fatores externos tais como os Políticos, Econômicos, Sociais (e 
+Ambientais) e Tecnológicos – PEST -.  
+Esta é uma ferramenta criada para compreender a s perspectivas agregadas às 
+decisões mercadológicas que buscam avaliar as variáveis políticas e legais, 
+--- PAGE 39 ---
+40 
+ 
+ 
+econômicas, sociais e tecnológicas que podem interferir positiva ou negativamente 
+impactando o negócio. 
+A principal característica dessas variáveis externas reside no princípio de que as 
+mesmas não estão sob controle das organizações; o que faz necessária a criação de 
+condições para que a empresa seja eficaz na tomada de decisões diante das ameaças 
+e oportunidades relativas ao ambiente onde a empresa estará atuando. 
+Em razão disso, o aluno deve analisar quais são tendências que podem ser 
+oportunidades e/ou ameaças para seu futuro negócio a fim de estar preparado para 
+enfrentar o mercado a fim de elaborar estratégias de ação adequadas. 
+ 
+4.6.3 Análise da Matriz SWOT 
+  
+O aluno deve elaborar, neste tópico a  Matriz SWOT e apresentar sua análise: 
+diagnóstico e prognóstico.  A análise  SWOT, também conhecida como análise FOFA  
+em português, é uma análise pautada no equilíbrio entre o ambiente interno de uma 
+empresa – Forças ( Strenghts) e Fraquezas ( Weaknesses) – e o ambiente externo – 
+Oportunidades (Opportunities) e Ameaças (Threats).  
+Sugere-se que sejam e stabelecidos os pontos fortes e fracos da empresa 
+(variáveis internas) e as ameaças e oportunidades (variáveis i ncontroláveis). Observa-
+se que as variáveis incontroláveis são detectadas no estudo PEST. 
+Poderá ser seguido o modelo do Figura 2, conforme proposto a seguir: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 40 ---
+41 
+ 
+ 
+Figura 2 – Exemplo de Quadro de Mapeamento da Matriz SWOT  
+ 
+Fonte: (AGEDOR, 2017) adaptado. 
+ 
+ 
+4.6.4 Balanced Scorecard 
+ 
+Nesta etapa, o aluno deve realizar uma pesquisa bibliográfica sobre o tema 
+Balanced Scorecard. Ressalta-se que este item é opcional.  
+As principais dimensões consideradas no Balanced Scorecard: 
+ 
+ Perspectiva dos Clientes: O  intuito aqui é acompanhar de maneira clara como a 
+empresa está entregando valor para seus clientes, utilizando -se indicadores de 
+satisfação e resultados (como pesquisas) e sempre se levando em consideração 
+o prazo, a qualidade, o custo e o desempenho dos produtos ou serviços. 
+ Perspectiva dos Processos: Consiste em identificar e  mapear os 
+processos essenciais para a realização dos objetivos da empresa, 
+implementando sobre eles a gestão de melhoria contínua. Deve-se ter em mente 
+principalmente os processos que agregam valores aos produto e serviços, criam 
+valores para investidores e acionistas e que  tenham potencial de atrair e 
+conquistar clientes. 
+ Perspectiva do Crescimento: Visa garantir o crescimento da empresa a médio e 
+em longo prazo, através de investimentos em equipamentos, em pesquisa e 
+desenvolvimento de novos produtos e serviços e em capaci tação dos recursos 
+--- PAGE 41 ---
+42 
+ 
+ 
+humanos. É feita uma minuciosa análise afim de que se possa identificar qual 
+infraestrutura da empresa pode e deve receber aplicação de recursos. 
+ Perspectiva Financeira: Nesta dimensão, os principais objetivos são garantir 
+retorno aos in vestimentos efetuados no negócio,  gerenciar adequadamente os 
+riscos envolvidos no negócio e aprimorar con tinuamente tanto a  Governança 
+Corporativa como a Governança de TI. Os objetivos finance iros devem estar 
+alinhados ao planejamento estratégico da empresa, e as variáveis de receita e 
+produtividade aparecem como ótimos indicadores de desempenho das ações já 
+realizadas e como meios de se projetarem as que ainda estão por vir. 
+ 
+Benefícios advindos da implementação do Balanced Scorecard: 
+ 
+ Converte estratégias em objetivos, e objetivos em ações efetivas. 
+ Dá aos gestores uma visão ampla e sistematizada do desempenho operacional. 
+ É um processo constante de mensuração e atualização de planos e metas. 
+ Facilita e otimiza a comunicação interna e externa da organização. 
+ Permite desenvolver uma cultura de aprendizagem e melhoria continua. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 42 ---
+43 
+ 
+ 
+Figura 3 – Perspectivas do Balanced Scorecard (BSC) 
+ 
+Fonte: (PORTAL ADMINISTRADOR, 2014) adaptado.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 43 ---
+44 
+ 
+ 
+5 PLANO DE MARKETING  
+ 
+Neste capítulo o(s) aluno(s) deverão explanar sobre a importância de 
+desenvolver um plano de marketing para suas empresas, tanto a curto quanto a longo 
+prazo.  
+Estabeleça qual a é fatia de mercado que a empresa deseja atingir ;  para isso, 
+deve ser comprovada a capacidade produtiva e a demanda descobertas n o estudo de 
+mercado.  
+Elabore e apresente como serão desenvolvidas as estratégias de marketing de 
+sua empresa. 
+ 
+5.1 O COMPOSTO DE MARKETING 
+ 
+Apresentar e descrever os principais produtos e serviços da empresa. 
+  (Definição do composto, mix, entre outros) 
+ 
+5.1.1 Produto/Serviço 
+   
+Descreva os principais produtos e serviços e as ações estratégicas direcionadas 
+à este “P”, suas características. 
+ 
+5.1.1.1 A Marca 
+ 
+Explicar o significado da marca e as cores utilizadas, caso tenha sido criada com 
+tal diferencial.  
+Marca na íntegra / conceito – o que justifica a marca / cores escolhidas 
+- Logotipo 
+            Tipologia da Marca – a parte escrita e letra escolhida 
+- Logomarca 
+            Desenho / símbolo que compõe a marca 
+- Slogan 
+            Frase de impacto que ajuda a posicionar marca/produto/instituição. 
+  
+--- PAGE 44 ---
+45 
+ 
+ 
+5.1.1.2 Embalagem e Rotulagem 
+           
+   Embalagens e rótulos com as devidas informações 
+ 
+5.1.1.3 Garantia 
+ 
+Estabelecer quais serão as garantias que a empresa irá oferecer para o mercado 
+consumidor. 
+   O que garante a qualidade do seu produto/serviço? 
+ 
+5.1.1.4 Posicionamento 
+           
+ Qual a imagem quer construir na mente do seu público-alvo, com destaque para 
+o(s) diferenciais.  
+ Posicionar a empresa no mercado de forma a se diferenciar da concorrência. 
+ 
+5.1.2 Preço 
+             
+Defina suas estratégias de preço considerando seu negócio, seu público e seus 
+concorrentes, além de observar promoções, segmentação, sazonalidade. 
+Estabeleça quais critérios de precificação que serão utilizados pela empresa; táticas 
+de negociação e procedimentos de fixação de preços.  
+ 
+a) Mencionar os diferenciais que serão considerados nos preços do produtos e/ou 
+serviços a serem oferecidos aos clientes.  
+b) Criar estratégias para aumentar a percepção do valor do produto e/ou serviço, 
+por parte dos consumidores.  
+ 
+5.1.3 Praça 
+             
+Definição, descrição e ações quanto aos canais de distribuição e o Ponto de 
+Venda, incluindo suas características. 
+ 
+--- PAGE 45 ---
+46 
+ 
+ 
+5.1.3.1 Localização do Negócio 
+ 
+Neste, subitem deverão ser apresentadas as características principais do local  
+onde será instalado o empreendimento. Precisam também ser apresentadas as 
+justificativas para a escolha do referido local e como este ajudará na estratégia de 
+marketing da empresa.  
+Sugere-se comentar os seguintes itens, quando cabíveis:  Área comercial 
+movimentada; Área para vitrines; Bom acesso rodoviário; Concorrente mais próximo; 
+Entrada de serviço para entregas; Estado do imóvel; Facilidade de entrada e saída; 
+Facilidade de estacionamento; Fluxo de tráfego; Histórico do local; Localização da rua; 
+Melhorias exigidas na locação; Passagem de pedestres; Preço do aluguel; Serviços 
+urbanos; Taxa de ocupação do local; Tempo de contrato do aluguel; Transporte público; 
+Zoneamento adequado. 
+ 
+5.1.3.2 Forma de Comercialização 
+ 
+            Explicar como fará a comercialização do seu negócio – no PDV, força de venda 
+interna e/ou externa, online, telefone, delivery e entre outros.  
+ 
+5.1.4 Promoção 
+           
+ Definição das ações estratégicas de comunicação integrada e seus devidos 
+canais com objetivo de informar ao target a existência do produto, seus diferenciais e 
+onde encontrá-lo 
+ 
+5.1.4.1 Propaganda/Mídias 
+ 
+Divulgações externas – cartão de visita, folhetos, folder, catálogo, mala direta, 
+rádio, outdoor, busdoor, tv, entre outros.  
+ 
+5.1.4.2 Promoção de Vendas 
+ 
+--- PAGE 46 ---
+47 
+ 
+ 
+Ações no PDV para incentivar/alavancar vendas – brinde, concurso cultural, 
+degustação, sorteio.  
+ 
+5.1.4.3 Merchandising 
+ 
+Estratégia de visibilidade no PDV – cartazes, wobbler, ilha. 
+ 
+5.1.4.4 Marketing de Relacionamento 
+ 
+Estratégias de marketing de relacionamento que a empresa irá colocar em 
+prática para conquistar e fidelizar seus clientes. 
+ 
+5.1.5 Posicionamento de Mercado  
+ 
+Definir público alvo demograficamente, etc. 
+ 
+5.2 VANTAGEM COMPETITIVA 
+ 
+Descrever qual(is) a(s) vantagem(ens) competitiva(s) que a empresa pos sui. 
+Sempre que for possível, criar elementos de diferenciação para se destacar da 
+concorrência. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 47 ---
+48 
+ 
+ 
+6 PLANO OPERACIONAL  
+ 
+Neste item, plano operacional, o autor descreve como funcionará o negócio; o 
+layout a ser utilizado na empresa, a sua ca pacidade produtiva prevista, necessidade de 
+pessoal e uma descrição do modelo de gestão a  ser utilizado. Pode tomar como 
+base os critérios de excelência empresarial.  
+Inserir procedimentos operacionais da empresa. 
+ 
+6.1 LAYOUT OU ARRANJO FÍSICO 
+ 
+ Deverá ser  apresentada a planta da estrutura da empresa com as devidas 
+referências dos espaços utilizados. O Layout pode ser como processo, fluxo, etc. 
+ 
+6.2 CAPACIDADE PRODUTIVA/COMERCIAL/SERVIÇOS  
+ 
+ Descrever a capacidade de produção total da planta a ser instalada , referente 
+aos produtos e serviços a serem ofertados; descrever se será utilizada totalmente logo 
+de início ou se haverá uso ao longo do tempo.  
+ 
+6.3 PROCESSOS OPERACIONAIS  
+ 
+6.3.1 Fluxograma 
+  
+ Apresentar fluxograma do processo produtivo e de vendas. 
+  
+6.3.2 Tecnologia 
+ 
+Expor qual tecnologia será utilizada na empresa, destacando o motivo de sua 
+utilização e qual será o ganho para a empresa em utilizá-la. 
+ 
+6.4 NECESSIDADE DE PESSOAL  
+ 
+--- PAGE 48 ---
+49 
+ 
+ 
+Neste subitem, o aluno deverá detalhar a quantidade de pessoas que serão  
+necessárias na empresa e destacar seu cargo e remuneração.  
+ 
+6.4.1 Terceirização 
+ 
+Descrever se a empresa utilizará serviços terceirizados. Caso utilize, descreva os 
+motivos e qual será o ganho para empresa.  
+  
+6.4.2 Parcerias 
+ 
+Descrever se a empresa utili zará parceria. Destacar quais.  Caso utilize, explicar 
+os motivos e qual será o ganho para empresa.  
+  
+6.5 MODELO DE GESTÃO 
+  
+Ao definir o modelo de gestão, o aluno deve analisar qual a forma ou padrão que 
+pode ser seguido para o gerenciamento do negócio. N este tópico, o aluno deve definir 
+de que maneira será o modelo de gestão de acordo com as atividades -fim do seu 
+negócio, levando em consideração que o “gerir” depende da necessidade de cada 
+organização. 
+Por exemplo, se a empresa em questão é uma fábrica de  móveis, esta poderá 
+adotar o modelo de gestão baseado nas normas ISO 9001.  Caso seja uma fábrica de 
+produtos alimentícios, o uso da B.P.F. (Boas práticas de fabricação) atende muito bem 
+ao modelo de negócio.  
+Caso seja uma empresa comercial, deve-se atentar para modelos relacionados à 
+gestão de pessoas em si, já que uma gestão eficaz é um fator de sucesso para as 
+organizações. Modelos de gestão nessa área podem ser baseados em ferramentas de 
+sucesso para controle de atividades, como Ciclo PDCA, a própria M EG (Modelo de 
+Excelência na Gestão), Planos de Ação, 5W2H, modelo 5S, etc. Cabe ao aluno realizar 
+uma pesquisa visando atender a este item do Guia de plano de negócio. 
+--- PAGE 49 ---
+50 
+ 
+ 
+Nesta etapa, portanto, deverá apresentado o modelo de Gestão que será 
+utilizado pela emp resa, justificar de acordo com o modelo de negócio, sendo 
+fundamentado pelos devidos autores. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 50 ---
+51 
+ 
+ 
+7 PLANO FINANCEIRO  
+ 
+O Plano Financeiro tem a finalidade de apresentar a viabilidade financeira da 
+entidade objeto do Plano de Negócio. Nesta etapa o aluno deverá ser claro e objetivo o 
+bastante para demonstrar por meio dos prováveis números e valores como a entidade 
+se manterá. Além de utilizar de demonstrativos, tabelas, quadros ou gráficos o aluno 
+também deverá descrever cada objeto apresentado, tornando claro para o leitor toda a 
+estrutura financeira do empreendimento.  
+Observa-se que no caso de reestruturação de empresa, o(s) discente(s) deve 
+apresentar as informações financeiras obtidas sobre a empresa em questão. 
+É neste capítulo que se conclui o trabalho; portanto, é importante uma linguagem 
+objetiva, focando nos índices financeiros que demonstram a viabilidade do negócio, 
+sem perder de vista, é claro, os demais aspectos da organização. 
+As partes do Plano Financeiro são: 
+ 
+ Demonstrativo de Investimento 
+ Estrutura do Capital – Capital Próprio e Capital de Terceiros 
+ Dimensionamento da Mão de Obra 
+  Diretoria/Administração e Mão de Obra Indireta 
+  Produção ou Mão de Obra Direta 
+  Terceirização ou Profissionais Autônomos 
+ Receitas 
+ Custos e Despesas 
+ Rateio (quando necessário) 
+ Impostos e Taxas 
+ Demonstrativo de Resultado 
+ Projeção do Fluxo de Caixa 
+ Análise do Investimento 
+  Análise do Ponto de Equilíbrio 
+  Pay-Back 
+  Rentabilidade 
+--- PAGE 51 ---
+52 
+ 
+ 
+  Lucratividade 
+Caixa Operacional Mínimo 
+Capital de Giro 
+Margem de Contribuição 
+Reserva Legal 
+ 
+7.1 DEMONSTRATIVO DE INVESTIMENTO 
+ 
+É uma Tabela ou Quadro que relaciona todos os itens que incluem o 
+Investimento Inicial, ou quando um Plano de Negócio de uma empresa existente refere-
+se ao Investimento atual + Investimento necessário para a nova estrutura empresarial. 
+ Deverá ser confeccionada por categorias, por exemplo: Construção Civil, Móveis 
+e utensílios, Despesas Pré -operacionais, Instalações, Máquinas e equipamentos, 
+Veículos, Softwares e Capital  de Giro. Apresenta quantidade, Valor Unitário e Valor 
+Total, e finaliza com o Valor Total do Investimento. 
+ 
+7.2 ESTRUTURA DO CAPITAL – CAPITAL PRÓPRIO E CAPITAL DE   TERCEIROS 
+ 
+ A estrutura do Capital deverá ser demonstrada por tabela, gráfico, ou quadro,  ou 
+até mesmo em forma textual, demonstra qual parcela do Total do Investimento será 
+proveniente de capital próprio dos sócios, se haverá empréstimos, e neste caso o prazo 
+e juros para pagamento, qual o percentual de cada sócio, ou seja, visa demonstrar a 
+origem dos recursos iniciais. Mesmo no caso de entidades do terceiro setor, o aluno 
+deverá esclarecer qual a provável fonte dos recursos. 
+ 
+7.3 DIMENSIONAMENTO DA MÃO DE OBRA 
+ 
+ Neste item o aluno apresentara de forma quantitativa sua mão de obra, 
+separando por cargos e apresentando os valores de remuneração assim também como 
+os encargos sociais incidentes sobre os rendimentos. Poderá ainda separar pelas 
+seguintes categorias: 
+--- PAGE 52 ---
+53 
+ 
+ 
+7.3.1 Diretoria/Administração e Mão de Obra Indireta 
+ 
+ Cargos de Diretoria, Gerência e Administração, neste item incluem também os 
+valores de Pró -Labore direcionados aos sócios, apresentando os demais cargos 
+indiretos como secretária, serviços gerais, etc. 
+ 
+7.3.2 Produção ou Mão de Obra Direta 
+ 
+ Os cargos diretamente ligados à produção sã o dimensionados neste tópico, no 
+caso de empresas industriais, os operários, no caso de empresas comerciais, os 
+vendedores, no caso de serviços os cargos de execução. 
+ 
+7.3.3 Terceirização ou Profissionais Autônomos 
+ 
+ Além das pessoas que trabalham na empre sa ou entidade, o Plano de Negócio 
+deverá apresentar os prestadores de serviços autônomos ou a mão de obra 
+terceirizada, como por exemplo: Contabilistas, Advogados, Limpeza terceirizada, 
+Consultoria especializada, etc. 
+ Todo esse dimensionamento poderá ser  apresentado por meio de tabela ou 
+quadro, sendo necessária a quantidade por cargo e o valor total de cada cargo, sendo 
+relevantes os encargos sociais incidentes sobre a remuneração. 
+ 
+7.4 RECEITAS 
+ 
+ No demonstrativo de receita, que poderá estar incluído no  Demonstrativo de 
+Resultado, o aluno apresentará qual a receita provável de cada produto, mercadoria ou 
+serviço, por mês, por ano e para os próximos três anos.  
+ 
+7.5 CUSTOS E DESPESAS 
+ 
+--- PAGE 53 ---
+54 
+ 
+ 
+ Para cada item da receita o aluno deverá apresentar o seu custo de aquisição ou 
+de produção assim também como demonstrar as despesas fixas como aluguel, água, 
+luz, seguros, material de uso e consumo, etc, conforme modelo disponível no programa 
+em uso. Caso prefira concentrar todas estas informações na demonstração de resultado 
+isso poderá ocorrer, que neste caso será de forma analítica. 
+ 
+7.6 RATEIO (QUANDO NECESSÁRIO) 
+ 
+ Quando a empresa comercializar mais de um tipo de mercadoria ou produto, 
+esta deverá ratear as despesas fixas, para atribuir a cada produto sua parcela de 
+absorção destas despesas. Isso servirá para averiguar a lucratividade de cada produto. 
+ 
+7.7 IMPOSTOS E TAXAS 
+ 
+ Neste item o aluno deverá apresentar em percentuais os impostos e taxas 
+incidentes sobre o faturamento da empresa, devem ser incluídos todos os trib utos 
+municipais, estaduais e federais que incidem sobre a compra e venda.  
+ 
+7.8 DEMONSTRATIVO DE RESULTADO 
+ 
+ Um dos relatórios mais importantes é o Demonstrativo de Resultado e servirá 
+principalmente para elucidar o resultado financeiro obtido pela empresa , este relatório 
+traz outras informações importantes como a receita obtida, a margem de contribuição, 
+custos e despesas.  
+ 
+7.9 ANÁLISE DO INVESTIMENTO 
+ 
+ A partir dos relatórios até aqui solicitados, o aluno deverá utilizar dos 
+mecanismos de análise de inve stimentos. Além dos solicitados aqui o autor poderá 
+acrescentar outros que sejam necessários e possíveis.  
+ 
+--- PAGE 54 ---
+55 
+ 
+ 
+7.9.1 Análise do Ponto de Equilíbrio 
+       
+ O Ponto de Equilíbrio (PE) indica o valor de receita que a empresa não tem lucro 
+nem prejuizo. Conhecer este valor é importante para definir metas de vendas, e manter 
+uma margem de segurança.  
+Quando possível, o aluno fará analise por produto ou linha de produto, além do 
+ponto de equilíbrio por quantidade.  
+ Elaborar o gráfico do ponto de equilíbrio com os valores obtidos. 
+DESPESAS ÷ (MARGEM DE CONTRIBUIÇÃO ÷ RECEITA) 
+7.9.2 Pay-Back 
+ 
+ O Pay-Back é o prazo de retorno do investimento, ou seja para cada real 
+investido na empresa, em quanto tempo este real retornará como Lucro. 
+ 1 ÷ (LUCRO LIQUIDO ÷ PATRIMÔNIO LÍQUIDO)   
+ Alguns autores defendem que o Pay-Back deverá ser calculado não com base no 
+lucro e sim com base no Fluxo de Caixa, o que é possivel, para isso é só averiguar qual 
+a sobra de caixa mensal e aplicar da seguinte forma:  
+[1 ÷ (Sobra de Caixa Mensal ÷ Patrimônio Líquido)] 
+ E ainda há o Pay -Back descontado que é calculado deduzindo desta sobra de 
+caixa mensal um percentual como se fosse um tipo de juros. 
+ O aluno deverá informar o Pay -Back em anos ou no caso de período inferior a 
+um ano informar a quantidade em meses. 
+ 
+7.9.3 Rentabilidade 
+ 
+A rentabilidade é o percentual do Lucro Líquido sobre o Investimento Inicial. 
+LUCRO LIQUIDO ÷ INVESTIMENTO INICIAL 
+--- PAGE 55 ---
+56 
+ 
+ 
+ 
+7.9.4 Lucratividade 
+  
+Obtêm-se a Lucratividade da empresa calculando o percentual do lucro sobre as 
+vendas. 
+LUCRO LIQUIDO ÷ VENDAS LÍQUIDAS 
+ 
+7.10 CAIXA OPERACIONAL MINIMO 
+ 
+Representa o volume mínimo de recursos financeiros de que uma empresa 
+necessita para financiar suas atividades operacionais.  
+ 
+7.11 CAPITAL DE GIRO 
+ 
+Capital de giro significa capital de  trabalho, ou seja, o capital necessário para 
+financiar a continuidade das operações da empresa, como recursos para financiamento 
+aos clientes (nas vendas a prazo), recursos para manter estoques e recursos para 
+pagamento aos fornecedores (compra de matéria -prima ou mercadorias de revenda), 
+pagamento de impostos, salários e demais custos e despesas operacionais. 
+ 
+7.12 MARGEM DE CONTRIBUIÇÃO 
+ 
+É o valor, ou percentual, que sobra das vendas, menos o custo direto variável e 
+as despesas variáveis. A margem de con tribuição representa o quanto a empresa tem 
+para pagar as despesas fixas e gerar o lucro líquido. 
+ 
+7.13 RESERVA LEGAL 
+ 
+A reserva legal deverá ser de 5% do lucro líquido de cada exercício fiscal até que 
+o valor total da mesma seja igual a 20% do capital social da Companhia. 
+--- PAGE 56 ---
+57 
+ 
+ 
+Entretanto, a Companhia não está obrigada a efetuar quaisquer destinações à 
+reserva legal em exercício fiscal no qual o saldo desta reserva, acrescido do montante 
+das reservas de capital, exceder 30% do total do capital social. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 57 ---
+58 
+ 
+ 
+8 CONSIDERAÇÕES FINAIS DO PLANO DE NEGÓCIO 
+ 
+ Seguir linhas gerais do item 3.2.3 Conclusão, que consta no Manual de 
+Metodologia da FACEMP. 
+Observa-se que no tópico Considerações Finais, deve ser argumentado por que 
+o autor do presente trabalho investiria no plano de negócio apresentado. 
+ 
+a) Dicas (não obrigatórias) dos autores do GPN para elaborar as Considerações 
+Finais do Plano de Negócio: 
+ 
+1. O aluno deve apresentar, de forma breve e sucinta , sua ideia de 
+negócio; qual é o objetivo principal a ser alcançado.  
+2. Apresentar sucintamente a metodologia de trabalho escolhida para 
+suas investigações a fim de comprovação dos fatos apresentados no 
+decorrer de sua pesquisa. 
+3. Descrever a pesquisa de campo e/ou mercado realizada; resumir, em 
+até dois parágrafos, as principais conclusões sobre a Análise de Dados 
+da Pesquisa de Mercado (pode ser em até 2 parágrafos). 
+4. O aluno, nesta etapa das considerações finais, deve relatar o que fez 
+com que ele desse sequência ao seu plano de negócio, visto que os 
+dados ob tidos até então, devem ter alimentado a área financeira e 
+dado suporte a grande parte do projeto. Que áreas de maior força a 
+empresa tem? Estratégia, Marketing, Pessoas? Como ela irá atuar?  
+5. Mostrar os principais tópicos da área financeira que o aluno cons idere 
+relevantes para que o investimento se torne atrativo e explicar o motivo 
+sucintamente (pode ser em até 2 parágrafos).  
+6. Argumentar, em até um parágrafo, por que  o autor do presente 
+trabalho investiria no plano de negócio apresentado. 
+ 
+ 
+ 
+ 
+--- PAGE 58 ---
+59 
+ 
+ 
+9 AÇÕES A CURTO PRAZO  
+ 
+Neste tópico deverão ser apresentadas as principais ações a curto prazo para 
+dar início à empresa; deverão ser estabelecidas depois de ter sido analisado todo o 
+plano de negócio.  
+Sugere-se a elaboração do processo das atividades iniciais, com o  uso do 
+método: 5W2H, a saber: 
+ 5W: What (o que será feito?) – Why (por que será feito?) – Where (onde será 
+feito?) – When (quando?) – Who (Por quem será feito?) 
+ 2H: How (como será feito?) – How much (quanto vai custar?) 
+ 
+. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 59 ---
+60 
+ 
+ 
+ 
+REFERÊNCIAS 
+ 
+Seguir indicações que constam no item 3 do Manual de Normalização de Trabalhos 
+Acadêmicos FACEMP.        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 60 ---
+61 
+ 
+ 
+APÊNDICES 
+ 
+Seguir indicações que constam no item 1.2.3 do Manual de Normalização de Trabalhos 
+Acadêmicos FACEMP.        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 61 ---
+62 
+ 
+ 
+ANEXOS 
+ 
+ 
+Seguir indicações que constam no item 1.2.3 do Manual de Normalização de Trabalhos 
+Acadêmicos FACEMP.        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 62 ---
+63 
+ 
+ 
+REFERÊNCIAS 
+ABRAHAMS, Jeffrey. 101 Missions Statements from top companies. United States: Ten 
+Speed Press, 2007. 
+ASCHER, Mario. Marketing y Clientes: como conseguirlos, retenerlos y crecer. 2 ed. Buenos 
+Aires: De Los Cuatro Vientos, 2007. 
+BERNARDI, Luiz Antonio. Manual de plano de negócio: fundamentos, processos e 
+estruturação.São Paulo: Atlas, 2008. 
+CARVALHO, Marly Monteiro de. (...).Gestão da qualidade: teoria e casos. Rio de Janeiro: 
+Elsevier, 2005. 
+CEOLHO, Fabiano S. Formação estratégica de precificação: como maximizar o resultado das 
+empresas. São Paulo: Atlas, 2007. 
+COSTA, Antonio. Marketing promocional para mercados competitivos. São Paulo: Atlas, 
+2003. 
+COSTA, Luiz G.T.A. Análise econômico de empresas. Rio de Janeiro: Editora FGV, 2008. 
+GRIFFIN, Ricky W.; MOORHEAD Gregory. Fundamentos do Comportamento 
+Organizacional. São Paulo: Ática, 2006. 
+KOTLER, Philip; KELLER, Kevin L. Administração de Marketing. 12 ed. São Paulo: Pearson 
+2005. 
+KOTLER, Philip. Administração de marketing. 12 ed. São Paulo: Pearson Prentice Hall, 2006. 
+LAS CASAS, Alexandre Luzzi. Marketing de Varejo.  4 ed.  São Paulo: Atlas, 2006. 
+MARCIAL, Elaine Coutinho. Cenários Prospectivos: como construir um futuro melhor. 4ªed. 
+Rio de Janeiro: Ed. FGV, 2006. 
+MESTRINGER; Fabio. Gestão Estratégica da Embalagem: uma ferramenta competitiva para 
+sua Empresa. São Paulo: Prentice Hall, 2007. 
+ NAGLE, Thomas T. Estratégias e táticas de preço: um guia para crescer com lucratividade. - 
+4.ed. – São Paulo: Pearson Education do Brasil, 2007. 
+PINHEIRO, Duda. Trabalho de conclusão de curso - TCC: guia prático para elaboração de 
+projetos de ... São Paulo: Atlas, 2009. 
+ 
+PORTER, Michael E. Estratégia Competitiva: Técnicas de Análise da Indústria e da  
+Concorrência.  2 ed. Rio de Janeiro: Elsevier, 2004.  
+--- PAGE 63 ---
+64 
+ 
+ 
+POLIZEI, Eder. Plano de Marketing. São Paulo: Cengage Learning, 2008. 
+RONALD, Swift. CRM, customer relationship management: o revolucionário marketing de 
+relacionamento com os clients.  Rio de Janeiro: Elsevier, 2001. 
+SAMARA, Beatriz S. Pesquisa de Marketing: Conceitos e Metodologia. 4 ed. São Paulo: 
+Pearson Prentice Hall, 2007. 
+SHETH, Jagdish N. Comportamento do cliente: indo além do comportamento do consumidor. 
+São Paulo: Atlas, 2001. 
+SILVA, José Pereira. Análise Financeira das Empresas. 5 ed. Atlas: São Paulo, 2001. 
+SHIMP, Terence A. Propaganda e promoção: aspectos complementares da comunicação 
+integrada de marketing. 5 ed. Porto Alegre: Bookman, 2002. 
+ZENONE, Luiz Claudio. Marketing Social. São Paulo: Thmson Learning, 2006. 
+ 

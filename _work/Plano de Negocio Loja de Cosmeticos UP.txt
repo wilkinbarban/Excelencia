@@ -1,0 +1,2712 @@
+
+--- PAGE 1 ---
+ 
+ 
+UNIVERSIDADE FEDERAL DA PARAÍBA – UFPB  
+Centro de Ciências Sociais Aplicadas – CCSA  
+Curso de Administração – CADM  
+ 
+ 
+ 
+ 
+ 
+ 
+PLANO DE NEGÓCIO: Loja de Cosméticos UP 
+ 
+ 
+ 
+ 
+ 
+ 
+ANA CAROLINA NOGUEIRA LEMOS CLEMENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+João Pessoa 
+Outubro, 2017 
+--- PAGE 2 ---
+ 
+ 
+ANA CAROLINA NOGUEIRA LEMOS CLEMENTE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PLANO DE NEGÓCIO: Loja de Cosméticos UP 
+ 
+Trabalho de Curso apresentado como 
+parte dos requisitos necessários à 
+obtenção do Grau de Bacharel a em 
+Administração, pelo Centro de Ciências 
+Sociais Aplicadas, da Universidade 
+Federal da Paraíba / UFPB.  
+ 
+Professor orientador: Marcelo de Souza 
+Bispo 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+João Pessoa 
+Outubro, 2017  
+--- PAGE 3 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Dados Internacionais de Catalogação na Publicação (CIP) 
+ 
+ 
+Gerada pelo Catalogar - Sistema de Geração Automática de Ficha Catalográfica do 
+CCSA/UFPB, com os dados fornecidos pelo autor (a) 
+ 
+CDU:658(043.2) UFPB/CCSA/BS 
+1. plano de negócios. 2. cosméticos. 3. empreendedorismo. 4. 
+maquiagem para atletas. I. Título. 
+Orientador(a): Profº Dr. Marcelo de Souza Bispo. 
+Trabalho de Conclusão de Curso (Administração) – UFPB/CCSA. 
+C626p Clemente, Ana Carolina Nogueira Lemos . 
+PLANO DE NEGÓCIOS: Loja de Cosméticos UP / Ana Carolina 
+Nogueira Lemos Clemente. – João Pessoa, 2017. 
+58f.: il. 
+--- PAGE 4 ---
+ 
+ 
+Folha de aprovação 
+ 
+Trabalho apresentado à banca examinadora como requisito parcial para a Conclusão de Curso 
+do Bacharelado em Administração  
+ 
+Aluno: Ana Carolina Nogueira Lemos Clemente 
+ 
+Trabalho: Plano de Negócio: Loja de Cosméticos UP 
+ 
+Área da pesquisa: Administração Geral  
+ 
+Data de aprovação:  
+ 
+ 
+ 
+Banca Examinadora 
+ 
+ 
+____________________________________ 
+Orientador: Marcelo de Souza Bispo 
+ 
+ 
+ 
+____________________________________ 
+Rosivaldo de Lima Lucena 
+ 
+ 
+ 
+____________________________________ 
+Membro 2 (opcional) 
+  
+--- PAGE 5 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DEDICATÓRIA: A minha família, meus 
+amigos e ao meu namorado pelo apoio dado 
+nessa minha jornada. 
+ 
+  
+--- PAGE 6 ---
+ 
+ 
+Agradecimentos 
+ 
+Primeiramente а Deus, que sempre me guiou e abençoou, permitindo que tudo isso 
+acontecesse, е não  somente nestes a nos como universitária, mas  em toda minha vida, meu 
+maior mestre. 
+A U niversidade Federal da Paraíba , em especial seu corpo docente, que edificou minha 
+trajetória acadêmica, e acarretou grandes oportunidades, experiências e aprendizados. 
+Ao Prof. Dr.  Marcelo de Souza Bispo  pela oportunidade е contribuição  na elaboração deste 
+trabalho. 
+Aos meus pais, Jaira e Pedro, pelo amor, incentivo е apoio incondicional. 
+Meus amigos , companheiros de  trabalhos е meu namorado, que fizeram parte da  minha 
+formação, е sempre acreditaram no meu potencial e me deram motivação. 
+A todos que direta ou indiretamente fizeram parte da minha formação, meu muito obrigada. 
+ 
+--- PAGE 7 ---
+6 
+ 
+ 
+SUMÁRIO 
+ 
+1 - Sumário Executivo-------------------------------------------------------------------------------07 
+1.1 – Resumo--------------------------------------------------------------------------------------- 07 
+1.2 - Dados dos empreendedores----------------------------------------------------------------07 
+1.3 - Missão da empresa--------------------------------------------------------------------------08 
+1.4 - Setores de atividade------------------------------------------------------------------------- 08 
+1.5 - Forma jurídica-------------------------------------------------------------------------------08 
+1.6 - Enquadramento tributário Âmbito federal-----------------------------------------------08 
+1.7 - Capital social--------------------------------------------------------------------------------- 09 
+1.8 - Fonte de recursos---------------------------------------------------------------------------- 09 
+2 - Análise de Mercado------------------------------------------------------------------------------09 
+2.1 - Estudo dos clientes------------------------------------------------------------------------09 
+2.2 - Estudo dos concorrentes ------------------------------------------------------------------ 10 
+2.3 - Estudos dos fornecedores----------------------------------------------------------------- 11 
+3 - Plano de Marketing------------------------------------------------------------------------------ 13 
+3.1- Produtos e serviços-------------------------------------------------------------------------13 
+3.2 - Preço------------------------------------------------------------------------------------------16 
+3.3 - Estratégias promocionais------------------------------------------------------------------ 16 
+3.4 - Estrutura de comercialização-------------------------------------------------------------- 17 
+3.5 - Localização do negócio-------------------------------------------------------------------- 17 
+4 - Plano Operacional--------------------------------------------------------------------------------18 
+4.1 - Leiaute---------------------------------------------------------------------------------------- 18 
+4.2 - Capacidade instalada-----------------------------------------------------------------------19 
+4.3 - Processos operacionais--------------------------------------------------------------------19 
+4.4 - Necessidade de pessoal-------------------------------------------------------------------19 
+5 - Plano Financeiro----------------------------------------------------------------------------------19 
+5.1 - Investimentos fixos------------------------------------------------------------------------19 
+5.2 - Estoque inicial-----------------------------------------------------------------------------21 
+5.3 - Caixa mínimo------------------------------------------------------------------------------25 
+5.4 - Investimentos pré-operacionais----------------------------------------------------------27 
+5.5 - Investimento total--------------------------------------------------------------------------27 
+5.6 - Faturamento mensal-----------------------------------------------------------------------28 
+5.7 - Custo unitário------------------------------------------------------------------------------33 
+5.8 - Custos de comercialização---------------------------------------------------------------47 
+5.9 - Apuração do custo de MD e/ou MV----------------------------------------------------48 
+5.10 - Custos de mão-de-obra-------------------------------------------------------------------53 
+5.11 - Custos com depreciação------------------------------------------------------------------53 
+5.12 - Custos fixos operacionais mensais------------------------------------------------------53 
+5.13 - Demonstrativo de resultados-------------------------------------------------------------54 
+5.14 - Indicadores de viabilidade----------------------------------------------------------------55 
+6 - Construção de Cenários------------------------------------------------------------------------- 56 
+6.1 - Ações preventivas e corretivas-----------------------------------------------------------56 
+7 - Avaliação Estratégica----------------------------------------------------------------------------57 
+7.1 - Análise da matriz F.O.F.A---------------------------------------------------------------57 
+8 - Avaliação do Plano-------------------------------------------------------------------------------58 
+8.1 - Análise do plano---------------------------------------------------------------------------58 
+  
+--- PAGE 8 ---
+7 
+ 
+ 
+ 
+1 - SUMÁRIO EXECUTIVO 
+ 
+1.1 - Resumo  
+ 
+Trata-se de projeto de implantação de uma loja especializada em produtos de beleza, a loja de 
+Cosméticos UP, localizada na cidade de João Pessoa. O empreendimento pretende oferecer 
+produtos com preço s acessíveis, além das tendências do mercado e o cuidado especial para 
+cada cliente, tendo em vista um público cada vez mais exigente. 
+A nova empresa pertencerá a Ana Carolina Nogueira Lemos Clemente, que é Bacharelanda 
+em Administração pela Universidade Federal da Paraíba, a qual possui amor pelos 
+cosméticos, aliado da oportunidade de empreender que ela visou. 
+Os produtos a serem oferecidos serão Batons, Pincéis, Bases faciais, Paleta de sombras, Cílios 
+postiços, Corretivos f aciais, Delineadores, Rímel, Iluminador facial, Maleta de maquiagem, 
+Pós compactos, Prim er, Lápis, e o nosso grande diferencial, maquiagens para atletas e 
+produtos de cuidado com a pele. 
+O público alvo serão mulheres, além de eventuais homens que se preocupam com a beleza e 
+profissionais da área, que buscam novidades, variedades e preço acessível. 
+O plano prevê investimento de reforma de imóvel da família, equipamentos, instalações, 
+divulgação e capital de giro. O investimento será da ordem de R$ 38 mil, sendo R$ 19 mil de 
+recursos próprios e outros R$ 19 mil de recursos financiados por meio d o Proger junto ao 
+Banco do Brasil. 
+ 
+Indicadores Ano 1  
+Ponto de Equilíbrio R$ 105.748,62 
+Lucratividade 62,14 % 
+Rentabilidade 630,42 % 
+Prazo de retorno do 
+investimento 2 meses 
+ 
+1.2 - Dados da Empreendedora 
+ 
+Nome: Ana Carolina Nogueira Lemos Clemente 
+Endereço: Rua João Murilo leite, 57 
+Cidade: João Pessoa Estado: Paraíba 
+Perfil: 
+--- PAGE 9 ---
+8 
+ 
+ 
+Jovem empreendedora, bacharelanda do curso de Administração pela 
+Universidade Federal da Paraíba, possui o perfil de Cuidadora, foca no aqui e 
+agora, avalia situações com precisão, e gosta de auxiliar nas necessidades 
+imediatas dos outros de uma forma direta e prática. Ela presta atenção aos 
+detalhes e se concentra nos acontecimentos diários das pess oas. Gosta de 
+trabalhar no atendimento ao cliente, já que valoriza as oportunidades de interagir 
+com as pessoas no trabalho. Também tende a criar networking e ajudar os outros. 
+Atribuições: 
+Gerente 
+Atender o público 
+ 
+1.3 - Missão da Empresa  
+ 
+Realçar e cultivar a beleza que existe em você. 
+ 
+1.4 - Setores de Atividade  
+ 
+ Comércio 
+ 
+1.5 - Forma Jurídica  
+ 
+Empresário Individual 
+ 
+1.6 - Enquadramento Tributário  
+ 
+Âmbito federal  
+ 
+Regime Simples 
+(x) Sim 
+(  ) Não 
+        IRPJ – Imposto de Renda Pessoa Jurídica 
+        PIS – Contribuição para os Programas de Integração Social 
+        COFINS – Contribuição para Financiamento da Seguridade Social 
+        CSLL – Contribuição Social sobre o Lucro Líquido 
+        IPI – Imposto sobre Produtos Industrializados (apenas para indústria) 
+        ICMS - Imposto sobre Circulação de Mercadorias e Serviços 
+        ISS - Imposto sobre Serviços. 
+  
+--- PAGE 10 ---
+9 
+ 
+ 
+1.7 - Capital Social  
+ 
+Nº Sócio Valor Participação (%) 
+1 
+Ana Carolina Nogueira Lemos 
+Clemente R$ 37.582,49 100,00 
+Total  R$ 37.582,49 100,00 
+ 
+1.8 - Fonte de Recursos  
+Os recursos para implantação da empresa serão  50% por parte própria e a outra metade 
+através de empréstimo por meio do Proger junto ao Banco do Brasil. 
+ 
+2 - ANÁLISE DE MERCADO  
+ 
+2.1 - Estudo dos Clientes  
+ 
+Público-alvo (perfil dos clientes) 
+Pessoas físicas, na maioria mulheres entre 15 -60 anos, residentes na capital de João Pessoa 
+em domicílios particulares com salário médio mensal de 2.7 salários mínimos. Além de 
+atletas que querem fazer seus exercícios sem abrir mão da s maquiagens e cuidados com a 
+pele. 
+ 
+Comportamento dos Clientes (interesses e o que os levam a comprar) 
+O que leva o consumidor a comprar cosméticos é justamente os benefícios e na satisfação que 
+os cosméticos trazem aos consumidores, tendo os estímulos in teriores - desejo de melhor 
+aparência, bem -estar e autoestima -como principais motivadores para a compra de 
+cosméticos. Os estilos de vida diferenciam o comportamento de compra vi sto que cada 
+indivíduo procura a queles produtos que se assemelhem aos seus go stos, preferências e 
+personalidades. Com isso, conclui -se que o comportamento de compra dos consumidores se 
+dá a partir de um processo de busca de informações e benefícios percebidos 
+ 
+Área de Abrangência (onde estão os clientes?) 
+O mercado de cosméticos é abrangente, grande parte dos nossos clientes são os que passam 
+pela rua, pois é uma avenida comercial além de todo nosso público que atingiremos através de 
+publicidade e propaganda. A empresa , além de ter a loja física localizada no Bairro da Torre, 
+investirá nas redes sociais como Instagram, F acebook e WhatsApp , para atender o maior 
+número possível de clientes no Estado, e para que eles encontrem facilmente a loja. 
+  
+--- PAGE 11 ---
+10 
+ 
+ 
+2.2 - Estudo dos Concorrentes 
+  
+Empresa Qualidade Preço Condições 
+de 
+Pagamento 
+Localização Atendimento Serviços 
+aos 
+clientes 
+TOP 
+Brasil 
+Nos artigos 
+de 
+cosméticos 
+possuem 
+bastante 
+diversidade
+, mas 
+também 
+possuem 
+marcas com 
+qualidade 
+Acessível 
+e Barato. 
+Aceitam 
+cartões de 
+crédito e 
+débito. 
+Av. Duque 
+de Caxias, 
+275 - Centro, 
+João 
+Pessoa - PB, 
+58010- 
+820 
+Quando tem 
+muita gente, 
+deixam a 
+desejar no 
+atendimento. 
+Entrega 
+grátis nas 
+compras 
+acima de 
+R$50,00 
+A Nova 
+Missiana 
+Boa 
+qualidade 
+Acessível 
+e 
+compatív
+el com a 
+concorrê
+ncia 
+Aceitam 
+cartão de 
+crédito e 
+débito. 
+Parcelam 
+em até 6 
+vezes sem 
+juros com 
+parcelas 
+mínimas de 
+R$20,00 
+Empresarial 
+Royal 
+Center - Av. 
+Sen. Ruy 
+Carneiro, 
+720 - Lojas 5 
+e 6 - 
+Manaíra, 
+João Pessoa - 
+PB, 58039- 
+180 
+Possuem loja 
+física com 
+bom 
+atendimento, 
+além de um 
+site e estão 
+presentes nas 
+redes sociais 
+como 
+Instagram, 
+Facebook e 
+Twitter. 
+Frete 
+grátis 
+para todo 
+o Brasil 
+nas 
+compras 
+acima de 
+R$199,00 
+e entrega 
+grátis em 
+até 48 
+horas para 
+João 
+Pessoa, 
+em todos 
+os 
+pedidos. 
+Kicheiro 
+Cosmétic
+os & 
+Salão 
+Beleza 
+Boa 
+qualidade 
+de seus 
+produtos e 
+serviços. 
+Possuem 
+o preço 
+dos seus 
+produtos 
+compatív
+eis com o 
+mercado, 
+mas o 
+dos 
+serviços 
+mais 
+caro; 
+Aceitam 
+cartão de 
+crédito e 
+débito. 
+Empresarial 
+KicheiroR. 
+Severino 
+Pereira de 
+Araújo, 85 - 
+Sala 101 - 
+Manaíra, 
+João Pessoa 
+- PB, 58038-
+400 
+Bom 
+atendimento e 
+qualificado. 
+Além de 
+vender 
+cosmético
+s eles 
+atendem 
+como 
+salão de 
+beleza, 
+como dia 
+de noiva, 
+mechas, 
+depilação, 
+etc 
+  
+--- PAGE 12 ---
+11 
+ 
+ 
+Conclusões 
+Lojas multimarcas de maquiagem, cosméticos e perfumaria nacionais como a Sephora, que 
+vende produtos importados, além de possuir sua própria linha de cosméticos, são fortes 
+concorrentes. Além dos e-commerces de marcas próprias, como a Avon, o Boticário e N atura. 
+Outro lugar para comprar cosméticos são as farmácias e as lojas de departamento que vendem 
+cosméticos, como Walmart, Americanas e Submarino. Diante do cenário extremam ente 
+competitivo, nó s optaremos pela estratégia do “oceano azul ”, detectar e explo rar novos 
+mercados, livres de concorrentes, teremos como diferencial maquiagem para atletas. Além 
+disso, buscaremos simultaneamente explorar os benefícios do baixo custo e da diferenciação, 
+a partir de ofertas de produtos complementares, e entender o unive rso dos não clientes, para 
+alcançar um público ainda não explorado. 
+ 
+2.3 - Estudo dos Fornecedores  
+ 
+Nº Descrição dos 
+itens a serem 
+adquiridos 
+(Matérias-
+primas, insumos, 
+mercadorias e 
+serviços) 
+Nome do 
+fornecedor 
+Preço Condições 
+de 
+pagamento 
+Prazo de 
+entrega 
+Localização 
+(estado e/ou 
+município) 
+1 A Pink Cheeks 
+acaba de lançar 
+uma linha de 
+maquiagem 
+especialmente 
+desenvolvida para 
+quem pratica 
+esportes e não 
+quer deixar a 
+beleza e a saúde 
+de lado. Os 
+produtos foram 
+desenvolvidos 
+para trazer 
+proteção, conforto 
+e beleza para a 
+prática esportiva. 
+A Pink Cheeks é a 
+primeira empresa 
+de cosmético a 
+trazer a tendência 
+athleisure para o 
+mercado 
+brasileiro. Os 
+produtos a linha 
+Pink Cheeks A 
+empresa 
+sugere 
+praticar o 
+mesmo 
+preço 
+final de 
+todos os 
+produtos 
+do site, 
+que serão 
+os 
+mesmos 
+destacado
+s no 
+folder 
+demonstr
+ativo. - 
+Ganhos: a 
+diferença 
+entre 
+preço de 
+compra e 
+preço de 
+revenda é 
+Boleto à 
+vista 
+Cartão de 
+crédito para 
+o 
+vencimento 
+Compras 
+com 
+valores 
+iguais ou 
+superiores a 
+R$ 300,00, 
+na 
+modalidade 
+cartão de 
+crédito, no 
+Pagseguro, 
+parcelamos 
+em 2 vezes, 
+sem juros. 
+Para a 
+opção frete 
+grátis o 
+prazo de 
+envio é de 
+5 a 15 dias, 
+dependend
+o da região. 
+Após a 
+confirmaçã
+o do 
+pagamento 
+do pedido, 
+a expedição 
+tem até 72 
+horas úteis 
+para 
+despachar o 
+pedido, 
+independen
+te da forma  
+de envio 
+escolhida 
+(Sedex, 
+Sedex 10, 
+Centro, Leme - 
+SP 
+--- PAGE 13 ---
+12 
+ 
+ 
+Sport MakeUp 
+aliam beleza e 
+proteção solar, 
+com benefício 
+extra de 
+resistência à água  
+e ao suor, ou seja, 
+não escorre e não 
+borra na água ou 
+em contato com o 
+suor. 
+de 25%. 
+Aproveita
+ndo as 
+promoçõe
+s vigentes 
+à época 
+do 
+pedido, a 
+lucrativid
+ade 
+aumenta. 
+e-Sedex, 
+PAC, 
+Transporta
+doras). 
+Após o 
+envio, 
+começará a 
+contar 
+efetivament
+e o prazo 
+dos 
+transportad
+ores. Em 
+sua região 
+será 
+enviado 
+pela TNT. 
+2 Batons 
+Pincéis 
+Bases faciais 
+Paleta de 
+sombras 
+Cílios Postiços 
+Corretivos 
+Faciais 
+Delineadores 
+Rímel 
+Iluminador 
+facial 
+Maleta de 
+maquiagem 
+Pós compactos 
+Primer 
+Lápis 
+Top Brasil O preço 
+varia 
+para 
+pessoa 
+jurídica, 
+pois a 
+loja 
+funciona 
+como 
+distribui
+dora 
+apenas 
+para 
+pessoas 
+jurídicas. 
+À vista ou 
+parcelado 
+em at é 6 
+vezes sem 
+juros 
+Como 
+possui 
+Loja 
+Física 
+próxima, 
+os 
+produtos 
+podem ser 
+retirados 
+na hora. 
+Rua Duque De 
+Caxias, 
+275 Centro - 
+João 
+Pessoa 
+3 Marcas 
+nacionais que 
+estão em alta no 
+mercado de 
+cosméticos 
+Jujuba 
+bolsas 
+Como é 
+uma 
+Distribui
+dora 
+oficial, 
+tem o  
+menor 
+preço 
+para 
+pronta 
+entrega 
+Cartão 
+de 
+crédito 
+com 
+parcelam
+ento em 
+até 6 
+vezes. À 
+vista 
+Retirada 
+na hora 
+Av. Duque de 
+Caxias, 
+282 - Centro, 
+João 
+Pessoa - PB, 
+58010-820 
+--- PAGE 14 ---
+13 
+ 
+ 
+4 Batons, 
+sombras, rímel e 
+pó compactos 
+Etilux 
+Importadora 
+e 
+Distribuidor
+a de Artigos 
+de Cutelaria 
+SA 
+Faturam
+ento 
+mínimo 
+é em 
+torno de 
+R$ 
+1.000,00 
+para 
+obter 
+preço de 
+Lojista. 
+Boleto 
+À vista 
+Parcelado 
+em até 6 
+vezes 
+Até 10 
+dias 
+saindo do 
+Centro de 
+distribuiçã
+o mais 
+perto. 
+Av. Amadeu 
+Poli, 940 - 
+Parque Novo 
+Mundo, 
+São Paulo - SP, 
+02188- 
+020 
+ 
+ 
+3 - PLANO DE MARKETING 
+ 
+3.1 - Produtos e Serviços  
+ 
+Os produtos a serem oferecidos serão Batons, Pincéis, Bases faciais, Paleta de sombras, Cílios 
+postiços, Corretivos f aciais, Delineadores, Rímel, Iluminador facial, Maleta de maquiagem, 
+Pós compactos, Primer, Lápis, e o nosso grande diferencial, maquiagens para atletas da linha 
+Pink Cheeks. 
+ 
+Nº Produtos / Serviços 
+1 Sport Make Up Base Foundation BegeMedio 14g 
+2 Sport Make Up Base Foundation Bege Claro 14g 
+3 Sport Make Up Base Foundat. Café Bronze 14g 
+4 Sport Make Up Corretivo Conc. Bege Neutro 2,5g 
+5 Sport Make Up Corretivo Conc. Caramelo 2,5g 
+6 Sport Gloss Sweet Cotton 4ml 
+7 Sport Gloss Gold Rose 4ml 
+8 Sport Gloss Fire Red 4ml 
+9 Sport Gloss Deep Pink 4ml 
+10 Protetor Facial Pink Stick 10Km - 14g 
+11 Protetor Facial Pink Stick 42Km - 14g 
+12 AntiassadurasRedlessChamois Cream 100g 
+13 Base Líquida Matte HB8073 Cor L1 
+14 Base Líquida Matte HB8073 Cor L2 
+--- PAGE 15 ---
+14 
+ 
+ 
+15 Base Líquida Matte HB8073 Cor L3 
+16 Base Líquida Matte HB8073 Cor L4 
+17 Base Líquida Matte HB8073 Cor L5 
+18 Pó Facial Com Espelho HB 7200 Cor 1 
+19 Pó Facial Com Espelho HB 7200 Cor 2 
+20 Pó Facial Com Espelho HB 7200 Cor 3 
+21 Pó Facial Com Espelho HB 7200 Cor 4 
+22 Pó Facial Com Espelho HB 7200 Cor 5 
+23 Blush HB6105 Cor 1 
+24 Blush HB6105 Cor 2 
+25 Blush HB6105 Cor 3 
+26 Bl4sh HB6105 Cor 4 
+27 Blush HB6105 Cor 5 
+28 Corretivo Líquido com Aplicador HB8092 4 Coral 
+  
+--- PAGE 16 ---
+15 
+ 
+ 
+29 Corretivo Líquido com Aplicador HB8092 1 Amarelo 
+30 Corretivo Líquido com Aplicador HB8092 3 Roxo 
+31 Corretivo Líquido com Aplicador HB8092 2 Verde 
+32 Trio de Sombra Para a Sobrancelha Com Primer 
+33 Lápis Para Sobrancelhas 93 C1 Médio 
+34 Paleta De Sombras Com Primer Nude 
+35 Paleta De Sombras Com Primer Glamour 
+36 Paleta De Sombras Com Primer The Rock 
+37 Sombra Mosaico HB9349 Cor 6 
+38 Sombra Mosaico HB9349 Cor 1 
+39 Sombra Mosaico HB9349 Cor 2 
+40 Sombra Mosaico HB9349 Cor 3 
+41 Sombra Mosaico HB9349 Cor 5 
+42 Primer Facial Studio Perfect HB 
+43 Primer Para Sombra HB 8078 
+44 Kit Essencial com 7 pinceis 
+45 Pó Bronzeador HB7213 1 Champagne 
+46 Pó Bronzeador HB7213 1 Pérola 
+47 Pó Bronzeador HB7213 1 Cobre 
+48 CorretivoLíquido Naked Skin Collection Ruby Rose HB-8080 
+49 Duo Batom + Batom Líquido Matte Ruby Rose HB-8601M 
+50 Batom Matte Ruby Rose HB8507 
+51 Lápis Delineador de Olhos com Apontador Ruby Rose HB-091 
+52 Batom Liquido Ruby Rose 
+53 Lápis Delineador de Olhos e Lábios Ruby Rose HB-019338 
+54 Lenço Removedor de Maquiagem Ruby Rose HB-200 
+55 Pó Compacto Facial Cores Claras Ruby Rose HB-7205-1 
+56 Batom Fosco Super Fixação Fenzza BFG2750 
+57 Paleta de Sombras com 28 Cores Fenzza SO08 
+58 Quinteto de Sombras Foscas Premier Fenzza MS5115-M 
+59 Batom Líquido Fosco Playboy HB87392 
+--- PAGE 17 ---
+16 
+ 
+ 
+60 Gloss Labial Matte Kiss Me Luisance L3016 
+61 Cola para Cílios Transparente a Prova D'água Macrilan CA001 
+62 Rímel Máscara para Cílios Ultra 
+63 Rímel Máscara para Cílios Volume Extra Fenzza MA73 
+64 Rimel Máscara para Cílios a Prova D´água PushUpDark 
+65 Rímel Máscara para Cílios Colossal Extra Volume Playboy 
+66 Cílios Postiços Macrilan CL1-1B 
+67 Cílios Postiços Macrilan CL1-12A 
+68 Cílios Postiços Playboy HB89604 
+69 Maleta Frasqueira de Alumínio Pequena Ruby´s FS-1109A Prata 
+70 Delineador Líquido para Olhos Magic LinerLuisance L686 
+71 Paleta de Sombra MegaEffect 
+72 Esponja em Silicone Colorida 
+73 Pincéis Aplicador para Sombra com ponta de Espuma 
+74 Kit de Pincéis Macrilan c/ 7 pçs 
+75 Kit de Sombras e Cílios Postiços 
+ 
+3.2 - Preço  
+ 
+Para os produtos Pink Cheeks, a política de preços é praticar  o mesmo preço final de todos os 
+produtos do site, o ganho é a diferença entre preço de compra e preço de revenda é de 25%. 
+Aproveitando as promoções vigentes à época do pedido, a lucratividade aumenta. 
+Para as demais marcas nacionais como Ruby Rose, em ca so de lojista, a compra é realizada 
+pelo distribuidor mais próximo da região. Logo, o preço é tabelado, compatível com o preço 
+praticado pelos concorrentes.  
+ 
+3.3 - Estratégias Promocionais  
+ 
+- Internet e mídias sociais, com realização de sorteios e parcerias com blogueiras; 
+- Propaganda em rádio; 
+- Cartões de visitas e folhetos com dados dos produtos, telefone e endereço, e-mail, site da 
+empresa; - Participar de eventos; 
+- Parabenizar nossos clientes em datas de aniversário; 
+- Promover eventos comemorativos na loja, como Dia das Mães, Dia da Mulher, N atal, dentre 
+outras, para estreitar nossa  relação com os clientes, de forma que possam se sentir 
+encantados. 
+--- PAGE 18 ---
+17 
+ 
+ 
+3.4 - Estrutura de Comercialização  
+ 
+No início,  o principal  canal de distribuição será a loja física, onde o cliente poderá nos 
+contatar pelas redes sociais, telefone ou pessoalmente, e de acordo com a nossa demanda, 
+investiremos em entregas. 
+ 
+3.5 - Localização do Negócio  
+ 
+Endereço: Avenida Manoel Deodato, 354, CEP 58040-180 
+Bairro: Torre 
+Cidade: João Pessoa 
+Estado: Paraíba 
+Fone 1: (  ) 0000-000 
+Fone 1: (  )     - 
+Fax: (  )     - 
+ 
+Considerações sobre o ponto (localização), que justifiquem sua escolha: 
+É uma avenida bastante movimentada e comercial, o ponto é de esquina em um dos 
+principiais cruzamentos do Bairro. Não existe concorrentes diretos na redondeza, somente os 
+supermercados, que oferecem itens de higiene pessoal, mas não são os mesmos produtos da 
+Loja de Cosméticos UP.  
+--- PAGE 19 ---
+18 
+ 
+ 
+4 - PLANO OPERACIONAL  
+ 
+4.1 - Leiaute  
+ 
+ 
+ 
+ 
+
+--- PAGE 20 ---
+19 
+ 
+ 
+4.2 - Capacidade Instalada  
+ 
+Qual a capacidade máxima de produção (ou serviços) e comercialização? 
+A estrutura proposta comporta entre 7 a 10 clientes em harmonia com o espaço físico. 
+ 
+4.3 - Processos Operacionais  
+ 
+Nossos produtos serão entregues pelos fornecedores, onde adotaremos uma estratégia de boa 
+relação com os mesmos, já que seus produtos são fundamentais e precisamos ter bons 
+parceiros. Já para a venda dos produtos, acreditamos na escolha de uma boa vendedora, 
+capacitada, e que tenham o perfil que a loja necessita, onde adotaremos uma estratégia de 
+reconhecimento dos nossos colaboradores, afim de permanecerem sempre entusiasmados e 
+motivados a vender mais. Enquanto a parte administrativa, a princípio será exclusiva da 
+proprietária, por razões de cortar gastos além de que, acreditar possuir  habilidades para 
+gerenciar a empresa. 
+ 
+4.4 - Necessidade de Pessoal  
+ 
+Nº Cargo/Função Qualificações necessárias 
+1 Caixa 
+Possuir nível médio completo e ter habilidades com 
+contas, agilidade, empatia, atenção e bom humor. 
+2 Vendedor 
+Mulher entre 18 a 40 anos, possuir nível médio 
+completo com perfil comunicadora, para saber ouvir, 
+entender e agradar o cliente, afim de vender e fazer 
+com que ele queira voltar mais vezes. Além de saber 
+encontrar soluções e ser organizada e entusiasmada. 
+ 
+5 - PLANO FINANCEIRO  
+ 
+5.1 - Investimentos Fixos  
+ 
+A – Imóveis 
+ 
+Nº Descrição Qtde Valor Unitário Total  
+SUB-
+TOTAL (A)     
+R$ 0,00 
+ 
+B – Máquinas 
+ 
+Nº Descrição Qtde Valor Unitário Total 
+--- PAGE 21 ---
+20 
+ 
+ 
+1 
+Impressora de Cupom Térmica 
+Sweda SI-150 1 R$ 550,00 R$ 550,00 
+2 
+Ar Condicionado Split Samsung 
+Digital Inverter 9000 BTUs 
+Quente/Frio 1 R$ 1.600,00 R$ 1.600,00 
+SUB-TOTAL (B)   R$ 2.150,00 
+ 
+C – Equipamentos 
+ 
+Nº Descrição Qtde Valor Unitário Total  
+SUB-TOTAL 
+(C)   ) 
+   
+R$ 0,00 
+ 
+D – Móveis e Utensílios 
+ 
+Nº Descrição Qtde Valor Unitário Total 
+1 Balcão Comercial 1 R$ 600,00 R$ 600,00 
+2 Vitrine Expositor 1 R$ 1.400,00 R$ 1.400,00 
+3 Gôndolas de Parede 2 R$ 300,00 R$ 600,00 
+4 Gôndola Central 1 R$ 2.000,00 R$ 2.000,00 
+5 Poltronas 2 R$ 500,00 R$ 1.000,00 
+6 Espelho de Aumento 1 R$ 50,00 R$ 50,00 
+7 Espelho Parede 1 R$ 80,00 R$ 80,00 
+8 
+Kit Com 10 Cestinhas Multi Uso 
+Plastico 28x20x8,5 Cm Colorida 1 R$ 70,00 R$ 70,00 
+SUB-TOTAL (D)   R$ 5.800,00 
+ 
+E – Veículos 
+ 
+Nº Descrição Qtde Valor Unitário Total  
+SUB-
+TOTAL (E)  
+   R$ 
+0,00 
+ 
+ 
+F – Computadores 
+  
+--- PAGE 22 ---
+21 
+ 
+ 
+Nº Descrição Qtde Valor Unitário Total 
+1 
+Computador Intel Dual Core 2gb 
+Hd 320gb Hdmi E Monitor Led 
+15,6 1 R$ 890,00 R$ 890,00 
+2 
+Clever Software Programa Para 
+Lojas Cosméticos Perfumarias 1 R$ 80,00 R$ 80,00 
+SUB-TOTAL (F)   R$ 970,00 
+ 
+TOTAL DOS INVESTIMENTOS FIXOS 
+ 
+TOTAL DOS INVESTIMENTOS FIXOS (A+B+C+D+E+F): 
+R$ 
+8.920,00 
+ 
+5.2 - Estoque Inicial  
+ 
+ 
+Nº Descrição Qtde Valor Unitário Total 
+1 
+Sport Make Up Base Foundation 
+BegeMédio 14g 10 R$ 66,59 R$ 665,90 
+2 
+Sport Make Up Base Foundation 
+Bege Claro 14g 10 R$ 66,59 R$ 665,90 
+3 
+Sport Make Up Base Foundat. 
+Café Bronze 14g 10 R$ 66,59 R$ 665,90 
+4 
+Sport Make Up Corretivo Conc. 
+Bege Neutro 2,5g 10 R$ 36,96 R$ 369,60 
+5 
+Sport Make Up Corretivo Conc. 
+Caramelo 2,5g 10 R$ 36,96 R$ 369,60 
+6 Sport Gloss Sweet Cotton 4ml 10 R$ 29,56 R$ 295,60 
+7 Sport Gloss Gold Rose 4ml 10 R$ 29,56 R$ 295,60 
+8 Sport Gloss Fire Red 4ml 10 R$ 29,56 R$ 295,60 
+9 Sport Gloss Deep Pink 4ml 10 R$ 29,56 R$ 295,60 
+10 
+Protetor Facial Sport Gloss Deep 
+Pink 4ml 10 R$ 59,19 R$ 591,90 
+11 
+Protetor Facial Pink Stick 42Km - 
+14g 10 R$ 59,19 R$ 591,90 
+12 
+AntiassadurasRedlessChamois 
+Cream 100g 10 R$ 29,56 R$ 295,60 
+--- PAGE 23 ---
+22 
+ 
+ 
+13 
+Base Líquida Matte HB8073 Cor 
+L1 15 R$ 7,99 R$ 119,85 
+14 
+Base Líquida Matte HB8073 Cor 
+L2 15 R$ 7,99 R$ 119,85 
+15 
+Base Líquida Matte HB8073 Cor 
+L3 15 R$ 7,99 R$ 119,85 
+16 
+Base Líquida Matte HB8073 Cor 
+L4 15 R$ 7,99 R$ 119,85 
+17 
+Base Líquida Matte HB8073 Cor 
+L5 15 R$ 7,99 R$ 119,85 
+18 
+Pó Facial Com Espelho HB 7200 
+Cor 1 10 R$ 8,88 R$ 88,80 
+19 
+Pó Facial Com Espelho HB 7200 
+Cor 2 10 R$ 8,88 R$ 88,80 
+20 
+Pó Facial Com Espelho HB 7200 
+Cor 3 10 R$ 8,88 R$ 88,80 
+21 
+Pó Facial Com Espelho HB 7200 
+Cor 4 10 R$ 8,88 R$ 88,80 
+22 
+Pó Facial Com Espelho HB 7200 
+Cor 5 10 R$ 8,88 R$ 88,80 
+23 Blush HB6105 Cor 1 10 R$ 8,40 R$ 84,00 
+24 Blush HB6105 Cor 2 10 R$ 8,40 R$ 84,00 
+25 Blush HB6105 Cor 3 10 R$ 8,40 R$ 84,00 
+26 Blush HB6105 Cor 4 10 R$ 8,40 R$ 84,00 
+27 Blush HB6105 Cor 5 10 R$ 8,40 R$ 84,00 
+28 
+Corretivo Líquido com Aplicador 
+HB8092 4 Coral 10 R$ 11,99 R$ 119,90 
+29 
+Corretivo Líquido com Aplicador 
+HB8092 1 Amarelo 10 R$ 11,99 R$ 119,90 
+30 
+Corretivo Líquido com Aplicador 
+HB8092 3 Roxo 10 R$ 11,99 R$ 119,90 
+31 
+Corretivo Líquido com Aplicador 
+HB8092 2 Verde 10 R$ 11,99 R$ 119,90 
+32 
+Trio de Sombra Para a 
+Sobrancelha Com Primer 
+HB9354 25 R$ 5,85 R$ 146,25 
+--- PAGE 24 ---
+23 
+ 
+ 
+33 
+Lápis Para Sobrancelhas 93 C1 
+Médio 25 R$ 4,98 R$ 124,50 
+34 
+Paleta De Sombras Com Primer 
+Nude 10 R$ 10,95 R$ 109,50 
+35 
+Paleta De Sombras Com Primer 
+Glamour 10 R$ 10,95 R$ 109,50 
+ 
+36 
+Paleta De Sombras Cor Primer 
+the Rock 10 R$ 10,95 R$ 109,50 
+37 Sombra Mosaico HB9349 Cor 6 10 R$ 9,05 R$ 90,50 
+38 Sombra Mosaico HB9349 Cor 1 10 R$ 9,05 R$ 90,50 
+39 Sombra Mosaico HB9349 Cor 5 10 R$ 9,05 R$ 90,50 
+40 Sombra Mosaico HB9349 Cor 2 10 R$ 9,05 R$ 90,50 
+41 Sombra Mosaico HB9349 Cor 3 10 R$ 9,05 R$ 90,50 
+42 
+Primer Facial Studio Perfect HB 
+8086 20 R$ 13,00 R$ 260,00 
+43 Primer Para Sombra HB 8078 20 R$ 6,18 R$ 123,60 
+44 Kit Essencial 5 R$ 67,25 R$ 336,25 
+45 
+Pó Bronzeador HB7213 1 
+Champagne 15 R$ 9,99 R$ 149,85 
+46 Pó Bronzeador HB7213 1 Pérola 15 R$ 9,99 R$ 149,85 
+47 Pó Bronzeador HB7213 1 Cobre 15 R$ 9,99 R$ 149,85 
+48 
+CorretivoLíquido Naked Skin 
+Collection Ruby Rose HB-8080 30 R$ 5,90 R$ 177,00 
+49 
+Duo Batom + Batom Líquido 
+Matte Ruby Rose HB-8601M 30 R$ 6,06 R$ 181,80 
+50 
+Batom Matte Ruby Rose HB- 
+8507 c/ Provador 36 R$ 3,88 R$ 139,68 
+51 
+Lápis Delineador de Olhos com 
+Apontador Ruby Rose HB-091 
+Preto 36 R$ 1,22 R$ 43,92 
+52 
+Batom Liquido Ruby Rose HB- 
+8216 24 R$ 5,40 R$ 129,60 
+53 
+Lápis Delineador de Olhos e 
+Lábios Ruby Rose HB-019338 
+Cor Preto / Roxo Médio 24 R$ 1,17 R$ 28,08 
+--- PAGE 25 ---
+24 
+ 
+ 
+54 
+Lenço Removedor de Maquiagem 
+Ruby Rose HB-200 24 R$ 5,64 R$ 135,36 
+55 
+Pó Compacto Facial Cores 
+Claras Ruby Rose HB-7205-1 16 R$ 4,39 R$ 70,24 
+56 
+Batom Fosco Super Fixação 
+Fenzza BFG2750 48 R$ 1,89 R$ 90,72 
+57 
+Paleta de Sombras com 28 Cores 
+Fenzza SO08 3 R$ 13,99 R$ 41,97 
+58 
+Quinteto de Sombras Foscas 
+Premier Fenzza MS5115-M 10 R$ 6,32 R$ 63,20 
+59 
+Batom Líquido Fosco Playboy 
+HB87392 24 R$ 4,93 R$ 118,32 
+60 
+Gloss Labial Matte Kiss Me 
+Luisance L3016 24 R$ 4,37 R$ 104,88 
+61 
+Cola para Cílios Transparente a 
+Prova D'água Macrilan CA001 10 R$ 7,29 R$ 72,90 
+62 
+Rimel Máscara para Cílios Ultra 
+Plus Preta Luisance L653-P 24 R$ 4,30 R$ 103,20 
+63 
+Rimel Máscara para Cílios 
+Volume Extra Fenzza MA73 24 R$ 7,06 R$ 169,44 
+64 
+Rimel Máscara para Cílios a 
+Prova D´água PushUpDark 
+Playboy HB87317 24 R$ 7,12 R$ 170,88 
+65 
+Rimel Máscara para Cílios 
+Colossal Extra Volume Playboy 
+HB85429 15 R$ 7,72 R$ 115,80 
+66 Cílios Postiços Macrilan CL1-1B 45 R$ 1,95 R$ 87,75 
+67 
+Cílios Postiços Macrilan CL1 -
+12A 40 R$ 2,65 R$ 106,00 
+68 Cílios Postiços Playboy HB89604 40 R$ 1,29 R$ 51,60 
+69 
+Maleta Frasqueira de Alumínio 
+Pequena Ruby´s FS-1109A Prata 5 R$ 20,10 R$ 100,50 
+70 
+Delineador Líquido para Olhos 
+Magic LinerLuisance L686 24 R$ 5,15 R$ 123,60 
+71 
+Paleta de Sombra MegaEffect 
+Luisance L689-E 12 R$ 17,10 R$ 205,20 
+--- PAGE 26 ---
+25 
+ 
+ 
+72 
+Esponja em Silicone Colorida 
+para Maquiagem 36 R$ 2,75 R$ 99,00 
+73 
+Kit com 06 Pincéis Aplicador 
+para 
+Sombra com ponta de Espuma 
+JD-344 10 R$ 4,30 R$ 43,00 
+74 
+Kit de Pincéis Macrilan c/ 7 pçs 
+KP1-3A + Estojo 5 R$ 9,90 R$ 49,50 
+75 
+Kit de Sombras e Cílios Postiços 
+Fenzza SO33 12 R$ 12,50 R$ 150,00 
+TOTAL (A) 
+  R$ 
+12.535,84 
+ 
+5.3 - Caixa Mínimo  
+ 
+1º Passo: Contas a receber – Cálculo do prazo médio de vendas 
+ 
+Prazo médio de vendas (%) Número de dias 
+Média 
+Ponderada 
+em dias 
+Pagamentos à vista 20,00  20,40 
+Pagamentos com cartões 
+de débito 30,00 2 0,60 
+Recebimento de 
+pagamentos com cartões 
+de crédito para 
+vencimento 50,00 20 10,00 
+Prazo médio total 11 
+ 
+2º Passo: Fornecedores – Cálculo do prazo médio de compras 
+ 
+Prazo médio de 
+compras (%) Número de dias 
+Média 
+Ponderada 
+em dias 
+Produtos Pink Cheeks 30,00 10 3,00 
+Compra in loco  Top 
+Brasil - não há demora 
+no prazo de entrega 70,00 
+1 
+0,70 
+Prazo médio total 4 
+  
+--- PAGE 27 ---
+26 
+ 
+ 
+3º Passo: Estoque – Cálculo de necessidade média de estoque 
+ 
+Necessidade média de estoque 
+Número de dias 21 
+ 
+4º Passo: Cálculo da necessidade líquida de capital de giro em dias 
+ 
+Recursos da empresa fora do seu caixa Número de dias 
+1. Contas a Receber – prazo médio de vendas 11 
+2. Estoques – necessidade média de estoques 21 
+Subtotal Recursos fora do caixa 32 
+Recursos de terceiros no caixa da empresa  
+3. Fornecedores – prazo médio de compras 4 
+Subtotal Recursos de terceiros no caixa 4 
+Necessidade Líquida de Capital de Giro em dias 28 
+ 
+Caixa Mínimo 
+ 
+1. Custo fixo mensal R$ 7.577,98 
+2. Custo variável mensal R$ 4.450,57 
+3. Custo total da empresa R$ 12.028,55 
+4. Custo total diário R$ 400,95 
+5. Necessidade Líquida de Capital de Giro em 
+dias 28 
+Total de B – Caixa Mínimo R$ 11.226,65 
+ 
+Capital de giro (Resumo) 
+ 
+Descrição Valor 
+A – Estoque Inicial R$ 12.535,84 
+B – Caixa Mínimo R$ 11.226,65 
+TOTAL DO CAPITAL DE GIRO (A+B) R$ 23.762,49 
+5.4 - Investimentos Pré-Operacionais  
+  
+--- PAGE 28 ---
+27 
+ 
+ 
+Descrição Valor 
+Despesas de Legalização R$ 1.500,00 
+Obras civis e/ou reformas R$ 2.500,00 
+Divulgação de Lançamento R$ 500,00 
+Cursos e Treinamentos R$ 200,00 
+Outras despesas R$ 200,00 
+TOTAL R$ 4.900,00 
+ 
+5.5 - Investimento Total  
+ 
+Descrição dos investimentos Valor (%) 
+Investimentos Fixos – Quadro 5.1 R$ 8.920,00 23,73 
+Capital de Giro – Quadro 5.2 R$ 23.762,49 63,23 
+Investimentos Pré-Operacionais – Quadro 5.3 R$ 4.900,00 13,04 
+TOTAL (1 + 2 + 3) R$ 37.582,49 100,00 
+ 
+ 
+ 
+ 
+ 
+Fontes de recursos Valor (%) 
+Recursos próprios R$ 18.791,24 50,00 
+Recursos de terceiros R$ 18.791,24 50,00 
+Outros R$ 0,00 0,00 
+TOTAL (1 + 2 + 3) R$ 37.582,49 100,00 
+
+--- PAGE 29 ---
+28 
+ 
+ 
+ 
+ 
+ 
+ 
+5.6 - Faturamento Mensal  
+ 
+Nº Produto/Serviço 
+Quantidade 
+(Estimativa 
+de 
+Vendas) 
+Preço de 
+Venda 
+Unitário 
+(Em R$) 
+Faturamento 
+Total 
+(Em R$) 
+1 
+Sport Make Up Base 
+Foundation BegeMédio 
+14g 10 R$ 89,90 R$ 899,00 
+2 
+Sport Make Up Base 
+Foundation Bege Claro 
+14g 10 R$ 89,90 R$ 899,00 
+3 
+Sport Make Up Base Foundat. 
+Café Bronze 
+14g 10 R$ 89,90 R$ 899,00 
+4 
+Sport Make Up Corretivo 
+Conc. Bege Neutro 
+2,5g 10 R$ 49,90 R$ 499,00 
+5 
+Sport Make Up Corretivo 
+Conc. Caramelo 
+2,5g 10 R$ 49,90 R$ 499,00 
+6 Sport Gloss Sweet Cotton 4ml 20 R$ 39,90 R$ 798,00 
+7 Sport Gloss Gold Rose 4ml 15 R$ 39,90 R$ 598,50 
+8 Sport Gloss Fire Red 4ml 20 R$ 39,90 R$ 798,00 
+9 Sport Gloss Deep Pink 4ml 20 R$ 39,90 R$ 798,00 
+10 
+Protetor Facial Pink Stick 
+10Km - 14g 15 R$ 79,90 R$ 1.198,50 
+
+--- PAGE 30 ---
+29 
+ 
+ 
+11 
+Protetor Facial Pink Stick 
+42Km - 14g 15 R$ 79,90 R$ 1.198,50 
+12 
+AntiassadurasRedlessChamois 
+Cream 100g 10 R$ 39,90 R$ 399,00 
+13 
+Base Líquida Matte HB8073 
+Cor L1 30 R$ 13,90 R$ 417,00 
+14 
+Base Líquida Matte HB8073 
+Cor L2 30 R$ 13,90 R$ 417,00 
+ 
+15 Base Líquida Matte HB8073 Cor L3 20 R$ 13,90 R$ 278,00 
+16 Base Líquida Matte HB8073 Cor L4 20 R$ 13,90 R$ 278,00 
+17 Base Líquida Matte HB8073 Cor L5 20 R$ 13,90 R$ 278,00 
+18 Pó Facial Com Espelho HB 7200 Cor 1 20 R$ 10,90 R$ 218,00 
+19 Pó Facial Com Espelho HB 7200 Cor 2 20 R$ 10,90 R$ 218,00 
+20 Pó Facial Com Espelho HB 7200 Cor 3 20 R$ 10,90 R$ 218,00 
+21 Pó Facial Com Espelho HB 7200 Cor 4 20 R$ 10,90 R$ 218,00 
+22 Pó Facial Com Espelho HB 7200 Cor 5 20 R$ 10,90 R$ 218,00 
+23 Blush HB6105 Cor 1 20 R$ 15,00 R$ 300,00 
+24 Blush HB6105 Cor 2 20 R$ 15,00 R$ 300,00 
+25 Blush HB6105 Cor 3 20 R$ 15,00 R$ 300,00 
+26 Bl4sh HB6105 Cor 4 20 R$ 15,00 R$ 300,00 
+27 Blush HB6105 Cor 5 20 R$ 15,00 R$ 300,00 
+28 
+Corretivo Líquido com Aplicador HB8092 
+4 
+Coral 25 R$ 18,00 R$ 450,00 
+29 
+Corretivo Líquido com Aplicador HB8092 
+1 
+Amarelo 30 R$ 18,00 R$ 540,00 
+30 
+Corretivo Líquido com Aplicador HB8092 
+3 
+Roxo 20 R$ 18,00 R$ 360,00 
+31 
+Corretivo Líquido com Aplicador HB8092 
+2 
+Verde 20 R$ 18,00 R$ 360,00 
+32 
+Trio de Sombra Para a Sobrancelha Com 
+Primer 30 R$ 12,90 R$ 387,00 
+33 Lápis Para Sobrancelhas 93 C1 Médio 30 R$ 9,90 R$ 297,00 
+--- PAGE 31 ---
+30 
+ 
+ 
+34 Paleta De Sombras Com Primer Nude 20 R$ 19,90 R$ 398,00 
+35 Paleta De Sombras Com Primer Glamour 25 R$ 19,90 R$ 497,50 
+36 Paleta De Sombras Com Primer The Rock 25 R$ 19,90 R$ 497,50 
+37 Sombra Mosaico HB9349 Cor 6 30 R$ 14,90 R$ 447,00 
+38 Sombra Mosaico HB9349 Cor 1 25 R$ 14,90 R$ 372,50 
+39 Sombra Mosaico HB9349 Cor 2 30 R$ 14,90 R$ 447,00 
+40 Sombra Mosaico HB9349 Cor 3 20 R$ 14,90 R$ 298,00 
+41 Sombra Mosaico HB9349 Cor 5 30 R$ 14,90 R$ 447,00 
+42 Primer Facial Studio Perfect HB 30 R$ 18,99 R$ 569,70 
+43 Primer Para Sombra HB 8078 30 R$ 15,00 R$ 450,00 
+44 Kit Essencial com 7 pinceis 8 R$ 80,00 R$ 640,00 
+45 Pó Bronzeador HB7213 1 Champanhe 15 R$ 14,90 R$ 223,50 
+46 Pó Bronzeador HB7213 1 Pérola 15 R$ 14,90 R$ 223,50 
+47 Pó Bronzeador HB7213 1 Cobre 15 R$ 14,90 R$ 223,50 
+ 
+48 
+CorretivoLíquido Naked Skin Collection 
+Ruby 
+Rose HB-8080 30 R$ 8,90 R$ 267,00 
+49 
+Duo Batom + Batom Líquido Matte Ruby 
+Rose HB-8601M 40 R$ 12,90 R$ 516,00 
+50 Batom Matte Ruby Rose HB8507 45 R$ 10,00 R$ 450,00 
+51 
+Lápis Delineador de Olhos com Apontador 
+Ruby Rose HB-091 50 R$ 4,90 R$ 245,00 
+52 Batom Liquido Ruby Rose 30 R$ 12,00 R$ 360,00 
+53 
+Lápis Delineador de Olhos e Lábios Ruby 
+Rose HB-019338 30 R$ 4,90 R$ 147,00 
+54 
+Lenço Removedor de Maquiagem Ruby 
+Rose 
+HB-200 30 R$ 13,90 R$ 417,00 
+55 
+Pó Compacto Facial Cores Claras Ruby 
+Rose HB-7205-1 25 R$ 15,00 R$ 375,00 
+56 
+Batom Fosco Super Fixação Fenzza 
+BFG2750 50 R$ 9,90 R$ 495,00 
+57 
+Paleta de Sombras com 28 Cores Fenzza 
+SO08 15 R$ 19,90 R$ 298,50 
+--- PAGE 32 ---
+31 
+ 
+ 
+58 
+Quinteto de Sombras Foscas Premier 
+Fenzza 
+MS5115-M 15 R$ 11,90 R$ 178,50 
+59 Batom Líquido Fosco Playboy HB87392 25 R$ 25,00 R$ 625,00 
+60 
+Gloss Labial Matte Kiss Me Luisance 
+L3016 30 R$ 9,90 R$ 297,00 
+61 
+Cola para Cílios Transparente a Prova 
+D'água Macrilan CA001 15 R$ 16,80 R$ 252,00 
+62 Rímel Máscara para Cílios Ultra 25 R$ 11,90 R$ 297,50 
+63 
+Rímel Máscara para Cílios Volume Extra 
+Fenzza MA73 30 R$ 16,90 R$ 507,00 
+64 
+Rímel Máscara para Cílios a Prova D´água 
+PushUpDark 30 R$ 25,90 R$ 777,00 
+65 
+Rímel Máscara para Cílios Colossal Extra 
+Volume Playboy 20 R$ 15,90 R$ 318,00 
+66 Cílios Postiços Macrilan CL1-1B 40 R$ 6,25 R$ 250,00 
+67 Cílios Postiços Macrilan CL1-12A 50 R$ 5,50 R$ 275,00 
+68 Cílios Postiços Playboy HB89604 50 R$ 5,90 R$ 295,00 
+69 
+Maleta Frasqueira de Alumínio Pequena 
+Ruby´s FS-1109A Prata 5 R$ 82,90 R$ 414,50 
+70 
+Delineador Líquido para Olhos Magic Liner 
+Luisance L686 30 R$ 9,90 R$ 297,00 
+71 Paleta de Sombra MegaEffect 15 R$ 24,90 R$ 373,50 
+72 Esponja em Silicone Colorida 40 R$ 4,90 R$ 196,00 
+73 
+Pincéis Aplicador para Sombra com ponta 
+de 
+Espuma 15 R$ 14,00 R$ 210,00 
+74 Kit de Pincéis Macrilan c/ 7 pçs 10 R$ 38,90 R$ 389,00 
+75 Kit de Sombras e Cílios Postiços 20 R$ 18,99 R$ 379,80 
+Total R$31.772,50 
+ 
+ 
+Projeção das Receitas: 
+(x) Sem expectativa de crescimento 
+(  ) Crescimento a uma taxa constante: 
+      0,00 % ao mês para os 12 primeiros meses 
+      0,00 % ao ano a partir do 2º ano 
+--- PAGE 33 ---
+32 
+ 
+ 
+(  ) Entradas diferenciadas por período 
+ 
+Período Faturamento Total 
+Mês 1 R$ 31.772,50 
+Mês 2 R$ 31.772,50 
+Mês 3 R$ 31.772,50 
+Mês 4 R$ 31.772,50 
+Mês 5 R$ 31.772,50 
+Mês 6 R$ 31.772,50 
+Mês 7 R$ 31.772,50 
+Mês 8 R$ 31.772,50 
+Mês 9 R$ 31.772,50 
+Mês 10 R$ 31.772,50 
+Mês 11 R$ 31.772,50 
+Mês 12 R$ 31.772,50 
+Ano 1 R$ 381.270,00 
+ 
+ 
+ 
+ 
+ 
+5.7 – Custo Unitário 
+ 
+Produto: Sport Make Up Base Foundation BegeMédio 14g 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+
+--- PAGE 34 ---
+33 
+ 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Sport Make Up Base Foundation Bege Claro 14g 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Sport Make Up Base Foundat. Café Bronze 14g 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Sport MakeUp Corretivo Conc. Bege Neutro 2,5g 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Sport MakeUp Corretivo Conc. Caramelo 2,5g 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Sport Gloss Sweet Cotton 4ml 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+  
+--- PAGE 35 ---
+34 
+ 
+ 
+Produto: Sport Gloss Gold Rose 4ml 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Sport Gloss Fire Red 4ml 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Sport Gloss Deep Pink 4ml 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Protetor Facial Pink Stick 10Km - 14g 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Protetor Facial Pink Stick 42Km - 14g 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: AntiassadurasRedlessChamois Cream 100g 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+--- PAGE 36 ---
+35 
+ 
+ 
+TOTAL    R$ 0,40 
+ 
+Produto: Base Líquida Matte HB8073 Cor L1 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Base Líquida Matte HB8073 Cor L2 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Base Líquida Matte HB8073 Cor L3 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Base Líquida Matte HB8073 Cor L4 
+ 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+ 
+Produto: Base Líquida Matte HB8073 Cor L5 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+  
+--- PAGE 37 ---
+36 
+ 
+ 
+Produto: Pó Facial Com Espelho HB 7200 Cor 1 
+ 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Pó Facial Com Espelho HB 7200 Cor 2 
+ 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Pó Facial Com Espelho HB 7200 Cor 3 
+ 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Pó Facial Com Espelho HB 7200 Cor 4 
+ 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+  
+--- PAGE 38 ---
+37 
+ 
+ 
+Produto: Pó Facial Com Espelho HB 7200 Cor 5 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Blush HB6105 Cor 1 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Blush HB6105 Cor 2 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Blush HB6105 Cor 3 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+ 
+Produto: Bl4sh HB6105 Cor 4 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+ 
+Produto: Blush HB6105 Cor 5 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+--- PAGE 39 ---
+38 
+ 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+ 
+Produto: Corretivo Líquido com Aplicador HB8092 4 Coral 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+ 
+Produto: Corretivo Líquido com Aplicador HB8092 1 Amarelo 
+ 
+Materiais / 
+Insumos usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Corretivo Líquido com Aplicador HB8092 3 Roxo 
+ 
+Materiais / 
+Insumos usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Corretivo Líquido com Aplicador HB8092 2 Verde 
+ 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Trio de Sombra Para a Sombrancelha Com Primer 
+ 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+--- PAGE 40 ---
+39 
+ 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Lápis Para Sobrancelhas 93 C1 Médio 
+ 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40 
+ 
+R$ 0,40 
+TOTAL 
+   
+R$ 0,40 
+ 
+Produto: Paleta De Sombras Com Primer Nude 
+ 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40 
+ 
+R$ 0,40 
+TOTAL 
+   
+R$ 0,40 
+Produto: Paleta De Sombras Com Primer Glamour 
+ 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40 
+ 
+R$ 0,40 
+TOTAL 
+   
+R$ 0,40 
+Produto: Paleta De Sombras Com Primer The Rock 
+ 
+Materiais / Insumos 
+usados Qtde Custo Unitário Total 
+ 
+Embalagem 1 R$ 0,40 
+ 
+R$ 0,40 
+TOTAL 
+   
+R$ 0,40 
+ 
+ 
+Produto: Sombra Mosaico HB9349 Cor 6 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+--- PAGE 41 ---
+40 
+ 
+ 
+Produto: Sombra Mosaico HB9349 Cor 1 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Sombra Mosaico HB9349 Cor 2 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Sombra Mosaico HB9349 Cor 3 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Sombra Mosaico HB9349 Cor 5 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+ 
+Produto: Primer Facial Studio Perfect HB 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Primer Para Sombra HB 8078 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+--- PAGE 42 ---
+41 
+ 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Kit Essencial com 7 pinceis 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Pó Bronzeador HB7213 1 Champagne 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Pó Bronzeador HB7213 1 Pérola 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+ 
+Produto: Pó Bronzeador HB7213 1 Cobre 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Corretivo Líquido NakedSkinCollectionRuby Rose HB-8080  
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+--- PAGE 43 ---
+42 
+ 
+ 
+Produto: Duo Batom + Batom Líquido Matte Ruby Rose HB-8601M 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Batom Matte Ruby Rose HB8507 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Lápis Delineador de Olhos com Apontador Ruby Rose HB-091 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+ 
+Produto: Batom LiquidoRuby Rose 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Lápis Delineador de Olhos e Lábios Ruby Rose HB-019338 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Lenço Removedor de Maquiagem Ruby Rose HB-200 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+--- PAGE 44 ---
+43 
+ 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Pó Compacto Facial Cores Claras Ruby Rose HB-7205-1  
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Batom Fosco Super Fixação Fenzza BFG2750 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+ 
+Produto: Paleta de Sombras com 28 Cores Fenzza SO08 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Quinteto de Sombras Foscas Premier Fenzza MS5115-M 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Batom Líquido Fosco Playboy HB87392 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+--- PAGE 45 ---
+44 
+ 
+ 
+Produto: Gloss Labial Matte Kiss Me Luisance L3016 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Cola para Cílios Transparente à Prova D'água Macrilan CA001 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Rímel Máscara para Cílios Ultra 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Rímel Máscara para Cílios Volume Extra Fenzza MA73 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Rímel Máscara para Cílios a Prova D´água PushUpDark 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+  
+--- PAGE 46 ---
+45 
+ 
+ 
+Produto: Rímel Máscara para Cílios Colossal Extra Volume Playboy 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Cílios Postiços Macrilan CL1-1B 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Cílios Postiços Macrilan CL1-12A 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Cílios Postiços Playboy HB89604 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Maleta Frasqueira de Alumínio Pequena Ruby´s FS-1109A Prata 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Delineador Líquido para Olhos Magic LinerLuisance L686 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+--- PAGE 47 ---
+46 
+ 
+ 
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Paleta de Sombra MegaEffect 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Esponja em Silicone Colorida 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Pincéis Aplicador para Sombra com ponta de Espuma 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+Produto: Kit de Pincéis Macrilan c/ 7 pçs 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+  
+--- PAGE 48 ---
+47 
+ 
+ 
+Produto: Kit de Sombras e Cílios Postiços 
+ 
+Materiais / Insumos usados Qtde Custo Unitário Total  
+Embalagem 1 R$ 0,40  R$ 0,40 
+TOTAL    R$ 0,40 
+ 
+5.8 - Custos de comercialização  
+ 
+Descrição (%) Faturamento Estimado Custo Total 
+SIMPLES (Imposto Federal) 6,84 R$ 31.772,50 R$ 2.173,24 
+Comissões (Gastos com Vendas) 0,00 R$ 31.772,50 R$ 0,00 
+Propaganda (Gastos com Vendas) 1,00 R$ 31.772,50 R$ 317,73 
+Taxas de Cartões (Gastos com 
+Vendas) 3,69 R$ 31.772,50 R$ 1.172,41 
+ 
+Total Impostos R$ 2.173,24 
+Total Gastos com Vendas R$ 1.490,13 
+Total Geral (Impostos + Gastos) R$ 3.663,37 
+ 
+Período Custo Total 
+Mês 1 R$ 3.663,37 
+Mês 2 R$ 3.663,37 
+Mês 3 R$ 3.663,37 
+Mês 4 R$ 3.663,37 
+Mês 5 R$ 3.663,37 
+Mês 6 R$ 3.663,37 
+Mês 7 R$ 3.663,37 
+Mês 8 R$ 3.663,37 
+Mês 9 R$ 3.663,37 
+Mês 10 R$ 3.663,37 
+Mês 11 R$ 3.663,37 
+Mês 12 R$ 3.663,37 
+Ano 1 R$ 43.960,44 
+--- PAGE 49 ---
+48 
+ 
+ 
+ 
+ 
+ 
+ 
+5.9 - Apuração do Custo de MD e/ou MV  
+ 
+ 
+Nº Produto/Serviço 
+Estimativa 
+de 
+Vendas 
+(em 
+unidades) 
+Custo 
+Unitário 
+de 
+Materiais 
+/Aquisições 
+CMD / 
+CMV 
+1 
+Sport Make Up Base Foundation BegeMédio 
+14g 10 R$ 0,40 R$ 4,00 
+2 
+Sport Make Up Base Foundation Bege Claro 
+14g 10 R$ 0,40 R$ 4,00 
+3 
+Sport Make Up Base Foundat. Café Bronze 
+14g 10 R$ 0,40 R$ 4,00 
+4 
+Sport Make Up Corretivo Conc. Bege Neutro 
+2,5g 10 R$ 0,40 R$ 4,00 
+5 
+Sport Make Up Corretivo Conc. Caramelo 
+2,5g 10 R$ 0,40 R$ 4,00 
+6 Sport Gloss Sweet Cotton 4ml 20 R$ 0,40 R$ 8,00 
+7 Sport Gloss Gold Rose 4ml 15 R$ 0,40 R$ 6,00 
+8 Sport Gloss Fire Red 4ml 20 R$ 0,40 R$ 8,00 
+9 Sport Gloss Deep Pink 4ml 20 R$ 0,40 R$ 8,00 
+10 Protetor Facial Pink Stick 10Km - 14g 15 R$ 0,40 R$ 6,00 
+11 Protetor Facial Pink Stick 42Km - 14g 15 R$ 0,40 R$ 6,00 
+12 AntiassadurasRedlessChamois Cream 100g 10 R$ 0,40 R$ 4,00 
+
+--- PAGE 50 ---
+49 
+ 
+ 
+13 Base Líquida Matte HB8073 Cor L1 30 R$ 0,40 R$ 12,00 
+14 Base Líquida Matte HB8073 Cor L2 30 R$ 0,40 R$ 12,00 
+15 Base Líquida Matte HB8073 Cor L3 20 R$ 0,40 R$ 8,00 
+16 Base Líquida Matte HB8073 Cor L4 20 R$ 0,40 R$ 8,00 
+17 Base Líquida Matte HB8073 Cor L5 20 R$ 0,40 R$ 8,00 
+18 Pó Facial Com Espelho HB 7200 Cor 1 20 R$ 0,40 R$ 8,00 
+19 Pó Facial Com Espelho HB 7200 Cor 2 20 R$ 0,40 R$ 8,00 
+20 Pó Facial Com Espelho HB 7200 Cor 3 20 R$ 0,40 R$ 8,00 
+21 Pó Facial Com Espelho HB 7200 Cor 4 20 R$ 0,40 R$ 8,00 
+22 Pó Facial Com Espelho HB 7200 Cor 5 20 R$ 0,40 R$ 8,00 
+23 Blush HB6105 Cor 1 20 R$ 0,40 R$ 8,00 
+24 Blush HB6105 Cor 2 20 R$ 0,40 R$ 8,00 
+25 Blush HB6105 Cor 3 20 R$ 0,40 R$ 8,00 
+26 Bl4sh HB6105 Cor 4 20 R$ 0,40 R$ 8,00 
+27 Blush HB6105 Cor 5 20 R$ 0,40 R$ 8,00 
+28 
+Corretivo Líquido com Aplicador HB8092 4 
+Coral 25 R$ 0,40 R$ 10,00 
+29 
+Corretivo Líquido com Aplicador HB8092 1 
+Amarelo 30 R$ 0,40 R$ 12,00 
+ 
+30 
+Corretivo Líquido com Aplicador HB8092 3 
+Roxo 20 R$ 0,40 R$ 8,00 
+31 
+Corretivo Líquido com Aplicador HB8092 2 
+Verde 20 R$ 0,40 R$ 8,00 
+32 
+Trio de Sombra Para a Sobrancelha Com 
+Primer 30 R$ 0,40 R$ 12,00 
+33 Lápis Para Sobrancelhas 93 C1 Médio 30 R$ 0,40 R$ 12,00 
+34 Paleta De Sombras Com Primer Nude 20 R$ 0,40 R$ 8,00 
+35 Paleta De Sombras Com Primer Glamour 25 R$ 0,40 R$ 10,00 
+36 Paleta De Sombras Com Primer The Rock 25 R$ 0,40 R$ 10,00 
+37 Sombra Mosaico HB9349 Cor 6 30 R$ 0,40 R$ 12,00 
+38 Sombra Mosaico HB9349 Cor 1 25 R$ 0,40 R$ 10,00 
+39 Sombra Mosaico HB9349 Cor 2 30 R$ 0,40 R$ 12,00 
+--- PAGE 51 ---
+50 
+ 
+ 
+40 Sombra Mosaico HB9349 Cor 3 20 R$ 0,40 R$ 8,00 
+41 Sombra Mosaico HB9349 Cor 5 30 R$ 0,40 R$ 12,00 
+42 Primer Facial Studio Perfect HB 30 R$ 0,40 R$ 12,00 
+43 Primer Para Sombra HB 8078 30 R$ 0,40 R$ 12,00 
+44 Kit Essencial com 7 pinceis 8 R$ 0,40 R$ 3,20 
+45 Pó Bronzeador HB7213 1 Champagne 15 R$ 0,40 R$ 6,00 
+46 Pó Bronzeador HB7213 1 Pérola 15 R$ 0,40 R$ 6,00 
+47 Pó Bronzeador HB7213 1 Cobre 15 R$ 0,40 R$ 6,00 
+48 
+CorretivoLíquido Naked Skin Collection 
+Ruby 
+Rose HB-8080 30 R$ 0,40 R$ 12,00 
+49 
+Duo Batom + Batom Líquido Matte Ruby 
+Rose HB-8601M 40 R$ 0,40 R$ 16,00 
+50 Batom Matte Ruby Rose HB8507 45 R$ 0,40 R$ 18,00 
+51 
+Lápis Delineador de Olhos com Apontador 
+Ruby Rose HB-091 50 R$ 0,40 R$ 20,00 
+52 Batom Liquido Ruby Rose 30 R$ 0,40 R$ 12,00 
+53 
+Lápis Delineador de Olhos e Lábios Ruby 
+Rose HB-019338 30 R$ 0,40 R$ 12,00 
+54 
+Lenço Removedor de Maquiagem Ruby Rose 
+HB-200 30 R$ 0,40 R$ 12,00 
+55 
+Pó Compacto Facial Cores Claras Ruby 
+Rose HB-7205-1 25 R$ 0,40 R$ 10,00 
+56 
+Batom Fosco Super Fixação Fenzza 
+BFG2750 50 R$ 0,40 R$ 20,00 
+57 
+Paleta de Sombras com 28 Cores Fenzza 
+SO08 15 R$ 0,40 R$ 6,00 
+58 
+Quinteto de Sombras Foscas Premier Fenzza 
+MS5115-M 15 R$ 0,40 R$ 6,00 
+59 Batom Líquido Fosco Playboy HB87392 25 R$ 0,40 R$ 10,00 
+60 Gloss Labial Matte Kiss Me Luisance L3016 30 R$ 0,40 R$ 12,00 
+61 
+Cola para Cílios Transparente a Prova 
+D'água Macrilan CA001 15 R$ 0,40 R$ 6,00 
+62 Rímel Máscara para Cílios Ultra 25 R$ 0,40 R$ 10,00 
+--- PAGE 52 ---
+51 
+ 
+ 
+63 
+Rímel Máscara para Cílios Volume Extra 
+Fenzza MA73 30 R$ 0,40 R$ 12,00 
+64 
+Rímel Máscara para Cílios a Prova D´água 
+PushUpDark 30 R$ 0,40 R$ 12,00 
+65 
+Rímel Máscara para Cílios Colossal Extra 
+Volume Playboy 20 R$ 4,40 R$ 88,00 
+66 Cílios Postiços Macrilan CL1-1B 40 R$ 0,40 R$ 16,00 
+67 Cílios Postiços Macrilan CL1-12A 50 R$ 0,40 R$ 20,00 
+68 Cílios Postiços Playboy HB89604 50 R$ 0,40 R$ 20,00 
+69 
+Maleta Frasqueira de Alumínio Pequena 
+Ruby´s FS-1109A Prata 5 R$ 0,40 R$ 2,00 
+70 
+Delineador Líquido para Olhos Magic Liner 
+Luisance L686 30 R$ 0,40 R$ 12,00 
+71 Paleta de Sombra MegaEffect 15 R$ 0,40 R$ 6,00 
+72 Esponja em Silicone Colorida 40 R$ 0,40 R$ 16,00 
+73 
+Pincéis Aplicador para Sombra com ponta de 
+Espuma 15 R$ 0,40 R$ 6,00 
+74 Kit de Pincéis Macrilan c/ 7 pçs 10 R$ 0,40 R$ 4,00 
+75 Kit de Sombras e Cílios Postiços 20 R$ 0,40 R$ 8,00 
+TO
+TA
+L 
+   
+R$ 787,20 
+ 
+Período CMD/CMV 
+Mês 1 R$ 787,20 
+Mês 2 R$ 787,20 
+Mês 3 R$ 787,20 
+Mês 4 R$ 787,20 
+Mês 5 R$ 787,20 
+Mês 6 R$ 787,20 
+Mês 7 R$ 787,20 
+Mês 8 R$ 787,20 
+Mês 9 R$ 787,20 
+Mês 10 R$ 787,20 
+--- PAGE 53 ---
+52 
+ 
+ 
+Mês 11 R$ 787,20 
+Mês 12 R$ 787,20 
+Ano 1 R$ 9.446,40 
+ 
+ 
+ 
+ 
+ 
+5.10 - Custos de Mão-de-Obra  
+ 
+Função 
+Nº de 
+Empregados 
+Salário 
+Mensal Subtotal 
+(%) de 
+encargos 
+sociais 
+Encargos 
+sociais Total 
+Vendedor 1 R$ 1.400,00 R$ 1.400,00 33,77 R$ 472,78 R$ 1.872,78 
+Caixa 1 R$ 1.400,00 R$ 1.400,00 33,77 R$ 472,78 R$ 1.872,78 
+TOTAL 2  2.800,00  R$ 945,56 R$ 3.745,56 
+ 
+5.11 - Custos com Depreciação  
+ 
+Ativos Fixos 
+Valor do 
+bem 
+Vida útil em 
+Anos Depreciação Anual 
+Depreciação 
+Mensal 
+MÁQUINAS E 
+EQUIPAMENTOS 
+R$ 
+2.150,00 10 R$ 215,00 R$ 17,92 
+MÓVEIS E 
+UTENSÍLIOS 
+R$ 
+5.800,00 10 R$ 580,00 R$ 48,33 
+COMPUTADORES R$ 970,00 5 R$ 194,00 R$ 16,17 
+Total R$ 989,00 R$ 82,42 
+
+--- PAGE 54 ---
+53 
+ 
+ 
+5.12 - Custos Fixos Operacionais Mensais  
+ 
+Descrição Custo 
+Aluguel R$ 0,00 
+Condomínio R$ 0,00 
+IPTU R$ 0,00 
+Energia elétrica R$ 0,00 
+Telefone + internet R$ 0,00 
+Honorários do contador R$ 0,00 
+Pró-labore R$ 2.500,00 
+Manutenção dos 
+equipamentos R$ 0,00 
+Salários + encargos R$ 3.745,56 
+Material de limpeza R$ 100,00 
+Material de escritório R$ 50,00 
+Taxas diversas R$ 0,00 
+Serviços de terceiros R$ 800,00 
+Depreciação R$ 82,42 
+Contribuição do 
+Microempreendedor 
+Individual – MEI R$ 0,00 
+Outras taxas R$ 300,00 
+TOTAL R$ 7.577,98 
+ 
+Projeção dos Custos: 
+(x) Sem expectativa de crescimento 
+(  ) Crescimento a uma taxa constante: 
+      0,00 % ao mês para os 12 primeiros meses 
+      0,00 % ao ano a partir do 2º ano 
+(  ) Entradas diferenciadas por período 
+ 
+Período Custo Total 
+Mês 1 R$ 7.577,98 
+Mês 2 R$ 7.577,98 
+Mês 3 R$ 7.577,98 
+--- PAGE 55 ---
+54 
+ 
+ 
+Mês 4 R$ 7.577,98 
+Mês 5 R$ 7.577,98 
+Mês 6 R$ 7.577,98 
+Mês 7 R$ 7.577,98 
+Mês 8 R$ 7.577,98 
+Mês 9 R$ 7.577,98 
+Mês 10 R$ 7.577,98 
+Mês 11 R$ 7.577,98 
+Mês 12 R$ 7.577,98 
+Ano 1 R$ 90.935,76 
+ 
+ 
+ 
+ 
+5.13 - Demonstrativo de Resultados  
+ 
+Descrição Valor Valor Anual (%) 
+1. Receita Total com Vendas R$ 31.772,50 R$ 381.270,00 100,00 
+2. Custos Variáveis Totais    
+   2.1 - Custos com materiais 
+diretos e/ou CMV (*) R$ 787,20 R$ 9.446,40 2,48 
+   2.2 - Impostos sobre vendas R$ 2.173,24 R$ 26.078,88 6,84 
+   2.3 - Gastos com vendas R$ 1.490,13 R$ 17.881,56 4,69 
+   Total de custos Variáveis R$ 4.450,57 R$ 53.406,84 14,01 
+3. Margem de Contribuição R$ 27.321,93 R$ 327.863,16 85,99 
+4. (-) Custos Fixos Totais R$ 7.577,98 R$ 90.935,76 23,85 
+
+--- PAGE 56 ---
+55 
+ 
+ 
+5. Resultado Operacional: 
+LUCRO R$ 19.743,95 R$ 236.927,40 62,14 
+ 
+Período Resultado 
+Mês 1 R$ 19.743,95 
+Mês 2 R$ 19.743,95 
+Mês 3 R$ 19.743,95 
+Mês 4 R$ 19.743,95 
+Mês 5 R$ 19.743,95 
+Mês 6 R$ 19.743,95 
+Mês 7 R$ 19.743,95 
+Mês 8 R$ 19.743,95 
+Mês 9 R$ 19.743,95 
+Mês 10 R$ 19.743,95 
+Mês 11 R$ 19.743,95 
+Mês 12 R$ 19.743,95 
+Ano 1 R$ 236.927,40 
+ 
+ 
+ 
+ 
+ 
+ 
+5.14 - Indicadores de Viabilidade  
+ 
+Indicadores Ano 1 
+Ponto de Equilíbrio R$ 105.748,62 
+
+--- PAGE 57 ---
+56 
+ 
+ 
+Lucratividade 62,14 % 
+Rentabilidade 630,42 % 
+Prazo de Retorno do 
+Investimento 2 meses 
+ 
+6 - CONSTRUÇÃO DE CENÁRIO  
+ 
+6.1 – Ações Preventivas e Corretivas  
+ 
+ 
+ 
+ 
+Descrição Cenário provável Cenário pessimista Cenário otimista 
+Valor (%) Valor (%) Valor (%) 
+1. Receita total 
+com vendas 
+R$ 
+31.772,50 
+100,00 R$ 25.418,00 100,00 R$ 
+36.538,38 
+100,00 
+2. Custos 
+variáveis totais 
+      
+   2.1 - Custos 
+com materiais 
+diretos e ou 
+CMV 
+R$ 787,20 2,48 R$ 629,76 2,48 R$ 905,28 2,48 
+   2.2 - Impostos 
+sobre vendas 
+R$ 2.173,24 6,84 R$ 1.738,59 6,84 R$ 2.499,23 6,84 
+ 2.3 - Gastos 
+com vendas 
+R$ 1.490,13 4,69 R$ 1.192,10 4,69 R$ 1.713,65 4,69 
+   Total de 
+Custos 
+Variáveis 
+R$ 4.450,57 14,01 R$ 3.560,46 14,01 R$ 5.118,16 14,01 
+3. Margem de 
+contribuição 
+R$ 
+27.321,93 
+85,99 R$ 21.857,54 85,99 R$ 
+31.420,22 
+85,99 
+4.- Custos fixos 
+totais 
+R$ 7.577,98 23,85 R$ 7.577,98 29,81 R$ 7.577,98 20,74 
+Resultado 
+Operacional 
+R$ 
+19.743,95 
+62,14 R$ 14.279,56 56,18 R$ 
+23.842,24 
+65,25 
+ 
+ 
+ 
+Ações Corretivas e Preventivas: 
+Ações Corretivas: Caso ocorra um cenário pessimista, a regra é elencar todos os custos da 
+empresa e manter um histórico deles, realizando cortes naqueles que têm menos participação 
+no lucro. Mensalmente analisar as despesas para cortar aquilo que não afeta a produtividade e 
+o bem-estar dos funcionários. 
+Receita (pessimista)20,00 % Receita (otimista)15,00 % 
+--- PAGE 58 ---
+57 
+ 
+ 
+ 
+Ações P reventivas: Ter um relacionamento profundo e saudável com nossos clientes, 
+colaboradores e fornecedores, para estar ciente das necessidades de todos e garantir o sucesso 
+da empresa. Monitorar continuamente o mercado. Saber que está acontecendo e conduzir a 
+empresa às mudanças necessárias. 
+ 
+7 - AVALIAÇÃO ESTRATÉGICA  
+ 
+7.1 - Análise da Matriz F.O.F.A  
+ 
+ 
+Ações: 
+Ações C orretivas: Firmar uma boa parceria com fornecedores e firmar parcerias com 
+maquiadores. 
+Ações Preventivas: Divulgar via internet, fazer promoção, publicidade e estudo de mercado. 
+  
+ FATORES INTERNOS FATORES EXTERNOS 
+PONTOS 
+FORTES 
+FORÇAS 
+Localização em rua movimentada 
+Empresa com estrutura enxuta, o 
+que permite maior mobilidade em 
+caso de mudanças significativas no 
+mercado 
+OPORTUNIDADES 
+Crescimento da indústria de cosmético e 
+consolidação desse mercado no Brasil 
+Poucas lojas com maquiagens para 
+atletas 
+PONTOS 
+FRACOS 
+FRAQUEZAS 
+Relação distante com os 
+fornecedores; 
+Empresa sem nome no mercado; 
+AMEAÇAS 
+Grande concorrência nas vendas de 
+cosméticos via Internet. 
+Taxa de desemprego 
+--- PAGE 59 ---
+58 
+ 
+ 
+8 - AVALIAÇÃO DO PLANO  
+ 
+8.1 - Análise do Plano  
+ 
+Tendo em vista que a empreendedora viu a oportunidade de explorar o mercado de cosmético 
+pela sua afinidade com o ramo, em especial para atletas, pois ela mesma sentia a necessidade 
+desses produtos, o plano de negócios proporcionou uma maior proximi dade da realidade e se 
+valeria a pena investir e obter lucros. Desta forma, identificamos os possíveis clientes, 
+fornecedores, os pontos fortes e fracos do negócio, contribuindo assim para a identificação da 
+possibilidade da ideia e na gestão da empresa. 
+Portanto, para a criação do plano de negócio da Loja de Cosmético UP, foi necessário buscar 
+o maior número de informações possíveis com clientes e fornecedores. 
+Para as previsões financeiras, foram considerados a melhor forma jurídica e enquadramento 
+tributário de acordo com o perfil da empresa para diminuir os impostos e encargos. Buscamos 
+fornecedoresconfiáveis e com o melhor preço de mercado. 
+Sendo assim, a empresa sairá do papel e tomará vida já que apresenta a perspectiva de  um 
+bom retorno. 

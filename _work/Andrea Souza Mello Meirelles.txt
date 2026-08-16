@@ -1,0 +1,4241 @@
+
+--- PAGE 1 ---
+ 
+ 
+1
+ 
+ 
+ 
+ 
+ 
+ 
+Andrea Souza Mello Meirelles 
+ 
+ 
+ 
+ 
+ 
+TRABALHO DE CONCLUSÃO DE ESTÁGIO 
+ 
+ 
+PLANO DE NEGÓCIOS PARA A 
+ABERTURA DE UM RESTAURANTE 
+ 
+ 
+ 
+ 
+Administração Geral  
+ 
+ 
+ 
+ 
+ 
+ITAJAÍ (SC) 
+ 2007 
+UNIVERSIDADE DO VALE DO ITAJAÍ 
+CENTRO DE CIÊNCIAS SOCIAIS APLICADAS 
+CURSO DE ADMINISTRAÇÃO 
+--- PAGE 2 ---
+ 
+ 
+2
+ 
+ANDREA SOUZA MELLO MEIRELLES 
+ 
+ 
+ 
+ 
+ 
+ 
+Trabalho de Conclusão de Estágio  
+PLANO DE NEGÓCIO PARA ABERTURA 
+DE RESTAURANTE 
+ 
+ 
+ 
+ 
+ 
+ 
+Trabalho de Conclusão de Estágio 
+desenvolvido para o Estágio 
+Supervisionado do Curso de 
+Administração do Centro de 
+Educação de Ciências Sociais 
+Aplicadas da Universidade do Vale 
+do Itajaí. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ITAJAÍ – SC, 2007.  
+--- PAGE 3 ---
+ 
+ 
+3
+ 
+AGRADECIMENTOS  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Agradeço aos meus pais, irmã, avós e amigos 
+pelo apoio e compreensão. E a professora 
+Antonia Egídia de Souza pela incessante, 
+constante, orientação durante todo o processo 
+da pesquisa. 
+ 
+ 
+--- PAGE 4 ---
+ 
+ 
+4
+ 
+EPÍGRAFE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bom mesmo é ir a luta com determinação, 
+abraçar a vida e viver com paixão, perder com 
+classe e vencer com ousadia, porque o mundo 
+pertence a quem se atreve e a vida é muito 
+para ser insignificante. 
+  
+Charles Chaplin 
+ 
+ 
+--- PAGE 5 ---
+ 
+ 
+5
+ 
+EQUIPE TÉCNICA 
+ 
+ 
+ 
+a) Nome do estagiário 
+Andrea Souza Mello Meirelles 
+ 
+b) Área de estágio 
+Administração Mercadológica 
+ 
+c) Orientador de campo 
+      Ciro Renato Rebelo  
+ 
+d) Orientador de estágio 
+Prof ª Antonia Egídia de Souza 
+ 
+e) Responsável pelo estágio Supervisionado em Admin istração 
+Prof. Eduardo Krieger da Silva  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 6 ---
+ 
+ 
+6
+ 
+DADOS DE IDENTIFICAÇÃO DA EMPRESA 
+ 
+ 
+ 
+ 
+a) Razão Social 
+Universidade do Vale do Itajaí, UNIJUNIOR 
+ 
+ 
+b) Endereço  
+Rua Uruguai, 586 – centro – Itajaí 
+ 
+ 
+c) Setor de desenvolvimento do estágio 
+Administração geral 
+ 
+ 
+d) Duração de estágio 
+      300 horas 
+ 
+ 
+e) Nome e cargo do orientador de campo 
+      Círo Renato Ribeiro – Respnsável UNIJUNIOR 
+ 
+ 
+f) Carimbo e visto da empresa 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 7 ---
+ 
+ 
+7
+ 
+RESUMO 
+ 
+Este trabalho de estágio trata de um Plano de Negóc ios relativo à abertura, em 
+Balneário Camboriú, Santa Catarina, de um restaurante de comida natural, no qual o 
+cliente escolhe os ingredientes da sua própria sala da, através de um cardápio 
+previamente fornecido pelo restaurante, com opção d e grelhados (carne bovina, 
+frango ou salmão) para acompanhamento. Teve como pr incipais objetivos realizar 
+diagnóstico do ambiente, definir o negócio, as açõe s de marketing e de recursos 
+humanos bem como elaborar um plano financeiro para demonstrar a viabilidade do 
+empreendimento. A tipologia de estágio utilizada fo i uma avaliação formativa, a 
+abordagem foi de caráter qualitativo e quantitativo  com coleta de dados primários e 
+secundários. Depois de auferidos os resultados das diversas etapas propostas 
+percebeu-se a viabilidade na abertura do restaurante GOOD LIGHT . 
+ 
+  
+PALAVRAS-CHAVE: Empreendedorismo; plano de negócios ; restaurante de 
+comida natural 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 8 ---
+ 
+ 
+8
+ 
+LISTA DE ILUSTRAÇÕES 
+ 
+ 
+Figura 1 - Fatores ambientais e pessoais que influenciam o 
+comportamento empreendedor................................................................  
+ 
+21 
+Quadro 1 – Classificação das empresas.................................................. 
+ 23 
+Quadro 2 – Característcas das Micros e Pequenas empresas................  24 
+Figura 2 – Matriz SWOT...........................................................................  32 
+Figura 3: Três Estratégias Genéricas ......................................................  34 
+Quadro 3 – Riscos das Estratégias Genéricas.........................................  41 
+Quadro 4 – Comparação entre objetivos organizacionais e individuais ..  62 
+Figura 4 – Hierarquia: organizaçao da empresa......................................  64 
+Quadro 5 - Quadro 5: Ações de Marketing...............................................  67 
+Figura 5 – Cardápio..................................................................................  70 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 9 ---
+ 
+ 
+9
+ 
+LISTA DE TABELAS 
+ 
+ 
+Tabela 1 – Desenvolvimento da teoria do empreendedo rismo e do termo 
+empreendedor.................................................................................................  
+ 
+16 
+Tabela 2 – Riscos das Estratégias Genéricas................................................ 
+ 36 
+Tabela 3 – Turistas em Balneário Camboriú Temporada 2006/07.................  59 
+Tabela 4 – Investimento Inicial....................................................................... 71 
+Tabela 5 – Discriminação Custos Variáveis...................................................  72 
+Tabela 6 - Custos Fixos..................................................................................  73 
+Tabela 7 – Custo Mão de Obra.......................................................................  73 
+Tabela 8 – Projeção de Vendas......................................................................  74 
+Tabela 9 - Fluxo de Caixa Mensal..................................................................  75 
+Tabela 10 – Fluxo de Caixa Projetado Anual.................................................  76 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 10 ---
+ 
+ 
+10 
+ 
+SUMÁRIO 
+ 
+ 
+1. INTRODUÇÃO........................................................................... 
+ 12 
+1.1. Problema de Pesquisa.......................................................... 12 
+1.2. Objetivo Geral e Específicos................................................ 13 
+1.3. Aspectos Metodológicos...................................................... 13 
+1.3.1. Caracterização da Pesquisa................................................ 14 
+1.3.2. Contexto e Participantes da Pesquisa................................. 14 
+1.3.3. Procedimentos e Instrumentos de Coleta de Dados............ 15 
+1.3.4. Tratamento e Análise dos Dados......................................... 15 
+  
+2. REVISÃO BIBLIOGRÁFICA..................................................... 16 
+2.1 Empreendedorismo............................................................... 16 
+2.2 Características das pequenas empresas ............................  22 
+2.3 Plano de Negócios.................................................................  25 
+2.3.1 Estrutura de Plano de Negócios..............................................  28 
+  
+3 DESENVOLVIMENTO DO PLANO DE NEGÓCIOS.................. 53 
+3.1 Diagnóstico do Negócio........................................................ 56 
+3.1.1 Macroambiente.....................................................................  56 
+3.1.2 Ambiente Setorial..................................................................  60 
+3.1.2 Matriz SWOT.........................................................................  62 
+3.2 Definição da empresa. ........................................................... 63 
+3.2.1 Plano de Marketing............................................................... 65 
+3.2.2 Plano de Recursos Humanos............................................... 67 
+3.2.3 Plano Operacional ................................................................ 68 
+3.2.4 Plano Financeiro................................................................... 71 
+--- PAGE 11 ---
+ 
+ 
+11 
+ 
+4. CONSIDERAÇÕES FINAIS....................................................... 78 
+  
+REFERÊNCIAS BIBLIOGRÁFICAS.............................................. 80 
+  
+ANEXO........................................................................................... 82 
+  
+APÊNDICES.....................................................................................  85 
+  
+ASSINATURA DOS RESPONSÁVEIS.......................................... 105  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 12 ---
+ 
+ 
+12 
+ 
+1 INTRODUÇÃO 
+ 
+ 
+Com a expectativa em atender e suprir as exigências  do mercado, as 
+empresas a cada dia que passa, sente-se obrigadas a  aprimorar e se adequar ao 
+mercado consumidor.  
+Os hábitos e o consumo de alimentos são diferentes para as distintas 
+populações do planeta. Estas diferenciações decorre m não só de condições sócio-
+econômicas, mas principalmente de aspectos culturai s que envolvem a alimentação. 
+Ou seja, o ato de alimentar-se não implica somente na ingesta para a nutrição do 
+organismo humano, está ligado a um conjunto de regr as, preceitos, tabus, valores e 
+atitudes culturais diante dos alimentos que cada grupo social estabelece. 
+Com a vida agitada do dia-a-dia, a falta de tempo f az com que a alimentação 
+seja cada vez mais rápida e inadequada, buscando as sim, uma nova alternativa 
+para obter uma melhor qualidade de vida.  
+Diante disso, quando um empreendedor decide criar u ma nova empresa no 
+ramo de alimentos, precisa ficar atento aos hábitos  dos consumidores. A partir daí 
+ele busca que identifique a oportunidade de negócio  e de coletar informações sobre 
+elas, desenvolvendo o conceito e estratégias do seu  futuro empreendimento para 
+assim colocá-lo em prática.  
+Neste sentido, o plano de negócios é uma ferramenta  que tem como função 
+mostrar a capacidade e possibilidade do nascimento do novo empreendimento, 
+podendo visualizar os possíveis fracassos e necessi dades. Este trabalho tem como 
+principal objetivo estudar a viabilidade econômica para abertura de um futuro 
+empreendimento que busca oferecer aos clientes uma nova opção de alimentação, 
+pois busca-se hoje um novo conceito no ramo alimentício natural e saudável. 
+ 
+ 
+1.1 Problema da Pesquisa 
+ 
+Um administrador precisa estar continuamente analis ando seu negócio para 
+perceber as reais necessidades e conseqüentemente a s diferentes oportunidades 
+que apareçam no dia-a-dia da população. 
+--- PAGE 13 ---
+ 
+ 
+13 
+ 
+Para a abertura de qualquer negócio é essencial rea lizar uma pesquisa de 
+mercado para analisar o futuro investimento finance iro. Todo negócio novo requer 
+estratégias e planos bem estabelecidos. 
+Partindo disto, define-se o problema da pesquisa: Q uais os fatores relevantes 
+que irão determinar a viabilidade da abertura de um  restaurante fast-food  de 
+comidas saudáveis na cidade de Balneário Camboriú? 
+A viabilidade deste trabalho será identificada a partir da coleta de informações 
+realizadas durante todo o estágio. 
+Este trabalho é importante, pois permite agregar no vos conhecimentos e uma 
+possibilidade de empreender. Para a Unijúnior que p ode perceber o seu esforço e 
+trabalho incentivando ao estagiário. E já para a un iversidade e para os acadêmicos 
+em geral, uma opção de consulta de dados e informações. 
+ 
+ 
+1.2 Objetivo Geral e Específicos 
+ 
+Elaborar um plano de negócio para a abertura de um restaurante fast-food .  
+Para atender o propósito acima se define os seguintes objetivos específicos: 
+ 
+/boxshadowdwn Realizar diagnóstico de do ambiente; 
+/boxshadowdwn Definir o negócio; 
+/boxshadowdwn Definir ações de Marketing; 
+/boxshadowdwn Definir ações de Recursos Humanos; 
+/boxshadowdwn Elaborar um plano financeiro. 
+ 
+ 
+1.3 Aspectos Metodológicos  
+ 
+Este tópico apresenta as informações referentes ao desenvolvimento do 
+trabalho, enfatizando os aspectos relativos ao tipo  de pesquisa, área de 
+abrangência, instrumentos de coleta de dados, bem c omo, interpretação e análise 
+de dados. 
+ 
+--- PAGE 14 ---
+ 
+ 
+14 
+ 
+1.3.1 Caracterização da pesquisa  
+  
+ 
+O estágio tem como tipologia a avaliação formativa no qual segundo Roesch 
+(2007, p.70) “consiste no diagnóstico do sistema at ual e sugestões para sua 
+reformulação; por isso requer certa familiaridade c om os sistema e, idealmente, a 
+possibilidade de implantar as mudanças sugeridas e observar seus efeitos”.  
+Para realizar o diagnóstico do negócio lançou-se mã o das abordagens  
+qualitativa e quantitativa, por jugar-se mais adequado quando se realiza um plano de 
+negócios como estágio.  
+A abordagem quantitativa foi utilizada para identificar os potenciais clientes do 
+restaurante. De acordo com Richardson (1999, p.70) “método quantitativo, como o 
+próprio nome indica, caracteriza-se pelo emprego da  quantificação tanto nas 
+modalidades de coleta de informações, quanto no tra tamento por meio de técnicas 
+estatísticas [...]”. 
+ A abordagem qualitativa foi aplicada para que foss e possível fazer a análise 
+dos dados secundários a respeito do ambiente de neg ócio da empresa. Esta 
+abordagem é adequada quanto necessita-se fazer uma análise mais detalhada para 
+compreender uma dada realidade ou fenômeno (RICHARDSON, 1999). 
+ 
+ 
+1.3.2 Contexto e população do trabalho de estágio 
+ 
+A população da pesquisa foram os consumidores em po tencial. De acordo 
+com Richardson (1999, p.157), população é o “conjun to de elementos que possuem 
+determinadas características. Usualmente, fala-se de população ao se referir a todos 
+os habitantes de determinado lugar”.  
+E para a amostra foi utilizada a amostragem por con veniência, que segundo 
+Gil (2007, p.104) “seleciona elementos a que tem ac esso, admitindo que estes 
+possam, de alguma forma, representar o universo”. 
+ 
+ 
+ 
+ 
+--- PAGE 15 ---
+ 
+ 
+15 
+ 
+1.3.3 Procedimentos e instrumentos de coleta de dad os 
+ 
+Na elaboração do plano de negócios utilizaram-se fo ntes de dados primários, 
+no qual para Mattar (1999, p.48) “são aqueles obtid os pela primeira vez e que nunca 
+foram coletados ou tabulados antes, ou seja, são pr odutos do levantamento 
+efetuado pelo pesquisador para fins de sua pesquisa ”, na aplicação de questionários 
+com os consumidores em potencial, que segundo Gil ( 2007, p.128) questionário é a: 
+“técnica de investigação composta por um número mai s ou menos elevado de 
+questões apresentadas por escrito às pessoas[...]”.  
+Já os dados secundários foram aplicados na análise documental, pois “são 
+aqueles que já foram coletados, tabulados, ordenado s, e as vezes até analisados e 
+que já estão catalogados à disposição dos interessados”(MATTAR, 1999, p.48)  
+ 
+ 
+1.3.4 Tratamento e análise dos dados 
+ 
+Para os dados quantitativos, a partir dos resultado s obtidos foram 
+disponibilizados dados estatísticos, organizados em  gráficos e tabelas, seguidos de 
+comentários a respeito de cada situação encontrada e uma análise conclusiva sobre 
+a importância das informações para o sucesso do empreendimento. 
+ Já para os dados qualitativos, foram feitos o trata mento e a análise do 
+conteúdo, no qual para Berelson ( apud  GIL, 2007, p.165) consiste em: “uma técnica 
+de investigação que, através de uma descrição objet iva, sistemática do conteúdo 
+manifesto das comunicações, tem por finalidade a in terpretação destas mesmas 
+comunicações”.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 16 ---
+ 
+ 
+16 
+ 
+2. REVISÃO BIBLIOGRÁFICA 
+ 
+ 
+Neste capítulo, apresenta-se a revisão teórica nece ssária ao objetivo 
+proposto. Sendo que os temas abordados são: o empre endedorismo, as 
+características das pequenas empresas e o plano de negócios.  
+ 
+ 
+2.1 Empreendedorismo 
+ 
+ 
+O mundo vem passando por diversas  modificações em um curto período de 
+tempo, principalmente no século XX, quando novas in venções foram criadas. 
+Normalmente estas invenções são frutos de inovação de algo inédito ou de uma 
+nova visão das coisas que já existem. 
+Historicamente, empreendedorismo tem sido definido como uma maneira 
+diferenciada de alocação de recursos e otimização d e processos organizacionais, 
+sempre de forma criativa, visando à diminuição de custos e melhoria de resultados. 
+De acordo com Hisrich e Peters (2006), o termo empreendedorismo origina-se 
+do francês, entrepreneur, no qual significa aquele que está entre ou estar en tre. E 
+ele vem de desenvolvendo a cada século, caracteriza ndo de uma melhor forma, de 
+acordo com a realidade vivida no momento. 
+ Na tabela a seguir, é possível visualizar o desenv olvimento da teoria do 
+empreendedorismo e do termo empreender. 
+ 
+Tabela 1 –Desenvolvimento da teoria do empreendedorismo e do termo empreender 
+ 
+Idade Média Participante e pessoa encarregada de pr ojetos de produção em grande escala. 
+Séc. XVII Pessoa que assumia riscos de lucro (ou pr ejuízo) em um contrato de valor fixo com 
+o governo. 
+1725 Richard Cantillon – pessoa que assume riscos é  diferente da que fornece capital.  
+1803 Jean Baptiste Say - lucros de empreendedor sep arados dos lucros de capital. 
+1876 Francis Walker – distinguiu entre os que forne ciam fundos e recebiam juros e 
+aqueles que obtenham lucro com habilidades administrativas. 
+1934 Joseph Schumpeter – o empreendedor é alguém di nâmico que corre riscos 
+moderados. 
+--- PAGE 17 ---
+ 
+ 
+17 
+ 
+1964 Peter Drucker - o empreendedor maximiza oportu nidades 
+1975 Albert Shapero – o empreendedor toma iniciativ a, organiza alguns mecanismos 
+sociais e econômica e aceita riscos de fracasso. 
+1980 Karl Vesper – o empreendedor é visto de modo d iferente do economista, 
+psicólogos, negociantes e políticos.  
+1983 Gifford Pinchot – o intra-empreendedor é um em preendedor que atua dentro de 
+uma organização já estabelecida. 
+1985 Robert Hirisch – o empreendedorismo é o proces so de criar algo diferente e com 
+valor, dedicando o tempo e o esforço necessários, a ssumindo os riscos financeiros, 
+psicológicos e sócias correspondentes as conseqüentes recompensas da satisfação 
+econômica e pessoal. 
+Fonte: Hisrich e Peters (2006, p.27). 
+ 
+A definição de empreender evoluiu com o decorrer do  tempo, à medida que a 
+estrutura econômica mundial mudava e tornava-se mais complexa. Desde seu início, 
+na Idade Média, quando era usada para se referir as  ocupações específicas, a 
+noção de empreendedor foi refinada e ampliada, pass ando a incluir conceitos 
+relacionados com a pessoa, uma vez que, era relacio nado com a ocupação 
+(DORNELAS, 2002; DOLABELA, 1999). 
+Isto tem gerado certa confusão de definições, pois muitas pessoas têm 
+considerado o empreendedorismo como sendo sinônimo do ato de abrir empresas. 
+Definições mais abrangentes mostram que o empreende dorismo vai além do ato de 
+abrir novas empresas e que pode estar relacionado a  vários tipos de organizações, 
+em vários estágios de desenvolvimento. O ato de emp reender está relacionado à 
+identificação, análise e implementação de oportunid ades de negócio, tendo como 
+foco a inovação e a criação de valor (DORNELAS, 2002). 
+Isto pode ocorrer através da criação de novas empre sas, mas também ocorre 
+em empresas já estabelecidas, organizações com enfo que social, entidades de 
+natureza governamental etc. 
+Para se distinguir num mercado cada vez mais compet itivo, as empresas têm 
+de obter avanços na produtividade, em geral decorre ntes de uma nova forma de 
+fazer as coisas, seja um modo mais eficiente de apr oveitar os recursos, seja a 
+entrada em um mercado diferente ou a aposta num pro duto extraordinário ou 
+completamente novo.  
+Trata-se de um dos paradoxos da gestão: para ser es tável e perene, uma 
+organização deve constantemente promover a mudança.  Na maioria das vezes as 
+--- PAGE 18 ---
+ 
+ 
+18 
+ 
+empresas promovem pequenas mudanças, cujo somatório  permite manter-se à 
+frente dos concorrentes. Essas pequenas mudanças sã o o fruto do trabalho e 
+iniciativa dos empreendedores que se encontram nas organizações. 
+ O empreendedorismo tem sido muito difundido no Bra sil nos últimos anos, 
+particularmente na década de 1990, e hoje ser um em preendedor é quase um 
+imperativo. É importante lembrar que por trás de no vas idéias que vem 
+revolucionando a sociedade, há sempre um visionário, que com seu talento, somado 
+à análise, planejamento e capacidade de implementaç ão, é responsável por 
+empreendimentos de sucesso (BENSADON, 2001). 
+O empreendedorismo aplica-se a uma variedade de org anizações em seus 
+vários estágios de desenvolvimento, conforme Bensadon (2001): 
+ 
+a. Uma pequena empresa em início de desenvolvimento ; 
+b. Uma média empresa em fase de crescimento; 
+c. Uma empresa familiar em fase de profissionalizaç ão; 
+d. Uma ONG (Organização Não Governamental); 
+e. Em entidades e órgãos públicos; 
+f. Em associações e cooperativas; 
+g. Em empresas já estabelecidas, que buscam renovaç ão e crescimento; 
+ 
+O processo empreendedor envolve todas as funções, a ções e atividades 
+associadas com a percepção de oportunidades e a cri ação de meios para persegui-
+las. O seu papel envolve iniciar e constituir mudan ças na estrutura do negócio e da 
+sociedade. 
+ 
+A força que empurra o empresário para o sucesso é, sem dúvida, a vontade 
+de enfrentar o desafio de abrir o próprio negócio. Mas, somada a essa vontade, tem 
+que haver a disposição para aprimorar conhecimentos  e, para desenvolver 
+comportamentos adequados a empreendedores bem-suced idos. Para buscar e se 
+tornar um bom empreendedor de acordo com Salim (200 4), é essencial que 
+possuam algumas habilidades como as abaixo:  
+ 
+/square4 Assumir riscos - Esta é a primeira e uma das maior es qualidades do 
+verdadeiro empreendedor. Arriscar conscientemente é  ter coragem de 
+enfrentar desafios, de tentar um novo empreendiment o, de buscar, por 
+--- PAGE 19 ---
+ 
+ 
+19 
+ 
+si só, os melhores caminhos. Os riscos fazem parte de qualquer 
+atividade, sejam financeiros, sociais ou psicológic os, e é preciso 
+aprender a lidar com eles.  
+ 
+/square4 Identificar oportunidades - Ficar atento e percebe r, no momento certo, 
+as oportunidades que o mercado oferece e reunir as condições 
+propícias para a realização de um bom negócio é out ra marca 
+importante do empresário bem-sucedido. Ele é um ind ivíduo curioso e 
+atento a informações, pois sabe que suas chances me lhoram quando 
+seu conhecimento aumenta.  
+ 
+/square4 Conhecimento - Quanto maior o domínio de um empres ário sobre um 
+ramo de negócio, maior é sua chance de êxito. Esse conhecimento 
+pode vir da experiência prática, de informações obtidas em publicações 
+especializadas, em centros de ensino, ou mesmo de " dicas" de 
+pessoas que montaram empreendimentos semelhantes.  
+ 
+/square4 Organização - Ter capacidade de utilizar recursos humanos, materiais 
+financeiros e tecnológicos de forma racional. Resum indo: ter senso de 
+organização. É bom não esquecer que, na maioria das  vezes, a 
+desorganização principalmente no início do empreend imento 
+compromete seu funcionamento e seu desempenho.  
+ 
+/square4 Tomar decisões - O sucesso de um empreendimento, m uitas vezes, 
+está relacionado com a capacidade de decidir corret amente. Tomar 
+decisões acertadas é um processo que exige o levant amento de 
+informações, análise fria da situação, avaliação da s alternativas e a 
+escolha da solução mais adequada. O verdadeiro empr eendedor é 
+capaz de tomar decisões corretas, na hora certa.  
+ 
+/square4 Liderança - é saber definir objetivos, orientar ta refas, combinar 
+métodos e procedimentos práticos, estimular as pess oas no rumo das 
+metas traçadas e favorecer relações equilibradas de ntro da equipe de 
+trabalho, em torno do empreendimento. Dentro e fora  da empresa, o 
+--- PAGE 20 ---
+ 
+ 
+20
+ 
+homem de negócios faz contatos. Seja com clientes, fornecedores e 
+empregados. Assim, a liderança tem que ser uma qual idade sempre 
+presente.  
+ 
+/square4 Dinamismo - Um empreendedor de sucesso nunca se ac omoda, para 
+não perder a capacidade de fazer com que simples id éias se 
+concretizem em negócios efetivos. Manter-se sempre dinâmico e 
+cultivar um certo inconformismo diante da rotina é um de seus lemas 
+preferidos.  
+ 
+/square4 Independência - determinar seus próprios passos, a brir seus próprios 
+caminhos, ser seu próprio patrão, enfim, buscar a i ndependência é 
+meta importante na busca do sucesso. O empreendedor  deve ser livre, 
+evitando protecionismos que, mais tarde, possam se transformar em 
+obstáculos aos negócios. Só assim surge a força nec essária para fazer 
+valer seus direitos de cidadão-empresário.  
+ 
+/square4 Otimismo - Esta é uma característica das pessoas qu e enxergam o 
+sucesso, em vez de imaginar o fracasso. Capaz de en frentar 
+obstáculos, o empresário de sucesso sabe olhar além  e acima das 
+dificuldades.  
+ 
+/square4 Tino empresarial - O que muita gente acredita ser u m "sexto sentido", 
+intuição, faro empresarial, típicos de gente bem-su cedida nos negócios 
+é, na verdade, na maioria das vezes, a soma de toda s as qualidades 
+descritas até aqui. Quem quer se estabelecer por co nta própria no 
+mercado brasileiro e, principalmente, alçar vôos ma is altos, na 
+conquista do mercado externo, deve saber que clientes, fornecedores e 
+mesmo os concorrentes só respeitam os que se mostra m à altura do 
+desafio.  
+ 
+Para vários autores, o empreendedorismo não é passí vel de ser ensinado, 
+pois se trata de uma característica inata na person alidade dos indivíduos. Esta visão 
+está ultrapassada e Dolabela (1999) discutiu bastan te o assunto mostrando que 
+--- PAGE 21 ---
+ 
+ 
+21 
+ 
+ensinar empreendedorismo é uma tarefa difícil por s er quase individualizada, no 
+entanto pode ser ensinado e entendido por qualquer pessoa, e que o sucesso é 
+decorrente de uma gama de fatores internos e externos ao negócio. 
+As habilidades requeridas de um empreendedor podem ser classificadas em 
+três áreas, segundo Dornelas (2001, p.39).  A prime ira é a técnica no qual envolvem 
+saber escrever, ouvir as pessoas e captar informaçõ es, ser um bom orador, ser 
+organizado, saber liderar, trabalhar em equipe e po ssuir um Know-how  técnico na 
+sua área de atuação. A segunda são as habilidades g erenciais, onde incluem áreas 
+de criação, desenvolvimento e gerenciamento de uma nova empresa. E por último 
+às características pessoais, no qual é preciso ser um líder visionário, persistente. 
+A decisão de tornar-se um empreendedor pode ser ao acaso, mas existem 
+alguns fatores críticos para o surgimento e o cresc imento de uma nova empresa que 
+influenciam no processo empreendedor, conforme figura a seguir: 
+ 
+ 
+ 
+Fi 
+gura 1 – Fatores ambientais e pessoais que influenciam o comportamento empreendedor 
+Fonte: Dornelas (2001, p.40) 
+ 
+ 
+A capacidade de inovação é uma característica que d istingue os seres 
+humanos dos outros animais. Esta característica pod e ser observada através da 
+história, desde a construção das pirâmides até as e xpedições ao planeta Marte. 
+Enquanto as ferramentas mudaram em função da inovaç ão tecnológica, a 
+capacidade de inovar esteve sempre presente em toda s as civilizações, 
+--- PAGE 22 ---
+ 
+ 
+22 
+ 
+proporcionando invenções como a roda e a luz elétri ca, sendo, portanto, uma 
+conjunção de características pessoais, administrati vas e econômicas (NAKASHIMA, 
+2002). 
+Essas inovações, em sua maioria, ocorreram em funçã o das mudanças 
+sociais, tecnológicas e políticas. E também em funç ão da capacidade do 
+empreendedor correr riscos. 
+ 
+ 
+2.2 Características das pequenas empresas  
+ 
+Até o fim da década de setenta, eram considerados c omo suportes 
+econômicos, somente o Estado e as grandes empresas, porém a partir da década de 
+oitenta, com o aumento significativo da utilização de tecnologia intensiva e o 
+aumento da concorrência, mundial por meio da global ização de produtos e serviços. 
+O Estado passa a ter dificuldade para cumprir seus compromissos e aumenta o seu 
+endividamento, dificultando a geração de investimen tos em infra-estrutura e novos 
+empregos. 
+Na década de oitenta, segundo Dolabela (1999), com a redução do ritmo de 
+crescimento da economia, resultando em maior nível de desemprego, os pequenos 
+negócios passaram a ser considerados uma alternativa para a ocupação da mão-de-
+obra excedente, fazendo surgir ao final da década à s primeiras iniciativas mais 
+concretas para incentivar a abertura de micro e pequenas empresas na economia, 
+Além de que, as grandes organizações, também com o uso de novas 
+tecnologias, substituíram grande parte dos funcioná rios, pela automação industrial, 
+procurando a maior produtividade. 
+Neste cenário, como alternativa, as pequenas empres as passaram a ter uma 
+grande importância como fontes geradoras de novas o portunidades e empregos, 
+para atender, não somente o mercado local, mais também o mercado internacional. 
+Para o estímulo ao desenvolvimento econômico e soci al de uma região, o 
+empreendedorismo se mostra como um mecanismo aciona dor dos processos que 
+deverão encadear uma série de ações e transformaçõe s, e que, muito provável, se 
+iniciará por meio de pequenas empresas (DOLABELA, 1999). 
+--- PAGE 23 ---
+ 
+ 
+23 
+ 
+De acordo com o IBGE (2003), as micro e pequenas em presas representam, 
+no Brasil, noventa e oito por cento das empresas fo rmalizadas, empregando 
+cinqüenta e sete por cento da mão de obra formal oc upada e representando mais de 
+vinte por cento do Produto Interno Bruto (PIB), sen do que, mundialmente, surge 
+como tendência para a geração de novos empregos e rendas. 
+A partir da década de 80, estudos sobre a influênci a da proximidade espacial 
+no desempenho competitivo e dos clusters, levaram a o surgimento de diversas 
+abordagens centradas na importância da dimensão loc al na coordenação das 
+atividades econômicas e tecnológicas, substituindo a abordagem individual pela 
+abordagem coletiva, por meio de cadeias produtivas e indicando soluções tanto para 
+as organizações como para o conjunto de elos e ator es dessas cadeias 
+concentradas geograficamente nos territórios que se  estabelecem relações de 
+confiança e de trocas entre os diversos atores, ond e se criam condições para um 
+ambiente de aprendizagem coletiva e de difusão de inovações (SEBRAE, 2006).  
+Uma série de ações e transformações, e que, muito p rovável, se iniciará por 
+meio de pequenas empresas, sendo que, uma das carac terísticas fundamentais, é a 
+sua relação com a comunidade local, que poderá ser um catalisador do processo de 
+desenvolvimento quanto melhor for o ambiente favorá vel ao empreendedorismo 
+(DOLABELA, 1999). 
+ As micro e pequenas empresas são classificadas de acordo com o número de 
+funcionários e a receita bruta anual. A seguir é po ssível visualizar o quadro de 
+classificação. 
+ 
+ 
+Quadro 1 – Classificação das empresas 
+Fonte: IBGE (2003). 
+ 
+ 
+Uma importante contribuição das micro e pequenas em presas no crescimento 
+e desenvolvimento do País é a de servirem de colchão amortecedor do desemprego. 
+Constituem uma alternativa de ocupação para uma peq uena parcela da população 
+--- PAGE 24 ---
+ 
+ 
+24 
+ 
+que tem condição de desenvolver seu próprio negócio , em uma alternativa de 
+emprego formal ou informal, para uma grande parcela  da força de trabalho 
+excedente, em geral com pouca qualificação, que não  encontra emprego nas 
+empresas de maior porte (IBGE, 2003). 
+Normalmente os empresários das micro e pequenas emp resas não possuem 
+um conhecimento adequado, onde apenas a força de vo ntade não faz com que a 
+empresa se torne vencedora. É claro, que existem al gumas exceções, no entanto 
+não se pode levar em consideração de que isto é o correto.  
+A qualificação dos funcionários em atender e suprir  as exigências é essencial 
+para um bom andamento do negócio. Muitas vezes o mo tivo de não dar certo o 
+empreendimento está no simples fato do atendimento,  bem como, a localização da 
+empresa. São alguns itens que são essenciais para u m bom resultado, e que muitas 
+vezes por falta de conhecimento faz com que não cre sça ou até fechar esta 
+organização. 
+De acordo com o IBGE (2003), a seguir no quadro, po ssuí as principais 
+características das Micro e Pequenas Empresas. 
+ 
+ 
+Quadro 2 - Características das Micro e Pequenas emp resas. 
+Fonte: IBGE (2003). 
+ 
+O principal desafio para a sobrevivência das micro e pequenas empresas 
+segundo Tachizawa e Faria (2002, p.45), “está no diferencial, na qualidade oferecida 
+e nos preços compatíveis com o mercado”. 
+  
+--- PAGE 25 ---
+ 
+ 
+25 
+ 
+A forte volatilidade do mercado faz com que se torn em menos competitivos, 
+no entanto, é preciso que busquem um diferencial, j á que a oferta de trabalho está 
+maior que a demanda. 
+Para combater a concorrência as micro e pequenas em presas estão 
+buscando novas formas de gestão, uma delas são as redes, na qual as empresas se 
+relacionam com as demais empresas, fornecedores e c lientes, para terem maiores 
+condições financeiras em busca para criar novos pro dutos, compartilhar informações 
+e obter um melhor espaço no mercado. 
+De acordo com Galbraith ( apud  TACHIZAWA e FARIA, 2002, p.45) “um dos 
+efeitos da competição global foi o redirecionamento  do poder para as mãos do 
+comprador”. Com isso os consumidores estão se torna ndo cada vez mais exigentes 
+e, consequentemente, os empresários devem correr at rás de mudanças, inovações 
+para atender e suprir as exigências do mercado.  
+ 
+ 
+2.3 Plano de Negócios  
+ 
+O propósito de um Plano de Negócios fica bastante c laro quando se verifica a 
+quantidade de benefícios que ele pode trazer para a  empresa. Através desta 
+ferramenta de gestão, consegue-se planejar e decidi r a respeito do futuro da 
+empresa, tendo como base o passado, a situação atua l em relação ao mercado, aos 
+clientes e à concorrência (DORNELAS, 2001).  
+O Plano de Negócios é possível identificar os risco s e propor planos para 
+minimizá-los e até mesmo evitá-los; identificar seu s pontos fortes e fracos em 
+relação à concorrência e o ambiente de negócio em q ue você atua; conhecer seu 
+mercado e definir estratégias de marketing para seu s produtos e serviços; analisar o 
+desempenho financeiro de seu negócio, avaliar inves timentos, retorno sobre o 
+capital investido; enfim, você terá um poderoso gui a que norteará todas as ações de 
+sua empresa (DORNELAS, 2001). 
+ Como se nota, o Plano de Negócios não é uma ferram enta estática, pelo 
+contrário, é uma ferramenta extremamente dinâmica e  deve ser atualizado e 
+utilizado periodicamente.  
+--- PAGE 26 ---
+ 
+ 
+26 
+ 
+A cultura de planejamento ainda não está totalmente  difundida no Brasil, ao 
+contrário de outros países, como, por exemplo, os E stados Unidos, onde o Plano de 
+Negócios é o passaporte e o pré-requisito básico pa ra a abertura e gerenciamento 
+do dia-a-dia de qualquer negócio, independente de seu tipo ou porte.  
+No entanto, esta situação vem mudando rapidamente nos últimos anos devido 
+a vários fatores, principalmente pelo fato de muita s instituições, bancos, órgãos 
+governamentais (MCT, BNDES, CNPQ e etc.) estarem exigindo o Plano de Negócios 
+como base para a análise e concessão de crédito, fi nanciamento e recursos às 
+empresas, entidades etc.  
+O Plano de Negócios está, cada vez mais, tornando-s e a principal arma de 
+gestão que um empresário pode utilizar visando o su cesso de seu empreendimento. 
+Por essa razão, é necessário que se entenda o que s ignifica escrever um Plano de 
+Negócios, como proceder, o que escrever e como util izá-lo para as diversas 
+finalidades a que se propõe.  
+De acordo com Dornelas (2001), o Plano de Negócios serve também como 
+um cartão de visitas da empresa e como um instrumen to de apresentação do 
+negócio de forma sucinta, mas que engloba todas as suas principais características. 
+Alguns dos possíveis públicos para o seu Plano de Negócios estão listados a seguir:  
+ 
+/square4 Incubadoras de empresas : com o objetivo de se tornar uma empresa 
+incubada.  
+/square4 Sócios potenciais: para estabelecer acordos e dire ção.  
+/square4 Parceiros: para estabelecimento de estratégias con juntas.  
+/square4 Bancos  para outorgar financiamentos.  
+/square4 Intermediários : pessoas que ajudam a vender o seu negócio.  
+/square4 Investidores : empresas de capital de risco, pessoas jurídicas e outros 
+interessados.  
+/square4 Gerentes de Marketing : para desenvolver planos de marketing.  
+/square4 Executivos de alto nível: para aprovar e alocar re cursos.  
+/square4 Fornecedores : para outorgar crédito para compra de mercadorias e 
+matéria prima.  
+/square4 Gente talentosa: que você deseja contratar para fa zer parte da sua 
+empresa.  
+/square4 A própria empresa : para comunicação interna com os empregados.   
+--- PAGE 27 ---
+ 
+ 
+27 
+ 
+/square4 Os clientes potenciais: para vender o produto/serv iço.  
+ 
+O plano de negócios é um documento usado para descr ever seu negócio. 
+Muitas horas de elaboração devem resultar em um doc umento abrangente, bem 
+rígido e organizado, no qual servirá como um guia p ara o empreendedor e como 
+instrumento para obter o capital e o financiamento necessário. 
+De acordo com Hisrich e Peters (2006, p. 210), plan o de negócios é 
+conceituado como “um documento preparado pelo empre endedor em que são 
+escritos todos os elementos externos e internos rel evantes envolvidos no inicio de 
+um empreendimento”. 
+Não existe uma estrutura rígida e específica para s e escrever um Plano de 
+Negócios, porém, deve possuir um mínimo de seções a s quais proporcionam um 
+entendimento completo do negócio. Estas seções são organizadas de forma a 
+manter uma seqüência lógica que permita a qualquer leitor, do Plano de Negócios, 
+entender como a empresa é organizada, seus objetivo s, seus produtos e serviços, 
+seu mercado, sua estratégia de marketing e sua situ ação financeira (HISRICH e 
+PETERS, 2006).  
+Entre as funções básicas da administração (organiza ção, direção, 
+planejamento e controle), duas relacionam-se mais d iretamente ao processo de 
+elaboração do plano de negócios, o planejamento e o controle. 
+Planejar significa decidir antecipadamente quais os  objetivos a serem 
+atingidos e o que deve ser feito para atingi-los da  melhor forma possível. Assim, 
+partindo da fixação dos objetivos a serem alcançado s, o planejamento determina a 
+priori o que se deve fazer, quando fazer, como faze r, quem deve fazê-lo e de que 
+maneira Mas já por outro lado, o controle é a funçã o administrativa que consiste em 
+medir e corrigir o desempenho para assegurar que os  planos sejam executados da 
+melhor maneira possível (DORNELAS, 2001). 
+Como já citado anteriormente, todo e qualquer plane jamento pressupõe a 
+existência de, no mínimo, um objetivo. A fixação do s objetivos da empresa é uma 
+tarefa árdua, baseia-se na análise de informações e  dados internos e externos à 
+empresa, tais como o mercado, a conjuntura econômica e os recursos financeiros.  
+Os objetivos devem ser definidos de forma clara e s ucinta, para que o 
+planejamento seja adequado, porque este é feito em função do objetivo a que se 
+pretende chegar.  
+--- PAGE 28 ---
+ 
+ 
+28 
+ 
+Para que as organizações tenham condições de estabe lecer objetivos 
+tangíveis, faz-se necessário diagnosticar o ambiente interno e externo, possibilitando 
+a adequada avaliação das condições atuais da empresa. 
+ 
+ 
+2.3.1 Estrutura de Plano de Negócios 
+ 
+ Este tópico tem como propósito apresentar a estrut ura do plano de negócios. 
+ 
+2.3.1.1 Identificação da visão e missão  
+ 
+ Nesta etapa a visão da empresa pode ser conceituad a como sendo algo que 
+se vislumbre para o futuro desejado da organização,  ou a idealização de um futuro 
+desejado.  
+ De acordo com Oliveira (2001, p.69), “a visão pode  ser considerada como os 
+limites que os principais responsáveis pela empresa  conseguem enxergar dentro de 
+um período de tempo mais longo e uma abordagem mais ampla”. 
+A visão deve ser estabelecida de forma clara e direcionada aos focos básicos, 
+ou seja, aos consumidores, funcionários e fornecedo res, incrementando a 
+participação da empresa no mercado, bem como aument ando a lucratividade 
+através do aumento de percepção de seus produtos e serviços pelos consumidores. 
+Outro item de muita importância no desenvolvimento do plano de negócio é a 
+missão da empresa. Ela tem como função estabelecer a razão de ser da empresa, 
+bem como seu posicionamento estratégico (OLIVEIRA, 2001). 
+Segundo Oliveira (2001, p.76) ”a missão é a determi nação do motivo central 
+do planejamento estratégico, ou seja, a determinaçã o de onde a empresa quer ir. 
+Corresponde a um horizonte dentro do qual a empresa atua ou poderá atuar”. 
+Uma vez declarada a missão e a visão da empresa, os  executivos devem 
+conhecer as partes do ambiente que precisam monitorar para atingir as metas. 
+ 
+ 
+ 
+ 
+--- PAGE 29 ---
+ 
+ 
+29 
+ 
+2.3.1.2 Análise Externa 
+ 
+Esta etapa verifica as ameaças e oportunidade que e stão no ambiente da 
+empresa e as melhores maneiras de evitar e usufruir  dessas situações. De acordo 
+com Oliveira (2001), as organizações devem olhar pa ra fora de si, para o ambiente 
+onde estão as oportunidade e ameaças. 
+De acordo com Oliveira (2001, p.70) “devem-se consi derar como oportunidades 
+da empresa situações que esta realmente tem condiçõ es e/ou interesse de usufruir. 
+Do contrário, a situação pode tornar-se uma ameaça”. 
+Em geral a empresa precisa monitorar as forças macr oambientais (demográficas, 
+econômicas, tecnológicas, políticas, legais, sociai s e culturais) e os atores 
+microambientais importantes (consumidores, concorre ntes, fornecedores) que 
+afetam sua habilidade de obter lucro. A empresa dev e estar preparada para rastrear 
+tendências e desenvolvimentos importantes. Para cad a tendência ou 
+desenvolvimento, a administração precisa identifica r as oportunidades e ameaças 
+associadas (DORNELAS, 2001). 
+ A análise externa é elaborada com base na avaliaçã o de cenários 
+macroambientais e microambientais. Os principais cenários são: 
+ 
+/square4 Cenário político-legal – analisar as políticas mon etária, tributária, de 
+distribuição de renda, de relações internacionais, privatização, entre 
+outras. 
+ 
+/square4 Cenário econômico – deve ser analisado as tendênci as quanto às taxas de 
+juros, de inflação, mercado de capitais, níveis de distribuição de renda e 
+etc. 
+ 
+/square4 Ecologia – os movimentos ecológicos, principalment e por parte das 
+organizações não-governamentais e a legislação pert inente podem trazer 
+reflexos positivos e negativos para as empresas. 
+ 
+/square4 Cenário demográfico – alguns aspectos do cenário d emográfico podem 
+auxiliar na definição dos objetivos da empresa, pod em-se destacar os 
+--- PAGE 30 ---
+ 
+ 
+30 
+ 
+seguintes: os índices de natalidade e mortalidade, a densidade 
+demográfica, a expectativa de vida da população e entre outros. 
+ 
+/square4 Cenário tecnológico - os avanços tecnológicos muit o têm influenciado nas 
+mudanças estruturais e conjunturais verificadas nas  empresas nos últimos 
+anos. Por isso, deve-se estar atento quanto à aquis ição de tecnologia no 
+país, ao desenvolvimento tecnológico do país, a pro teção de marca e 
+patentes, aos investimentos em pesquisa e ao nível de incentivo do 
+governo à pesquisa. 
+ 
+/square4 Concorrência – os constantes movimentos dos concor rentes devem ser 
+analisados a fim de serem identificadas as vantagen s competitivas dos 
+concorrentes e da própria empresa. Neste item, evid encia-se a 
+necessidade de uma avaliação na qualidade das infor mações disponíveis, 
+pois a analise pode elevar o nível de risco das est ratégias a serem 
+adotadas pela empresa.  
+ 
+/square4 Fornecedores - devem ser analisados, além do numer o de fornecedores 
+da organização, a importância que os mesmo têm para  a empresa e a 
+importância que a empresa tem para eles. Também se deve analisar se os 
+mesmos estão preparados para dar suporte ao desenvo lvimento e as 
+exigências da empresa. 
+ 
+/square4 Consumidores – na análise dos consumidores deve se r estabelecido o 
+perfil dos consumidores, procedendo ao levantamento  de quem são os 
+consumidores, onde estão localizados, como podem se r alcançados, qual 
+a renda média, como compram, quais são seus padrões  de qualidade e 
+entre outros.  
+ 
+2.3.1.3  Análise interna 
+ 
+A análise interna tem por finalidade colocar em evi dencia as deficiências e as 
+qualidade da empresa, ou seja, os pontos forte, fra cos e neutros da empresa e 
+--- PAGE 31 ---
+ 
+ 
+31 
+ 
+definir as necessidades de recursos necessários par a que possam atingir seus 
+objetivos (OLIVEIRA, 2001). 
+Entende-se como pontos fortes as variáveis internas  e controláveis que 
+proporcionam uma condição favorável para a empresa, em relação ao seu ambiente. 
+Os pontos fracos são as variáveis internar e contro láveis que provocam uma 
+situação desfavorável para a empresa, em relação ao  seu ambiente, como por 
+exemplo, a concentração de poucos fornecedores de matéria prima. 
+Além dos pontos fortes e fracos, devem-se considerar os pontos neutros, que são 
+aqueles, em determinado momento ou situação, não es tão sendo considerados em 
+como deficiências nem como qualidades.  
+Dentro da análise interna da empresa devem ser aval iadas as principais funções 
+da empresa de acordo com Oliveira (2001): 
+ 
+/square4 Função de marketing (sistema de distribuição, prod utos, pesquisa de 
+mercado, força de vendas, novos produtos, propaganda). 
+/square4 Função finanças (fluxo de caixa, relatórios e demo nstrativos contábeis e 
+financeiros, capacidade de investimento, índices de  liquidez, índices de 
+atividades, índices de lucratividade/ rentabilidade). 
+/square4 Função produção (instalação industrial, processo d e produção, qualidade, 
+pesquisa e desenvolvimento, suprimentos). 
+/square4 Função recursos humanos (qual o índice de absenteí smo, qual a eficácia 
+dos programas de recrutamento, seleção e admissão d os funcionários, 
+qual a eficácia do treinamento de pessoal, entre outros). 
+ 
+É importante, portanto, trabalhar com estas três etapas (visão, analise externa 
+e analise interna) de maneira interligada, onde est e tratamento interativo é o que 
+caracteriza uma abordagem estratégica. 
+Segundo Dornelas (2001), depois de identificados os  pontos fortes e pontos 
+fracos e analisadas as oportunidades e ameaças, pod e-se obter a matriz SWOT 
+(strengths, weaknesses, opportunities  e  threats  / pontos fortes, pontos fracos, 
+oportunidades e ameaças). A matriz SWOT traça uma a nálise da situação atual do 
+negócio e deve ser refeita regularmente, dependendo  da velocidade com que o 
+ambiente, o setor e a própria empresa mudam.  
+--- PAGE 32 ---
+ 
+ 
+32 
+ 
+A seguir na figura 2 é possível visualizar a matiz SWOT. 
+ 
+Figura 2 – Matriz SWOT 
+Fonte: Dornelas (2001) 
+ 
+A análise SWOT fornece uma orientação estratégica ú til. Grande parte dela é 
+bom senso. Primeiro deve-se corrigir o que está err ado. Em seguida, aproveitar ao 
+máximo as oportunidades que foram identificadas no mercado. Só depois então, é 
+que se pode prestar atenção a outros problemas e áreas. 
+De acordo com Dornelas (2001), a SWOT é uma ferrame nta extremamente 
+útil e deve ser utilizada continuamente com o objet ivo de clarear o caminho a ser 
+seguido e o que deve ser feito, resume-se em elimin ar os pontos fracos em áreas 
+onde existem riscos e fortalecer os pontos fortes e m áreas onde se identificam 
+oportunidades.  
+ 
+ 
+2.3.1.4  Estratégias Competitivas 
+ 
+A questão principal é determinar qual será o foco d e atuação da empresa, 
+quais consumidores ela pretende atender, como se da rá sua participação na 
+indústria e qual a melhor forma – leia-se a melhor estratégia – para que essa 
+empresa consiga obter o melhor desempenho no segmento de atuação escolhido.  
+--- PAGE 33 ---
+ 
+ 
+33 
+ 
+Para isso, é importante que a organização tenha con hecimento a respeito de 
+si próprio, da empresa em que está atuando bem como  dos seus concorrentes, do 
+ambiente de modo geral e da dinâmica que envolve to dos esses elementos. Tendo 
+isso em vista, a organização poderá determinar qual  será a estratégia competitiva 
+mais adequada para seu sucesso. 
+De acordo com Porter (1990, p.01), estratégia competitiva é:  
+ 
+A busca de uma posição competitiva favorável em uma  indústria, a arena 
+fundamental onde ocorre a concorrência. A estratégi a competitiva visa 
+estabelecer uma posição lucrativa e sustentável con tra as forças que 
+determinam a concorrência da indústria.  
+ 
+A escolha da estratégia competitiva adequada, segun do o mesmo autor, é 
+baseada em duas questões centrais: a atratividade d a indústria e a posição 
+competitiva dentro dela. A primeira questão consist e em analisar se a indústria é 
+atrativa em termos de rentabilidade a longo prazo e  tentar identificar os fatores que 
+determinam essa atratividade.  Já a segunda questão  refere-se aos determinantes 
+da posição competitiva, que podem variar de uma ind ústria para outra. É a 
+combinação das duas questões que vai determinar a e scolha da estratégia 
+competitiva a ser adotada e, por conseqüência, o desempenho da empresa. 
+Uma empresa pode modelar tanto a atratividade de um a indústria quanto a 
+posição competitiva (PORTER, 1990). Ainda que a atratividade em uma determinada 
+indústria seja resultado de elementos sobre os quai s a empresa pouco pode se 
+influenciar, ela pode se apresentar maior ou menor,  dependendo da estratégia 
+competitiva que essa empresa escolha. Da mesma form a, a posição competitiva da 
+empresa também pode variar de acordo com a escolha da sua estratégia. Portanto, 
+conclui-se que, ao mesmo tempo em que a escolha da estratégia competitiva é 
+resultado das características do meio ambiente, ela  também é responsável por 
+provocar mudanças nesse meio. Existe uma sinergia e ntre estratégia competitiva e 
+ambiente, em que um responde às manifestações do outro. 
+Segundo Porter (1990) fator determinante na escolha da estratégia adequada, 
+é a posição relativa de uma empresa dentro de sua i ndústria, que determina 
+comparativamente a rentabilidade dessa empresa em r elação à média da indústria. 
+Para um bom desempenho a longo prazo, é preciso que  a organização apresente 
+uma vantagem competitiva sustentável.  
+--- PAGE 34 ---
+ 
+ 
+34 
+ 
+De acordo com Porter (1990, p.02):  
+  
+A vantagem competitiva surge fundamentalmente do va lor que uma 
+empresa consegue criar para seus compradores e que ultrapassa o custo 
+de fabricação pela empresa. O valor é aquilo que os  compradores estão 
+dispostos a pagar e o valor superior provém da ofer ta de preços mais baixos 
+do que os da concorrência por benefícios equivalent es ou do financiamento 
+de benefícios singulares que mais do que compensam um preço mais alto.  
+ 
+Para Porter (1990), existem dois tipos básicos de v antagem competitiva – 
+liderança de custo e diferenciação – que se origina m da estrutura industrial e da 
+capacidade de uma organização lidar melhor do que s eus concorrentes com as 
+cinco forças (entrada de novos concorrentes, a amea ça de substitutos, o poder de 
+negociação dos compradores, o poder de negociação d os fornecedores e a 
+rivalidade entre os concorrentes já existentes).  
+Esses dois tipos de vantagens competitivas somadas à faixa de atuação 
+selecionada pela empresa resultam em três estratégi as genéricas para obtenção de 
+melhor desempenho em uma indústria: liderança de cu sto, diferenciação e enfoque. 
+A estratégia enfoque tem duas variações: enfoque no  custo e enfoque na 
+diferenciação. A seguir na figura 3 é possível visu alizar as estratégias competitivas 
+genéricas. 
+ 
+Figura 3: Três Estratégias Genéricas  
+Fonte: Porter (1990, p.10) 
+ 
+ 
+ 
+1.Liderança de Custo 
+3.A. Enfoque no Custo 
+2. Diferenciação 
+3.B.    Enfoque na  
+Diferenciação 
+Custo mais baixo  Diferenciação 
+Alvo Amplo 
+Alvo Escrito 
+VANTAGEM COMPETITIVA 
+ESCOPO 
+COMPETITIVO 
+--- PAGE 35 ---
+ 
+ 
+35 
+ 
+De acordo com Porter (1990), a estratégia de lidera nça no custo é a de mais 
+fácil entendimento. A empresa que adota essa estrat égia tem como características 
+um escopo amplo, atendendo a diversos segmentos do mercado. Oferece um 
+produto padrão e procura obter vantagens de custo a bsoluto e de escala em todas 
+as fontes. Entretanto, um líder de custo não deve desconsiderar a diferenciação uma 
+vez que precisa garantir que seu produto tenha padr ões mínimos de qualidade para 
+garantir a competição com outros. 
+Já a segunda estratégia, a estratégia de diferencia ção, como o próprio nome 
+sugere, baseia-se em oferecer produtos, com caracte rísticas específicas, que 
+permitam que se cobre um preço-prêmio por esse prod uto. O elemento diferenciador 
+de cada produto pode variar, o que permite que – di ferentemente da estratégia de 
+liderança de custo – haja mais de uma empresa obten do vantagens da adoção 
+dessa estratégia. Da mesma forma ao que se viu na l iderança de custo, o 
+diferenciador também deve se preocupar com o custo,  já que sua estratégia pode 
+ser impactada por concorrentes com preços significa tivamente mais baixos 
+(PORTER, 1990). 
+E a terceira estratégia genérica classificada por P orter (1990) é o enfoque. A 
+empresa que opta por esse tipo de ação está procura ndo obter uma vantagem 
+competitiva em apenas um segmento do mercado e, por tanto, não tem uma 
+vantagem competitiva geral. Essa estratégia associa -se às outras duas, gerando 
+duas subdivisões: enfoque no custo e enfoque na dif erenciação, que possuem as 
+mesmas características já mencionadas, porém, neste  caso, em segmentos-alvos 
+específicos. Essa estratégia mostra-se eficaz em ca sos de um segmento de 
+mercado que esteja sendo negligenciado pelas empres as de escopo amplo. A 
+percepção da existência desse segmento é um passo i mportante na definição da 
+estratégia do negócio. Normalmente, existe espaço p ara diversas empresas de 
+enfoque na mesma indústria, basta que elas escolham segmentos-alvos diferentes. 
+ 
+A noção que fundamenta o conceito de estratégias ge néricas é que a 
+vantagem competitiva está no âmago de qualquer estr atégia, e para obtê-la 
+é preciso que uma empresa faça uma escolha – se uma  empresa deseja 
+obter uma vantagem competitiva, ela deve fazer uma escolha sobre o tipo 
+de vantagem competitiva que busca obter e sobre o e scopo dentro do qual 
+irá alcançá-la. Ser ‘tudo para todos’ é uma receita  de mediocridade 
+estratégica e para um desempenho abaixo da média, p ois normalmente 
+significa que uma empresa não tem absolutamente qua lquer vantagem 
+competitiva. (PORTER, 1990, p.10)  
+ 
+--- PAGE 36 ---
+ 
+ 
+36 
+ 
+As estratégias genéricas apresentam riscos que pode m representar 
+oportunidades de ataque da concorrência ou mesmo pr oblemas por descuido da 
+própria organização. Na Tabela 2 são apresentados, de forma resumida, esses 
+riscos. 
+ 
+ 
+Tabela 2: Riscos das Estratégias Genéricas 
+ 
+RISCO DA LIDERANÇA 
+NO CUSTO 
+RISCO DA 
+DIFERENCIAÇÃO 
+RISCO DO ENFOQUE 
+Liderança no custo não é 
+sustentada 
+/square4 Concorrentes imitam 
+/square4 Tecnologia muda 
+/square4 Outras bases para 
+liderança no custo se 
+desgastam 
+Diferenciação não é 
+sustentada 
+/square4 Concorrentes imitam 
+/square4 Bases para 
+diferenciação passam 
+a ser menos 
+importantes para os 
+compradores 
+Estratégia do enfoque é 
+imitada. 
+O segmento- alvo torna-se 
+sem atrativos em termos 
+estruturais 
+/square4 Estrutura erode 
+/square4 Demanda desaparece 
+ 
+Proximidade na diferenciação 
+é perdida 
+Proximidade do custo é 
+perdida 
+Concorrentes com alvos 
+amplos dominam o segmento 
+/square4 As diferenças do 
+segmento em relação 
+a outros segmentos 
+estreitam-se 
+/square4 As vantagens de uma 
+linha ampla aumentam 
+Enfocadores no custo obtêm 
+custo ainda mais baixo em 
+segmentos 
+Enfocadores na diferenciação 
+obtêm diferenciação ainda 
+maior em segmentos 
+Novos enfocadores 
+subsegmentam a indústria 
+ 
+Fonte: Porter (1990, p. 18) 
+ 
+ 
+2.3.1.5 Estratégia de Marketing  
+ 
+O plano de Marketing é uma parte muito importante d o plano de negócio, uma 
+vez que descreve como os produtos ou serviços serão  distribuídos, apresentados e 
+promovidos. A estratégia pode ser definida como a c iência de planejar e dirigir 
+operações em grande escala, especificamente no sent ido de manobrar as forças 
+para as mais vantajosas posições antes de agir. Em marketing, a estratégia também 
+é muito importante, pois uma estratégia de marketin g errada pode destruir uma 
+empresa/produto antes mesmo de ser implementada, in dependente da qualidade do 
+produto/serviço da empresa ser de alta qualidade ou não (DORNELAS, 2001). 
+Quando se fala em estratégia de marketing, deve-se ter em mente os 
+chamados compostos de marketing ou os 4Ps do market ing: produto 
+--- PAGE 37 ---
+ 
+ 
+37 
+ 
+(posicionamento), preço, praça (canais de distribui ção) e promoção. A estratégia de 
+vendas está relacionada diretamente com a estratégi a de marketing da empresa e 
+procura estabelecer a maneira como irá vender o pro duto/serviço com a finalidade 
+de converter em ações as estratégias estabelecidas para atingir o objetivo. Para isto, 
+se leva em conta os 4Ps mencionados.  
+ 
+a) Produto (Posicionamento)  
+ 
+O posicionamento refere-se à maneira como os consum idores percebem sua 
+empresa e seu produto em relação à concorrência. Os  negócios se encontram 
+agrupados demograficamente da mesma maneira que os indivíduos. Os grupos 
+podem incluir localização geográfica, vendas anuais , número de empregados, 
+número de anos no ramo, setor ao qual pertence o ne gócio entre outros. O esforço 
+de posicionamento deve ser realizado no sentido de manter a imagem do 
+produto/serviço no mercado, segundo as políticas de  posicionamento previamente 
+estabelecidas (DOLABELA, 1999). 
+ 
+b) Preço  
+ 
+De acordo com Dornelas (2001), o preço é uma ferram enta efetiva de 
+marketing, pois afeta a demanda, influencia a image m do produto e pode ajudar a 
+atingir o seu mercado alvo. Ao considerar o preço a  ser praticado é importante saber 
+que o preço não deve ser baseado na produção mais a lguma margem, como 
+geralmente se faz. O preço depende do valor do seu produto do ponto de vista do 
+consumidor e está relacionado ao benefício percebido pelo consumidor.  
+Existem estratégias de preços categorizadas em três  áreas: margem de lucro, 
+vendas e metas de status quo . As estratégias que visam margem de lucro incluem 
+uma determinada porcentagem na sua maximização e podem ser estabelecido como 
+porcentagem sobre vendas ou como valor em moeda.  
+As estratégias que visam metas de vendas, incluem o  estabelecimento de 
+metas de volumes de venda, geralmente são utilizada s para introduzir um novo 
+produto em um novo mercado, e as estratégias que vi sam objetivos de status quo  
+são utilizadas para lidar com a concorrência em mer cados amadurecidos, onde o 
+preço é um fator de concorrência determinante (DORNELAS, 2001). 
+--- PAGE 38 ---
+ 
+ 
+38 
+ 
+Outras estratégias de preços são utilizadas de acor do com Dornelas (2001), 
+para atrair o consumidor mediante promoções especia is de preço, algumas delas 
+são: 
+/square4 Descontos  
+/square4 Cupons de desconto: os cupons podem ser enviados d iretamente aos 
+consumidores, através de jornais ou oferecidos nos pontos de vista. Os 
+cupons são utilizados para obter informações especí ficas dos 
+consumidores, através do preenchimento dos mesmos.  
+/square4 Descontos em vendas a prazo: são utilizados para a s vendas a crédito, 
+mediante a opção de pagamento dentro de um período menor ao 
+oferecido no crédito. 
+ 
+Existem também outros métodos de vendas baseados na  estratégia de 
+segmentação do negócio. Segundo Dornelas (2001) geralmente pratica-se: 
+ 
+/square4 Marketing diferenciado: significa adequar o produt o de maneira a 
+vender para dois ou mais segmentos de mercado previ amente 
+estabelecidos. Com um mesmo produto, atender-se-ia a vários 
+segmentos de uma maneira diferenciada.  
+/square4 Marketing concentrado: é a escolha de somente um s egmento como 
+mercado alvo. 
+ 
+c) Praça (Canais de Distribuição)  
+ 
+Os canais de distribuição representam as diferentes  maneiras pelas quais o 
+produto é colocado à disposição do consumidor. O pr opósito do processo de 
+distribuição é levar ao consumidor o que ele necessita. 
+ Existem duas maneiras de vender o produto: através  de vendas diretas e 
+vendas indiretas. De acordo com Dornelas (2001), a venda direta é a maneira mais 
+usada de distribuição onde à empresa vende diretame nte seus produtos através da 
+sua equipe de vendas e adicionalmente pode ou não c ontrolar o processo de 
+distribuição. 
+Existem também empresas integradas verticalmente e que gerenciam toda a 
+cadeia produtiva, desde produção de matéria-prima, passando pela produção até a 
+--- PAGE 39 ---
+ 
+ 
+39 
+ 
+distribuição. Outras empresas são integradas até a produção, deixando os canais de 
+distribuição em mãos de terceiros mediante vendas indiretas (DORNELAS, 2001). 
+No entanto, existem vantagens e desvantagens ao con trolar os canais de 
+distribuição, em função do grau de eficiência de ca da empresa. Para algumas pode 
+ser vantajoso controlar a distribuição e para outras pode ser vantajoso terceirizá-la.  
+Já a venda indireta é realizada usando a estratégia  de canais de distribuição. 
+A empresa pode vender sua produção ao atacadista, q ue por sua vez vende ao 
+varejista e ele ao consumidor final. A empresa tamb ém pode vender 
+simultaneamente ao atacadista, varejista, distribui dor e representante, usando 
+diferentes preços dependendo da estratégia de canal utilizada.  
+ 
+d) Propaganda  
+ 
+Fazer propaganda significa enviar diferentes mensag ens a uma audiência 
+selecionada, com o propósito de informar os consumi dores, através da utilização de 
+diferentes veículos de comunicação, como rádio, tel evisão, mala direta, outdoors, 
+Internet, displays em pontos de venda (DORNELAS, 20 01). A vantagem da 
+propaganda é a possibilidade da mensagem chegar ao mercado alvo em grande 
+escala. 
+O custo da propaganda é bastante elevado, portanto é necessário avaliar se 
+existe o propósito de fazer chegar à mensagem a um grande público.  
+Dentro do composto de marketing um dos principais segmentos que existem é 
+a promoção, que é um estímulo ao marketing utilizad o para gerar demanda do 
+produto ou serviço. O propósito da promoção é poder  dizer ao público que existe 
+determinado produto ou serviço que satisfaz a demanda do consumidor. 
+Alguns resultados que podem ser obtidos da promoção  incluem: aumento nas 
+vendas, aumento na participação de mercado, melhora  da imagem da marca, 
+aumento do conhecimento do seu negócio Identificaçã o de vantagens competitivas, 
+preparação do terreno para vendas futuras. 
+A venda pessoal é conhecida como venda pessoa a pes soa. De acordo com 
+Dornelas (2001), a principal vantagem da venda pess oal é a de permitir uma 
+comunicação em duas vias entre o representante de vendas e o cliente. 
+ A promoção de vendas é a técnica de vendas que inc lui outros tipos de 
+promoção como apresentação de descontos, demonstraç ões, brindes, entre outros. 
+--- PAGE 40 ---
+ 
+ 
+40 
+ 
+O sucesso não depende somente da maneira como se pr omove o negócio, também 
+da mensagem promocional. Já a publicidade é a infor mação sobre seu produto, a 
+empresa ou serviço. Não necessariamente corresponde  a uma mensagem direta 
+para o consumidor potencial. Geralmente a publicida de não é um serviço pago 
+diretamente pela aparição indireta de diferentes me ios publicitários ou eventos a um 
+público que não necessariamente faz parte do mercad o-alvo, mas pode de alguma 
+maneira ficar informado sobre a existência dos seus produtos (DORNELAS, 2001). 
+De acordo com Dornelas (2001, p.152), “a projeção d e vendas deve ser feita 
+tendo como base a análise de mercado, capacidade pr odutiva e a estratégia de 
+marketing da empresa”. Dessa forma, essa projeção s erá mais realista e terá maior 
+probabilidade de ocorrer conforme o planejado. Deve -se atentar para o fato da 
+sazonalidade, quando esta influi nas vendas. Portan to, uma boa forma de se efetuar 
+projeções de vendas é através de projeções mensais em termos de volume de 
+vendas e os preços praticados.  
+ 
+ 
+2.3.1.6 Estratégia de Recursos Humanos 
+ 
+ Lidar com pessoas nas organizações é uma responsab ilidade que, 
+atualmente, se reveste muito maior do que há poucos  anos. A área de Recursos 
+Humanos (RH) tem como objetivo principal, de acordo  com Ribeiro (2005, p.01), 
+“administrar as relações da organização com as pess oas que a compõe, 
+consideradas, hoje em dia, parceiras do negócio, e não mais meros recursos 
+empresariais”. 
+ Um profissional de RH deve possuir o poder de dife renciar as pessoas com as 
+quais lidaram em seu dia-a-dia, pois os seres human os são dotados de 
+personalidades próprias, profundamente diferentes e ntre si, com histórias em 
+particular e diferenciada, além de possuírem habili dades, destrezas e capacidades, 
+indispensáveis à adequada gestão de recursos organizacionais. 
+ Em uma época em que a globalização, a competição, o forte impacto da 
+tecnologia e as rápidas mudanças se tornaram os mai ores desafios externos, a 
+vantagem competitiva das empresas está na maneira d e utilizar o conhecimento das 
+pessoas, pois são elas que produzem, vendem, servem  o cliente, tomam decisões, 
+--- PAGE 41 ---
+ 
+ 
+41 
+ 
+lideram, motivam, supervisionam, gerenciam e dirige m os negócios das empresas 
+(RIBEIRO, 2005). 
+ O RH participa dos desafios mais relevantes da org anização e contribuí para 
+o alcance dos objetivos organizacionais e individua is, a seguir no quadro é possível 
+visualizar e comparar os objetivos de cada um. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quadro 3: Comparação entre objetivos organizacionai s e individuais  
+Fonte: adaptado de Ribeiro (2005). 
+ 
+ 
+A área de RH deve estar voltada, permanentemente, p ara ajudar a alcançar 
+os objetivos, e realizar a missão da organização, tornando-a mais competitiva. 
+Infelizmente, em geral, as empresas ainda não encar am o RH como uma 
+área-chave. Em muitas organizações, ela é vista com o “Departamento de Pessoal”, 
+essencialmente burocrático e distante dos objetivos  gerais da empresa. As pessoas 
+encarregadas pela área têm como função, transmitir aos empregados os valores da 
+empresa, assim, contribuindo para melhorar a produt ividade e os resultados no 
+trabalho. 
+ A área de RH é responsável por ações de recrutamen to, seleção, 
+treinamento, planos de cargos e salários, contrataç ão, remuneração e questões 
+trabalhistas. No entanto, para uma atuação estratég ica, deve, ainda, adotar medidas 
+OBJETIVOS ORGANIZACIONAIS  
+ 
+Competitividade; 
+Crescimento sustentado; 
+Imagem do mercado; 
+Lucratividade; 
+Novos clientes; 
+Novos produtos; 
+Participação no mercado; 
+Produtividade; 
+Qualidade de produtos e serviços; 
+Redução nos custos; 
+Sobrevivência 
+OBJETIVOS INDIVIDUAIS  
+ 
+Consideração e respeito; 
+Estabiliade no emprego; 
+Liberdade para trabalhar; 
+Liderança liberal; 
+Melhores benefícios; 
+Melhores salários; 
+Oportunidade de crescimento; 
+Orgulho da organização; 
+Qualidade de vida no trabalho; 
+Satisfação no trabalho; 
+--- PAGE 42 ---
+ 
+ 
+42 
+ 
+para desenvolver talentos e criar um ambiente de tr abalho aberto a novas idéias 
+(RIBEIRO, 2005). 
+ 
+ 
+2.3.1.6.1 Recrutamento e seleção de pessoal 
+ 
+Os indivíduos e as organizações estão engajados em um contínuo e interativo 
+processo de atrair uns aos outros. Da mesma forma c omo os indivíduos atraem e 
+selecionam as organizações, informando-se e formand o opiniões a respeito delas, 
+as organizações procura atrair indivíduos e obter i nformações a respeito deles para 
+decidir sobre os interesses de admiti-los ou não, d e acordo com as necessidades 
+organizacionais. 
+De acordo com Chiavenato (2004, p.165) “recrutament o é um conjunto de 
+técnicas e procedimentos que visa atrair candidatos  potencialmente qualificados e 
+capazes de ocupar cargos dentro da organização.” É basicamente um sistema de 
+informação, através do qual a organização divulga e  oferece ao mercado de 
+recursos humanos as oportunidades de empregos que p retende preencher. Para ser 
+eficaz, o recrutamento deve atrair um grupo de cand idatos suficiente para abastecer 
+adequadamente o processo de seleção: a função do re crutamento é a de suprir a 
+seleção de pessoal de matéria prima básica (candida tos) para seu funcionamento 
+adequado. 
+Segundo Chiavenato (2004), o recrutamento desenvolve técnicas e atividades 
+orientadas e dirigidas para a identificação e atraç ão da mão de obra. O processo de 
+atração é decorrente de mecanismos específicos reve lados pelo interesse em obter 
+determinada mão de obra que atenda a seus princípio s políticos e culturais. O 
+mesmo não ocorre com o trabalho de identificação. E ssa forma de atuação não 
+implica no desenvolvimento de estudos e pesquisas, visando localizar determinados 
+tipos de profissionais segundo suas áreas de especificação. 
+O recrutamento é feito a partir das necessidades pr esentes e futuras de 
+recursos humanos da organização, onde requer um cui dadoso planejamento, que 
+constitui uma seqüência de três fases: o que a orga nização precisa em termos de 
+pessoas, pesquisa interna, o que o mercado de recur sos humanos pode oferecer, e 
+quais as técnicas de recrutamento a aplicar. O plan ejamento do recrutamento tem a 
+--- PAGE 43 ---
+ 
+ 
+43 
+ 
+finalidade de estruturar o sistema de trabalho a se r desenvolvido (CHIAVENATO, 
+2004). 
+O recrutamento envolve um processo que varia confor me a organização. O 
+início do processo de recrutamento depende de decis ão de linha. Em outras 
+palavras, o órgão de recrutamento não tem autoridad e de efetuar qualquer atividade 
+de recrutamento sem a devida tomada de decisão por parte do órgão que possui a 
+vaga a ser preenchida. Como o recrutamento é uma fu nção de staff, suas 
+providencias dependem de uma decisão da linha, que é oficializada através de uma 
+espécie de ordem do serviço, geralmente denominada requisição de empregado ou 
+requisição de pessoal. Trata-se de um documento que  se deve ser preenchido e 
+assinado pelo responsável que pretende preencher al guma vaga em seu 
+departamento ou seção. Os detalhes envolvidos no do cumento depende do grau de 
+sofisticação existente na área de recursos humanos,  quanto maior a sofisticação, 
+menores os detalhes que o responsável pelo órgão em itente deverá preencher no 
+documento. Quando o órgão de recrutamento recebe a requisição de pessoal, 
+verifica se existe algum candidato adequado disponí vel nos arquivos, caso contrário, 
+deve recrutá-lo através das técnicas de recrutament o mais indicadas no caso 
+(CHIAVENATO, 2004). 
+O mercado de recursos humanos é constituído de um c onjunto de candidatos, 
+que podem estar aplicados ou empregados, isto é, tr abalhando em algumas 
+empresas, ou disponíveis, desempregado. Os candidat os aplicados ou disponíveis 
+podem ser tanto reais, que estão procurando emprego  o pretendendo mudar de 
+emprego, como potenciais, que não estão interessado s em procurar emprego. 
+Ocorre que os candidatos aplicados, sejam reais ou potenciais, estão trabalhando 
+em alguma empresa. Por isto, existem três meios de recrutamento: o recrutamento 
+interno, o externo e o misto (CHIAVENATO, 2004). 
+De acordo com Chiavenato (2004), o recrutamento é interno quando, havendo 
+determinada vaga, a empresa procura preenchê-la atr aves do remanejamento de 
+seus empregados, que podem ser promovidos (moviment ação vertical) ou 
+transferidos (movimentação horizontal) ou ainda tra nsferidos com promoção 
+(movimentação diagonal). Assim, de acordo com Ribei ro (2005, p.59), o 
+recrutamento interno pode envolver: 
+ 
+/square4 Transferência de pessoal; 
+--- PAGE 44 ---
+ 
+ 
+44 
+ 
+/square4 Promoções de pessoal; 
+/square4 Transferência com promoções de pessoal; 
+/square4 Programas de desenvolvimento de pessoal; 
+/square4 Plano de carreira. 
+ 
+Para tanto, o recrutamento interno baseia-se em dad os e informações 
+relacionados com os outros subsistemas, de acordo com Chiavenato (2004). 
+ 
+1- Resultados obtidos pelo candidato interno nos te ste de seleção a que 
+se submete quando de seu ingresso na organização; 
+2- Resultados das avaliações do desempenho do candi dato interno; 
+3- Resultados dos programas de treinamento e de ape rfeiçoamento de 
+que participou o candidato interno; 
+4- Análise e descrição do cargo atual do candidato interno e do cargo que 
+está considerando, a fim de se avaliar a diferença entre ambos e dos requisitos 
+adicionais que se farão necessários. 
+5- Planos de carreiras ou planos de planejamento da s movimentações de 
+pessoal para se verificar a trajetória mais adequad a do ocupante do cargo 
+considerado. 
+6- Condições de promoção do candidato interno (se e stá n ponto de ser 
+promovido) e de substituição (se o candidato intern o já tem substituto preparado 
+para seu lugar). 
+ 
+ De acordo com Ribeiro (2005, p.59) “ao procurar ca ndidatos entre os 
+funcionários, estimula o pessoal à automotivação e auto-aperfeiçoamento”. No 
+entanto, o recrutamento interno, só deve ser feito desde que um candidato da casa 
+tenha condições de no mínimo, igualar-se ao antigo ocupante, dentro de 
+determinado prazo. 
+ Já o recrutamento externo funciona com candidatos vindo de fora. Havendo 
+uma vaga, a organização procura preenchê-la com pes soas estranhas, ou seja, com 
+candidatos externos atraídos pelas técnicas de recr utamento. O recrutamento de 
+acordo com Chiavenato (2004) incide sobre candidato s reais ou potenciais, 
+disponíveis ou aplicados de outras organizações e p ode envolver uma ou mais 
+seguintes técnicas de recrutamento: 
+--- PAGE 45 ---
+ 
+ 
+45 
+ 
+/square4 Arquivo de candidatos que se apresentarem espontan eamente ou em 
+outros recrutamentos; 
+/square4 Apresentação de candidatos por parte dos funcionár ios da empresa; 
+/square4 Cartazes ou anúncios na portaria da empresa; 
+/square4 Contatos com sindicatos e associações de classe; 
+/square4 Contatos com universidades, escolas, agremiações e staduais, 
+diretórios acadêmicos, centros de integração empresa escola, etc.; 
+/square4 Conferência e palestras em universidades e escolas ; 
+/square4 Contatos com outras empresas que atuam no mesmo me rcado, em 
+termos de cooperação mútua; 
+/square4 Anúncio em jornais, revistas, etc. 
+/square4 Agências de recrutamento; 
+/square4 Viagens para recrutamento em localidades. 
+ 
+As técnicas de recrutamento citadas são os veículos  através dois quais a 
+organização divulga a existência de uma oportunidade de trabalho junto às fontes de 
+recursos humanos mais adequadas. São fundamentalmente meios de comunicação. 
+Na maior parte das vezes, essas técnicas de recruta mento são utilizadas 
+conjuntamente. Os fatores custo e tempo são importa ntes na escolha da técnica ou 
+do veículo mais indicado para o recrutamento extern o. De modo geral, quanto maior 
+a limitação de tempo, ou seja, quanto maior a urgên cia para se recrutar um 
+candidato, tanto maior será o custo da técnica de r ecrutamento a ser aplicada. 
+Quando o recrutamento externo é desenvolvido de maneira contínua e sistemática, a 
+organização pode dispor de candidatos a um custo muito menor de processamento. 
+Na prática, as empresas raramente fazem apenas recr utamento externo. 
+Ambos se complementam e se completam. Segundo Chiavenato (2004), ao fazer um 
+recrutamento interno, o indivíduo deslocado para a posição vaga precisa ser 
+substituído em sua posição atual.  
+ 
+ 
+2.3.1.6.2 
+ Treinamento de Pessoal  
+ 
+ A palavra treinamento tem muitos significados. Alg uns especialistas em 
+administração de pessoal consideram o treinamento c omo um meio para 
+--- PAGE 46 ---
+ 
+ 
+46 
+ 
+desenvolver a força de trabalho dentro dos cargos p articulares. Outros interpretam 
+mais amplamente, considerando o treinamento para um  adequado desempenho no 
+cargo e estendendo o conceito para uma nivelação in telectual através da educação 
+geral. Outros autores referem-se a uma área genérica chamada desenvolvimento, as 
+quais dividem em educação e treinamento significa o  preparo da pessoa para o 
+cargo, enquanto o propósito da educação é o de prep arar a pessoa para o ambiente 
+dentro ou fora do seu trabalho (CHIAVENATO, 2004). 
+ As atividades de treinamento estão sempre relacion adas à situação há nível 
+de projetos, melhoria da qualidade e da quantidade do desempenho da mão de 
+obra, e ainda, há fatores que levam a organização a  provocar mudanças de 
+comportamento, não só no seu corpo gerencial, como também na mão de obra em 
+geral. 
+ A operacionalidade do treinamento pode ocorrer seg undo diferentes métodos: 
+aula expositiva, palestras, congressos, cursos, sem inários, entre outros. Em termos 
+de capacitação o treinamento pode ser dirigido à me lhoria da capacidade funcional 
+(cargo) e cultural (posturas, hábitos, conhecimentos). 
+ De acordo com Chiavenato (2004, p.402) “treinament o é o processo 
+educacional de curtos prazos aplicado de maneira si stemática e organizada, através 
+do qual as pessoas aprendem conhecimentos, atitudes  e habilidades em função de 
+objetivos definidos”. No sentido usado em administr ação, treinamento envolve a 
+transmissão de conhecimentos específicos relativos ao trabalho, atitudes frente a 
+aspectos da organização, da tarefa e do ambiente, e  desenvolvimento de 
+habilidades. Qualquer tarefa, que seja complexa ou simples, envolve 
+necessariamente esses três aspectos. 
+ Segundo Chiavenato (2004, p.411), “o levantamento de necessidades de 
+treinamento é uma forma de diagnosticar e, como tal , deve basear-se em 
+informações relevantes”. Muitas dessas informações devem ser cuidadosamente 
+ligadas e agrupadas sistematicamente, enquanto outr as estão disponíveis às mãos 
+de certos administradores de linha. A determinação das necessidades de 
+treinamento é uma responsabilidade de linha e uma f unção de staff, cabe ao 
+administrador de linha a responsabilidade pela perc epção dos problemas 
+provocados pela carência de treinamento, e a ele, t odas as decisões referentes ao 
+treinamento, mesmo que utilize ou não os serviços d e assessoria prestados por 
+especialistas em treinamento. 
+--- PAGE 47 ---
+ 
+ 
+47 
+ 
+ A seleção de recursos humanos pode ser definida si ngelamente como a 
+escolha do homem certo para o cargo certo, ou, mais  amplamente, entre os 
+candidatos recrutados, aqueles mais adequados aos c argos existentes na 
+organização, visando manter ou aumentar a eficiênci a e o desempenho do pessoal, 
+bem como a eficácia da organização.  
+  
+ 
+2.3.1.6.2 Salários e Remuneração  
+ 
+ O trabalho nem sempre foi uma atividade remunerada , e era comum ser paga 
+em abrigo e proteção ou em mercadorias. Já na econo mia moderna, o salário é a 
+forma que o indivíduo usa para vender seu trabalho,  e é com esse salário, que ele 
+satisfaz suas necessidades básicas. 
+ De acordo com Ribeiro (2005, p.271) “salário é o d inheiro básico recebido, e 
+remuneração é o pacote todo, incluindo benefícios, adicionais, carros, viagens, entre 
+outros itens”. 
+ Existem alguns tipos de salário, o fixo onde é pré -determinado o valor a que 
+se deve receber; o salário variável que depende do desempenho do colaborador; e o 
+comissionada, que é normalmente utilizado para o pessoal de vendas, estimulando a 
+equipe um esforço extra, normalmente são traçadas metas. 
+ Os sistemas de remuneração foram notavelmente aper feiçoados nos últimos 
+anos. Na realidade, a conquista dos objetivos de um a empresa está condicionada, 
+em grande parte, à aplicação bem-sucedida de uma po lítica salarial. Graças à 
+poderosa motivação representada pelo salário. Porta nto, de acordo com Ribeiro 
+(2005, p.276) uma boa política de salários signific a um investimento que deve 
+contribuir, indiretamente, para a consolidação dos objetivos da empresa, por meios 
+de: 
+ 
+/square4 Mais satisfação pessoal dos funcionários; 
+/square4 Incentivos para melhorar; 
+/square4 Oportunidades justas para todos; 
+/square4 Melhor administração de pessoal; 
+/square4 Reconhecimento do valor individual; 
+/square4 Melhor controle. 
+--- PAGE 48 ---
+ 
+ 
+48 
+ 
+ No entanto, para atingir esse objetivo é preciso e laborar, implementar e 
+controlar diretrizes e políticas de remuneração com patíveis com o mercado, tendo 
+em vista o equilíbrio salarial, a atração, motivaçã o e a retenção de pessoas com alto 
+nível de qualificação profissional. 
+Atualmente novas propostas vêm sendo utilizadas com o políticas salariais, 
+como a remuneração por conhecimento e habilidades. Segundo Gil (2001, p.190) 
+essa estratégia “recompensa as pessoas não por um t rabalho específico, mas pelos 
+conhecimentos e habilidades exigidas para seu desem penho. Há medida que os 
+funcionários adquirem mais conhecimentos/ habilidad es, tornam-se recursos mais 
+flexíveis”.  Existe também a remuneração por compet ências no qual é constituída 
+pelas competências que o individuo possuí o cargo q ue ocupa o tempo de serviço, 
+entre outros.  
+E outro exemplo é remuneração variável baseada em d esempenho onde o 
+colaborador participa nos lucros, nos incentivos a pequenos grupos, incentivos 
+individuais, programas de reconhecimento, entre outros. 
+ 
+ 
+2.3.1.7 Plano Operacional 
+ 
+ Um plano operacional está diretamente ligado à for ma em que a organização 
+irá operar, incluindo desde a maneira de gerenciar o negócio até a maneira de 
+executar. 
+ Em primeiro lugar é essencial apresentar uma estru tura funcional da empresa, 
+onde especifica a responsabilidade de cada funcioná rio, o nível de autoridade de 
+cada um, identificando hierarquicamente a posição d e cada pessoa. Para uma 
+melhore representação, é utilizada a ferramenta org anograma, no qual segundo 
+Biagio e Batocchio (2005, p.168) “deve indicar clar amente a estrutura funcional, a 
+diretoria, gerencia e staff ”. 
+ No entanto, o organograma é mais indicado para emp resas de um porte 
+maior, pois já as micro e pequenas empresas devem s ubstituí-lo por uma matriz de 
+responsabilidade, que também não deixa de ser útil nas médias e grandes 
+empresas.  
+ 
+ 
+--- PAGE 49 ---
+ 
+ 
+49 
+ 
+ Segundo Biagio e Batocchio (2005, p.174): 
+ 
+Nas empresas nascentes, os donos fazem a maior part e do trabalho, mas à 
+medida que o negócio cresce, até mesmo como resulta do do sucesso do 
+empreendimento, mais pessoas tornam-se necessárias,  gerando a 
+formação de departamentos. Assim, deve-se apresenta r uma previsão de 
+como a empresa crescerá e quantos funcionários adic ionais serão 
+necessários. Política de contratação, descrição de cargo e contratos de 
+funcionários são parte integrante e obrigatória do plano operacional.  
+ 
+Outra técnica muito conhecida e utilizada nos proce ssos administrativos, é o 
+fluxograma. De maneira geral, esta ferramenta procu ra apresentar o processo passa 
+a passo, ação por ação (ARAÚJO, 2001). 
+O objetivo do fluxograma de acordo com Araújo (2001 , p. 65) “é de assegurar 
+a fluidez dessa movimentação e manter os limites de  decisão dentro de princípios 
+que não permitam a ineficiência e eficácia de todo o processo”. 
+Outro item importante para a operacionalização da e mpresa é a criação de 
+um layout , que segundo Cury (1995, p.373) “corresponde ao ar ranjo dos diversos 
+postos de trabalho nos espaços existentes na organi zação, envolvendo, além da 
+preocupação de melhor adaptar as pessoas ao ambient e de trabalho, segundo a 
+natureza da atividade desempenhada, a arrumação dos  móveis, máquinas, 
+equipamentos e matéria prima”. 
+ O layout visa como objetivos, segundo Cury (1995, p.373): 
+ 
+/square4 Otimizar as condições de trabalho do pessoal nas d iversas unidades 
+organizacionais; 
+/square4 Racionalizar os fluxos de fabricação ou de tramita ção de processos; 
+/square4 Racionalizar a disposição física dos postos de tra balho, aproveitando todo o 
+espaço útil disponível; 
+/square4 Minimizar a movimentação de pessoas, produtos, mat eriais e documentos 
+dentro da ambiência organizacional.  
+ 
+ Mas, no entanto, não se deve esquecer que para ser um bom layout  tem que 
+possuir flexibilidade, permitindo quaisquer alteraç ões que sejam necessárias, para o 
+crescimento da organização. 
+ 
+ 
+--- PAGE 50 ---
+ 
+ 
+50 
+ 
+2.3.1.7.1 Plano Financeiro 
+ 
+ As decisões empresariais normalmente são tomadas a partir dos dados 
+financeiros da empresa. Com isso, o plano financeir o possuiu uma função 
+importantíssima, e que se deve ter todo um cuidado e controle.  Segundo Biagio e 
+Batocchio (2005, p.202) “a inclusão de um plano fin anceiro dentro de um plano de 
+negócio procura demonstrar um conjunto de projeções  abrangentes que possam 
+refletir o desempenho futuro da empresa em termos financeiros”.  
+ Dentro de um plano financeiro, deve compreender: b alanço patrimonial, 
+demonstração de resultados, plano de investimentos,  fluxo de caixa, planilha de 
+custos e plano de vendas. E para obter um melhor de sempenho o administrador 
+deve traçar metas financeiras, para assim, atingir os seus objetivos. 
+Um balanço Financeiro é dividido em três partes (BI AGIO e BATOCCHIO, 2005 
+p.202-203): 
+ 
+/square4 Ativo – todos os bens e direitos da empresa (o que  a empresa possui). 
+/square4 Passivo – obrigações e dívidas da empresa (o que a  empresa deve). 
+/square4 Patrimônio Líquido – recursos dos proprietários in vestidos na empresa (a 
+diferença entre os ativos e os passivos). 
+ 
+ O balanço patrimonial busca demonstrar o equilíbri o entre bens e direitos da 
+organização e a soma das obrigações. Com ele é poss ível medir o nível de 
+endividamento de uma empresa, o índice de liquidez,  a lucratividade, o capital de 
+giro, como outros. 
+ Segundo Biagio e Batocchio (2005, p.213) “ferramen ta adequada para um 
+bom controle financeiro de curto prazo denomina-se fluxo de caixa, ou seja, um 
+acompanhamento das entradas e saídas de recursos fi nanceiros no caixa da 
+empresa”. É esta ferramenta que auxilia no controle  e no planejamento da empresa, 
+pois a partir das demonstrações financeiras, é poss ível saber o quanto de dinheiro 
+ela tem, e se são suficientes para satisfazer as ob rigações e adquirir os ativos 
+necessários para o cumprimento dos objetivos da empresa (GITMAN, 1997).  
+ Com a utilização desta ferramenta, torna-se possív el prever as oscilações no 
+fluxo de entrada e da saída que podem vir a ocorrer , e, com isso, a organização já 
+--- PAGE 51 ---
+ 
+ 
+51 
+ 
+estará preparada, e buscará alternativas para supri r suas necessidades neste 
+período prejudicado.   
+ Segundo Bagio e Botocchio (2005, p.214) os princip ais itens que compõem 
+um fluxo de caixa são: 
+ 
+a) Investimento inicial:  trata-se de um valor que a empresa necessita gasta r 
+para iniciar suas atividades, acrescido do valor de  capital de giro necessário 
+para os primeiros meses de funcionamento, até que o s clientes paguem pelas 
+compras e receita de vendas comece a entrar no caixa. 
+ 
+b) Saldo de caixa inicial:  é o valor que a empresa tem em caixa no primeiro d ia 
+de operação do período em que está projetado o fluxo de caixa. 
+ 
+c) Total de entradas:  é a quantidade total de dinheiro que efetivamente entrou 
+no caixa da empresa, com exceção das “promessas de pagamento” (cheques 
+pré-datados, duplicatas, promissórias, entre outras). 
+ 
+d) Total de saídas:  é o registro de todos os pagamentos realizados pel a a 
+empresa, divididos por contas de custos ou contábei s, bem especificadas, 
+para maior entendimento sobre a situação do caixa da empresa mês a mês. 
+ 
+e) Saldo no período:  é o valor total subtraindo-se o total de entradas do total de 
+saídas, indicando o resultado positivo ou negativo naquele período de 
+atuação da empresa. 
+ 
+f) Fluxo líquido de caixa:  é a diferença entre o total de entrada e o total d e 
+saídas, incluindo também a subtração do valor de re serva e a adição do valor 
+da depreciação. Esse valor poderá ser positivo ou n egativo, e indica, a 
+qualquer momento, quanto a empresa tem disponível e m caixa. Esse valor 
+deve ser transportado para o “saldo inicial de caixa” do período seguinte.  
+ 
+ Esta ferramenta, o fluxo de caixa, deve ser consta ntemente utilizada com 
+responsabilidade, pois é o espelho financeiro da organização, mostrando a realidade 
+--- PAGE 52 ---
+ 
+ 
+52 
+ 
+vivida pela empresa, podendo em cima dela tomar as decisões sempre que 
+necessárias. 
+ No plano financeiro, a questão de custos e despesa s devem ser abordadas 
+sob o ponto de vista financeiro, avaliando os impac tos da evolução dos custos sobre 
+o desempenho da empresa. De acordo com Biagio e Bat occhio (2005, p.218-219), a 
+evolução dos custos e despesas deve ser divididos em algumas etapas: 
+ 
+I. Mão-de-obra direta: representa o total de salári os pagos aos empregados que 
+atuam diretamente na produção, acrescidos dos respectivos encargos sociais; 
+II. Mão-de-obra indireta: representado pelo total d e salários pagos aos 
+empregados que atuam em função à área produtiva (ma nutenção, controle de 
+qualidade, ferramentas) ou na função administrativa  (compras, custos, 
+vendas), acrescidos dos respectivos encargos sociais. 
+III. Custos variávies: são todos os custos que depe ndem ou variam em relação 
+às quantidades produzidas ou vendidas; 
+IV. Custos fixos: são todos os custos que não depen dem ou não variam em 
+relação às quantidades vendidas ou produzidas. 
+V. Impostos e contribuições: representados pelos va lores recolhidos aos 
+governos federal, estadual ou municipal, incidentes sobre as vendas. 
+ 
+ Outro item importante que se deve ter no plano fin anceiro é a rentabilidade do 
+negócio, ou seja, indicar o percentual de remuneraç ão do capital investido na 
+empresa. 
+ Segundo o Sebrae (2007), a taxa de rentabilidade d o investimento é calculada 
+da seguinte forma: Lucro Líquido, dividido pelo Investimento.  
+ 
+- Exemplo: 
+ Lucro Líquido mensal: R$ 2.000,00;  
+- Investimento total: R$ 80.000,00;  
+- Taxa de rentabilidade: 2,5 % ao mês.  
+ 
+ O prazo de retorno do investimento realizado é cal culado da seguinte forma: 
+Investimento, dividido pelo Lucro Líquido, (SEBRAE, 2007). 
+ 
+--- PAGE 53 ---
+ 
+ 
+53 
+ 
+Exemplo:  
+- Investimento total: R$ 80.000,00;  
+- Lucro Líquido mensal: R$ 2.000,00;  
+- Prazo de retorno: 40 meses.  
+  
+ A partir destes simples cálculos será possível obt er respostas se o negócio 
+realmente vale a pena, e em quanto tempo ele terá o  retorno do investimento inicial. 
+Assim, saberá se é valido ou não investir, e quais alternativas poderiam ser tomadas 
+para melhorar os resultados. 
+ Mas, no entanto, para obter uma maior facilidade n a visualização do balanço 
+patrimonial, do fluxo de caixa, bem como da rentabi lidade, é sempre indicado a 
+utilização de planilhas, que facilita e mantêm em o rdem todo o andamento da 
+empresa. Atualmente já existem muitos programas de computador que auxiliam e 
+facilitam no processo. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 54 ---
+ 
+ 
+54 
+ 
+3 DESENVOLVIMENTO DO PLANO DE NEGÓCIOS 
+ 
+GOOD LIGHT 
+Endereço: Atlântico Shopping, 1271, Avenida Brasil  
+Balneário Camboriú, Santa Catarina 
+Telefone: 3367-8433  
+ 
+ 
+ 
+PLANO DE NEGÓCIOS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Andrea Souza Mello Meirelles 
+ 
+2007 
+--- PAGE 55 ---
+ 
+ 
+55 
+ 
+Sumário Executivo 
+ 
+ 
+A GOOD LIGHT  é uma empresa do ramo alimentício que tem como mis são 
+proporcionar uma alimentação saudável e gostosa, co m qualidade, rapidez e bom 
+preço. 
+O empreendimento será localizado no Atlântico Shopp ing, número 1271, na 
+Avenida Brasil, no centro da cidade de Balneário Ca mboriú. O Shopping encontra-se 
+próximo de centros comerciais e do fluxo maior de p essoas, de fácil acesso e bem 
+centralizado. O restaurante será gerenciado por um dos sócios, a Andrea Souza 
+Mello Meirelles. 
+Pretende-se crescer 3% ao ano, no número de vendas de refeições, 
+conquistando assim, um mercado consumidor maior. 
+O preço das refeições poderão variar de R$ 8,00 à  R$ 14,00, dependendo do 
+acompanhamento escolhido pelo cliente. 
+O restaurante será composto por 7 colaboradores: um  gerente, quatro 
+auxiliares de cozinha e dois atendentes. Os funcion ários receberão além de seus 
+salários, vale transporte e alimentação.  
+Para a abertura do restaurante será necessário um C apital Inicial de R$ 
+80.000 (oitenta mil reais) no qual será utilizado p ara o Investimento Inicial R$ 
+65.479,27 (sessenta e cinco mil quatrocentos e sete nta e nove reais e vinte e sete 
+centavos) para a compra de maquinários, equipamentos, reformas, pré-operacionais, 
+e um Capital de Giro de R$ 14.250,73 (quatorze mil duzentos e cinqüenta reais e 
+setenta e três centavos). A projeção de vendas fica rá em 3.000 (três mil) refeições 
+mês e R$43.070 (quarenta e três mil e setenta reais) em faturamento. 
+O Ponto de Equilíbrio da empresa ficará em R$ 7.760 ,94 (sete mil setecentos 
+e sessenta reais e noventa e quatro centavos) e um Payback de 4 (quatro meses). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 56 ---
+ 
+ 
+56 
+ 
+3.1 Diagnóstico do negócio 
+ 
+Neste tópico serão apresentadas as análises do macr oambinte e setorial, e 
+para o desenvolvimento deste trabalho foram utiliza dos dados primários e 
+secundários. 
+ 
+ 
+ 3.1.1 Macroambiente  
+ 
+ Houve um crescimento acentuado no poder aquisitivo do povo brasileiro, 
+como é demonstrado na pesquisa da Federação Brasileira dos Bancos (FEBRABAN) 
+realizada em julho em 2007, e por conseqüência gero u gasto proporcional a este 
+incremento na receita domestica. 
+ Os bancos que responderam à pesquisa FEBRABAN mant êm expectativa 
+positiva para o desempenho da economia brasileira e m 2007 e 2008. Houve 
+acréscimo na projeção da taxa de crescimento do PIB  em 2007 para 4,55% nesta 
+pesquisa de julho, depois de projeção de 4,27% em j unho e 4,22% em abril. Para 
+2008 a projeção é de 4,35% comparada a 4,13% na pes quisa anterior. Todos os 
+grupos de atividades do PIB - Agricultura, Indústri a e Serviços - tem significativo 
+crescimento esperado de 4,96%, 4,39% e 4,46% respec tivamente (FEBRABAN, 
+2007). 
+ Em conjunto com a demanda destaca-se o desenvolvim ento da formação 
+bruta de capital fixo com aumento de 9,55% projetad o para 2007 (8,70% na 
+anterior). Um sinal bastante positivo da expansão d a economia brasileira. A 
+favorável manutenção do consumo das famílias projetado em 5,48% e o consumo do 
+governo em 3,03% contribuem positivamente no cresci mento do PIB. A continuidade 
+da recuperação do emprego, da renda e forte expansã o do crédito confirmam a 
+significativa expansão da demanda. O crescimento de  17,50% das importações em 
+2007 é importante fator para a sustentação do cresc imento do consumo doméstico e 
+do investimento, com reduzido risco de pressões inf lacionárias adicionais 
+(FEBRABAN, 2007).  
+ De fato, a inflação média projetada de 3,66% ligei ramente acima de 3,60% na 
+projeção anterior para o Índice Nacional de Preços ao Consumidor Amplo (IPCA) 
+--- PAGE 57 ---
+ 
+ 
+57 
+ 
+para 2007 tem sido praticamente estável em patamar abaixo da meta de inflação de 
+4,5% no mesmo ano. Mesmo o acréscimo na projeção do  IPCA para 2008 de 3,85% 
+para 3,94% continua indicando inflação abaixo da me ta similar de 4,5%. Assim, 
+mantém-se condição favorável que possibilitará ao C omitê de Política Monetária 
+(COPOM) operar o sistema de metas de inflação na co ntinuidade na redução da 
+taxa básica de juros (SELIC).  
+ A manutenção da redução das taxas de juros na econ omia continuará a 
+fomentar o cenário de ampliação do crédito com efei to favorável para o crescimento 
+econômico. Para 2007, estima-se um crescimento de 1 9,74% nas operações de 
+crédito total, sendo que na atual pesquisa as opera ções de credito para pessoa 
+física poderão crescer 24,15% em 2007 e 22,48% em 2 008. Enquanto que as 
+operações de crédito para pessoa jurídica também tê m acréscimo para 19,41% em 
+julho acima de 19,05% projetado em junho, confirman do que a atividade econômica 
+tem tido maior impulso no período recente (FEBRABAN, 2007).  
+ Diante o exposto, pode-se verificar que a estabili dade econômica-financeira 
+viabilizada pelo governo federal, aumento do índice  de empregos e manutenção do 
+mesmo, inflação controlada, facilidade de contração  de credito bancário, cria uma 
+atmosfera de evolução do mercado consumidor em gera l, pois uma vez que se 
+ganha mais, consome-se mais.   
+ Balneário Camboriú, mais conhecida como a Capital Catarinense do Turismo, 
+localiza-se no Litoral Norte de Santa Catarina. Ofe rece além de suas praias 
+paradisíacas e atrativos turísticos modernos e inov adores, um comércio forte e 
+atuante, durante todo o ano. É incontestavelmente u m dos principais destinos 
+turísticos do sul do Brasil e do Mercosul. Por toda  a orla, há bares e restaurantes 
+com música ao vivo, que oferecem culinária irresistível em ambientes agradáveis. 
+ Sendo assim, ela atrai investidores e empreendedor es de todo o país, dada a 
+grande afluência de pessoas para o município. Ressa lta-se que a localização 
+geográfica da cidade é fator relevante, haja visto,  estar perto de grande cidades 
+produtivas do estado, manter várias Universidades q ue viabilizam um grande afluxo 
+de estudantes, estar localizada próxima a uns dos m aiores portos do Brasil, o porto 
+de Itajaí, e o de Navegantes, em instalação, e esta r à margem da BR-101, que é a 
+ligação principal entre o Sul e os demais estados b rasileiros. Além disso, conta-se 
+com o Aeroporto Internacional de Navegantes, na cid ade do mesmo nome, que 
+facilita sobre maneira o turismo na região.  
+--- PAGE 58 ---
+ 
+ 
+58 
+ 
+Balneário Camboriú é o segundo município mais dinâm ico de Santa 
+Catarina. O ranking foi divulgado no Atlas do Merca do Brasileiro da Gazeta 
+Mercantil pelo segundo ano consecutivo. O Atlas map eia o poder de 
+compra, observando a renda da população, a economia  da cidade, aspectos 
+financeiro, geração de novos negócios e o Índice de  Desenvolvimento 
+Humano (IDH) 1.   
+ 
+ De acordo com a pesquisa realizada pela Gazeta Mer cantil, 
+a classificação geral, de Balneário Camboriú aparec e entre os municípios 
+considerados acima da Média Nacional, no 22º segund o lugar entre os 300 
+pesquisados o resultado da pesquisa mostra que os i nvestimentos em saúde, 
+educação e infra-estrutura realizados pela administ ração municipal com estímulo ao 
+desenvolvimento dos setores de comércio, serviços e  turismo, impulsionaram o 
+processo de desenvolvimento econômico da cidade. 
+ Referindo-se ao crescimento populacional do estado  apontam-se três regiões 
+metropolitanas catarinenses que registraram um significativo aumento de população. 
+O núcleo metropolitano da Foz do Rio Itajaí (que en globa Itajaí, Balneário Camboriú, 
+Navegantes e Penha) e sua área de expansão (Bombinh as, Itapema, Piçarras e 
+Porto Belo) tiveram taxas médias de crescimento anu al de 4,1% e 6,5%, 
+respectivamente, as maiores entre as 33 regiões met ropolitanas do país. E foram 
+seguidos, em terceiro lugar, pela Grande Florianópo lis, que entre 1991 e 2000 viu 
+sua população saltar de 530 mil para 709 mil habita ntes, a uma taxa de crescimento 
+de 3,3% ao ano. 
+ Vale também a pena notar que as três regiões metro politanas que registraram 
+maiores taxas de crescimento populacional na década  de 90 têm uma forte ligação 
+com o turismo, Todas elas com municípios que têm entre suas principais atrações as 
+praias. Como são os casos de Florianópolis, Bombinh as, Itapema e Balneário 
+Camboriú, por exemplo, (Site Terra, 2007).   
+ Como se pode observar na tabela abaixo, o fluxo de  pessoas na temporada 
+2006/07 é bastante significativo. 
+                                           
+ 
+1 Informações obtidas no site http://noticias.terra.com.br/brasil/interna/0,,OI152419-EI306,00.html , 
+disponível em agosto de 2007. 
+ 
+ 
+--- PAGE 59 ---
+ 
+ 
+59 
+ 
+Tabela 3 - Turistas em Balneário Camboriú Temporada  2006/2007  
+Nacionais                              Estrangeiros 
+ 703.594                                   262.049 
+Percentual do total                Percentual do total 
+72,86%                                   27,14% 
+Receita (Hospedagem)         Receita (Hospedagem) 
+R$ 91,2 milhões                      R$ 36,6 milhões 
+Receita Total                           Receita Total 
+R$ 309 milhões                       R$ 179 milhões 
+Fonte: IBGE ( apud  Secretaria de Turismo de Balneário Camboriú, 2007). 
+ 
+  Com o aumento da população regional, como já foi comprovado 
+anteriormente, renda per capita  da população, esportes, lazer e turismo, infra-
+estrutura da cidade, consciência ecológica, faz de Balneário Camboriú uma cidade 
+apropriada para o hábito saudável de alimentação natural. 
+ Com a atual preocupação com a natureza, em vista d a grande devastação 
+que foi ocorrendo durante muitos anos, a população está se reeducando, e se 
+preocupando com sua preservação.  
+ A situação do meio ambiente no mundo desafia a pres ervar os recursos 
+naturais e, ao mesmo tempo, possibilitar um desenvo lvimento social justo, 
+permitindo que as sociedades humanas atinjam uma me lhor qualidade de vida em 
+todos os aspectos. A necessidade de consolidar novo s modelos de desenvolvimento 
+sustentável no país exige a construção de alternati vas de utilização dos recursos, 
+orientada por uma racionalidade ambiental e uma ética da solidariedade.  
+ Deve-se também reconhecer que se vive em uma socie dade na qual é 
+fundamental partir de uma boa formação e de um sóli do conhecimento dos 
+complexos problemas e potencialidades ambientais. N a sociedade é conscientizado 
+de que o modelo vigente de crescimento afeta nosso planeta muito mais do que o 
+desejado. Tem-se observado que a destruição da natureza, base da vida, através da 
+contaminação e degradação dos ecossistemas crescem em um ritmo acelerado, 
+motivo pelo qual se torna necessário reduzir o impacto ambiental para a obtenção de 
+um desenvolvimento ecologicamente equilibrado em curto prazo para todo o planeta. 
+--- PAGE 60 ---
+ 
+ 
+60 
+ 
+ Como instrumento para preservação ambiental, o ser  humano tem as leis que 
+regem a forma de agir com o meio ambiente. Embora m uitas vezes estas leis sejam 
+desobedecidas, tem-se que utilizar os meios existen tes a fim de manter os recursos 
+e ambientes naturais remanescentes. 
+ A legislação brasileira avançou muito nos últimos anos. O Brasil expôs ao 
+mundo a importância de se conservar os recursos bió ticos e naturais presentes nas 
+florestas para a manutenção da qualidade ambiental do planeta.  
+ A partir desta visão do ecologicamente correto, a propositura do negócio do 
+restaurante GOOD LIGHT , busca atingir esses objetivos amplamente divulgad os 
+pela mídia nacional e internacional, para a contrib uição de uma consciência 
+ecológica mais efetiva na população brasileira, mai s especificamente a catarinense 
+porque a pesquisadora acredita que através de polít icas micro e que se alcança o 
+macro.  
+Outro fator importante a que se deve ter cuidado é o Código de Defesa do 
+Consumidor, uma lei de ordem pública, que tem a fin alidade de evitar com que o 
+consumidores tenham qualquer tipo de prejuízo, no q ual não pode ser contrariada 
+nem por acordo entre as partes. 
+ 
+ 
+3.1.2 Ambiente Setorial 
+ 
+ 
+ A cidade de Balneário Camboriú oferece inúmeros res taurantes de diversas 
+especialidades, comida nacional e internacional, re des multinacionais de fast food , 
+bares e outros. Porém, não existe ainda, um restaur ante em que o próprio 
+consumidor defina os ingredientes e complementos qu e ele deseja de comida 
+natural. 
+ Na cidade de Balneário Camboriú, pode-se considera r quatro segmentos 
+populacionais costumeiros, primeiro aquele que é o morador da cidade, o segundo 
+os estudantes (de fevereiro a dezembro), terceiro o s veranistas (de dezembro a 
+fevereiro, e feriados) e quarto a terceira idade (de fevereiro a maio).  
+ De acordo com a pesquisa de mercado realizada obse rva-se que dos 
+questionados ficou entre 19 a 30 anos, corresponden do a 82% de todos os 
+entrevistados, 67% possuem seu estado civil como so lteiro, e 47% tem sua 
+ocupação como estudantes e 67% possuem uma renda qu e variam entre R$760,01 
+--- PAGE 61 ---
+ 
+ 
+61 
+ 
+a R$3.040,00 (vide apêndices 2,4,6 e 7). Com esses dados fica possível identificar 
+um nicho no mercado, no qual, 84% dos entrevistados  possuem o hábito de 
+alimentar-se fora de casa, um número bastante expre ssivo, pelo número de 
+entrevistados (vide apêndice). 
+ Outro resultado obtido é que, 37% deles buscam sem pre estes serviços, e 
+39% apenas aos fins de semana freqüentam restaurant es, o que mostra um público 
+consumidor no segmento alimentício ( vide apêndice 10). 
+ As preocupações em busca de uma alimentação mais s audável e mais leve 
+vêem aumentando gradativamente, através do question ário foi possível perceber 
+que 58% dos entrevistados sentem falta de restauran tes com este tipo de alimentos, 
+um nicho que deve ser ainda conquistado, mas que ao  longo dos anos irão criar 
+essa necessidade de um estilo de vida. 
+ Alguns itens são importantes para um bom funcionam ento da empresa, e 
+através da pesquisa pode-se identificar que os poss íveis clientes destacam como 
+fator de escolha a localização da empresa, espaço p ara estacionamento, horário de 
+atendimento, qualidade dos produtos, formas de paga mento/crédito, tempo de 
+espera, agilidade no atendimento e comprometimento do atendente (vide apêndices 
+14 a 20). Todos esses itens citados foram identific ados como fatores muito 
+importantes na tomada de decisão ou escolha de um restaurante. 
+ Já em relação aos concorrentes, os consumidores es tão satisfeitos com os 
+serviços prestados por eles, 71% estão satisfeitos e 17% pouco satisfeitos com a 
+localização; 42% estão satisfeitos e 28% pouco sati sfeitos com o espaço de 
+estacionamento; 56% satisfeitos com o horário de at endimento; 55% estão 
+satisfeitos com a qualidade dos produtos; 51% estão  satisfeitos com as formas de 
+pagamento; 42% estão satisfeitos e 33% pouco satisf eitos com o tempo de espera 
+para ser atendido; 41% estão poucos satisfeitos e 4 0% estão satisfeitos com a 
+agilidade no atendimento; e 65% estão satisfeitos c om o comprometimento do 
+atendente em atendê-los bem (vide apêndices 21 a 28).  
+ A partir dos dados é possível identificar os ponto s fortes e fracos dos 
+concorrentes, facilitando as estratégias que a GOOD LIGHT  deve ter para satisfazer 
+e criar uma fidelização com os seus consumidores, u ma vez que a cidade de 
+Balneário Camboriú, por ser uma cidade litorânea, p ossui uma grande sazonalidade, 
+nesse sentido o diferencial precisa estar na qualidade dos seus serviços prestados.  
+--- PAGE 62 ---
+ 
+ 
+62 
+ 
+ Já os fornecedores, a empresa precisará inicialmen te de várias empresas 
+para comprar todos os aparatos necessários para o f uncionamento do restaurante, 
+como computador, máquina de cartão de crédito, refr igerador, chapa, geladeira, 
+pratos, bandejas, talheres, copos plásticos, guardanapos, liquidificador, entre outros. 
+ 
+3.1.2 Matriz SWOT 
+ 
+Para a abertura de um negócio é essencial que se fa ça uma pesquisa de 
+mercado, com uma análise do macroambiente e setoria l, para que o empreendedor 
+esteja preparado com as possiveis ameaças, oportuni dades, forças e fraquezas que 
+a empresa pode vir a sofrer. 
+Nas ameaças e oportunidades, refere-se ao macroambi ente em que a 
+empresa está inserida. Já as forças e fraquezas são  com a análise setorial, no qual 
+no caso da GOOD LIGHT , as informações foram obtidas a partir dos questio nários 
+aplicados.  
+ A seguir, no  quadro 4, pode-se visualizar a Matri z SWOT do restaurante 
+GOOD LIGHT . 
+ 
+AMEAÇAS OPORTUNIDADES 
+Falta de hábito das pessoas em comer 
+alimentos saudáveis; 
+O surgimento de novos concorrentes na região 
+que ofereçam serviços semelhantes;  
+Aumento na taxa de juros e inflação. 
+Crescimento do mercado consumidor, em busca 
+de uma nova opção de comida saudável; 
+Possibilidade de o setor obter vantagens e 
+incentivos fiscais, referente aos impostos 
+exercidos no estado, pela inscrição no Sistema 
+Simples.  
+ 
+ 
+FORÇAS FRAQUEZAS 
+Concorrentes; 
+Qualidade nos produtos e serviços; 
+Local para estacionamento; 
+Formas de pagamento; 
+Horário de funcionamento. 
+Inexperiência dos proprietários; 
+Boa localização dos concorrentes;  
+Tempo para conquistar e manter clientes fixos. 
+ 
+ 
+Quadro 4- Análise SWOT realizada pela acadêmica. 
+Fonte: Baseada em dados secundários e primários  
+--- PAGE 63 ---
+ 
+ 
+63 
+ 
+3.2 Definição da empresa 
+ 
+ A GOOD LIGHT  será registrada como uma Micro Empresa LTDA 
+2, composta 
+de dois sócios, sendo um idealizador do restaurante  e que será seu principal 
+gerente, e o outro sendo responsável pelo capital investido 
+ A empresa vem oferecer uma nova proposta de comida  natural no qual o 
+próprio cliente escolhe, dentro dos itens oferecido s no restaurante, a sua opção de 
+salada, molhos e grelhados. Outra proposta é tornar  o horário de alimentação um 
+momento de descontração em um ambiente de agradável convivência.  
+ 
+a) Missão  
+ 
+ A missão do restaurante GOOD LIGHT  é proporcionar uma alimentação 
+saudável e gostosa, com qualidade, rapidez e com competitivos preços. 
+ 
+b) Visão  
+  
+Tornar uma empresa de renome na cidade de Balneário  Camboriú, obter uma 
+excelente lucratividade e oferecer serviços de qualidade. 
+   
+c) Objetivo 
+ 
+O objetivo do negócio é crescer em 3% a.a.  
+ 
+d) Equipe gerencial 
+ 
+De acordo com Lacombe (2005, p.18) “equipe  é um pe queno número de 
+pessoas com conhecimentos complementares, compromis sadas com um propósito, 
+metas de desempenho e abordagem comum, e pelos quai s se mantêm mutuamente 
+responsáveis”.  
+ 
+ 
+                                           
+ 
+2 Em anexo I segue o Modelo Básico de Contrato Socia l de uma sociedade Limitada. 
+--- PAGE 64 ---
+ 
+ 
+64 
+ 
+O restaurante será  composto de: 
+ 
+/square4 Um sócio trabalhando na gerencia do restaurante; 
+/square4 Um sócio capitalista, que entrará com os recursos p ara viabilizar o negócio, 
+mas que não trabalhará na empresa; 
+/square4 Sete colaboradores em dois turnos, sendo: 
+o Gerente 
+o 4 ajudantes de cozinha; 
+o 2 atendentes.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura 4: Organograma da empresa  
+ 
+ 
+ 
+e) Estratégia do Negócio 
+ 
+A estratégia que a empresa adotará será a estratégi a genérica de enfoque na 
+diferenciação, no qual visa suprir as necessidades e desejos dos clientes. Esta 
+estratégia busca um grupo selecionado no qual procu ram serviços diferenciados e 
+com qualidade. 
+ 
+ 
+ 
+ 
+Proprietário 1 Proprietário 2 
+Gerente  
+Auxiliar de cozinha 1  Auxiliar de cozinha 2 Atendente 1  Atendente 2  
+Auxiliar de cozinha 3  Auxiliar de cozinha  4  
+--- PAGE 65 ---
+ 
+ 
+65 
+ 
+3.2.1 Plano de Marketing 
+ 
+A GOOD LIGHT  será vista como um lugar onde as pessoas se sintam  a 
+vontade e se alimentem bem, com prazer e rapidez. 
+ O restaurante desenvolverá ações de marketing  inc entivando as pessoas a 
+criarem o hábito de freqüentar o estabelecimento at ravés de uma política de 
+fidelidade. Uma das ações aplicadas será a entrega de um cartão, chamado cartão 
+fidelidade, no dia de sua primeira visita (consumaç ão). A cada visita o cliente 
+receberá um carimbo no seu cartão fidelidade. Ele t erá direito a uma refeição 
+gratuita quando alcançar o número de dez carimbos em seu cartão.  
+A empresa estará iniciando o investimento em public idade e propaganda 
+quinze dias antes da abertura do restaurante, em lo cais estratégicos, tais como 
+universidades, centros empresariais, escritórios e academias. 
+ 
+Produto 
+ 
+/square4 Variedade com qualidade nos produtos; 
+/square4 Produtos que sejam bem equilibrados em calorias e aprovados por 
+nutricionista; 
+/square4 Marketing de relacionamento, e programa de fidelid ade. 
+ 
+Preço 
+ 
+Para a determinação do preço de venda dos produtos,  será levado em 
+consideração o custo da matéria prima e os preços praticados pelos concorrentes. 
+Promoção  
+ 
+/square4 Carimbos para o programa de fidelidade; 
+/square4 Aniversariante não paga desde que traga quatro aco mpanhantes. 
+/square4 Campanha publicitária para a conscientização da po pulação em geral, para o 
+consumo de alimentos naturais como fonte de saúde e  bem estar para todas 
+as faixas etárias.  
+ 
+--- PAGE 66 ---
+ 
+ 
+66 
+ 
+Atualmente, um grave problema é o da obesidade infa ntil, pela falta de 
+ingestão de alimentos naturais. Este será um item d a campanha, bem como o grupo 
+da melhor idade como forma de equilibrar os índices  de lipídios (colesterol e 
+triglicérides). Aos jovens, direcionando a campanha  para a boa forma física e um 
+estilo de vida ecologicamente correto. Para aqueles  que já estão em dieta de 
+emagrecimento será uma opção de alimentação com bai xo teor calórico sem 
+prejudicar o lazer.  
+ 
+Distribuição   
+ 
+A promoção da empresa será realizada através de pôs teres em locais 
+estratégicos, como universidades, centros empresari as e academias. No entanto, o 
+marketing de boca a boca é muito expressivo, além d e não ter custos financeiros 
+para a empresa. Será buscada excelência na qualidad e dos produtos e serviços 
+prestados, fazendo com que os clientes sejam os principais vendedores da empresa. 
+ 
+ A partir do quadro 5, é possível visualizar as açõ es que serão tomadas, como 
+serão tomadas, quem serão os responsáveis, bem como quando serão aplicadas.  
+ 
+  
+O que? Como? Quem? Quando? 
+ Programa de 
+fidelização  
+Toda a vez que um cliente 
+for ao restaurante, receberá 
+um carimbo no seu cartão. 
+Ao completar 10, receberá 
+uma alimentação gratuita.  
+Gerente Iniciará este 
+programa a partir 
+da abertura da 
+empresa. 
+Propaganda Serão distribuídos panfletos 
+e colados cartazes sobre o 
+restaurante em locais 
+estratégicos, como 
+universidades, centros 
+empresariais, escritórios e 
+academias.     
+Gerente e 
+atendentes 
+15 dias antes da 
+abertura. 
+Distribuição dos 
+alimentos 
+Os alimentos serão 
+preparados e consumidos no 
+próprio ambiente do 
+shopping. 
+Atendentes Todos os dias de 
+funcionamento da 
+empresa. 
+Promoção dia do 
+aniversariante 
+No dia do aniversário do 
+cliente, levando mais quatro 
+pessoas, ele será isento do 
+Gerente Iniciará este 
+programa a partir 
+da abertura da 
+--- PAGE 67 ---
+ 
+ 
+67 
+ 
+pagamento. empresa. 
+Preço  Os preços das refeições 
+serão variados, dependendo 
+do tipo de cada 
+acompanhamento escolhido 
+pelo cliente, podendo variar 
+de R$8,00 a R$14,00 o prato 
+da refeição. 
+Gerente Terá este valor a 
+partir da abertura 
+do restaurante. 
+MIX de produtos O restaurante terá um 
+grande número de 
+variedades de produtos 
+disponíveis para a escolha 
+do prato que o cliente 
+desejar 
+Gerente Terá esta 
+variedade de 
+produtos a partir 
+da abertura do 
+restaurante. 
+Cardápio 
+equilibrado  
+O restaurante contratará 
+uma nutricionista para fazer 
+as dosagens em colaria de 
+cada produto.  
+Nutricionista Será contratado o 
+profissional dois 
+meses antes da 
+abertura do 
+restaurante. 
+Campanha 
+publicitária de 
+conscientização 
+Será realizada uma 
+campanha publicitária com 
+distribuição de folhetos e 
+pôsteres para a 
+conscientização da 
+importância do consumo de 
+alimentos saudáveis para 
+todas as faixas etárias 
+Gerente Iniciará este 
+programa a partir 
+da abertura da 
+empresa. 
+ 
+Quadro 5: Ações de Marketing 
+Fonte: realizado pela acadêmica. 
+ 
+ 
+ 
+ 
+3.2.2 Plano de Recursos Humanos 
+ 
+Para o recrutamento de pessoal, a empresa GOOD LIGHT , irá contratar uma 
+agência de recrutamento, havendo uma seleção e apli cação de testes, para a 
+escolha dos auxiliares de cozinha e atendentes.  
+Após a escolha, estes funcionários passarão por um treinamento, no qual 
+será explicada a forma de se trabalhar, de manusear  os alimentos, atender o público 
+e o uso apropriado de suas vestimentas. O atendimen to deverá ser padronizado, 
+independentemente do dia, da hora e do funcionário,  para que os clientes sejam 
+sempre recebidos e atendidos da melhor forma possível. 
+O quadro de mão-de-obra será dimensionado em 7 empregados, sendo: 
+--- PAGE 68 ---
+ 
+ 
+68 
+ 
+ 
+o Gerente: será o responsável pela gestão dos funcio nários, otimização 
+dos custos, compra da matéria-prima, ou seja, é res ponsável pelo o 
+funcionamento da empresa.  
+o 4 Auxiliares de cozinha: terão como funções fazer a preparação dos 
+alimentos selecionados pelo cliente, fazer os grelh ados e preparar os 
+sucos (2 em cada turno). 
+o 2 Atendentes: terão como funções atender o cliente  da melhor forma 
+possível, com agilidade, rapidez e eficiência (1 por turno). 
+o Nutricionista (terceirizado): o nutricionista terá  que balancear e dosar 
+as calorias de cada produto oferecido no estabelecimento. 
+ 
+A remuneração dos funcionários serão: 
+ 
+o Gerente: R$ 800,00 
+o Auxiliar de cozinha: R$ 500,00 
+o Atendente: R$ 400,00 
+o Serviço Terceirizado - Nutricionista:R$ 700,00  
+o Serviço Terceirizado – Contabilidade: R$160,00 
+ 
+A empresa oferecerá como complementação salarial ao s seus empregados 
+alimentação e vale transporte. 
+ 
+ 
+3.2.3 Plano Operacional  
+ 
+O restaurante GOOD LIGHT será instalado no Atlântico Shopping, na cidade 
+de Balneário Camboriú, numa área de 30 m², localiza da na praça de alimentação do 
+shopping 
+O horário de atendimento será de segunda a domingo das 10 horas às 22 
+horas, dividido em dois turnos de funcionamento de 6 horas. 
+Como o restaurante servirá alimentos naturais é imp ortante que os clientes 
+saibam a procedência dos mesmos. Para tal, os alime ntos estarão expostos a 
+--- PAGE 69 ---
+ 
+ 
+69 
+ 
+apreciação para que não haja duvida da qualidade do s mesmos. Outro ponto a ser 
+destacado é a higienização dos alimentos e o asseio  dos funcionários com o uso de 
+luvas e toucas no manuseio dos produtos. 
+ 
+O atendimento ao cliente se dará: 
+ 
+1º) o cliente receberá uma folha onde constam todos os itens disponíveis para 
+a montagem de sua salada, o qual, deverá assinalar as suas preferências;  
+2º) Uma vez escolhido os itens, os funcionários mon tarão o pedido, e em 
+seguida, levarão ao balcão para a entrega do cliente; 
+3º) Como serão oferecidos sucos, refrigerantes e ág ua, os clientes fará sua 
+escolha, o qual será servido junto com a salada. 
+ 
+Na figura 5, é possível visualizar o cardápio no qu al será entregue ao cliente 
+para a escolha dos itens de sua preferência. 
+--- PAGE 70 ---
+ 
+ 
+70 
+ 
+ 
+ 
+Figura 5 - Cardápio  
+Fonte: realizado pela acadêmica 
+ 
+A empresa utilizará a infra-estrutura disponível do Shopping como as cadeiras 
+e mesas na praça de alimentação, banheiros coletivo s, estacionamento, segurança. 
+A GOOD LIGHT  fica responsável pela montagem do balcão e infra-e strutura interna, 
+com geladeira para acondicionar os alimentos perecí veis, geladeira para as bebidas, 
+grelha, liquidificador, pratos, talheres, bandejas,  copos, guardanapos, caixa 
+eletrônica, enfim, tudo que for pertinente para o bom funcionamento do restaurante. 
+Para obter uma melhor aparência e um visual mais bo nito e agradável aos 
+clientes, será contratado um arquiteto, no qual far á a obra necessária. É possível 
+visualizar a planta baixa e frente do restaurante nos apêndices 29 e 30.   
+--- PAGE 71 ---
+ 
+ 
+71 
+ 
+3.2.4 Plano Financeiro  
+ 
+Este tópico destina-se a apresentação do plano fina nceiro do restaurante 
+GOOD LIGHT , no qual será apresentado em forma de planilhas fi nanceiras feitas no 
+Microsoft Office Excel,  facilitando assim, a visualização dos dados.  
+Para a abertura do restaurante a empresa iniciará c om saldo de caixa de 
+R$80.000,00 próprios, no qual, serão utilizados no Investimento Inicial R$ 65.479,27, 
+assim discriminados: obras civis, equipamentos, máq uinas, móveis e utensílios e 
+despesas pré-operacionais. A seguir na Tabela 4 é possível visualizar o Investimento 
+Inicial. 
+ 
+Tabela 4 – Investimento Inicial 
+ 
+ INVESTIMENTO INICIAL   
+Descrição  Quantidade  Valor Unit. Total 
+Obras Civis       
+Reforma da loja 1  50.000,00  50.000,00  
+SUB TOTAL     50.000,00  
+Equipamentos       
+Computador 1 2.000,00  2.000,00  
+Linha telefônica 1  30,00  30,00  
+Impressora fiscal 1  1.000,00  1.000,00  
+Máquina de senha 1  1.000,00  1.000,00  
+Software 1 500,00  500,00  
+SUB TOTAL     4.530,00  
+Máquinas       
+Coifa GE systhesis 90 cm 1  R$ 1.000,00  1000,00  
+Freeezer Horizontal Eletrolux H500 1  R$ 1.599,00  1599,00  
+Grelha 1 R$ 1.300,00  1300,00  
+Processador Walita Master 2  R$ 229,00  458,00  
+Refrigerador Consul horizontal 1  R$ 878,24  878,24  
+Liquidificador britânia 3  R$ 61,51  184,53  
+SUB TOTAL     5.419,77  
+Móveis e Utensílios        
+Bacias plásticas  10  6,00  60,00  
+Banedejas  150  6,90  1035,00  
+Cadeira para o caixa  1  60,00  60,00  
+Panelas  10  15,00  150,00  
+Pares de talheres (garfo e faca)   200  7,05  1410,00  
+Pegador de salada  3  4,50  13,50  
+Pegador grelhados  3  7,00  21,00  
+Pratos   200  6,40  1280,00  
+SUB TOTAL     4029,50  
+Despesas Pré-Operacionais       
+Marketing de divulgação 1  R$ 500,00  500,00  
+Nutricionista 1 R$ 500,00  500,00  
+Impressão dos cardápios 10000  R$ 0,05  500,00  
+SUB TOTAL     1.500,00  
+        
+TOTAL DE INVESTIMENTOS INICIAIS   65.479,27  
+ 
+Fonte: Dados primários 
+--- PAGE 72 ---
+ 
+ 
+72 
+ 
+ Como a empresa possui um MIX muito grande de produ tos, o seu custo 
+variável será de R$ 20.600,65 mensal. Um valor alto , porém serão produtos de boa 
+qualidade e diferenciados. A baixo segue a Tabela 5 com os produtos discriminados. 
+ 
+Tabela 5 – Discriminação Custos Variáveis 
+ 
+  DISCRIMINAÇÃO CUSTOS VARIÁVEIS 
+MENSAL         
+Descrição Unid. Medida Custo/ Unid. Quant. Total Pr odutos 
+          
+Abacaxi  Unidade  2,15  200,00  430,00  
+Açúcar em Sachet  Kg  12,00  50,00  600,00  
+Agrião Unidade  1,99  150,00  298,50  
+Água Mineral com gás  Garrafa  0,48  200,00  96,00  
+Água Mineral sem gás  Garrafa  0,42  200,00  84,00  
+Alface  Unidade  0,40  350,00  140,00  
+Aspargos Kg  10,35  30,00  310,50  
+Azeitona  Kg  10,23  20,00  204,60  
+Batata palha  Kg  7,29  70,00  510,30  
+Beterraba  Kg  8,00  30,00  240,00  
+Brócolis  Unidade  0,69  300,00  207,00  
+Cenoura  Kg  1,58  300,00  474,00  
+Copos Plásticos  Unidade  0,12  3.500,00  420,00  
+Ervilha  Kg  2,75  40,00  110,00  
+Filé Mignón Kg  22,90  100,00  2.290,00  
+Guardanapos  Unidade  0,01  10.000,00  100,00  
+Laranja  Kg  1,25  100,00  125,00  
+Manga  Kg  1,79  100,00  179,00  
+Massinha parafuso  Pacote  1,10  100,00  110,00  
+Melão   Kg  2,39  100,00  239,00  
+Milho  Kg  3,15  40,00  126,00  
+Morango  Bandeja  1,95  120,00  234,00  
+Ovo  Dúzia  1,88  300,00  564,00  
+Palmito  Kg  6,45  60,00  387,00  
+Pão de forma  Pacote  2,00  100,00  200,00  
+Passas Kg  12,00  30,00  360,00  
+Peito de frango Kg  7,85  100,00  785,00  
+Pepino   Kg  6,45  50,00  322,50  
+Picanha Kg  20,93  100,00  2.093,00  
+Pimentão Cru  Kg  5,95  30,00  178,50  
+Polpa de suco  Pacote  0,50  2.000,00  1.000,00  
+Presunto   Kg  7,89  70,00  552,30  
+Queijo Mussarela  Kg  7,75  75,00  581,25  
+Refrigerantes  Lata  0,95  2.000,00  1.900,00  
+Ricota Kg  8,33  40,00  333,20  
+Rúcula   Maço  1,10  300,00  330,00  
+Sal em Sachet  Kg  9,00  30,00  270,00  
+Salmão Kg  19,50  100,00  1.950,00  
+Temperos para os molhos  Kg  30,00  4,00  120,00  
+Tomate  Kg  2,85  200,00  570,00  
+Tomate Seco  Kg  12,32  50,00  616,00  
+Kani kama Kg  19,5  20,00  390,00  
+          
+TOTAL CUSTOS VARIÁVEIS     20.600,65  
+ 
+Fonte: Dados primários 
+--- PAGE 73 ---
+ 
+ 
+73 
+ 
+ Já nos seus custos fixos da empresa, como água, lu z, aluguéis terá um gasto 
+de R$ 11.506,20, como mostra a Tabela 6 a baixo. 
+ 
+Tabela 6 - Custos Fixos 
+CUSTOS FIXOS   
+Descrição   Custo Totais 
+    
+Água, Luz e Telefone 1.000,00  
+Aluguéis e Condomínios 5.480,00  
+Aluguel da máquina de cartão de crédito( VISA e Master)  145,00  
+Marketing & Publicidade 200,00  
+Material de Limpeza 200,00  
+Material de Escritório 100,00  
+Depreciação 272,90  
+Manutenção & Conservação 200,00  
+Seguros 431,20  
+Mão de Obra Indireta c/ Encargos 3.477,10  
+    
+TOTAL CUSTOS FIXOS 11.506,20  
+Fonte: Dados primários 
+ 
+ Para o pagamento da mão de obra dos funcionários, autônomos e do pró-
+labore a GOOG LIGHT  terá um custo de R$5.455,72(demonstrado na Tabela 7). 
+Tendo no final um custo total de despesas mensais de R$ 40.562.57.  
+ 
+Tabela 7 – Custo Mão de Obra 
+CUSTO MÃO DE OBRA       
+Descrição Valor Unit. Quant. Valor Total 
+Funcionários       
+Auxilar de cozinha 500,00  4 2.000,00  
+Atendente 400,00  2 800,00  
+Gerente 800,00  1 800,00  
+SUB TOTAL 1.700,00    3.600,00  
+FGTS(8%)     288,00  
+FGTS recisão (4%)     144,00  
+Provisão de férias (11,11%)     399,96  
+Provisão 13º (8,33%)     299,88  
+FGTS sobre férias e 13° . (2,33%)     83,88  
+Vale transporte + alimentação 150  7 1.050,00  
+Total de encargos e provisões      2.265,72  
+Autônomo       
+Contabilidade 190  1 190,00  
+Pró-labore 1500  2 3.000,00  
+SUB TOTAL     3.190,00  
+       
+TOTAL MÃO DE OBRA     5.455,72  
+Fonte: Dados primários 
+--- PAGE 74 ---
+ 
+ 
+74 
+ 
+O restaurante pretende vender 100(cem) refeições di árias, dando um total por 
+mês de 3.000 (três mil) pratos. Como não existirá pratos prontos no restaurante, pois 
+é o próprio cliente que escolhe os itens e o acompa nhamento, foi feito 4(quatro) 
+opções, sendo a escolha e 6(seis) itens mais o acom panhamento, no qual cada 
+acompanhamento terá um valor na refeição. A seguir,  na tabela 8 é possível 
+visualizar a projeção de vendas mensais, tendo um total mensal de R$43.070,00. 
+ 
+Tabela 8 – Projeção de Vendas 
+ 
+VENDAS        
+Serviços Oferecidos 
+Quant. de refeições/ 
+mensal Valor unit. 
+Valor total do 
+mês 
+       
+Opção 1 - 6 itens + peito de frango 
+grelhado 750 
+ R$8,00  6.000,00  
+Opção 2 - 6 itens + filé mignón 
+grelhado 750 
+ R$12,00  9.000,00  
+Opção 3 - 6 itens + picanha grelhada 750  R$12,00  9.000,00  
+Opção 4 - 6 itens + salmão grelhado 750  R$14,00  10.500,00  
+Água mineral sem gás 200  R$1,50  300,00  
+Água mineral com gás 180  R$1,50  270,00  
+Sucos 2.000  R$2,75  5.500,00  
+Refrigerantes 1.000  R$2,50  2.500,00  
+        
+TOTAL VENDAS     43.070,00  
+ 
+ 
+No Fluxo de Caixa é possível perceber que ao primei ro mês, a empresa terá 
+um Lucro Liquido de R$15.115,06, e que a cada mês t erá um crescimento de 
+aproximadamente 34% mensais no lucro, aproximadamente R$5.000 (cinco mil). 
+Pode-se visualizar a seguir o Fluxo de Caixa mensal  da empresa GOOD 
+LIGHT  para o ano de 2008.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 75 ---
+ 
+ 
+75  
+Tabela 9 – Fluxo de Caixa Mensal 
+ 
+ 
+Fonte: Dados primários 
+ 
+ 
+ 
+ 
+      FLUXO DE CAIXA PROJETADO MENSAL           
+  JAN./2008 FEV./2008 MAR./2008 ABR./2008 MAI./2008 J UN./2008 JUL./2008 AGO./2008 SET./2008 OUT./2008 NO V./2008 DEZ./2008 
+1. Saldo de caixa inicial 80.000,00  20.243,37  25.336,52  29.869,42  33.903,71  37.494,22 40.689,78  43.533,82  46.065,02  43.229,48  50.322,75  52.107,17  
+2. Investimento Inicial 65.479,27                       
+SUB TOTAL 14.520,73  20.243,37  25.336,52  29.869,42  33.903,71  37.494,22  40.689,78  43.533,82  46.065,02  43.229,48  50.322,75  52.107,17  
+3. Entrada                        
+3.1 Receita de vendas 43.070,00  43.070,00  43.070,00  43.070,00  43.070,00  43.070,00  43.070,00  43.070,00  43.070,00  43.070,00  43.070,00  43.070,00  
+SUB TOTAL VENDAS 57.590,73  63.313,37  68.406,52  72.939,42  76.973,71  80.564,22  83.759,78  86.603,82  89.135,02  86.299,48  93.392,75  95.177,17  
+4. Despesas                        
+4.1 (-) Desepesas com produção 20.600,65  20.600,65  20.600,65  20.600,65  20.600,65  20.600,65  20.600,65  20.600,65  20.600,65  20.600,65  20.600,65  20.600,65  
+4.2 (-) Despessas com mão de 
+obra direta 2.265,72 
+ 2.265,72  2.265,72  2.265,72  2.265,72  2.265,72  2.265,72  2.265,72  2.265,72  2.265,72  2.265,72  2.265,72  
+4.3 (-) Despesas com autônomos 3.190,00  3.190,00  3.190,00  3.190,00  3.190,00  3.190,00  3.190,00  3.190,00  3.190,00  3.190,00  3.190,00  3.190,00  
+4.4 (-) Despesas Pró-labore 3.000,00  3.000,00  3.000,00  3.000,00  3.000,00  3.000,00  3.000,00  3.000,00  3.000,00  3.000,00  3.000,00  3.000,00  
+4.5 (-) Despesas custo fixo 11.506,20  11.506,20  11.506,20  11.506,20  11.506,20  11.506,20  11.506,20  11.506,20  11.506,20  11.506,20  11.506,20  11.506,20  
+SUB TOTAL SAÍDAS 40.562,57  40.562,57  40.562,57  40.562,57  40.562,57  40.562,57  40.562,57  40.562,57  40.562,57  40.562,57  40.562,57  40.562,57  
+5. Saldo no Período 17.028,16  22.750,80  27.843,95  32.376,85  36.411,14 40.001,65  43.197,21  46.041,25  48.572,45  45.736,91  52.830,18  54.614,60  
+6. Tributos                        
+6.1SIMPLES Nacional(4%) 681,13  910,03  1.113,76  1.295,07  1.456,45  1.600,07  1.727,89  1.841,65  1.942,90  1.829,48  2.113,21  2.184,58  
+6.2(-) Alíquota IR (15%) 2.554,22  3.412,62  4.176,59  4.856,53  5.461,67  6.000,25  6.479,58  6.906,19  7.285,87  6.860,54  7.924,53  8.192,19  
+7. FLUXO DE CAIXA LÍQUIDO 15.155,06  20.248,21  24.781,12  28.815,40  32.405,91  35.601,47  38.445,51  40.976,71  43.229,48  40.705,85  47.018,86  48.607,00  
+--- PAGE 76 ---
+ 
+ 
+76 
+ 
+E na Tabela 10, é possível analisar o Fluxo de Caix a anual de 2008 e as 
+projeções de 2009 e 1010 com o crescimento de 3%a.a. 
+ 
+Tabela 10 – Fluxo de Caixa Anual 
+ 
+FLUXO DE CAIXA PROJETADO ANUAL   
+  TOTAL 2008 TOTAL 2009 TOTAL 2010 
+1. Saldo de caixa inicial 502.795,27  517.879,13  533.415,51  
+2. Investimento Inicial      
+SUB TOTAL 437.316,00  450.435,49  463.948,55  
+3. Entrada      
+3.1 Receita de vendas 516.840,00  532.345,20  548.315,56  
+SUB TOTAL VENDAS 954.156,00  982.780,69  1.012.264,11  
+4. Despesas      
+4.1 (-) Desepesas com produção 247.207,80  254.624,03  262.262,76  
+4.2 (-) Despessas com mão de obra direta  27.188,64  28.004,30  28.844,43  
+4.3 (-) Despesas com autônomos 38.280,00  39.428,40  40.611,25  
+4.4 (-) Despesas Pró-labore 36.000,00  37.080,00  38.192,40  
+4.5 (-) Despesas custo fixo 138.074,40  142.216,63  146.483,13  
+SUB TOTAL SAÍDAS 486.750,84  501.353,37  516.393,97  
+5. Saldo no Período 467.405,16  481.427,32  495.870,14  
+6. Tributos      
+6.1SIMPLES Nacional(4%) 18.696,21  19.257,09  19.834,81  
+6.2(-) Alíquota IR (15%) 70.110,77  72.214,10  74.380,52  
+7. FLUXO DE CAIXA LÍQUIDO 415.990,60  428.470,31  441.324,42  
+ 
+Fonte: Dados primários 
+ 
+ 
+A partir dos dados apresentados é possível identifi car o Ponto de Equilíbrio, o 
+qual está apresentado de forma matematicamente abaixo. 
+ 
+PONTO DE EQUILÍBRIO 
+Legenda: 
+R* - Faturamento no ponto de equilíbrio 
+CF - Custo Fixo 
+MC - Margem de Contribuição 
+F - Faturamento 
+ 
+  
+O ponto do equilíbrio representado a cima é o valor  onde a empresa não terá 
+nem lucro e nem prejuízo. Sendo um instrumento gere ncial, onde o empreendedor 
+deve observar se o volume de refeições que estão se ndo vendidos atende ao nível 
+adequado para suprir os custos das despesas fixas.  
+R* = CF/MC x F 
+R* = 7.760,94 
+--- PAGE 77 ---
+ 
+ 
+77 
+ 
+ E para demonstrar o tempo de retorno do investimen to inicial, usa-se a 
+ferramenta Payback, que é usada pelas pequenas empr esas como uma medida de 
+risco, como critério de decisão ou apoio para as técnicas mais sofisticadas. 
+ 
+ 
+ 
+ 
+ 
+ Segundo o resultado, em 4 meses a empresa terá rec uperado seu 
+investimento, tendo no entanto um alto grau de atra tividade, pois quanto menor o 
+tempo, mais interessante fica o negócio. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PAYBACK = Investimento Inicial/ Lucro Líquido 
+PAYBACK = 65.479,27/15.115,06 = 4 meses  
+--- PAGE 78 ---
+ 
+ 
+78 
+ 
+4. CONSIDERAÇÕES FINAIS 
+ 
+ 
+O empreendimento proposto é um restaurante de comid as saudáveis, 
+denominado GOOD LIGHT .  O restaurante será montado na praça de alimentaç ão 
+do Atlântico Shopping, dado ao grande afluxo de pes soas, segurança, 
+estacionamento e todos os serviços oferecidos pelo shopping.  
+O espaço da loja não será grande, 30m², porém atrat ivo, higienizado e com 
+atendimento de excelência, como forma de fidelização de clientela. 
+O cardápio oferecido será apenas de saladas e grelh ados, os quais serão 
+selecionados através de folheto com a discriminação  dos alimentos disponíveis, 
+quais sejam, legumes, verduras, frutas, grãos, e carnes grelhadas. 
+O valor médio de uma refeição no GOOD LIGHT  será de aproximadamente 
+R$8,00 (oito reais) a R$14,00 (quatorze reais), dep endendo do acompanhamento 
+escolhido, tornando-a acessível a todas as camadas sociais. 
+A escolha por Balneário Camboriú, SC, se deu por se r uma cidade eclética. 
+Ela agrega vários segmentos populacionais e, além d isso, é uma cidade de veraneio 
+famosa. A sua população durante o ano é de 100 mil habitantes, chegando a 
+aproximadamente 1 milhão no verão. 
+Outro motivo da escolha foi devido ao crescimento d a Universidade UNIVALI 
+e outras transformando-a em um pólo universitário.  Os estudantes de maneira geral 
+são conscientes da necessidade de se comer alimento  natural quer pela saúde quer 
+pela prática de esportes, além disso, os estudantes  normalmente têm um orçamento 
+enxuto, o que lhes impede de freqüentar restaurantes caros. 
+Por outro lado, há um grande número de aposentados,  que se mudaram do 
+interior para Balneário Camboriú, por ser uma cidade litorânea, de clima ameno.  Em 
+geral é um grupo que necessita comer alimentos saud áveis por uma questão de 
+saúde, e muitas vezes receitadas pelos médicos. A o pção sugerida pelo GOOD 
+LIGHT  seria conveniente para esse segmento também. 
+Da mesma forma, o número de turistas que chegam par a passar as férias de 
+verão na cidade, faz com que o número cresça para 1  milhão de pessoas. Eles 
+geralmente não querem cozinhar em casa, mas nem sem pre querem comer 
+--- PAGE 79 ---
+ 
+ 
+79 
+ 
+alimentos de alto valor calórico. A GOOD LIGHT  seria uma nova opção de refeições 
+leves e também acessíveis. 
+Além de destacar a diversidade de pessoas que poder ão se valer das 
+inovações propostas pela GOOD LIGHT , o estudo financeiro feito através de 
+pesquisas e direcionados ao negócio, mostrou claram ente a viabilidade de abertura 
+do empreendimento e rápido retorno financeiro.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 80 ---
+ 
+ 
+80 
+ 
+REFERÊNCIAS BIBLIOGRÁFICAS 
+ 
+ 
+ARAÚJO, Luis César G. de. Organizações, sistemas e métodos e as ferramentas 
+de gestão organizacional: arquitetura, benchmarking , empowerment, gestão 
+pela qualidade total, reengenharia.  São Paulo: editora Atlas, 2001. 
+  
+BIAGIO, Luiz Arnaldo; BATOCCHIO, Antonio. Plano de Negócios: Estratégia para 
+Micro e Pequenas Empresas . Barueri, SP: Manole, 2005.  
+ 
+CHIAVENATO, Idalberto. Recursos Humanos: o capital humano das 
+organizações . São Paulo: Editora Atlas, 2004.  
+ 
+CURY, Antonio. Organizações e Métodos: uma visão holística.  São Paulo: 
+Editora Atlas, 1995. 
+ 
+DOLABELA, F. Oficina do Empreendedor: a metodologia de ensino qu e ajuda a 
+transformar conhecimento em riqueza . São Paulo: Cultura Editores Associados, 
+1999. 
+ 
+DORNELAS, José Carlos Assis.  Empreendedorismo: transformando idéias em 
+negócios. Rio de Janeiro: Elsevier, 2001. 
+ 
+FEDERAÇÃO BRASILEIRA DOS BANCOS (FEBRABAN). Pesquisa Febraban de 
+Projeções e Expectativas de Mercado . Disponível 
+em:<http:www.febraban.org.br>, acesso em 2 de agosto de 2007. 
+ 
+GIL, Antônio Carlos. Métodos e técnicas de pesquisa social . São Paulo: Editora 
+Atlas, 2007.  
+ 
+GITMAN, Lawrence J. Princípios de Administração Financeira.  São Paulo: Editora 
+Harbra Ltda, 1997. 
+ 
+HISRICH, Robert D; PETERS, Michel P. Empreendedorismo . São Paulo ; Editora 
+Bookman, 2006. 
+IBGE - As Micro e Pequenas Empresas Comerciais e de  Serviços no Brasil 2001. 
+Estudos & Pesquisas Informação Econômica Número 1. Rio de Janeiro: Instituto 
+Brasileiro de Geografia e Estatística – IBGE, 2003. 
+ 
+LACOMBE, Francisco José Masset. Recursos Humanos: princípios e tendências . 
+São Paulo: Saraiva, 2005. 
+--- PAGE 81 ---
+ 
+ 
+81 
+ 
+MATTAR, Fause Najib. Pesquisa de Marketing: metodologia, planejamento . São 
+Paulo: Editora Atlas, 1999. 
+ 
+Modelo Básico de Contrato Social – Sociedade Limita da. Disponível em:  
+<http://www.dnrc.gov.br/Servicos_dnrc/Orientacoes_e_modelos/modelo_basico_cont 
+rato.htm>, acesso em 10 de outubro de 2007.  
+ 
+NAKASHIMA, Norio. Gestão do Empreendedorismo como Fonte de Vantagem 
+Competitiva.  São Paulo: EAESP/FGV, 2002. 
+ 
+OLIVEIRA, Djalma de Pinho Rebouças de. Planejamento estratégico: conceitos, 
+metodologia e prática.  São Paulo: Atlas, 2001. 
+  
+PORTER, M. Competição: estratégias competitivas essenciais , Rio de Janeiro: 
+Campus, 1999. 
+ 
+(______) Vantagem Competitiva: Criando e sustentando um desempenho 
+superior . Rio de Janeiro: Campus, 1990. 
+  
+RICHARDSON, Roberto Jerry at al. Pesquisa Social: Métodos e Técnicas . São 
+Paulo: Atlas, 1999. 
+ 
+ROESCH, Sylvia Maria Azevedo. Projetos de estágio e de pesquisa em 
+Administração: guia para estágios, trabalhos de con clusão, dissertação e 
+estudo de caso. São Paulo: Editora Atlas, 2007. 
+ 
+SALIM, Cesar Simões [ et al ]. Administração empreendedora: teoria e prática 
+usando estudos de casos. Rio de Janeiro: Campus, 2004. 
+ 
+SEBRAE, N. Plano de prioridades Sebrae - Na: arranjos produtivos locais – variáveis 
+determinantes. Disponível em: < www.reinvencao.sebrae.com.br>, 2006. 
+ 
+(______) Disponível em :  
+<http://www.sebraesp.com.br/principal/melhorando%20seu%20negócio/orientações 
+/finanças/analplanej/default.aspx>, acesso em: 20 de junho de 2007. 
+ 
+Site Terra.  SC é destaque de desenvolvimento humano  Disponível em 
+<http://noticias.terra.com.br/brasil/interna/0,,OI152419-EI306,00.html>, acesso em: 
+agosto de 2007.  
+ 
+ 
+ 
+ 
+--- PAGE 82 ---
+ 
+ 
+82 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ANEXO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 83 ---
+ 
+ 
+83 
+ 
+ANEXO I – Modelo Básico de Contrato Social – Sociedade Limitada 
+ 
+  
+CONTRATO DE CONSTITUIÇÃO DE:  
+___________________________________________________ _ 
+1. Cicrano , (nome completo), nacionalidade, estado civil, reg ime de bens (se casado), data de 
+nascimento (se solteiro), profissão, nº. do CPF, do cumento de identidade, seu número, órgão 
+expedidor e UF onde foi emitida (documentos válidos  como identidade: carteira de identidade, 
+certificado de reservista, carteira de identidade p rofissional, Carteira de Trabalho e Previdência 
+Social, Carteira Nacional de Habilitação – modelo c om base na Lei nº. 9.503, de 23.9.97), domicílio e 
+residência (tipo e nome do logradouro, número, bair ro/distrito, município, Unidade Federativa e CEP) 
+e 
+2. 
+Beltrano  .................................................. ................................................................... ( art. 997, l , 
+CC/2002 );  
+(se for sócio pessoa jurídica ver forma de qualificação e demais disposições da Resolução JUCESC 
+01/03 e IN 98/2003 – e se sócio estrangeiro, mencionar também a situação do visto – se permanente 
+ou não – e demais disposições da Resolução JUCESC 01/03, IN 98/2003 e IN 76/1998 . Se houver 
+procurador ou representante/assistente, vir orientações na Resolução JUCESC 01/03 e IN 98/2003).  
+Constituem uma sociedade limitada, mediante as segu intes cláusulas: 
+1ª A sociedade girará sob o nome empresarial ...... ....................... e terá sede e domicílio na 
+(endereço completo: tipo, e nome do logradouro, núm ero, complemento, bairro/distrito, município, 
+Unidade Federativa e CEP). ( art. 997, II, CC/2002 )  
+2ª O capital social será R$ ....................... ........... (.............................. reais) dividido em .............. 
+quotas de valor nominal R$ ...... (............ rea is), integralizadas, neste ato em moeda corrente do  País, 
+pelos sócios: 
+Fulano de Tal ................. nº. de quotas ............. R$ ........... 
+Beltrano de Tal ............... nº. de quotas............. R$.............  ( 
+art. 997, III, CC/2002 ) ( art. 1.055, 
+CC/2002 )  
+3ª O objeto será .................................. .................. (não copiar do que diz o código CNAE pois nem 
+sempre o mesmo está descrito em gênero e espécie, c onforme exigência do Decreto 1.800/96) 
+4ª A sociedade iniciará suas atividades em ........ ..... e seu prazo de duração é indeterminado. ( art. 
+997, II, CC/2002 )  
+5ª As quotas são indivisíveis e não poderão ser ced idas ou transferidas a terceiros sem o 
+consentimento do outro sócio, a quem fica assegurad o, em igualdade de condições e preço direito de 
+preferência para a sua aquisição se postas à venda,  formalizando, se realizada a cessão delas, a 
+alteração contratual pertinente. ( art. 1.056, art. 1.057, CC/2002 )  
+6ª A responsabilidade de cada sócio é restrita ao v alor de suas quotas, mas todos respondem 
+solidariamente pela integralização do capital social. ( art. 1.052, CC/2002 ) 
+7ª A administração da sociedade caberá COLOCAR O NOME DO(S) ADMINISTRADOR (ES)  com os 
+poderes e atribuições de .......................... ................. autorizado o uso do nome empresar ial, vedado, 
+no entanto, em atividades estranhas ao interesse so cial ou assumir obrigações seja em favor de 
+qualquer dos quotistas ou de terceiros, bem como on erar ou alienar bens imóveis da sociedade, sem 
+autorização do outro sócio. ( artigos 997, Vl; 1.013. 1.015,  1064, CC/2002 ) 
+8ª Ao término da cada exercício social, em 31 de de zembro, o administrador prestará contas 
+justificadas de sua administração, procedendo à ela boração do inventário, do balanço patrimonial e 
+do balanço de resultado econômico, cabendo aos sóci os, na proporção de suas quotas, os lucros ou 
+perdas apurados. ( art. 1.065, CC/2002 ) 
+9ª Nos quatro meses seguintes ao término do exercíc io social, os sócios deliberarão sobre as contas 
+e designarão administrador (es) quando for o caso. ( arts. 1.071 e 1.072, § 2 o e art. 1.078, CC/2002 ) 
+10 A sociedade poderá a qualquer tempo, abrir ou fe char filial ou outra dependência, mediante 
+alteração contratual assinada por todos os sócios. 
+--- PAGE 84 ---
+ 
+ 
+84
+ 
+11 Os sócios poderão, de comum acordo, fixar uma re tirada mensal, a título de “pro labore”, 
+observadas as disposições regulamentares pertinente s. 
+12 Falecendo ou interditado qualquer sócio, a socie dade continuará suas atividades com os 
+herdeiros, sucessores e o incapaz. Não sendo possív el ou inexistindo interesse destes ou do(s) 
+sócio(s) remanescente(s), o valor de seus haveres s erá apurado e liquidado com base na situação 
+patrimonial da sociedade, à data da resolução, verificada em balanço especialmente levantado. 
+Parágrafo único – O mesmo procedimento será adotado  em outros casos em que a sociedade se 
+resolva em relação a seu sócio. ( art. 1.028 e art. 1.031, CC/2002 ) 
+13 O(s) Administrador (es) declara(m), sob as penas  da lei, de que não está (ão) impedidos de 
+exercer a administração da sociedade, por lei espec ial, ou em virtude de condenação criminal, ou por 
+se encontrar (em) sob os efeitos dela, a pena que v ede, ainda que temporariamente, o acesso a 
+cargos públicos; ou por crime falimentar, de prevar icação, peita ou suborno, concussão, peculato, ou 
+contra a economia popular, contra o sistema finance iro nacional, contra normas de defesa da 
+concorrência, contra as relações de consumo, fé púb lica, ou a propriedade. ( art. 1.011, § 1º, 
+CC/2002 ) 
+Inserir cláusulas facultativas desejadas.  
+14 Fica eleito o foro de ............  para o exercício e o cumprimento dos direitos e obr igações 
+resultantes deste contrato. 
+E por estarem assim justos e contratados assinam o presente instrumento em _______ vias.  
+                 _____________, ___ de ___________de _____ 
+Local data 
+ _________________________  ______________________ 
+     Cicrano      Beltrano 
+  
+Visto: ______________ (OAB/SC 00000) 
+Nome 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 85 ---
+ 
+ 
+85 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+APÊNDICES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 86 ---
+ 
+ 
+86 
+ 
+Apêndice 1 
+ 
+QUESTIONÁRIO PARA PESQUISA DE MERCADO 
+ 
+ 
+1. Dados Pessoais  
+ 
+Idade:  □  até 18 anos    □  19 a 30 
+            □  31 a 43           □  44 a 56     □  acima de 56 
+ 
+Sexo : □  Feminino                               Estado Civil :      □ . Solteiro      □  Divorciado 
+          □  Masculino                                                          □ . Casado      □  Viúvo 
+ 
+Nível de instrução 
+□  até 4ª série incompleto 
+□  4ª série completo □  1º grau incompleto 
+□  1º grau completo □  2º grau incompleto 
+□  2º grau completo □  Superior incompleto 
+□  Superior completo □  Pós-graduação ou Superior 
+ 
+Ocupação 
+□  Estudante                             □  Dona de casa ou similar 
+□  Desempregado                      □  Profissional liberal 
+□  Fornecedor de pequenos serviços 
+□  Artesão / confeccionista       □  Empresário  
+□  Educador                               □  Agricultor 
+□  Funcionário Público               □  comerciário      □  Industriário 
+□  Aposentado                      □  Outros 
+ 
+Renda em R$: 
+□  até 380,00 
+□  380,01 a 760,00             □  760,01 a 1520,00 
+□  1520,01 a 3.040,00                 □  3.040,01 a 6.080,00 
+□  6.080,01 a 12.160,00             □  12.160,01 a 24.320,00 
+□ 24.320,01ou superior             □  Não respondeu  
+ 
+2. Você possui o habito de alimentar-se fora de casa?    
+SIM  NÃO  
+ 
+3. Você normalmente procura o shopping ou vai a restaurantes de rua? 
+Shopping  Rua  
+ 
+4. Quantas vezes por mês? 
+Sempre  Aos fins de semana A cada 15 dias Uma vez por mês Raramente 
+ 
+5. Que tipo de alimento você normalmente procura? 
+Fast- food Comida a kilo Comida natural Comida ital iana Outros 
+ 
+6. Você sente falta de um restaurante com comidas mais leves e saudáveis? 
+SIM   NÃO   
+ 
+--- PAGE 87 ---
+ 
+ 
+87 
+ 
+7. Por favor, indique, qual a importância dos itens abaixo para sua decisão ou escolha de um restaurante. 
+ Muito 
+importante 
+Importante Pouco  
+Importante 
+Não é 
+importante 
+Não opina 
+Facilidade de acesso ao (localização)      
+Espaço de estacionamento      
+Horário de atendimento      
+Qualidade dos produtos      
+As formas de crédito / pagamento 
+oferecidas 
+     
+Tempo de espera até ser atendido      
+Agilidade durante o atendimento      
+O comprometimento do atendente em 
+atende-lo bem 
+     
+ 
+8. Por favor, indique a baixo o grau de satisfação com os concorrentes. 
+ 
+  Muito 
+Satisfeito 
+Satisfeito Pouco 
+satisfeito 
+Insatisfeito  Não opina 
+Facilidade de acesso ao (localização)      
+Espaço de estacionamento      
+Horário de atendimento      
+Qualidade dos produtos      
+As formas de crédito / pagamento 
+oferecidas 
+     
+Tempo de espera até ser atendido      
+Agilidade durante o atendimento      
+O comprometimento do atendente em 
+atende-lo bem 
+     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 88 ---
+ 
+ 
+88 
+ 
+Apêndice 2 
+ 
+Idade 
+5% 
+82% 
+9% 
+2% 
+2% 
+Até 18 anos 
+19 a 30 
+31 a 43 
+44 a 56 
+Mais de 56 
+ 
+ 
+ 
+Apêndice 3 
+ 
+Sexo 
+49% 
+51% 
+Feminino 
+Masculino 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 89 ---
+ 
+ 
+89 
+ 
+Apêndice 4 
+ 
+Estado Civil 
+67% 
+28% 
+5% 
+Solteiro 
+Casado 
+Divorciado 
+ 
+ 
+ 
+Apêndice 5 
+ 
+ 
+Nível de Instrução 
+2% 
+5% 
+77% 
+9% 7% 
+2°  Grau 
+Incompleto 
+2° Compelto 
+Completo 
+Superior 
+Incompleto 
+Superior Completo 
+Pós-graduaçao ou 
+Superior 
+ 
+ 
+ 
+--- PAGE 90 ---
+ 
+ 
+90 
+ 
+Apêndice 6 
+ 
+Ocupação 
+47% 
+5% 
+9% 
+2% 
+5% 
+9% 
+23% 
+Estudante 
+Profissional liberal 
+Empresário 
+Funcionário 
+Público 
+Industriário 
+Educador 
+Outros 
+ 
+ 
+ 
+Apêndice 7 
+ 
+Renda em R$ 
+7% 
+33% 
+34% 
+2% 
+12% 12% 
+380,01 a 760,00 
+760,01 a 1.520,00 
+1520,01 a 
+3.040,00 
+12.160,01 a 
+24.320,00 
+3.040,01 a 
+6.080,00 
+Outros 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 91 ---
+ 
+ 
+91 
+ 
+Apêndice 8 
+ 
+Hábito de alimentar-se fora de casa 
+84% 
+16% 
+Sim 
+Não 
+ 
+ 
+ 
+Apêndice 9  
+ 
+Procuram restaurantes de rua ou de 
+shopping 
+28% 
+72% 
+Shopping 
+Rua 
+ 
+ 
+ 
+ 
+--- PAGE 92 ---
+ 
+ 
+92 
+ 
+Apêndice 10 
+ 
+ 
+Quantas vezes ao mês 
+37% 
+39% 
+12% 
+12% 
+Sempre 
+Aos fins de 
+semana 
+A cada 15 dias 
+Raramente 
+ 
+ 
+ 
+ 
+Apêndice 11 
+ 
+ 
+Que tipo de alimento normalmente 
+procuram 
+37% 
+28% 
+7% 
+7% 
+21% Fast-food 
+Comida a kilo 
+Comida natural 
+Comida italiana 
+Outros 
+ 
+ 
+ 
+--- PAGE 93 ---
+ 
+ 
+93 
+ 
+Apêndice 12 
+ 
+Necessidade de um restaurante com 
+comidas mais leves e saudáveis 
+58% 
+42% 
+Sim 
+Não 
+ 
+ 
+ 
+ 
+Apêndice 13 
+ 
+Importância na decisão ou escolha de 
+um restaurante: facilidade de acesso 
+51% 47% 
+2% 
+Muito importante 
+Importante 
+Pouco importante 
+ 
+ 
+ 
+--- PAGE 94 ---
+ 
+ 
+94 
+ 
+Apêndice 14 
+ 
+Importância na decisão ou escolha de 
+um restaurante: espaço de 
+estacionamento 
+41% 
+34% 
+14% 
+9% 2% Muito importante 
+Importante 
+Pouco importante 
+Não é importante 
+Não opina 
+ 
+ 
+ 
+ 
+Apêndice 15 
+ 
+Importância na decisão ou escolha de 
+um restaurante: horário de 
+atendimento 
+52% 41% 
+7% 
+Muito importante 
+Importante 
+Pouco importante 
+ 
+ 
+ 
+ 
+--- PAGE 95 ---
+ 
+ 
+95 
+ 
+Apêndice 16  
+ 
+Importância na decisão ou escolha de 
+um restaurante: qualidade dos 
+produtos 
+91% 
+9% 
+Muito importante 
+Importante 
+ 
+ 
+ 
+ 
+Apêndice 17 
+ 
+ 
+Importância na decisão ou escolha de 
+um restaurante: formas de 
+crédito/pagamento 
+37% 
+42% 
+14% 7% Muito importante 
+Importante 
+Pouco importante 
+Não é importante 
+ 
+ 
+ 
+--- PAGE 96 ---
+ 
+ 
+96 
+ 
+Apêndice 18  
+ 
+ 
+Importância na decisão ou escolha de 
+um restaurante: tempo de espera até 
+ser atendido 
+67% 
+28% 
+5% 
+Muito importante 
+Importante 
+Pouco importante 
+ 
+ 
+ 
+ 
+Apêndice 19  
+  
+Importância na decisão ou escolha de 
+um restaurante:agilidade durante o 
+atendimento 
+68% 
+30% 
+2% 
+Muito importante 
+Importante 
+Pouco importante 
+ 
+ 
+ 
+ 
+--- PAGE 97 ---
+ 
+ 
+97 
+ 
+Apêndice 20 
+ 
+ 
+Importância na decisão ou escolha de 
+um restaurante: comprometimento do 
+atendente em atende-lo bem 
+88% 
+12% 
+Muito importante 
+Importante 
+ 
+ 
+ 
+ 
+Apêndice 21  
+ 
+ 
+Satisfação com os concorrentes: 
+facilidade ao acesso 
+7% 
+71% 
+17% 5% Muito satisfeito 
+Satisfeito 
+Pouco satisfeito 
+Insatifeito 
+ 
+ 
+ 
+--- PAGE 98 ---
+ 
+ 
+98 
+ 
+Apêndice 22 
+ 
+ 
+Satisfação com os concorrentes: 
+espaço de estacionamento 
+12% 
+42% 28% 
+9% 9% Muito satisfeito 
+Satisfeito 
+Pouco satisfeito 
+Insatifeito 
+Não opina 
+ 
+ 
+ 
+Apêndice 23 
+ 
+ 
+Satisfação com os concorrentes: 
+horário de atendimento 
+28% 
+56% 
+16% 
+Muito satisfeito 
+Satisfeito 
+Pouco satisfeito 
+ 
+ 
+ 
+ 
+--- PAGE 99 ---
+ 
+ 
+99 
+ 
+Apêndice 24  
+ 
+ 
+Satisfação com os concorrentes: 
+qualidade dos produtos 
+33% 
+55% 
+12% 
+Muito satisfeito 
+Satisfeito 
+Pouco satisfeito 
+ 
+ 
+ 
+ 
+Apêndice 25 
+ 
+ 
+Satisfação com os concorrentes: 
+formas de crédito/ pagamento 
+26% 
+51% 
+21% 2% Muito satisfeito 
+Satisfeito 
+Pouco satisfeito 
+Insatifeito 
+ 
+ 
+--- PAGE 100 ---
+ 
+ 
+100 
+ 
+Apêndice 26 
+ 
+ 
+Satisfação com os concorrentes: 
+tempo de espera até ser atendido 
+23% 
+42% 
+33% 
+2% Muito satisfeito 
+Satisfeito 
+Pouco satisfeito 
+Insatifeito 
+ 
+ 
+ 
+ 
+Apêndice 27 
+ 
+ 
+Satisfação com os concorrentes: 
+agilidade durante o atendimento 
+19% 
+40% 
+41% Muito satisfeito 
+Satisfeito 
+Pouco satisfeito 
+ 
+ 
+ 
+--- PAGE 101 ---
+ 
+ 
+101 
+ 
+Apêndice 28 
+ 
+ 
+Satisfação com os concorrentes: 
+comprometimento do atendente em 
+atende-lo bem 
+14% 
+65% 
+19% 2% Muito satisfeito 
+Satisfeito 
+Pouco satisfeito 
+Insatifeito 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 102 ---
+ 
+ 
+102 
+ 
+Apêndice 29 
+ 
+ 
+ 
+ 
+ 
+Planta Baixa do restaurante GOOD LIGHT . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 103 ---
+ 
+ 
+103 
+ 
+Apêndice 30 
+ 
+ 
+ 
+ 
+Vista Frontal do restaurante GOOD LIGHT . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+--- PAGE 104 ---
+ 
+ 
+104 
+ 
+ 
+ 
+ 
+ 
+DECLARAÇÃO 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A Empresa Uni Júnior Orientação Empresarial declara , para devidos fins, que 
+a estagiária ANDREA SOUZA MELLO MEIRELLES aluna do curso de Administração 
+do Centro de Educação de Ciências Sociais Aplicadas  da Universidade do Vale do 
+Itajaí, cumpriu com a carga horária prevista para o  período de 01/04/2007 à 
+31/10/2007, seguiu o cronograma de trabalho estipul ado no Projeto de Estágio e 
+respeitou nossas normas internas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Itajaí, 10 de novembro de 2007. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+___________________________________ 
+                        Professor Ciro Renato Rebelo M.Sc.  
+ 
+ 
+ 
+--- PAGE 105 ---
+ 
+ 
+105 
+ 
+ASSINATURA DOS RESPONSÁVEIS 
+ 
+ 
+ 
+ 
+ 
+Andrea Souza Mello Meirelles 
+Estagiária 
+ 
+ 
+ 
+ 
+Círo Renato Rebelo 
+Supervisor de Campo 
+ 
+ 
+ 
+ 
+Profª. Antônia Egídia de Souza 
+Orientadora de estágio 
+ 
+ 
+ 
+ 
+Prof. Eduardo Krieger da Silva  
+Responsável pelos Estágios em Administração 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
