@@ -699,13 +699,17 @@ def generate_spanish_thesis(output_path):
     doc.add_heading("3.6 Promoción, Comunicación y Presencia Digital Local", level=2)
     add_p(doc, "La captación de nuevos clientes se basa en tácticas de marketing geolocalizado de alta efectividad: (a) Optimización continua de la ficha de Google Business Profile para búsquedas como 'pollo asado Umbará' o 'parrillada de domingo Curitiba'; (b) Cuenta activa de Instagram mostrando el proceso de marinado y cocción los viernes y vísperas de feriados; (c) Degustaciones y folletos promocionales en condominios residenciales y comercios aliados de la zona.")
 
-    doc.add_heading("3.7 Sistema CRM Sofia: Estrategia Transversal y Retención", level=2)
-    add_p(doc, "El CRM Sofia representa la columna vertebral de inteligencia comercial del negocio. Sus funciones operativas comprenden:")
+    doc.add_heading("3.7 Sistema CRM Sofia: Estrategia Transversal, Retención y Ventaja Competitiva", level=2)
+    add_p(doc, "El CRM Sofia constituye la columna vertebral tecnológica y de marketing del negocio, diferenciando a Casa de Assados Sofia de cualquier competidor tradicional del sector. Se trata de una solución propietaria desarrollada íntegramente por el propio autor y administrador del emprendimiento (Wilkin Barban Rosabal), integrando las competencias interdisciplinarias de la Carrera Técnica en Administración e Informática del Colégio Excelência.")
+    add_p(doc, "La plataforma opera bajo el dominio dinámico gratuito y seguro https://casadeasados.duckdns.org/, con certificado digital SSL/TLS Let's Encrypt para cifrado de extremo a extremo. Construido sobre una arquitectura moderna y 100% respaldada en herramientas de software libre (Linux Ubuntu Server, base de datos relacional PostgreSQL e interfaces web responsivas en HTML5/CSS3/JavaScript), el sistema posee costo de desarrollo nulo y costo de mantenimiento hiper-reducido, siendo el hospedaje del Servidor Virtual Privado (VPS) en la nube (R$ 50,00/mes) el único gasto recurrente de la infraestructura digital.")
+    add_p(doc, "Mientras que las plataformas comerciales de SaaS gastronómico cobran mensualidades de entre R$ 300,00 y R$ 800,00 más comisiones sobre pedidos (1% a 3%), y los marketplaces convencionales (como iFood) retienen comisiones abusivas del 20% al 27% sobre la facturación bruta, el CRM Sofia garantiza la soberanía total de los datos de clientes, independencia de intermediarios y un ahorro directo superior a R$ 4.000,00 anuales en software, cumpliendo las siguientes funciones operativas:")
     add_bullets(doc, [
-        "Campañas de Preventa Automatizadas los Viernes y Vísperas de Feriados: Envío de mensajes personalizados a clientes registrados con el menú y enlace de reserva directa.",
-        "Segmentación RFM (Recencia, Frecuencia y Monto): Clasificación de clientes VIP (compra semanal), regulares (quincenales) y en riesgo de abandono (sin compras por más de 35 días).",
-        "Reactivación Oportuna: Notificaciones con incentivos especiales para clientes inactivos, recuperando pedidos recurrentes sin deteriorar el margen.",
-        "Gobierno de Datos y Privacidad (LGPD): Módulo formal de consentimiento y baja automática ('Escriba SALIR para cancelar mensajes'), base de datos cifrada y apego a la legislación de protección de datos."
+        "Campañas de Preventa Automatizadas los Viernes y Vísperas de Feriados: Mensajes personalizados por canal propio con menú interactivo y enlace directo a https://casadeasados.duckdns.org/ para reservar combos y franjas horarias.",
+        "Nivelación de Capacidad en Franjas de 15 Minutos: Algoritmo de agendamiento que limita a 6 pedidos por intervalo, eliminando filas en mostrador y garantizando entregas puntuales con comida caliente.",
+        "Mitigación Drástica del Desperdicio de Carnes (< 3%): El volumen de compras de insumos perecederos en CEASA los viernes se calibra con exactitud según los pedidos pre-reservados.",
+        "Segmentación RFM (Recencia, Frecuencia y Monto): Clasificación automatizada de clientes VIP (compra semanal), regulares (quincenales) y en riesgo de abandono (inactivos por más de 35 días).",
+        "Campañas de Reactivación y Posventa Inteligente: Envío de microencuestas de satisfacción (NPS) 3 horas tras el almuerzo e incentivos de retorno para clientes inactivos.",
+        "Conformidad Integral con la LGPD (Ley nº 13.709/2018): Gestión formal de consentimiento (opt-in), canal expreso de baja (opt-out automático), base de datos con campos sensibles cifrados y estricta gobernanza de privacidad."
     ])
 
     doc.add_heading("3.8 Recorrido del Cliente, Embudo de Conversión e Indicadores", level=2)
@@ -765,8 +769,15 @@ def generate_spanish_thesis(output_path):
     doc.add_heading("4.6 Requisitos Sanitarios y Licenciamiento Municipal", level=2)
     add_p(doc, "La apertura formal cumplirá los trámites legales de Curitiba: (a) Consulta Previa de Viabilidad de Domicilio aprobada en la Secretaría Municipal de Urbanismo; (b) Inscripción Municipal y Licencia de Actividad; (c) Licencia Sanitaria otorgada por la Vigilancia Sanitaria Municipal; (d) Certificado de Aprobación del Cuerpo de Bomberos de Paraná (CLCB); (e) Manual de Buenas Prácticas y Procedimientos Operativos Estandarizados (POEs) disponibles en el local.")
 
-    doc.add_heading("4.7 Arquitectura Tecnológica del CRM Sofia", level=2)
-    add_p(doc, "El entorno tecnológico del CRM Sofia fue concebido para garantizar alta disponibilidad y seguridad a costos reducidos: (a) Servidor Virtual Privado (VPS) en la nube con copias de respaldo cifradas diarias; (b) Base de datos relacional (PostgreSQL) con tablas estructuradas para clientes, compras y consentimientos; (c) Pantalla KDS (Kitchen Display System) para visualización clara de comandas en cocina; (d) Integración con mensajería digital bajo estándares de auditoría y privacidad.")
+    doc.add_heading("4.7 Arquitectura Tecnológica del CRM Sofia e Infraestructura de Bajo Costo", level=2)
+    add_p(doc, "La arquitectura tecnológica del CRM Sofia fue íntegramente diseñada e implementada bajo el paradigma de microservicios ligeros y tecnologías de código abierto (Open Source), garantizando máximo rendimiento con un costo operativo marginal:")
+    add_bullets(doc, [
+        "Dominio Dinámico y Certificado SSL Gratuito: El sistema es accesible públicamente a través de la URL https://casadeasados.duckdns.org/, empleando el servicio de DNS dinámico gratuito (DuckDNS) con certificado TLS/SSL Let's Encrypt para tráfico 100% cifrado (HTTPS).",
+        "Infraestructura en la Nube de Costo Fijo Mínimo: Hospedado en un Servidor Virtual Privado (VPS) basado en Linux Ubuntu Server LTS, cuyo costo mensual de solo R$ 50,00 representa la totalidad de los gastos de TI del negocio.",
+        "Stack de Software Libre (Cero Costo de Licencias): Backend desarrollado en Python/FastAPI de alta concurrencia, base de datos relacional PostgreSQL para integridad transaccional (ACID) y frontend responsivo en HTML5, CSS3 y JavaScript puro sin dependencia de librerías propietarias.",
+        "Panel KDS Operativo para Cocina: Interfaz en tiempo real que organiza las comandas de preparación por orden cronológico y franjas de retiro de 15 minutos, mostrando contadores regresivos para los asadores.",
+        "Mecanismo de Respaldo y Seguridad Criptográfica: Rutina diaria automatizada de volcado de la base de datos con cifrado AES-256 y sincronización segura con almacenamiento remoto, garantizando un RPO (Recovery Point Objective) menor a 24 horas y RTO (Recovery Time Objective) de 15 minutos."
+    ])
 
     doc.add_heading("4.8 Gestión de Inventarios (PEPS) y Sostenibilidad", level=2)
     add_p(doc, "El inventario se controla mediante el criterio PEPS (Primero en Entrar, Primero en Salir). Gracias a la preventa, el volumen de compras de carne del viernes cubre con exactitud el 90% de los pedidos reservados, reduciendo las mermas a menos del 3%. Asimismo, el aceite vegetal utilizado se almacena en bidones sellados y se entrega a una recicladora autorizada para producir biodiésel, y las cenizas de carbón se destinan a abono vegetal.")

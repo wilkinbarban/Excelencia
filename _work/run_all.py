@@ -16,6 +16,7 @@ def run_script(script_name):
 
 run_script("build_pt.py")
 run_script("build_es.py")
+run_script("generate_presentations.py")
 
 def verify_docx(filename):
     doc_path = ROOT / filename
@@ -32,5 +33,12 @@ def verify_docx(filename):
                 words += sum(len(p.text.split()) for p in cell.paragraphs)
     print(f"Total Approximate Words (including tables): {words:,}")
 
+def verify_pptx(filename):
+    ppt_path = ROOT / filename
+    print(f"\n================ Verification for {filename} ================")
+    print(f"File exists: {ppt_path.exists()} ({ppt_path.stat().st_size:,} bytes)")
+
 verify_docx("Borrador_Casa_de_Assados_Sofia_Portugues.docx")
 verify_docx("Borrador_Casa_de_Assados_Sofia_Espanol.docx")
+verify_pptx("Apresentacao_Casa_de_Assados_Sofia_Portugues.pptx")
+verify_pptx("Presentacion_Casa_de_Assados_Sofia_Espanol.pptx")

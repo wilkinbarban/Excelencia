@@ -21,6 +21,8 @@ O diferencial do negócio consiste na integração de cortes tradicionais artesa
 ```text
 ├── Borrador_Casa_de_Assados_Sofia_Portugues.docx  # Dissertação completa em Português (ABNT)
 ├── Borrador_Casa_de_Assados_Sofia_Espanol.docx    # Disertación completa en Español (Normas ABNT)
+├── Apresentacao_Casa_de_Assados_Sofia_Portugues.pptx # Apresentação de slides em Português (18 slides)
+├── Presentacion_Casa_de_Assados_Sofia_Espanol.pptx   # Presentación de diapositivas en Español (18 slides)
 ├── README.md                                      # Documentação principal do repositório
 ├── .gitignore                                     # Arquivos e extensões ignorados pelo Git
 │
@@ -37,6 +39,7 @@ O diferencial do negócio consiste na integração de cortes tradicionais artesa
 └── _work/                                         # Scripts de compilação e ativos gráficos
     ├── build_pt.py                                # Gerador do documento em Português
     ├── build_es.py                                # Gerador do documento em Espanhol
+    ├── generate_presentations.py                  # Gerador das apresentações em PowerPoint (.pptx)
     ├── generate_charts.py                         # Gerador dos gráficos financeiros (Matplotlib)
     ├── run_all.py                                 # Script de execução e verificação integrada
     ├── anexo_casa_assados_sofia.png               # Conceito 3D de fachada e estação CRM
