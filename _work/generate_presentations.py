@@ -8,24 +8,25 @@ from pptx.enum.shapes import MSO_SHAPE
 
 ROOT = Path(r"c:\Users\wilki\OneDrive\Documentos\Trabajo de Curso")
 CHART_DIR = ROOT / "_work" / "charts"
-IMG_ANEXO = ROOT / "_work" / "anexo_casa_assados_sofia.png"
-IMG_PLANTA_PT = CHART_DIR / "planta_baixa_sofia.png"
-IMG_PLANTA_ES = CHART_DIR / "planta_baixa_sofia_es.png"
-IMG_BRAND = CHART_DIR / "brand_mockup_sofia.jpg"
-IMG_MENU_PRINT = CHART_DIR / "cardapio_impresso_sofia.jpg"
-IMG_MENU_WA = CHART_DIR / "cardapio_whatsapp_sofia.jpg"
+IMG_REF_DIR = ROOT / "Casa_de_Assados_Sofia_15_Imagens_Referencia_PR_HR_v2"
 
-IMG_EQUIP1 = CHART_DIR / "equip1_asadora_gas.jpg"
-IMG_EQUIP2 = CHART_DIR / "equip2_churrasqueira_carvao.jpg"
-IMG_EQUIP3 = CHART_DIR / "equip3_coifa_industrial.jpg"
-IMG_EQUIP4 = CHART_DIR / "equip4_freezer_horizontal.jpg"
-IMG_EQUIP5 = CHART_DIR / "equip5_refrigerador_inox.jpg"
-IMG_EQUIP6 = CHART_DIR / "equip6_bancada_balanca.jpg"
-
-IMG_COMBO1 = CHART_DIR / "combo1_classico_sofia.jpg"
-IMG_COMBO2 = CHART_DIR / "combo2_costela_sofia.jpg"
-IMG_COMBO3 = CHART_DIR / "combo3_dueto_sofia.jpg"
-IMG_COMBO4 = CHART_DIR / "combo4_familia_sofia.jpg"
+# 15 Imagens do PR
+IMG_FIG02 = IMG_REF_DIR / "Figura_02_Fachada_Sinalizacao_Embalagens.png"
+IMG_FIG03 = IMG_REF_DIR / "Figura_03_Cardapio_Balcao.png"
+IMG_FIG04 = IMG_REF_DIR / "Figura_04_CRM_Sofia_Mobile_WhatsApp.png"
+IMG_FIG09 = IMG_REF_DIR / "Figura_09_Assadoras_Giratorias_GLP.png"
+IMG_FIG10 = IMG_REF_DIR / "Figura_10_Churrasqueira_Costela_Bafo.png"
+IMG_FIG11 = IMG_REF_DIR / "Figura_11_Coifa_Industrial_AISI304.png"
+IMG_FIG12 = IMG_REF_DIR / "Figura_12_Freezer_Horizontal_510L.png"
+IMG_FIG13 = IMG_REF_DIR / "Figura_13_Refrigerador_Vertical_4_Portas.png"
+IMG_FIG14 = IMG_REF_DIR / "Figura_14_Mesa_Inox_Balanca.png"
+IMG_FIG15_PT = CHART_DIR / "planta_baixa_sofia_pt_hd.png"
+IMG_FIG15_ES = CHART_DIR / "planta_baixa_sofia_es_hd.png"
+IMG_FIG16 = IMG_REF_DIR / "Figura_16_Combo_Classico_Sofia.png"
+IMG_FIG17 = IMG_REF_DIR / "Figura_17_Combo_Costela_Suprema.png"
+IMG_FIG18 = IMG_REF_DIR / "Figura_18_Combo_Dueto_Sofia.png"
+IMG_FIG19 = IMG_REF_DIR / "Figura_19_Kit_Churrasco_Familia.png"
+IMG_FIG20 = IMG_REF_DIR / "Figura_20_Conceito_Final.png"
 
 COLOR_NAVY = RGBColor(0x1F, 0x38, 0x64)      # #1F3864
 COLOR_RED = RGBColor(0xC0, 0x39, 0x2B)       # #C0392B
@@ -45,19 +46,16 @@ def set_slide_background(slide, color=COLOR_WHITE):
     fill.fore_color.rgb = color
 
 def add_header(slide, title_text, category_text="CASA DE ASSADOS SOFIA | TCC"):
-    # Header bar shape
     top_bar = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0), Inches(0), Inches(13.333), Inches(1.1))
     top_bar.fill.solid()
     top_bar.fill.fore_color.rgb = COLOR_NAVY
     top_bar.line.color.rgb = COLOR_NAVY
     
-    # Accent line
     accent = slide.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0), Inches(1.1), Inches(13.333), Inches(0.06))
     accent.fill.solid()
     accent.fill.fore_color.rgb = COLOR_RED
     accent.line.color.rgb = COLOR_RED
 
-    # Title text box
     tb = slide.shapes.add_textbox(Inches(0.6), Inches(0.12), Inches(12.133), Inches(0.9))
     tf = tb.text_frame
     tf.word_wrap = True
@@ -99,35 +97,35 @@ def add_footer(slide, current_page=None, total_pages=18, lang="pt"):
     p.font.color.rgb = COLOR_GRAY
     p.font.name = "Arial"
     
-    if current_page is not None:
-        p_num = tf.add_paragraph()
+    if current_page:
+        tb_page = slide.shapes.add_textbox(Inches(11.5), Inches(7.18), Inches(1.2), Inches(0.3))
+        tf_p = tb_page.text_frame
+        p_num = tf_p.paragraphs[0]
         p_num.text = f"{current_page} / {total_pages}"
         p_num.alignment = PP_ALIGN.RIGHT
         p_num.font.size = Pt(9)
         p_num.font.bold = True
         p_num.font.color.rgb = COLOR_NAVY
-        p_num.font.name = "Arial"
 
-def add_card(slide, left, top, width, height, bg_color=COLOR_BG_CARD, border_color=COLOR_BORDER):
-    shape = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(left), Inches(top), Inches(width), Inches(height))
-    shape.fill.solid()
-    shape.fill.fore_color.rgb = bg_color
-    shape.line.color.rgb = border_color
-    shape.line.width = Pt(1)
-    return shape
+def add_card(slide, left_in, top_in, width_in, height_in, bg_color=COLOR_BG_CARD, border_color=COLOR_BORDER):
+    card = slide.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE, Inches(left_in), Inches(top_in), Inches(width_in), Inches(height_in))
+    card.fill.solid()
+    card.fill.fore_color.rgb = bg_color
+    if border_color:
+        card.line.color.rgb = border_color
+        card.line.width = Pt(1)
+    else:
+        card.line.fill.background()
+    return card
 
-def add_bullet_list(tf, items, font_size=13, text_color=COLOR_DARK, space_after=8):
-    for idx, item in enumerate(items):
-        if idx == 0 and len(tf.paragraphs[0].text) == 0:
-            p = tf.paragraphs[0]
-        else:
-            p = tf.add_paragraph()
-        p.text = item
+def add_bullet_list(text_frame, items, font_size=11, text_color=COLOR_DARK, space_after=6):
+    for i, item in enumerate(items):
+        p = text_frame.add_paragraph() if i > 0 or len(text_frame.paragraphs[0].text) > 0 else text_frame.paragraphs[0]
+        p.text = f"• {item}"
         p.font.size = Pt(font_size)
-        p.font.name = "Arial"
         p.font.color.rgb = text_color
+        p.font.name = "Arial"
         p.space_after = Pt(space_after)
-        p.level = 0
 
 def generate_presentation(lang="pt"):
     prs = Presentation()
@@ -136,64 +134,68 @@ def generate_presentation(lang="pt"):
     blank_layout = prs.slide_layouts[6]
     
     # ----------------------------------------------------
-    # SLIDE 1: CAPA / TITLE
+    # SLIDE 1: CAPA
     # ----------------------------------------------------
     s1 = prs.slides.add_slide(blank_layout)
     set_slide_background(s1, COLOR_NAVY)
     
-    # Background accents
-    acc1 = s1.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0), Inches(0), Inches(0.4), Inches(7.5))
-    acc1.fill.solid()
-    acc1.fill.fore_color.rgb = COLOR_RED
-    acc1.line.color.rgb = COLOR_RED
+    # Top banner
+    card_banner = s1.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0), Inches(0), Inches(13.333), Inches(0.4))
+    card_banner.fill.solid()
+    card_banner.fill.fore_color.rgb = COLOR_RED
+    card_banner.line.fill.background()
     
-    # Text card
-    tb1 = s1.shapes.add_textbox(Inches(1.0), Inches(1.0), Inches(7.5), Inches(5.5))
-    tf1 = tb1.text_frame
+    tb_title = s1.shapes.add_textbox(Inches(1.0), Inches(1.2), Inches(11.333), Inches(4.8))
+    tf1 = tb_title.text_frame
     tf1.word_wrap = True
     
-    p = tf1.paragraphs[0]
-    p.text = "COLÉGIO EXCELÊNCIA — CURITIBA/PR" if lang == "pt" else "COLÉGIO EXCELÊNCIA — CURITIBA/PR"
-    p.font.size = Pt(13)
-    p.font.bold = True
-    p.font.color.rgb = COLOR_GOLD
-    p.font.name = "Arial"
-    p.space_after = Pt(12)
+    p0 = tf1.paragraphs[0]
+    p0.text = "COLÉGIO EXCELÊNCIA" if lang == "pt" else "COLÉGIO EXCELÊNCIA"
+    p0.font.size = Pt(14)
+    p0.font.bold = True
+    p0.font.color.rgb = COLOR_GOLD
+    p0.font.name = "Arial"
+    p0.space_after = Pt(4)
     
-    p = tf1.add_paragraph()
-    p.text = "CASA DE ASSADOS SOFIA"
-    p.font.size = Pt(36)
-    p.font.bold = True
-    p.font.color.rgb = COLOR_WHITE
-    p.font.name = "Arial"
-    p.space_after = Pt(8)
+    p_sub0 = tf1.add_paragraph()
+    p_sub0.text = "CURSO TÉCNICO EM ADMINISTRAÇÃO E INFORMÁTICA" if lang == "pt" else "CARRERA TÉCNICA EN ADMINISTRACIÓN E INFORMÁTICA"
+    p_sub0.font.size = Pt(12)
+    p_sub0.font.color.rgb = COLOR_WHITE
+    p_sub0.font.name = "Arial"
+    p_sub0.space_after = Pt(28)
     
-    p = tf1.add_paragraph()
-    p.text = "Plano de Negócio para Implantação de Microempresa Gastronômica de Fins de Semana Apoiada por CRM Próprio" if lang == "pt" else "Plan de Negocios para la Implantación de una Microempresa Gastronómica de Fin de Semana Apoyada por CRM Propio"
-    p.font.size = Pt(16)
-    p.font.color.rgb = COLOR_LIGHT_BLUE
-    p.font.name = "Arial"
-    p.space_after = Pt(24)
+    p1 = tf1.add_paragraph()
+    p1.text = "CASA DE ASSADOS SOFIA"
+    p1.font.size = Pt(36)
+    p1.font.bold = True
+    p1.font.color.rgb = COLOR_WHITE
+    p1.font.name = "Arial"
+    p1.space_after = Pt(12)
     
-    p = tf1.add_paragraph()
-    if lang == "pt":
-        p.text = "Trabalho de Conclusão de Curso (TCC)\nCurso Técnico em Administração e Informática\n\nAutor: Wilkin Barban Rosabal\nAno Letivo: 2026"
-    else:
-        p.text = "Trabajo de Conclusión de Curso (TCC)\nCarrera Técnica en Administración e Informática\n\nAutor: Wilkin Barban Rosabal\nAño Lectivo: 2026"
-    p.font.size = Pt(13)
-    p.font.color.rgb = COLOR_WHITE
-    p.font.name = "Arial"
+    p2 = tf1.add_paragraph()
+    p2.text = (
+        "Plano de Negócio para Implantação de uma Microempresa de Assados com Gestão por CRM em Curitiba - PR"
+        if lang == "pt" else
+        "Plan de Negocios para la Implantación de una Microempresa de Asados con Gestión por CRM en Curitiba - PR"
+    )
+    p2.font.size = Pt(18)
+    p2.font.color.rgb = COLOR_LIGHT_BLUE
+    p2.font.name = "Arial"
+    p2.space_after = Pt(32)
     
-    # Right Image
-    if IMG_BRAND.exists():
-        s1.shapes.add_picture(str(IMG_BRAND), Inches(8.7), Inches(1.2), Inches(4.0), Inches(5.1))
-
+    p3 = tf1.add_paragraph()
+    p3.text = "Autor: Wilkin Barban Rosabal  |  Curitiba - PR, 2026" if lang == "pt" else "Autor: Wilkin Barban Rosabal  |  Curitiba - PR, 2026"
+    p3.font.size = Pt(13)
+    p3.font.bold = True
+    p3.font.color.rgb = COLOR_GOLD
+    p3.font.name = "Arial"
+    
     # ----------------------------------------------------
     # SLIDE 2: O PROBLEMA & A OPORTUNIDADE
     # ----------------------------------------------------
     s2 = prs.slides.add_slide(blank_layout)
     set_slide_background(s2, COLOR_WHITE)
-    add_header(s2, "O Problema do Setor Tradicional e a Oportunidade de Mercado" if lang == "pt" else "El Problema del Sector Tradicional y la Oportunidad de Mercado")
+    add_header(s2, "Problema de Mercado e Oportunidade Estratégica" if lang == "pt" else "Problema de Mercado y Oportunidad Estratégica")
     add_footer(s2, 2, 18, lang)
     
     # Card 1: Problema
@@ -230,7 +232,7 @@ def generate_presentation(lang="pt"):
     
     sol_items = [
         "Tradição do Churrasco de Domingo: Hábito cultural consolidado nas famílias curitibanas." if lang == "pt" else "Tradición del Asado de Domingo: Hábito cultural arraigado en las familias de Curitiba.",
-        "Pré-Venda Ativa com CRM Sofia: Encomendas antecipadas na sexta-feira via WhatsApp próprio." if lang == "pt" else "Preventa Activa con CRM Sofia: Encargos anticipados los viernes vía WhatsApp propio.",
+        "Pré-Venda Ativa com CRM Casa de Assados Sofia: Encomendas antecipadas na sexta-feira via WhatsApp próprio." if lang == "pt" else "Preventa Activa con CRM Casa de Assados Sofia: Encargos anticipados los viernes vía WhatsApp propio.",
         "Retirada em 90s sem Fila: Janelas de atendimento fracionadas de 15 em 15 minutos." if lang == "pt" else "Retiro en 90s sin Filas: Franjas horarias fraccionadas de 15 en 15 minutos.",
         "Desperdício Reduzido para < 3%: Compras na CEASA calibradas na medida exata da demanda real." if lang == "pt" else "Desperdicio Reducido a < 3%: Compras en CEASA calibradas a la medida exacta de la demanda."
     ]
@@ -244,7 +246,6 @@ def generate_presentation(lang="pt"):
     add_header(s3, "Conceito do Negócio e Proposta de Valor" if lang == "pt" else "Concepto del Negocio y Propuesta de Valor")
     add_footer(s3, 3, 18, lang)
     
-    # Left text
     add_card(s3, 0.8, 1.5, 6.8, 5.3, COLOR_BG_CARD, COLOR_BORDER)
     tb = s3.shapes.add_textbox(Inches(1.1), Inches(1.7), Inches(6.2), Inches(4.8))
     tf = tb.text_frame
@@ -263,7 +264,7 @@ def generate_presentation(lang="pt"):
         ("Formato Operacional: ", "Dark Kitchen / Takeaway com retirada expressa e delivery próprio em raio de 5 km." if lang == "pt" else "Dark Kitchen / Takeaway con retiro exprés y delivery propio en radio de 5 km."),
         ("Dias de Funcionamento: ", "Sábados, Domingos e TODOS os Feriados Nacionais, Estaduais e Municipais." if lang == "pt" else "Sábados, Domingos y TODOS los Feriados Nacionales, Provinciales y Municipales."),
         ("Enquadramento Jurídico: ", "Sociedade Limitada Unipessoal (SLU) no Simples Nacional (Microempresa)." if lang == "pt" else "Sociedad Limitada Unipersonal (SLU) en el Simples Nacional (Microempresa)."),
-        ("Diferencial-Chave: ", "4 combos familiares padronizados + Agendamento inteligente via CRM Sofia." if lang == "pt" else "4 combos familiares estandarizados + Agendamiento inteligente vía CRM Sofia.")
+        ("Diferencial-Chave: ", "4 combos familiares padronizados + Agendamento inteligente via CRM Casa de Assados Sofia." if lang == "pt" else "4 combos familiares estandarizados + Agendamiento inteligente vía CRM Casa de Assados Sofia.")
     ]
     for bold_lead, text in concept_items:
         p = tf.add_paragraph()
@@ -279,18 +280,17 @@ def generate_presentation(lang="pt"):
         p.space_after = Pt(8)
 
     # Right 3D Mockup
-    if IMG_ANEXO.exists():
-        s3.shapes.add_picture(str(IMG_ANEXO), Inches(8.0), Inches(1.5), Inches(4.5), Inches(5.3))
+    if IMG_FIG20.exists():
+        s3.shapes.add_picture(str(IMG_FIG20), Inches(8.0), Inches(1.5), Inches(4.5), Inches(5.3))
 
     # ----------------------------------------------------
-    # SLIDE 4: O CRM SOFIA COMO COLUNA VERTEBRAL (DESTAQUE)
+    # SLIDE 4: O CRM CASA DE ASSADOS SOFIA COMO COLUNA VERTEBRAL
     # ----------------------------------------------------
     s4 = prs.slides.add_slide(blank_layout)
     set_slide_background(s4, COLOR_WHITE)
-    add_header(s4, "CRM Sofia: A Coluna Vertebral Tecnológica do Negócio" if lang == "pt" else "CRM Sofia: La Columna Vertebral Tecnológica del Negocio")
+    add_header(s4, "CRM Casa de Assados Sofia: A Coluna Vertebral Tecnológica do Negócio" if lang == "pt" else "CRM Casa de Assados Sofia: La Columna Vertebral Tecnológica del Negocio")
     add_footer(s4, 4, 18, lang)
     
-    # 3 Column Cards
     # Col 1: Software Próprio & Stack Livre
     add_card(s4, 0.8, 1.5, 3.7, 5.3, COLOR_BG_CARD, COLOR_NAVY)
     tb = s4.shapes.add_textbox(Inches(1.0), Inches(1.7), Inches(3.3), Inches(4.8))
@@ -357,10 +357,10 @@ def generate_presentation(lang="pt"):
     add_footer(s5, 5, 18, lang)
     
     combos_info = [
-        ("Combo 1: O Clássico" if lang == "pt" else "Combo 1: El Clásico", "R$ 69,90", "CMV: R$ 26,50 (62,1%)", IMG_COMBO1, "1 Frango recheado inteiro assado + maionese caseira 300g + farofa crocante 250g. (3-4 pessoas)" if lang == "pt" else "1 Pollo relleno entero asado + mayonesa casera 300g + farofa crocante 250g. (3-4 personas)"),
-        ("Combo 2: Costela Suprema" if lang == "pt" else "Combo 2: Costilla Suprema", "R$ 119,90", "CMV: R$ 48,00 (60,0%)", IMG_COMBO2, "1,0kg de Costela bovina premium ao bafo (6h) + mandioca na manteiga + vinagrete e farofa. (4 pessoas)" if lang == "pt" else "1,0kg Costilla vacuna al vapor (6h) + mandioca a la manteca + vinagreta y farofa. (4 personas)"),
-        ("Combo 3: Dueto Sofia" if lang == "pt" else "Combo 3: Dueto Sofia", "R$ 94,90", "CMV: R$ 36,00 (62,1%)", IMG_COMBO3, "Meio frango dourado + 500g costelinha suína marinada + batatas rústicas e farofa. (3-4 pessoas)" if lang == "pt" else "Medio pollo dorado + 500g costilla de cerdo marinada + patatas rústicas y farofa. (3-4 personas)"),
-        ("Combo 4: Kit Família" if lang == "pt" else "Combo 4: Kit Familia", "R$ 169,90", "CMV: R$ 68,00 (60,0%)", IMG_COMBO4, "1 Frango inteiro + 700g costela + 4 linguiças artesanais + 4 pães de alho + maionese e farofa grande. (5-6 pessoas)" if lang == "pt" else "1 Pollo entero + 700g costilla + 4 chorizos parrilleros + 4 panes de ajo + mayonesa y farofa grande. (5-6 personas)")
+        ("Combo 1: O Clássico" if lang == "pt" else "Combo 1: El Clásico", "R$ 69,90", "CMV: R$ 26,50 (62,1%)", IMG_FIG16, "1 Frango recheado inteiro assado + maionese caseira 300g + farofa crocante 250g. (3-4 pessoas)" if lang == "pt" else "1 Pollo relleno entero asado + mayonesa casera 300g + farofa crocante 250g. (3-4 personas)"),
+        ("Combo 2: Costela Suprema" if lang == "pt" else "Combo 2: Costilla Suprema", "R$ 119,90", "CMV: R$ 48,00 (60,0%)", IMG_FIG17, "1,0kg de Costela bovina premium ao bafo (6h) + mandioca na manteiga + vinagrete e farofa. (4 pessoas)" if lang == "pt" else "1,0kg Costilla vacuna al vapor (6h) + mandioca a la manteca + vinagreta y farofa. (4 personas)"),
+        ("Combo 3: Dueto Sofia" if lang == "pt" else "Combo 3: Dueto Sofia", "R$ 94,90", "CMV: R$ 36,00 (62,1%)", IMG_FIG18, "Meio frango dourado + 500g costelinha suína marinada + batatas rústicas e farofa. (3-4 pessoas)" if lang == "pt" else "Medio pollo dorado + 500g costilla de cerdo marinada + patatas rústicas y farofa. (3-4 personas)"),
+        ("Combo 4: Kit Família" if lang == "pt" else "Combo 4: Kit Familia", "R$ 169,90", "CMV: R$ 68,00 (60,0%)", IMG_FIG19, "1 Frango inteiro + 700g costela + 4 linguiças artesanais + 4 pães de alho + maionese e farofa grande. (5-6 pessoas)" if lang == "pt" else "1 Pollo entero + 700g costilla + 4 chorizos parrilleros + 4 panes de ajo + mayonesa y farofa grande. (5-6 personas)")
     ]
     
     for i, (title, price, cmv_str, img_p, desc) in enumerate(combos_info):
@@ -427,8 +427,8 @@ def generate_presentation(lang="pt"):
     ]
     add_bullet_list(tf, brand_bullets, font_size=11.5, space_after=8)
     
-    if IMG_BRAND.exists():
-        s6.shapes.add_picture(str(IMG_BRAND), Inches(7.2), Inches(1.5), Inches(5.3), Inches(5.3))
+    if IMG_FIG02.exists():
+        s6.shapes.add_picture(str(IMG_FIG02), Inches(7.2), Inches(1.5), Inches(5.3), Inches(5.3))
 
     # ----------------------------------------------------
     # SLIDE 7: CARDÁPIOS ESTRATÉGICOS (IMPRESSO E WHATSAPP)
@@ -447,8 +447,8 @@ def generate_presentation(lang="pt"):
     p.font.size = Pt(14)
     p.font.bold = True
     p.font.color.rgb = COLOR_NAVY
-    if IMG_MENU_PRINT.exists():
-        s7.shapes.add_picture(str(IMG_MENU_PRINT), Inches(1.1), Inches(2.25), Inches(5.0), Inches(4.3))
+    if IMG_FIG03.exists():
+        s7.shapes.add_picture(str(IMG_FIG03), Inches(1.1), Inches(2.25), Inches(5.0), Inches(4.3))
         
     # Right Card: WhatsApp
     add_card(s7, 6.9, 1.5, 5.6, 5.3, COLOR_BG_CARD, COLOR_BORDER)
@@ -459,8 +459,8 @@ def generate_presentation(lang="pt"):
     p.font.size = Pt(14)
     p.font.bold = True
     p.font.color.rgb = COLOR_NAVY
-    if IMG_MENU_WA.exists():
-        s7.shapes.add_picture(str(IMG_MENU_WA), Inches(7.2), Inches(2.25), Inches(5.0), Inches(4.3))
+    if IMG_FIG04.exists():
+        s7.shapes.add_picture(str(IMG_FIG04), Inches(7.2), Inches(2.25), Inches(5.0), Inches(4.3))
 
     # ----------------------------------------------------
     # SLIDE 8: ANÁLISE DE MERCADO & PÚBLICO-ALVO
@@ -470,7 +470,6 @@ def generate_presentation(lang="pt"):
     add_header(s8, "Análise de Mercado e Microrregião de Curitiba (Umbará)" if lang == "pt" else "Análisis de Mercado y Microrregión de Curitiba (Umbará)")
     add_footer(s8, 8, 18, lang)
     
-    # 3 Stat Cards on Top
     stats = [
         ("1.830.795", "Habitantes em Curitiba\n(IBGE 2024/2025)" if lang == "pt" else "Habitantes en Curitiba\n(IBGE 2024/2025)", COLOR_NAVY),
         ("R$ 120,06 Bi", "PIB Municipal de Curitiba\n(1ª da Região Sul / 6ª do Brasil)" if lang == "pt" else "PIB Municipal de Curitiba\n(1ª Región Sur / 6ª de Brasil)", COLOR_RED),
@@ -493,7 +492,6 @@ def generate_presentation(lang="pt"):
         p.font.color.rgb = COLOR_DARK
         p.alignment = PP_ALIGN.CENTER
 
-    # Bottom Content
     add_card(s8, 0.8, 3.05, 5.8, 3.8, COLOR_BG_CARD, COLOR_BORDER)
     tb = s8.shapes.add_textbox(Inches(1.0), Inches(3.2), Inches(5.4), Inches(3.4))
     tf = tb.text_frame
@@ -511,7 +509,6 @@ def generate_presentation(lang="pt"):
     ]
     add_bullet_list(tf, mkt_bullets, font_size=11, space_after=6)
 
-    # Right Chart / Mix
     add_card(s8, 6.9, 3.05, 5.6, 3.8, COLOR_WHITE, COLOR_BORDER)
     mix_chart = CHART_DIR / ("mix_pt.png" if lang == "pt" else "mix_es.png")
     if mix_chart.exists():
@@ -525,7 +522,6 @@ def generate_presentation(lang="pt"):
     add_header(s9, "Planta Baixa Técnica e Fluxo Sanitário Unidirecional (RDC 216)" if lang == "pt" else "Plano Arquitectónico y Flujo Sanitario Unidireccional (RDC 216)")
     add_footer(s9, 9, 18, lang)
     
-    # Left Details
     add_card(s9, 0.8, 1.5, 4.8, 5.3, COLOR_BG_CARD, COLOR_BORDER)
     tb = s9.shapes.add_textbox(Inches(1.0), Inches(1.7), Inches(4.4), Inches(4.8))
     tf = tb.text_frame
@@ -545,8 +541,7 @@ def generate_presentation(lang="pt"):
     ]
     add_bullet_list(tf, layout_bullets, font_size=11, space_after=8)
     
-    # Right Image
-    planta_img = IMG_PLANTA_PT if lang == "pt" else IMG_PLANTA_ES
+    planta_img = IMG_FIG15_PT if lang == "pt" else IMG_FIG15_ES
     if planta_img.exists():
         s9.shapes.add_picture(str(planta_img), Inches(5.9), Inches(1.5), Inches(6.6), Inches(5.3))
 
@@ -559,12 +554,12 @@ def generate_presentation(lang="pt"):
     add_footer(s10, 10, 18, lang)
     
     equip_items = [
-        ("Asadoras a Gás GLP" if lang == "pt" else "Asadoras a Gas GLP", "2x Queimadores infravermelho" if lang == "pt" else "2x Quemadores infrarrojos", IMG_EQUIP1),
-        ("Churrasqueira Carvão" if lang == "pt" else "Parrilla a Carbón", "Grelha elevatória e bafo 6h" if lang == "pt" else "Grelha elevadora y vapor 6h", IMG_EQUIP2),
-        ("Coifa Industrial Inox" if lang == "pt" else "Campana Industrial Inox", "Exaustão mecânica (VISA)" if lang == "pt" else "Extracción mecánica (VISA)", IMG_EQUIP3),
-        ("Freezer Horizontal 510L" if lang == "pt" else "Congelador Horizontal 510L", "Dupla ação (-18°C)" if lang == "pt" else "Doble acción (-18°C)", IMG_EQUIP4),
-        ("Refrigerador Inox 4P" if lang == "pt" else "Refrigerador Inox 4P", "Vertical comercial (+2°C)" if lang == "pt" else "Vertical comercial (+2°C)", IMG_EQUIP5),
-        ("Bancada Inox + Balança" if lang == "pt" else "Mesada Inox + Balanza", "AISI 304 e Inmetro digital" if lang == "pt" else "AISI 304 e Inmetro digital", IMG_EQUIP6)
+        ("Asadoras a Gás GLP" if lang == "pt" else "Asadoras a Gas GLP", "2x Queimadores infravermelho" if lang == "pt" else "2x Quemadores infrarrojos", IMG_FIG09),
+        ("Churrasqueira Carvão" if lang == "pt" else "Parrilla a Carbón", "Grelha elevatória e bafo 6h" if lang == "pt" else "Grelha elevadora y vapor 6h", IMG_FIG10),
+        ("Coifa Industrial Inox" if lang == "pt" else "Campana Industrial Inox", "Exaustão mecânica (VISA)" if lang == "pt" else "Extracción mecánica (VISA)", IMG_FIG11),
+        ("Freezer Horizontal 510L" if lang == "pt" else "Congelador Horizontal 510L", "Dupla ação (-18°C)" if lang == "pt" else "Doble acción (-18°C)", IMG_FIG12),
+        ("Refrigerador Inox 4P" if lang == "pt" else "Refrigerador Inox 4P", "Vertical comercial (+2°C)" if lang == "pt" else "Vertical comercial (+2°C)", IMG_FIG13),
+        ("Bancada Inox + Balança" if lang == "pt" else "Mesada Inox + Balanza", "AISI 304 e Inmetro digital" if lang == "pt" else "AISI 304 e Inmetro digital", IMG_FIG14)
     ]
     
     for i, (title, sub, img_p) in enumerate(equip_items):
@@ -616,7 +611,6 @@ def generate_presentation(lang="pt"):
     ]
     add_bullet_list(tf, rh_bullets, font_size=11.5, space_after=8)
     
-    # Right Table
     add_card(s11, 6.9, 1.5, 5.6, 5.3, COLOR_BG_CARD, COLOR_BORDER)
     tb = s11.shapes.add_textbox(Inches(7.1), Inches(1.7), Inches(5.2), Inches(4.8))
     tf = tb.text_frame
@@ -653,272 +647,338 @@ def generate_presentation(lang="pt"):
     # ----------------------------------------------------
     s12 = prs.slides.add_slide(blank_layout)
     set_slide_background(s12, COLOR_WHITE)
-    add_header(s12, "Investimento Inicial e Estrutura de Financiamento (R$ 38.000,00)" if lang == "pt" else "Inversión Inicial y Estructura de Financiamiento (R$ 38.000,00)")
+    add_header(s12, "Investimento Inicial e Estrutura de Capital (R$ 38.000)" if lang == "pt" else "Inversión Inicial y Estructura de Capital (R$ 38.000)")
     add_footer(s12, 12, 18, lang)
     
-    # 2 Big Cards
-    add_card(s12, 0.8, 1.5, 5.6, 5.3, COLOR_BG_CARD, COLOR_BORDER)
-    tb = s12.shapes.add_textbox(Inches(1.1), Inches(1.7), Inches(5.0), Inches(4.8))
+    add_card(s12, 0.8, 1.5, 3.7, 5.3, COLOR_BG_CARD, COLOR_NAVY)
+    tb = s12.shapes.add_textbox(Inches(1.0), Inches(1.7), Inches(3.3), Inches(4.8))
     tf = tb.text_frame
     tf.word_wrap = True
     p = tf.paragraphs[0]
-    p.text = "📊 Distribuição do Capital" if lang == "pt" else "📊 Distribución del Capital"
+    p.text = "🏗️ Investimento Fixo" if lang == "pt" else "🏗️ Inversión Fija"
     p.font.size = Pt(16)
     p.font.bold = True
     p.font.color.rgb = COLOR_NAVY
-    p.space_after = Pt(12)
-    
-    inv_bullets = [
-        "Investimento Fixo em Ativos: R$ 24.500,00 (64,47%)\n(Asadoras, churrasqueira, coifa industrial, freezer 510L, geladeira 4P inox e bancadas)." if lang == "pt" else "Inversión Fija en Activos: R$ 24.500,00 (64,47%)\n(Asadoras, parrilla, campana industrial, congelador 510L, refrigerador 4P inox y mesadas).",
-        "Capital de Giro e Pré-Operacional: R$ 13.500,00 (35,53%)\n(Fiança locatícia 3 meses, estoque inicial, embalagens, alvarás, marketing e colchão de reserva)." if lang == "pt" else "Capital de Trabajo y Preoperativos: R$ 13.500,00 (35,53%)\n(Fianza de alquiler 3 meses, inventario inicial, envases, licencias, marketing y colchón de reserva).",
-        "TOTAL DO INVESTIMENTO: R$ 38.000,00 (100%)" if lang == "pt" else "TOTAL DE LA INVERSIÓN: R$ 38.000,00 (100%)"
+    p.space_after = Pt(4)
+    p_val = tf.add_paragraph()
+    p_val.text = "R$ 24.500,00"
+    p_val.font.size = Pt(22)
+    p_val.font.bold = True
+    p_val.font.color.rgb = COLOR_RED
+    p_val.space_after = Pt(10)
+    fix_items = [
+        "2x Assadoras giratórias a gás: R$ 4.800" if lang == "pt" else "2x Asadoras a gas GLP: R$ 4.800",
+        "1x Churrasqueira a carvão bafo: R$ 2.200" if lang == "pt" else "1x Parrilla al vapor: R$ 2.200",
+        "1x Sistema de coifa industrial inox: R$ 4.200" if lang == "pt" else "1x Campana industrial inox: R$ 4.200",
+        "1x Freezer horizontal 510L: R$ 3.100" if lang == "pt" else "1x Congelador 510L: R$ 3.100",
+        "1x Refrigerador inox 4 portas: R$ 3.400" if lang == "pt" else "1x Refrigerador inox 4P: R$ 3.400",
+        "2x Mesas inox + balança + utensílios: R$ 6.800" if lang == "pt" else "2x Mesadas inox + balanza: R$ 6.800"
     ]
-    add_bullet_list(tf, inv_bullets, font_size=12, space_after=10)
+    add_bullet_list(tf, fix_items, font_size=10.5, space_after=5)
 
-    # Right Card: Fontes de Financiamento
-    add_card(s12, 6.9, 1.5, 5.6, 5.3, COLOR_LIGHT_BLUE, COLOR_NAVY)
-    tb = s12.shapes.add_textbox(Inches(7.2), Inches(1.7), Inches(5.0), Inches(4.8))
+    add_card(s12, 4.8, 1.5, 3.7, 5.3, COLOR_BG_CARD, COLOR_GOLD)
+    tb = s12.shapes.add_textbox(Inches(5.0), Inches(1.7), Inches(3.3), Inches(4.8))
     tf = tb.text_frame
     tf.word_wrap = True
     p = tf.paragraphs[0]
-    p.text = "🏛️ Origem dos Recursos" if lang == "pt" else "🏛️ Origen de los Recursos"
+    p.text = "🔄 Giro e Pré-Operacional" if lang == "pt" else "🔄 Capital de Trabajo"
+    p.font.size = Pt(16)
+    p.font.bold = True
+    p.font.color.rgb = COLOR_GOLD
+    p.space_after = Pt(4)
+    p_val = tf.add_paragraph()
+    p_val.text = "R$ 13.500,00"
+    p_val.font.size = Pt(22)
+    p_val.font.bold = True
+    p_val.font.color.rgb = COLOR_RED
+    p_val.space_after = Pt(10)
+    giro_items = [
+        "Caução de Aluguel (3m) + 1º Mês: R$ 4.000" if lang == "pt" else "Garantía de Alquiler + 1º Mes: R$ 4.000",
+        "Estoque Inicial de Insumos: R$ 2.500" if lang == "pt" else "Inventario Inicial Insumos: R$ 2.500",
+        "Embalagens Térmicas Seladas: R$ 1.400" if lang == "pt" else "Envases Térmicos (1.000 un): R$ 1.400",
+        "Licenças e Legalização (PMC/VISA): R$ 800" if lang == "pt" else "Licencias y Habilitación: R$ 800",
+        "Fachada em Madeira e 3D: R$ 1.200" if lang == "pt" else "Cartel Fachada y Letrero 3D: R$ 1.200",
+        "Marketing e Reserva de Liquidez: R$ 3.600" if lang == "pt" else "Marketing y Fondo de Reserva: R$ 3.600"
+    ]
+    add_bullet_list(tf, giro_items, font_size=10.5, space_after=5)
+
+    add_card(s12, 8.8, 1.5, 3.7, 5.3, COLOR_LIGHT_BLUE, COLOR_NAVY)
+    tb = s12.shapes.add_textbox(Inches(9.0), Inches(1.7), Inches(3.3), Inches(4.8))
+    tf = tb.text_frame
+    tf.word_wrap = True
+    p = tf.paragraphs[0]
+    p.text = "🏦 Estrutura de Financiamento" if lang == "pt" else "🏦 Estructura de Capital"
     p.font.size = Pt(16)
     p.font.bold = True
     p.font.color.rgb = COLOR_NAVY
-    p.space_after = Pt(12)
-    
-    fin_bullets = [
-        "Capital Próprio do Empreendedor:\nR$ 18.000,00 (47,37% do capital total)." if lang == "pt" else "Capital Propio del Emprendedor:\nR$ 18.000,00 (47,37% del capital total).",
-        "Microcrédito Fomento Paraná:\nR$ 20.000,00 (52,63% do capital total)." if lang == "pt" else "Microcrédito Fomento Paraná:\nR$ 20.000,00 (52,63% del capital total).",
-        "Condições do Empréstimo:\n36 parcelas fixas de R$ 680,00 mensais com juros subsidiados para alimentação." if lang == "pt" else "Condiciones del Préstamo:\n36 cuotas fijas de R$ 680,00 mensuales con tasa subsidiada para microempresas.",
-        "Integração no Custo Fixo:\nParcela de R$ 680,00 totalmente absorvida na operação sem comprometer o caixa." if lang == "pt" else "Integración en Costos Fijos:\nCuota de R$ 680,00 totalmente absorbida en la operación sin comprometer liquidez."
+    p.space_after = Pt(4)
+    p_val = tf.add_paragraph()
+    p_val.text = "R$ 38.000,00"
+    p_val.font.size = Pt(22)
+    p_val.font.bold = True
+    p_val.font.color.rgb = COLOR_NAVY
+    p_val.space_after = Pt(10)
+    fin_items = [
+        "Capital Próprio: R$ 18.000,00 (47,37%) integralizado à vista pelo sócio." if lang == "pt" else "Capital Propio: R$ 18.000,00 (47,37%) integrado al contado por el socio.",
+        "Microcrédito Fomento Paraná: R$ 20.000,00 (52,63%) via Banco do Empreendedor." if lang == "pt" else "Microcrédito Fomento Paraná: R$ 20.000,00 (52,63%) tasa subsidiada.",
+        "Condições de Pagamento: 36 parcelas fixas de R$ 680,00/mês." if lang == "pt" else "Condiciones: 36 cuotas fijas de R$ 680,00/mes.",
+        "Amortização: Totalmente inclusa nos custos fixos operacionais." if lang == "pt" else "Amortización: Totalmente contemplada en costos fijos."
     ]
-    add_bullet_list(tf, fin_bullets, font_size=12, space_after=10)
+    add_bullet_list(tf, fin_items, font_size=10.5, space_after=5)
 
     # ----------------------------------------------------
-    # SLIDE 13: DRE MENSAL (CENÁRIO BASE)
+    # SLIDE 13: DEMONSTRATIVO DE RESULTADOS (DRE MENSAL)
     # ----------------------------------------------------
     s13 = prs.slides.add_slide(blank_layout)
     set_slide_background(s13, COLOR_WHITE)
-    add_header(s13, "Demonstrativo de Resultados Mensal (DRE - Cenário Base)" if lang == "pt" else "Estado de Resultados Mensual (DRE - Escenario Base)")
+    add_header(s13, "Demonstrativo de Resultados do Exercício (DRE Base)" if lang == "pt" else "Estado de Resultados del Ejercicio (DRE Base)")
     add_footer(s13, 13, 18, lang)
     
-    # Left DRE Chart
-    dre_chart = CHART_DIR / ("dre_pt.png" if lang == "pt" else "dre_es.png")
-    if dre_chart.exists():
-        s13.shapes.add_picture(str(dre_chart), Inches(0.8), Inches(1.5), Inches(5.8), Inches(5.3))
-        
-    # Right DRE Breakdown
-    add_card(s13, 6.9, 1.5, 5.6, 5.3, COLOR_BG_CARD, COLOR_BORDER)
-    tb = s13.shapes.add_textbox(Inches(7.1), Inches(1.7), Inches(5.2), Inches(4.8))
+    add_card(s13, 0.8, 1.5, 6.2, 5.3, COLOR_BG_CARD, COLOR_BORDER)
+    tb = s13.shapes.add_textbox(Inches(1.0), Inches(1.7), Inches(5.8), Inches(4.8))
     tf = tb.text_frame
     tf.word_wrap = True
     p = tf.paragraphs[0]
-    p.text = "Estrutura de Resultados (160 Combos/Mês)" if lang == "pt" else "Estructura de Resultados (160 Combos/Mes)"
-    p.font.size = Pt(15)
+    p.text = "DRE Mensal - Cenário Base (160 Combos)" if lang == "pt" else "DRE Mensual - Escenario Base (160 Combos)"
+    p.font.size = Pt(16)
     p.font.bold = True
     p.font.color.rgb = COLOR_NAVY
     p.space_after = Pt(10)
     
-    dre_lines = [
-        ("(=) Receita Bruta Operacional", "R$ 15.809,00", "100,00%"),
-        ("(-) Custos das Mercadorias (CMV)", "R$ 6.140,00", "38,84%"),
-        ("(-) Simples Nacional (4,0%)", "R$ 632,36", "4,00%"),
-        ("(-) Taxas de Cartão/PIX (2,0%)", "R$ 316,18", "2,00%"),
-        ("(=) Margem de Contribuição Total", "R$ 8.720,46", "55,16%"),
-        ("(-) Custos Fixos Operacionais", "R$ 6.870,00", "43,46%"),
-        ("(=) LUCRO LÍQUIDO OPERACIONAL", "R$ 1.850,46", "11,71%")
+    dre_table = [
+        ("(=) Receita Bruta Total (160 combos)", "R$ 15.809,00", "100,0%"),
+        ("(-) Custos das Mercadorias (CMV)", "R$ 6.140,00", "38,8%"),
+        ("(-) Impostos Simples Nacional (4,0%)", "R$ 632,36", "4,0%"),
+        ("(-) Taxas de Meios de Pagamento (2,0%)", "R$ 316,18", "2,0%"),
+        ("(=) Margem de Contribuição Bruta", "R$ 8.720,46", "55,2%"),
+        ("(-) Custos Fixos Operacionais", "R$ 6.870,00", "43,5%"),
+        ("(=) Lucro Operacional Líquido", "R$ 1.850,46", "11,7%")
+    ] if lang == "pt" else [
+        ("(=) Ingresos Brutos Totales (160 combos)", "R$ 15.809,00", "100,0%"),
+        ("(-) Costo de Alimentos (CMV)", "R$ 6.140,00", "38,8%"),
+        ("(-) Impuestos Simples Nacional (4,0%)", "R$ 632,36", "4,0%"),
+        ("(-) Comisiones Medios de Pago (2,0%)", "R$ 316,18", "2,0%"),
+        ("(=) Margen de Contribución Bruto", "R$ 8.720,46", "55,2%"),
+        ("(-) Costos Fijos Operativos", "R$ 6.870,00", "43,5%"),
+        ("(=) Utilidad Operativa Neta", "R$ 1.850,46", "11,7%")
     ]
-    for lbl, val, pct in dre_lines:
+    
+    for label, val, pct in dre_table:
         p = tf.add_paragraph()
-        is_total = "LUCRO" in lbl or "Receita" in lbl or "Margem" in lbl
         r1 = p.add_run()
-        r1.text = f"{lbl}: "
-        r1.font.bold = is_total
-        r1.font.size = Pt(11)
-        r1.font.color.rgb = COLOR_NAVY if is_total else COLOR_DARK
+        r1.text = f"{label:42s}"
+        r1.font.size = Pt(10.5)
+        if "(=)" in label or "Lucro" in label or "Utilidad" in label:
+            r1.font.bold = True
+            r1.font.color.rgb = COLOR_NAVY if "Lucro" not in label and "Utilidad" not in label else COLOR_GREEN
+        else:
+            r1.font.color.rgb = COLOR_DARK
+            
         r2 = p.add_run()
-        r2.text = f"{val} ({pct})"
-        r2.font.bold = is_total
-        r2.font.size = Pt(11)
-        r2.font.color.rgb = COLOR_RED if "CMV" in lbl or "Custos Fixos" in lbl else (COLOR_GREEN if "LUCRO" in lbl else COLOR_NAVY)
+        r2.text = f"{val:>14s}  ({pct:>5s})"
+        r2.font.size = Pt(10.5)
+        r2.font.bold = True
+        r2.font.color.rgb = COLOR_RED if "(-)" in label else (COLOR_GREEN if "Lucro" in label or "Utilidad" in label else COLOR_NAVY)
         p.space_after = Pt(4)
 
+    add_card(s13, 7.3, 1.5, 5.2, 5.3, COLOR_WHITE, COLOR_BORDER)
+    dre_chart = CHART_DIR / ("dre_pt.png" if lang == "pt" else "dre_es.png")
+    if dre_chart.exists():
+        s13.shapes.add_picture(str(dre_chart), Inches(7.45), Inches(1.65), Inches(4.9), Inches(5.0))
+
     # ----------------------------------------------------
-    # SLIDE 14: PONTO DE EQUILÍBRIO & RETORNO (PAYBACK)
+    # SLIDE 14: PONTO DE EQUILÍBRIO & PAYBACK
     # ----------------------------------------------------
     s14 = prs.slides.add_slide(blank_layout)
     set_slide_background(s14, COLOR_WHITE)
-    add_header(s14, "Ponto de Equilíbrio Operacional e Curva de Payback" if lang == "pt" else "Punto de Equilibrio Operativo y Curva de Payback")
+    add_header(s14, "Ponto de Equilíbrio Operacional e Payback" if lang == "pt" else "Punto de Equilibrio Operativo y Retorno de Inversión")
     add_footer(s14, 14, 18, lang)
     
-    # Left Break-even Chart
+    add_card(s14, 0.8, 1.5, 5.6, 5.3, COLOR_WHITE, COLOR_BORDER)
     be_chart = CHART_DIR / ("breakeven_pt.png" if lang == "pt" else "breakeven_es.png")
     if be_chart.exists():
-        s14.shapes.add_picture(str(be_chart), Inches(0.8), Inches(1.5), Inches(5.8), Inches(5.3))
+        s14.shapes.add_picture(str(be_chart), Inches(0.95), Inches(1.65), Inches(5.3), Inches(5.0))
         
-    # Right KPIs Card
-    add_card(s14, 6.9, 1.5, 5.6, 5.3, COLOR_BG_CARD, COLOR_BORDER)
-    tb = s14.shapes.add_textbox(Inches(7.1), Inches(1.7), Inches(5.2), Inches(4.8))
+    add_card(s14, 6.7, 1.5, 5.8, 5.3, COLOR_BG_CARD, COLOR_BORDER)
+    tb = s14.shapes.add_textbox(Inches(6.9), Inches(1.7), Inches(5.4), Inches(4.8))
+    tf = tb.text_frame
+    tf.word_wrap = True
+    
+    p = tf.paragraphs[0]
+    p.text = "Indicadores de Viabilidade e Margem" if lang == "pt" else "Indicadores de Viabilidad y Margen"
+    p.font.size = Pt(16)
+    p.font.bold = True
+    p.font.color.rgb = COLOR_NAVY
+    p.space_after = Pt(12)
+    
+    kpis = [
+        ("Índice Margem Contribuição:", " 55,16%", "Para cada R$ 100 vendidos, R$ 55,16 pagam custos e geram lucro." if lang == "pt" else "Por cada R$ 100 vendidos, R$ 55,16 pagan costos y dan ganancia."),
+        ("Ponto de Equilíbrio (R$):", " R$ 12.454,37 / mês", "Faturamento mínimo mensal necessário para cobrir 100% dos custos." if lang == "pt" else "Facturación mínima mensual requerida para no tener pérdidas."),
+        ("Ponto de Equilíbrio (Qtd):", " 126 combos / mês", "Venda de apenas 32 combos/fim de semana (16 por dia)." if lang == "pt" else "Venta de solo 32 combos/fin de semana (16 por día)."),
+        ("Lucratividade Líquida:", " 11,71% no cenário base", "Margem saudável e protegida contra oscilações de insumos." if lang == "pt" else "Margen neto saludable y protegido frente a inflación."),
+        ("Prazo de Retorno (Payback):", " 11 a 12 meses", "Recuperação integral dos R$ 38.000 investidos no primeiro ano." if lang == "pt" else "Recuperación completa de la inversión en el primer año.")
+    ]
+    for bold_t, val, sub in kpis:
+        p = tf.add_paragraph()
+        r1 = p.add_run()
+        r1.text = bold_t
+        r1.font.bold = True
+        r1.font.size = Pt(11)
+        r1.font.color.rgb = COLOR_NAVY
+        r2 = p.add_run()
+        r2.text = val
+        r2.font.bold = True
+        r2.font.size = Pt(11)
+        r2.font.color.rgb = COLOR_RED
+        p.space_after = Pt(1)
+        p_sub = tf.add_paragraph()
+        p_sub.text = sub
+        p_sub.font.size = Pt(9.5)
+        p_sub.font.color.rgb = COLOR_GRAY
+        p_sub.space_after = Pt(6)
+
+    # ----------------------------------------------------
+    # SLIDE 15: ALAVANCAGEM EM FERIADOS (2026-2028)
+    # ----------------------------------------------------
+    s15 = prs.slides.add_slide(blank_layout)
+    set_slide_background(s15, COLOR_WHITE)
+    add_header(s15, "Alavancagem Financeira em Feriados (Biênio 2026-2028)" if lang == "pt" else "Apalancamiento Financiero en Días Feriados (2026-2028)")
+    add_footer(s15, 15, 18, lang)
+    
+    add_card(s15, 0.8, 1.5, 5.8, 5.3, COLOR_LIGHT_BLUE, COLOR_NAVY)
+    tb = s15.shapes.add_textbox(Inches(1.0), Inches(1.7), Inches(5.4), Inches(4.8))
     tf = tb.text_frame
     tf.word_wrap = True
     p = tf.paragraphs[0]
-    p.text = "🎯 Indicadores de Solidez Financeira" if lang == "pt" else "🎯 Indicadores de Solidez Financiera"
-    p.font.size = Pt(15)
+    p.text = "🎯 Operação Estratégica em Feriados" if lang == "pt" else "🎯 Operación Estratégica en Feriados"
+    p.font.size = Pt(16)
     p.font.bold = True
     p.font.color.rgb = COLOR_NAVY
     p.space_after = Pt(10)
     
-    kpi_items = [
-        "Ponto de Equilíbrio em Reais: R$ 12.454,37/mês (faturamento mínimo para cobrir 100% dos custos)." if lang == "pt" else "Punto de Equilibrio en Reales: R$ 12.454,37/mes (facturación mínima para cubrir costos).",
-        "Ponto de Equilíbrio em Combos: 126 combos/mês (~32 por fim de semana / ~16 por dia)." if lang == "pt" else "Punto de Equilibrio en Unidades: 126 combos/mes (~32 por fin de semana / ~16 por día).",
-        "Margem de Segurança: +21,25% de folga operacional acima do ponto de equilíbrio no cenário base." if lang == "pt" else "Margen de Seguridad: +21,25% de holgura operativa sobre el punto de equilibrio en base.",
-        "Prazo de Retorno (Payback): Recuperação total dos R$ 38.000,00 entre o 11º e o 12º mês." if lang == "pt" else "Plazo de Recuperación (Payback): Retorno integral de los R$ 38.000,00 entre el 11º y 12º mes."
+    fer_bullets = [
+        "Conservadorismo Financeiro: A DRE base considera APENAS fins de semana (160 combos/mês)." if lang == "pt" else "Conservadurismo Contable: La DRE base considera SOLO fines de semana (160 combos/mes).",
+        "Custos Fixos Já Amortizados: Aluguel, contador, internet e VPS já estão 100% pagos pelos fins de semana." if lang == "pt" else "Costos Fijos 100% Amortizados: Alquiler, contador, internet y VPS ya cubiertos por fines de semana.",
+        "Margem Líquida Excedente: Quase 60% da receita de cada feriado vira lucro líquido puro." if lang == "pt" else "Margen Neto Excedente: Casi el 60% del ingreso de feriados se transforma en ganancia líquida.",
+        "Reserva de Liquidez e Expansão: Os lucros extras blindam o caixa e aceleram quitação de empréstimos." if lang == "pt" else "Reserva y Expansión: Los beneficios extras blindan caja y permiten amortización anticipada."
     ]
-    add_bullet_list(tf, kpi_items, font_size=11.5, space_after=8)
-
-    # ----------------------------------------------------
-    # SLIDE 15: ALAVANCAGEM EXTRAORDINÁRIA EM FERIADOS (2026-2028)
-    # ----------------------------------------------------
-    s15 = prs.slides.add_slide(blank_layout)
-    set_slide_background(s15, COLOR_WHITE)
-    add_header(s15, "Alavancagem Operacional dos Feriados Úteis (2026-2028)" if lang == "pt" else "Apalancamiento Operativo de los Feriados Hábiles (2026-2028)")
-    add_footer(s15, 15, 18, lang)
+    add_bullet_list(tf, fer_bullets, font_size=11.5, space_after=8)
     
-    # 3 Stat Cards on Top
-    f_stats = [
-        ("28 Feriados", "Dias úteis de alavancagem\n(Ago/2026 a Dez/2028)" if lang == "pt" else "Días hábiles de operación\n(Ago/2026 a Dic/2028)", COLOR_NAVY),
-        ("+ R$ 61.759,98", "Receita Bruta Extra no Biênio\n(625 combos adicionais)" if lang == "pt" else "Ingresos Brutos Extraordinarios\n(625 combos adicionales)", COLOR_GOLD),
-        ("+ R$ 19.934,90", "Lucro Líquido Extraordinário\n(Colchão livre de liquidez)" if lang == "pt" else "Utilidad Neta Extraordinaria\n(Colchón libre de liquidez)", COLOR_GREEN)
-    ]
-    for i, (val, lbl, col) in enumerate(f_stats):
-        left_pos = 0.8 + i * 4.0
-        add_card(s15, left_pos, 1.45, 3.7, 1.4, COLOR_BG_CARD, COLOR_BORDER)
-        tb = s15.shapes.add_textbox(Inches(left_pos + 0.1), Inches(1.55), Inches(3.5), Inches(1.2))
-        tf = tb.text_frame
-        p = tf.paragraphs[0]
-        p.text = val
-        p.font.size = Pt(22)
-        p.font.bold = True
-        p.font.color.rgb = col
-        p.alignment = PP_ALIGN.CENTER
-        p = tf.add_paragraph()
-        p.text = lbl
-        p.font.size = Pt(10)
-        p.font.color.rgb = COLOR_DARK
-        p.alignment = PP_ALIGN.CENTER
-
-    # Bottom Breakdown
-    add_card(s15, 0.8, 3.05, 11.733, 3.8, COLOR_LIGHT_BLUE, COLOR_NAVY)
-    tb = s15.shapes.add_textbox(Inches(1.1), Inches(3.2), Inches(11.1), Inches(3.4))
+    add_card(s15, 6.9, 1.5, 5.6, 5.3, COLOR_BG_CARD, COLOR_BORDER)
+    tb = s15.shapes.add_textbox(Inches(7.1), Inches(1.7), Inches(5.2), Inches(4.8))
     tf = tb.text_frame
     tf.word_wrap = True
     p = tf.paragraphs[0]
-    p.text = "💡 A Lógica do Apalancamento em Feriados de Segunda a Sexta" if lang == "pt" else "💡 La Lógica del Apalancamiento en Feriados de Lunes a Viernes"
-    p.font.size = Pt(15)
+    p.text = "Projeção Consolidada dos Feriados" if lang == "pt" else "Proyección Consolidada de Feriados"
+    p.font.size = Pt(16)
     p.font.bold = True
-    p.font.color.rgb = COLOR_NAVY
-    p.space_after = Pt(8)
+    p.font.color.rgb = COLOR_RED
+    p.space_after = Pt(12)
     
-    feriado_bullets = [
-        "Custos Fixos 100% Amortizados: Aluguel, contador, internet, software e parcela do empréstimo já estão pagos pelos fins de semana regulares." if lang == "pt" else "Costos Fijos 100% Amortizados: Alquiler, contador, internet, software y cuota del préstamo ya están cubiertos por los fines de semana.",
-        "Economia por Feriado Operado: Cada feriado gera ~R$ 1.976,13 de faturamento com lucro líquido direto de ~R$ 625,06 a R$ 811,32." if lang == "pt" else "Economía por Feriado Operado: Cada feriado genera ~R$ 1.976,13 de facturación con lucro neto directo de ~R$ 625,06 a R$ 811,32.",
-        "Conservadorismo Metodológico: Esses R$ 19,9 mil de lucro NÃO foram inflados na DRE base, funcionando como garantia de caixa e expansão acelerada." if lang == "pt" else "Conservadurismo Metodológico: Estos R$ 19,9 mil de utilidad NO se inflaron en la DRE base, sirviendo como colchón de liquidez y expansión."
+    f_stats = [
+        ("Feriados Úteis Mapeados:", " 28 dias (2026-2028)", "Feriados de 2ª a 6ª feira em Curitiba." if lang == "pt" else "Feriados de lunes a viernes en Curitiba."),
+        ("Volume de Vendas Extra:", " 625 combos", "Média de 20 a 25 combos por feriado." if lang == "pt" else "Promedio de 20 a 25 combos por feriado."),
+        ("Receita Bruta Acumulada:", " + R$ 61.759,98", "Injeção extraordinária de faturamento." if lang == "pt" else "Inyección extraordinaria de ventas."),
+        ("Lucro Líquido Adicional:", " + R$ 19.934,90", "Ganho líquido total transferido para a reserva de liquidez." if lang == "pt" else "Ganancia líquida total para reserva y expansión.")
     ]
-    add_bullet_list(tf, feriado_bullets, font_size=12, space_after=8)
+    for lbl, val, sub in f_stats:
+        p = tf.add_paragraph()
+        r1 = p.add_run()
+        r1.text = lbl
+        r1.font.bold = True
+        r1.font.size = Pt(11)
+        r1.font.color.rgb = COLOR_NAVY
+        r2 = p.add_run()
+        r2.text = val
+        r2.font.bold = True
+        r2.font.size = Pt(11.5)
+        r2.font.color.rgb = COLOR_GREEN
+        p.space_after = Pt(1)
+        p_sub = tf.add_paragraph()
+        p_sub.text = sub
+        p_sub.font.size = Pt(9.5)
+        p_sub.font.color.rgb = COLOR_GRAY
+        p_sub.space_after = Pt(6)
 
     # ----------------------------------------------------
     # SLIDE 16: ANÁLISE DE SENSIBILIDADE & MATRIZ SWOT
     # ----------------------------------------------------
     s16 = prs.slides.add_slide(blank_layout)
     set_slide_background(s16, COLOR_WHITE)
-    add_header(s16, "Análise de Sensibilidade e Matriz SWOT / FODA" if lang == "pt" else "Análisis de Sensibilidad y Matriz SWOT / FODA")
+    add_header(s16, "Análise de Sensibilidade e Matriz Estratégica SWOT" if lang == "pt" else "Análisis de Sensibilidad y Matriz Estratégica FODA")
     add_footer(s16, 16, 18, lang)
     
-    # Left Chart: Scenarios
+    add_card(s16, 0.8, 1.5, 5.6, 5.3, COLOR_WHITE, COLOR_BORDER)
     scen_chart = CHART_DIR / ("scenarios_pt.png" if lang == "pt" else "scenarios_es.png")
     if scen_chart.exists():
-        s16.shapes.add_picture(str(scen_chart), Inches(0.8), Inches(1.5), Inches(5.8), Inches(5.3))
+        s16.shapes.add_picture(str(scen_chart), Inches(0.95), Inches(1.65), Inches(5.3), Inches(5.0))
         
-    # Right SWOT Summary Card
-    add_card(s16, 6.9, 1.5, 5.6, 5.3, COLOR_BG_CARD, COLOR_BORDER)
-    tb = s16.shapes.add_textbox(Inches(7.1), Inches(1.7), Inches(5.2), Inches(4.8))
+    add_card(s16, 6.7, 1.5, 5.8, 5.3, COLOR_BG_CARD, COLOR_BORDER)
+    tb = s16.shapes.add_textbox(Inches(6.9), Inches(1.7), Inches(5.4), Inches(4.8))
     tf = tb.text_frame
     tf.word_wrap = True
     p = tf.paragraphs[0]
-    p.text = "Síntese Estratégica SWOT / FODA" if lang == "pt" else "Síntesis Estratégica SWOT / FODA"
-    p.font.size = Pt(15)
+    p.text = "Matriz SWOT / FOFA Estratégica" if lang == "pt" else "Matriz FODA / SWOT Estratégica"
+    p.font.size = Pt(16)
     p.font.bold = True
     p.font.color.rgb = COLOR_NAVY
     p.space_after = Pt(10)
     
-    swot_items = [
-        "FORÇAS (Strengths): Investimento de R$ 38k com maquinário novo, CRM próprio sem royalties, coifa industrial e ficha técnica padronizada." if lang == "pt" else "FORTALEZAS (Strengths): Inversión de R$ 38k con maquinaria nueva, CRM propio sin royalties, campana industrial y recetas estándar.",
-        "OPORTUNIDADES (Opportunities): Demanda insatisfeita com filas em concorrentes e crescimento residencial do Umbará." if lang == "pt" else "OPORTUNIDADES (Opportunities): Demanda insatisfecha con filas en competidores y expansión residencial en Umbará.",
-        "FRAQUEZAS (Weaknesses): Marca nova sem base inicial (superada por degustações e pré-venda ativa)." if lang == "pt" else "DEBILIDADES (Weaknesses): Marca nueva sin base inicial (superada con degustaciones y preventa activa).",
-        "AMEAÇAS (Threats): Inflação de carnes (mitigada por 3 frigoríficos homologados SIF e compras CEASA)." if lang == "pt" else "AMENAZAS (Threats): Inflación de carnes (mitigada con 3 frigoríficos homologados SIF y compras CEASA)."
+    swot_data = [
+        ("FORÇAS (S): ", "Equipamentos novos, exaustão profissional, CRM próprio e cardápio enxuto." if lang == "pt" else "Equipos nuevos, extracción profesional, CRM propio y menú reducido."),
+        ("OPORTUNIDADES (O): ", "Forte hábito de assados no Umbará, insatisfação com filas e abertura em feriados." if lang == "pt" else "Hábito arraigado de asados en Umbará, colas en competidores y feriados."),
+        ("FRAQUEZAS (W): ", "Marca nova em fase de tração e capacidade física inicial limitada a 260 combos." if lang == "pt" else "Marca nueva en tracción y capacidad inicial acotada a 260 combos."),
+        ("AMEAÇAS (T): ", "Oscilações de preço de carnes no atacado e clima chuvoso em fins de semana." if lang == "pt" else "Fluctuación de precios de carnes en mayoristas y mal clima.")
     ]
-    add_bullet_list(tf, swot_items, font_size=11, space_after=6)
+    for st, text in swot_data:
+        p = tf.add_paragraph()
+        r1 = p.add_run()
+        r1.text = st
+        r1.font.bold = True
+        r1.font.size = Pt(11)
+        r1.font.color.rgb = COLOR_RED if "FRAQUEZAS" in st or "AMEAÇAS" in st or "DEBILIDADES" in st or "AMENAZAS" in st else COLOR_NAVY
+        r2 = p.add_run()
+        r2.text = text
+        r2.font.size = Pt(10.5)
+        r2.font.color.rgb = COLOR_DARK
+        p.space_after = Pt(8)
 
     # ----------------------------------------------------
-    # SLIDE 17: SEGURANÇA TECNOLÓGICA, BACKUPS & LGPD
+    # SLIDE 17: GOVERNANÇA DE DADOS & SEGURANÇA (LGPD)
     # ----------------------------------------------------
     s17 = prs.slides.add_slide(blank_layout)
     set_slide_background(s17, COLOR_WHITE)
-    add_header(s17, "Governança de Dados, Segurança e Conformidade com a LGPD" if lang == "pt" else "Gobernanza de Datos, Seguridad y Cumplimiento de la LGPD")
+    add_header(s17, "Governança de Dados, Segurança e Conformidade com a LGPD" if lang == "pt" else "Gobernanza de Datos, Seguridad y Conformidad con la LGPD")
     add_footer(s17, 17, 18, lang)
     
-    # 3 Cards
-    add_card(s17, 0.8, 1.5, 3.7, 5.3, COLOR_BG_CARD, COLOR_NAVY)
-    tb = s17.shapes.add_textbox(Inches(1.0), Inches(1.7), Inches(3.3), Inches(4.8))
-    tf = tb.text_frame
-    tf.word_wrap = True
-    p = tf.paragraphs[0]
-    p.text = "🔒 Privacidade & LGPD" if lang == "pt" else "🔒 Privacidad y LGPD"
-    p.font.size = Pt(15)
-    p.font.bold = True
-    p.font.color.rgb = COLOR_NAVY
-    p.space_after = Pt(10)
-    lgpd_items = [
-        "Consentimento Explícito: Registro de opt-in formal em cada cadastro." if lang == "pt" else "Consentimiento Explícito: Registro de opt-in formal en cada alta.",
-        "Descadastramento Fácil: Comando automático 'SAIR' retira o cliente imediatamente." if lang == "pt" else "Baja Inmediata: Comando automático 'SALIR' desuscribe al cliente al instante.",
-        "Minimização de Dados: Coleta apenas de nome, telefone e endereço de entrega." if lang == "pt" else "Minimización de Datos: Recolección exclusiva de nombre, teléfono y domicilio."
+    lgpd_cards = [
+        ("🔐 Privacidade & LGPD" if lang == "pt" else "🔐 Privacidad y LGPD", [
+            "Consentimento Explícito (Opt-in): Cliente autoriza receber mensagens via WhatsApp." if lang == "pt" else "Consentimiento Explícito (Opt-in): Cliente autoriza mensajes por WhatsApp.",
+            "Opção de Saída (Opt-out): Descadastro imediato a qualquer momento digitando 'SAIR'." if lang == "pt" else "Opción de Baja (Opt-out): Cancelación inmediata enviando 'BAJA'.",
+            "Minimização de Dados: Coleta apenas de Nome, Telefone e Endereço de entrega." if lang == "pt" else "Minimización de Datos: Solo Nombre, Teléfono y Dirección.",
+            "Base Criptografada: Armazenamento seguro sem compartilhamento com terceiros." if lang == "pt" else "Base Cifrada: Almacenamiento seguro sin venta a terceros."
+        ], COLOR_NAVY),
+        ("🛡️ Segurança da Informação" if lang == "pt" else "🛡️ Seguridad de la Información", [
+            "Tráfego 100% Criptografado: Certificado SSL/TLS Let's Encrypt (HTTPS)." if lang == "pt" else "Tráfico 100% Cifrado: Certificado SSL/TLS Let's Encrypt (HTTPS).",
+            "Backups Diários Automatizados: Dump do PostgreSQL criptografado em AES-256." if lang == "pt" else "Copias de Respaldo Diarias: Dump PostgreSQL cifrado en AES-256.",
+            "Recuperação em Minutos: RTO < 15 min e RPO < 24h em caso de falha de hardware." if lang == "pt" else "Recuperación Rápida: RTO < 15 min y RPO < 24h ante contingencias.",
+            "Firewall e Acesso Restrito: Apenas portas essenciais (80/443) abertas no VPS." if lang == "pt" else "Firewall y Acceso Restringido: Solo puertos 80/443 abiertos en VPS."
+        ], COLOR_GREEN)
     ]
-    add_bullet_list(tf, lgpd_items, font_size=11, space_after=8)
-
-    add_card(s17, 4.8, 1.5, 3.7, 5.3, COLOR_BG_CARD, COLOR_RED)
-    tb = s17.shapes.add_textbox(Inches(5.0), Inches(1.7), Inches(3.3), Inches(4.8))
-    tf = tb.text_frame
-    tf.word_wrap = True
-    p = tf.paragraphs[0]
-    p.text = "🛡️ Criptografia & Backup" if lang == "pt" else "🛡️ Cifrado y Respaldos"
-    p.font.size = Pt(15)
-    p.font.bold = True
-    p.font.color.rgb = COLOR_RED
-    p.space_after = Pt(10)
-    sec_items = [
-        "Tráfego 100% Criptografado: Protocolo TLS 1.3 e HTTPS no domínio DuckDNS." if lang == "pt" else "Tráfico 100% Cifrado: Protocolo TLS 1.3 y HTTPS en el dominio DuckDNS.",
-        "Dump Diário Automatizado: Backup do PostgreSQL com cifra AES-256." if lang == "pt" else "Volcado Diario Automatizado: Respaldo de PostgreSQL con cifrado AES-256.",
-        "RPO < 24h e RTO < 15 min: Recuperação quase instantânea em caso de desastre." if lang == "pt" else "RPO < 24h y RTO < 15 min: Recuperación casi instantánea ante fallas."
-    ]
-    add_bullet_list(tf, sec_items, font_size=11, space_after=8)
-
-    add_card(s17, 8.8, 1.5, 3.7, 5.3, COLOR_BG_CARD, COLOR_GREEN)
-    tb = s17.shapes.add_textbox(Inches(9.0), Inches(1.7), Inches(3.3), Inches(4.8))
-    tf = tb.text_frame
-    tf.word_wrap = True
-    p = tf.paragraphs[0]
-    p.text = "📊 Auditoria & Controle" if lang == "pt" else "📊 Auditoría y Control"
-    p.font.size = Pt(15)
-    p.font.bold = True
-    p.font.color.rgb = COLOR_GREEN
-    p.space_after = Pt(10)
-    aud_items = [
-        "Trilha de Auditoria: Logs de acesso aos dados de clientes." if lang == "pt" else "Pistas de Auditoría: Logs de acceso a los datos de clientes.",
-        "Autonomia Completa: Sem dependência de plataformas opacas de terceiros." if lang == "pt" else "Autonomía Completa: Sin dependencia de plataformas opacas de terceros.",
-        "Conformidade Técnica: Alinhado à formação técnica em Informática." if lang == "pt" else "Conformidad Técnica: Alineado a la formación técnica en Informática."
-    ]
-    add_bullet_list(tf, aud_items, font_size=11, space_after=8)
+    
+    for i, (title, items, col) in enumerate(lgpd_cards):
+        left_pos = 0.8 + i * 6.0
+        add_card(s17, left_pos, 1.5, 5.7, 5.3, COLOR_BG_CARD, col)
+        tb = s17.shapes.add_textbox(Inches(left_pos + 0.3), Inches(1.7), Inches(5.1), Inches(4.8))
+        tf = tb.text_frame
+        tf.word_wrap = True
+        p = tf.paragraphs[0]
+        p.text = title
+        p.font.size = Pt(17)
+        p.font.bold = True
+        p.font.color.rgb = col
+        p.space_after = Pt(14)
+        add_bullet_list(tf, items, font_size=12, text_color=COLOR_DARK, space_after=10)
 
     # ----------------------------------------------------
     # SLIDE 18: CONCLUSÃO & ENCERRAMENTO
@@ -926,45 +986,45 @@ def generate_presentation(lang="pt"):
     s18 = prs.slides.add_slide(blank_layout)
     set_slide_background(s18, COLOR_NAVY)
     
-    # Text
-    tb = s18.shapes.add_textbox(Inches(1.5), Inches(1.2), Inches(10.333), Inches(5.2))
+    card_banner = s18.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0), Inches(0), Inches(13.333), Inches(0.4))
+    card_banner.fill.solid()
+    card_banner.fill.fore_color.rgb = COLOR_RED
+    card_banner.line.fill.background()
+    
+    tb = s18.shapes.add_textbox(Inches(1.0), Inches(1.2), Inches(11.333), Inches(5.2))
     tf = tb.text_frame
     tf.word_wrap = True
     
     p = tf.paragraphs[0]
-    p.text = "CONCLUSÃO E CONSIDERAÇÕES FINAIS" if lang == "pt" else "CONCLUSIÓN Y CONSIDERACIONES FINALES"
-    p.font.size = Pt(26)
+    p.text = "CONCLUSÃO & VIABILIDADE DO EMPREENDIMENTO" if lang == "pt" else "CONCLUSIÓN Y VIABILIDAD DEL EMPRENDIMIENTO"
+    p.font.size = Pt(22)
     p.font.bold = True
     p.font.color.rgb = COLOR_GOLD
-    p.alignment = PP_ALIGN.CENTER
-    p.space_after = Pt(20)
+    p.space_after = Pt(18)
     
-    concl_items = [
-        "Viabilidade Integral Comprovada: Modelo comercial, técnico, operacional e financeiro robusto com investimento de R$ 38.000,00." if lang == "pt" else "Viabilidad Integral Comprobada: Modelo comercial, técnico, operativo y financiero sólido con inversión de R$ 38.000,00.",
-        "Diferencial Tecnológico Real: O CRM Sofia resolve as dores clássicas de filas e desperdício de insumos com custo marginal de apenas R$ 50/mês." if lang == "pt" else "Diferencial Tecnológico Real: El CRM Sofia resuelve los problemas de filas y desperdicio de insumos con costo marginal de R$ 50/mes.",
-        "Sinergia Interdisciplinar: Aplicação prática e harmônica entre Administração e Informática aprendidas no Colégio Excelência." if lang == "pt" else "Sinergia Interdisciplinaria: Aplicación práctica y armónica entre Administración e Informática aprendidas en el Colégio Excelência.",
-        "Prontidão para Implantação: Todas as fichas técnicas, planta sanitária, contratos e ferramentas digitais validados para execução em Curitiba." if lang == "pt" else "Listos para la Ejecución: Fichas técnicas, plano sanitario, contratos y herramientas digitales validados para su apertura en Curitiba."
+    conc_items = [
+        "Sinergia Interdisciplinar: Integração perfeita dos conhecimentos de Administração e Informática adquiridos no Colégio Excelência." if lang == "pt" else "Sinergia Interdisciplinaria: Integración de los conocimientos de Administración e Informática del Colégio Excelência.",
+        "Viabilidade Econômica Plena: Ponto de equilíbrio de R$ 12.454,37 (~126 combos) abaixo do volume base (160 combos), com payback de 11 a 12 meses." if lang == "pt" else "Viabilidad Económica Plena: Punto de equilibrio de R$ 12.454,37 (~126 combos) inferior a la meta base (160 combos), con retorno en 11-12 meses.",
+        "Diferencial Tecnológico Real: O CRM Casa de Assados Sofia resolve as dores clássicas de filas e desperdício de insumos com custo marginal de apenas R$ 50/mês." if lang == "pt" else "Diferencial Tecnológico Real: El CRM Casa de Assados Sofia resuelve las filas y el desperdicio de insumos con costo marginal de R$ 50/mes.",
+        "Segurança Jurídica e Sanitária: Estrutura 100% blindada com CLT 452-A, RDC 216 Anvisa e alavancagem extraordinária em 28 feriados." if lang == "pt" else "Seguridad Jurídica y Sanitaria: Estructura blindada con CLT 452-A, RDC 216 Anvisa y apalancamiento extraordinario en 28 feriados."
     ]
-    for it in concl_items:
+    for it in conc_items:
         p = tf.add_paragraph()
         p.text = f"✔  {it}"
-        p.font.size = Pt(14)
+        p.font.size = Pt(13)
         p.font.color.rgb = COLOR_WHITE
-        p.font.name = "Arial"
         p.space_after = Pt(12)
         
-    p = tf.add_paragraph()
-    p.text = "MUITO OBRIGADO! / ¡MUCHAS GRACIAS!"
-    p.font.size = Pt(20)
-    p.font.bold = True
-    p.font.color.rgb = COLOR_GOLD
-    p.alignment = PP_ALIGN.CENTER
-    p.space_before = Pt(16)
+    p_end = tf.add_paragraph()
+    p_end.text = "\nMuito Obrigado! Aberto à Banca Examinadora para Perguntas." if lang == "pt" else "\n¡Muchas Gracias! Abierto al Tribunal Evaluador para Preguntas."
+    p_end.font.size = Pt(15)
+    p_end.font.bold = True
+    p_end.font.color.rgb = COLOR_GOLD
+    p_end.alignment = PP_ALIGN.CENTER
     
-    output_filename = "Apresentacao_Casa_de_Assados_Sofia_Portugues.pptx" if lang == "pt" else "Presentacion_Casa_de_Assados_Sofia_Espanol.pptx"
-    out_path = ROOT / output_filename
-    prs.save(str(out_path))
-    print(f"Presentation saved successfully: {out_path}")
+    out_file = ROOT / ("Apresentacao_Casa_de_Assados_Sofia_Portugues.pptx" if lang == "pt" else "Presentacion_Casa_de_Assados_Sofia_Espanol.pptx")
+    prs.save(str(out_file))
+    print(f"Presentation generated: {out_file} ({out_file.stat().st_size:,} bytes)")
 
 if __name__ == "__main__":
     generate_presentation("pt")

@@ -12,25 +12,24 @@ from docx.oxml.ns import nsdecls
 
 ROOT = Path(r"c:\Users\wilki\OneDrive\Documentos\Trabajo de Curso")
 CHART_DIR = ROOT / "_work" / "charts"
-IMG_ANEXO = ROOT / "_work" / "anexo_casa_assados_sofia.png"
-IMG_PLANTA_ES = CHART_DIR / "planta_baixa_sofia_es.png"
-IMG_BRAND = CHART_DIR / "brand_mockup_sofia.jpg"
-IMG_MENU_PRINT = CHART_DIR / "cardapio_impresso_sofia.jpg"
-IMG_MENU_WA = CHART_DIR / "cardapio_whatsapp_sofia.jpg"
+IMG_REF_DIR = ROOT / "Casa_de_Assados_Sofia_15_Imagens_Referencia_PR_HR_v2"
 
-# 6 Equipos Individuales
-IMG_EQUIP1 = CHART_DIR / "equip1_asadora_gas.jpg"
-IMG_EQUIP2 = CHART_DIR / "equip2_churrasqueira_carvao.jpg"
-IMG_EQUIP3 = CHART_DIR / "equip3_coifa_industrial.jpg"
-IMG_EQUIP4 = CHART_DIR / "equip4_freezer_horizontal.jpg"
-IMG_EQUIP5 = CHART_DIR / "equip5_refrigerador_inox.jpg"
-IMG_EQUIP6 = CHART_DIR / "equip6_bancada_balanca.jpg"
-
-# 4 Combos Individuales
-IMG_COMBO1 = CHART_DIR / "combo1_classico_sofia.jpg"
-IMG_COMBO2 = CHART_DIR / "combo2_costela_sofia.jpg"
-IMG_COMBO3 = CHART_DIR / "combo3_dueto_sofia.jpg"
-IMG_COMBO4 = CHART_DIR / "combo4_familia_sofia.jpg"
+# 15 Imágenes de Referencia del PR
+IMG_FIG02 = IMG_REF_DIR / "Figura_02_Fachada_Sinalizacao_Embalagens.png"
+IMG_FIG03 = IMG_REF_DIR / "Figura_03_Cardapio_Balcao.png"
+IMG_FIG04 = IMG_REF_DIR / "Figura_04_CRM_Sofia_Mobile_WhatsApp.png"
+IMG_FIG09 = IMG_REF_DIR / "Figura_09_Assadoras_Giratorias_GLP.png"
+IMG_FIG10 = IMG_REF_DIR / "Figura_10_Churrasqueira_Costela_Bafo.png"
+IMG_FIG11 = IMG_REF_DIR / "Figura_11_Coifa_Industrial_AISI304.png"
+IMG_FIG12 = IMG_REF_DIR / "Figura_12_Freezer_Horizontal_510L.png"
+IMG_FIG13 = IMG_REF_DIR / "Figura_13_Refrigerador_Vertical_4_Portas.png"
+IMG_FIG14 = IMG_REF_DIR / "Figura_14_Mesa_Inox_Balanca.png"
+IMG_FIG15 = CHART_DIR / "planta_baixa_sofia_es_hd.png"
+IMG_FIG16 = IMG_REF_DIR / "Figura_16_Combo_Classico_Sofia.png"
+IMG_FIG17 = IMG_REF_DIR / "Figura_17_Combo_Costela_Suprema.png"
+IMG_FIG18 = IMG_REF_DIR / "Figura_18_Combo_Dueto_Sofia.png"
+IMG_FIG19 = IMG_REF_DIR / "Figura_19_Kit_Churrasco_Familia.png"
+IMG_FIG20 = IMG_REF_DIR / "Figura_20_Conceito_Final.png"
 
 mix_es = [
     ("El Clásico de Sofia", 70, 69.90, 26.50, "1 Pollo relleno entero (~1,4kg asado), farofa artesanal crocante (250g), mayonesa casera tradicional de patata (300g). Rinde 3 a 4 personas."),
@@ -145,7 +144,7 @@ def build_styled_table(doc, headers, rows, widths=None, font_size=8.5, align_rig
     p_spacer.paragraph_format.line_spacing = 1.0
     return t
 
-def add_figure_with_caption(doc, img_path, fig_num, title, source, width_cm=15.5):
+def add_figure_with_caption(doc, img_path, fig_num, title, source, width_cm=15.0):
     p_img = doc.add_paragraph()
     p_img.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p_img.paragraph_format.first_line_indent = Cm(0)
@@ -365,7 +364,7 @@ def generate_spanish_thesis(output_path):
     # Resumen
     doc.add_heading("RESUMEN", level=1)
     res_text = (
-        "Este Trabajo de Conclusión de Curso presenta el plan de negocios para la implantación de Casa de Assados Sofia, una microempresa gastronómica proyectada para operar los sábados, domingos y en todos los días feriados nacionales, provinciales y municipales en el barrio Umbará, en Curitiba - PR. El modelo de negocio se fundamenta en una oferta reducida de cuatro combos familiares de asados tradicionales (pollo relleno, costilla vacuna braseada, costilla de cerdo y cortes combinados con guarniciones artesanales), comercializados mediante retiro programado en mostrador y entrega a domicilio dentro de un radio restringido de 5 km. El diferencial estratégico radica en la integración transversal de un sistema propio de Gestión de Relaciones con Clientes (CRM Sofia), el cual gestiona campañas de preventa los viernes y vísperas de feriados, nivela la capacidad productiva de las parrillas en franjas horarias de 15 minutos, mitiga pérdidas de insumos perecederos y potencia la fidelización y la recompra recurrente con estricta conformidad con la Ley General de Protección de Datos (LGPD). La metodología adoptada posee naturaleza aplicada, descriptiva y documental, combinando análisis de mercado con datos oficiales actualizados del IBGE (población estimada en 1.830.795 habitantes y PIB municipal de R$ 120,06 mil millones en Curitiba), Municipio de Curitiba y SEBRAE, además de una modelización económico-financiera desarrollada en el Colégio Excelência. En el escenario base proyectado estrictamente para los fines de semana regulares (160 combos mensuales), el emprendimiento adopta un presupuesto confortable y óptimo de implantación de R$ 38.000,00 (compuesto por R$ 18.000,00 de capital propio y R$ 20.000,00 financiados mediante microcrédito de Fomento Paraná), generando ingresos brutos mensuales de R$ 15.809,00, un margen de contribución del 55,16%, utilidad operativa neta de R$ 1.850,46 (rentabilidad sobre ventas del 11,71%), punto de equilibrio en R$ 12.454,37 (~126 combos equivalentes) y amortización total del capital invertido en la curva dinámica de 12 meses entre el 11º y el 12º mes. Como factor de conservadurismo contable, los ingresos de las operaciones en días feriados hábiles (estimados en 10 a 12 días anuales adicionales, generando R$ 20.000 a R$ 24.000 en facturación extra y R$ 6.250 a R$ 7.500 de utilidad neta líquida) se reservaron como colchón de apalancamiento y liquidez. Se concluye que el emprendimiento es comercial y financieramente viable, condicionando su éxito a la rigurosa estandarización de fichas técnicas, identidad visual atractiva, menús optimizados para salón y WhatsApp, homologación de proveedores regionales (CEASA Curitiba), seguridad jurídica en la contratación intermitente de personal y una ejecución disciplinada de los procesos operativos orientados por datos."
+        "Este Trabajo de Conclusión de Curso presenta el plan de negocios para la implantación de Casa de Assados Sofia, una microempresa gastronómica proyectada para operar los sábados, domingos y en todos los días feriados nacionales, provinciales y municipales en el barrio Umbará, en Curitiba - PR. El modelo de negocio se fundamenta en una oferta reducida de cuatro combos familiares de asados tradicionales (pollo relleno, costilla vacuna braseada, costilla de cerdo y cortes combinados con guarniciones artesanales), comercializados mediante retiro programado en mostrador y entrega a domicilio dentro de un radio restringido de 5 km. El diferencial estratégico radica en la integración transversal de un sistema propio de Gestión de Relaciones con Clientes (CRM Casa de Assados Sofia), el cual gestiona campañas de preventa los viernes y vísperas de feriados, nivela la capacidad productiva de las parrillas en franjas horarias de 15 minutos, mitiga pérdidas de insumos perecederos y potencia la fidelización y la recompra recurrente con estricta conformidad con la Ley General de Protección de Datos (LGPD). La metodología adoptada posee naturaleza aplicada, descriptiva y documental, combinando análisis de mercado con datos oficiales actualizados del IBGE (población estimada en 1.830.795 habitantes y PIB municipal de R$ 120,06 mil millones en Curitiba), Municipio de Curitiba y SEBRAE, además de una modelización económico-financiera desarrollada en el Colégio Excelência. En el escenario base proyectado estrictamente para los fines de semana regulares (160 combos mensuales), el emprendimiento adopta un presupuesto confortable y óptimo de implantación de R$ 38.000,00 (compuesto por R$ 18.000,00 de capital propio y R$ 20.000,00 financiados mediante microcrédito de Fomento Paraná), generando ingresos brutos mensuales de R$ 15.809,00, un margen de contribución del 55,16%, utilidad operativa neta de R$ 1.850,46 (rentabilidad sobre ventas del 11,71%), punto de equilibrio en R$ 12.454,37 (~126 combos equivalentes) y amortización total del capital invertido en la curva dinámica de 12 meses entre el 11º y el 12º mes. Como factor de conservadurismo contable, los ingresos de las operaciones en días feriados hábiles (estimados en 10 a 12 días anuales adicionales, generando R$ 20.000 a R$ 24.000 en facturación extra y R$ 6.250 a R$ 7.500 de utilidad neta líquida) se reservaron como colchón de apalancamiento y liquidez. Se concluye que el emprendimiento es comercial y financieramente viable, condicionando su éxito a la rigurosa estandarización de fichas técnicas, identidad visual atractiva, menús optimizados para salón y WhatsApp, homologación de proveedores regionales (CEASA Curitiba), seguridad jurídica en la contratación intermitente de personal y una ejecución disciplinada de los procesos operativos orientados por datos."
     )
     add_p(doc, res_text)
     add_p(doc, "Palabras clave: Plan de Negocios; Gastronomía de Conveniencia; Gestión de Relaciones con Clientes (CRM); Administración e Informática; Curitiba; Días Feriados.", boldlead="Palabras clave:")
@@ -393,7 +392,7 @@ def generate_spanish_thesis(output_path):
         ("Figura 17 – Documentación Fotográfica del Combo 2: Costilla Suprema al Vapor", 38),
         ("Figura 18 – Documentación Fotográfica del Combo 3: Dueto Sofia (Pollo & Costilla de Cerdo)", 38),
         ("Figura 19 – Documentación Fotográfica del Combo 4: Kit Parrillero Familia", 39),
-        ("Figura 20 – Concepto Ilustrativo: Fachada, Envases, Productos y Estación CRM Sofia", 40)
+        ("Figura 20 – Concepto Ilustrativo: Fachada, Envases, Productos y Estación CRM Casa de Assados Sofia", 40)
     ]
     for es_title, p_num in figs:
         p = doc.add_paragraph()
@@ -412,7 +411,7 @@ def generate_spanish_thesis(output_path):
         ("Tabla 4 – Matriz de Homologación de Proveedores Estratégicos", 11),
         ("Tabla 5 – Mezcla de Marketing (4Ps de Servicios)", 12),
         ("Tabla 6 – Ingeniería de Menú, Precios de Venta y CMV Unitario", 13),
-        ("Tabla 7 – Mapeo del Recorrido del Cliente e Indicadores del CRM Sofia", 14),
+        ("Tabla 7 – Mapeo del Recorrido del Cliente e Indicadores del CRM Casa de Assados Sofia", 14),
         ("Tabla 8 – Cronograma de Rutinas Operativas Semanales y Control en CRM", 18),
         ("Tabla 9 – Cuadro de Funciones, Responsabilidades y Rutinas del Equipo", 19),
         ("Tabla 10 – Estrategia de Contratación y Régimen de Trabajo Intermitente (CLT 452-A)", 19),
@@ -433,7 +432,7 @@ def generate_spanish_thesis(output_path):
         ("Tabla 25 – Cuadro Síntesis de Licencias, Habilitación y Permisos Sanitarios de Curitiba", 35),
         ("Tabla 26 – Minuta Estructurada del Contrato de Trabajo Intermitente (CLT Art. 452-A)", 36),
         ("Tabla 27 – Modelo de Recibo de Pago por Jornal / Holerite con Desglose Legal e INSS", 36),
-        ("Tabla 28 – Diccionario de Datos del Sistema CRM Sofia", 37)
+        ("Tabla 28 – Diccionario de Datos del Sistema CRM Casa de Assados Sofia", 37)
     ]
     for es_t, p_num in tabs:
         p = doc.add_paragraph()
@@ -474,7 +473,7 @@ def generate_spanish_thesis(output_path):
         ("3.4 Diseño Gráfico de los Menús: Versión Impresa y Versión WhatsApp", 15),
         ("3.5 Plaza y Canales de Distribución", 17),
         ("3.6 Promoción, Comunicación y Presencia Digital Local", 17),
-        ("3.7 Sistema CRM Sofia: Estrategia Transversal y Retención", 18),
+        ("3.7 Sistema CRM Casa de Assados Sofia: Conceptualización, Estrategia Transversal y Retención", 18),
         ("3.8 Recorrido del Cliente, Embudo de Conversión e Indicadores", 18),
         ("4 PLAN OPERATIVO Y TECNOLÓGICO", 19),
         ("4.1 Distribución Física y Flujo Sanitario Unidireccional (RDC 216)", 19),
@@ -483,7 +482,7 @@ def generate_spanish_thesis(output_path):
         ("4.4 Mapeo del Proceso Productivo Semanal", 20),
         ("4.5 Estructura Organizacional y Estrategia de Contratación de Jornaleros", 20),
         ("4.6 Requisitos Sanitarios y Licenciamiento Municipal", 21),
-        ("4.7 Arquitectura Tecnológica del CRM Sofia", 21),
+        ("4.7 Arquitectura Tecnológica del CRM Casa de Assados Sofia e Infraestructura de Bajo Costo", 21),
         ("4.8 Gestión de Inventarios (PEPS) y Sostenibilidad", 22),
         ("5 PLAN FINANCIERO", 22),
         ("5.1 Inversión Inicial Total", 22),
@@ -507,7 +506,7 @@ def generate_spanish_thesis(output_path):
         ("7.5 Cuadro de Licencias, Habilitación y Permisos Sanitarios", 35),
         ("7.6 Instrumentos de Contratación y Recibos de Jornaleros", 36),
         ("7.7 Cuestionario Estructurado de Encuesta de Mercado", 36),
-        ("7.8 Diccionario de Datos del CRM Sofia", 37),
+        ("7.8 Diccionario de Datos del CRM Casa de Assados Sofia", 37),
         ("7.9 Renders y Documentación Fotográfica de los Combos Familiares", 37),
         ("CONCLUSIÓN", 41),
         ("REFERENCIAS", 42),
@@ -533,7 +532,7 @@ def generate_spanish_thesis(output_path):
     # INTRODUCCIÓN
     doc.add_heading("INTRODUCCIÓN", level=1)
     add_p(doc, "El mercado contemporáneo de alimentación fuera del hogar (foodservice) en Brasil atraviesa profundas transformaciones estructurales, impulsadas por la búsqueda incesante de practicidad, la valorización del tiempo en familia durante los fines de semana y la digitalización de los canales de atención y consumo. En el contexto de las principales capitales de la Región Sur, particularmente en Curitiba - PR, el hábito cultural del consumo dominical de carnes asadas (pollo relleno, costilla braseada y asado tradicional) constituye una sólida tradición gastronómica. No obstante, el modelo convencional de los establecimientos de barrio padece frecuentemente graves ineficiencias operativas: largas filas de espera a la intemperie, falta de previsibilidad de la demanda, desperdicio severo de carnes y guarniciones no comercializadas y ausencia absoluta de relación continuada e inteligente con el cliente.")
-    add_p(doc, "En este escenario, surge la oportunidad de mercado para concebir Casa de Assados Sofia, una microempresa gastronómica situada en el barrio Umbará, polo residencial en expansión en la zona sur de Curitiba. A diferencia de las rotiserías tradicionales, el emprendimiento propone un modelo operativo ajustado y estructurado, operando con cuatro combos familiares estandarizados, comercializados los sábados, domingos y en todos los días feriados nacionales, provinciales y municipales, respaldado por un sistema propietario de Gestión de Relaciones con Clientes (CRM Sofia).")
+    add_p(doc, "En este escenario, surge la oportunidad de mercado para concebir Casa de Assados Sofia, una microempresa gastronómica situada en el barrio Umbará, polo residencial en expansión en la zona sur de Curitiba. A diferencia de las rotiserías tradicionales, el emprendimiento propone un modelo operativo ajustado y estructurado, operando con cuatro combos familiares estandarizados, comercializados los sábados, domingos y en todos los días feriados nacionales, provinciales y municipales, respaldado por un sistema propietario de Gestión de Relaciones con Clientes (CRM Casa de Assados Sofia).")
 
     doc.add_heading("1.1 Contextualización y Justificación", level=2)
     add_p(doc, "La justificación para la elaboración de este plan de negocios se fundamenta en la necesidad de planificar científicamente la creación de una microempresa en un sector altamente competitivo y vulnerable a la volatilidad de costos de insumos perecederos. La elección del barrio Umbará, integrante de la Administración Regional Bairro Novo de Curitiba, responde a su densidad poblacional, predominio de núcleos familiares de clase media y escasez de opciones que combinen alta calidad gastronómica artesanal con agilidad y previsibilidad de atención digital.")
@@ -548,7 +547,7 @@ def generate_spanish_thesis(output_path):
     add_p(doc, "Objetivos Específicos:", boldlead="Objetivos Específicos:")
     add_bullets(doc, [
         "Realizar el diagnóstico del macroentorno y del mercado local de alimentación de fin de semana en la región sur de Curitiba, mapeando competidores directos, indirectos y perfiles de consumidores con datos oficiales actualizados del IBGE e IPARDES.",
-        "Estructurar la estrategia de marketing de servicios (4Ps), la identidad visual y slogan, el diseño de los menús comercial (impreso y digital WhatsApp) y la inserción del sistema CRM Sofia como motor de preventas y fidelización.",
+        "Estructurar la estrategia de marketing de servicios (4Ps), la identidad visual y slogan, el diseño de los menús comercial (impreso y digital WhatsApp) y la inserción del CRM Casa de Assados Sofia como motor de preventas y fidelización.",
         "Mapear los procesos operativos, sanitarios (RDC 216 Anvisa), la planta arquitectónica con flujo unidireccional, el catálogo de cada equipo real adquirido y la capacidad productiva de las parrillas.",
         "Definir la estrategia jurídica de contratación del equipo operativo de fin de semana (jornaleros bajo régimen de trabajo intermitente - Art. 452-A de la CLT), con minutas y recibos claros para erradicar riesgos de pasivos laborales.",
         "Desarrollar la modelización económico-financiera completa bajo el escenario confortable de R$ 38.000,00 de inversión inicial, proyectando costos fijos y variables, DRE mensual, flujo de caja a 12 meses, punto de equilibrio y payback.",
@@ -562,7 +561,7 @@ def generate_spanish_thesis(output_path):
 
     doc.add_heading("1.5 Fundamentación Teórica", level=2)
     add_p(doc, "La base conceptual de este trabajo se ancla en la Teoría del Desarrollo Económico de Joseph Schumpeter (1997), quien concibe al emprendedor como el agente de innovación responsable de nuevas combinaciones productivas. En la literatura de gestión contemporánea, Dornelas (2021) y Dolabela (2008) enfatizan que el plan de negocios constituye el instrumento indispensable para transformar visiones intuitivas en estrategias auditables, reduciendo sustancialmente las tasas de mortalidad prematura de las microempresas.")
-    add_p(doc, "En el ámbito del marketing y la gestión de clientes, se emplean los postulados de Philip Kotler y Ronald Swift (2001). Swift define el Customer Relationship Management (CRM) como una estrategia empresarial orientada a comprender y anticipar las necesidades de clientes actuales y potenciales. En una operación gastronómica de conveniencia, el CRM actúa como herramienta de nivelación de la demanda y retención, transformando transacciones esporádicas en flujos previsibles de ingresos y reduciendo el Costo de Adquisición de Clientes (CAC) a lo largo del tiempo.")
+    add_p(doc, "En el ámbito del marketing de relaciones y tecnologías de gestión, se emplean los postulados de Philip Kotler (2018), Ronald Swift (2001) y Don Peppers y Martha Rogers (2004). El concepto de Customer Relationship Management (CRM) —Gestión de las Relaciones con los Clientes— se define no como un simple software o utilitario de agenda, sino como una filosofía y estrategia empresarial integral orientada a identificar, adquirir, diferenciar, retener y maximizar el valor del cliente a lo largo de todo su ciclo de vida (Customer Lifetime Value - LTV). El CRM se estructura clásicamente en tres dimensiones fundamentales: (a) CRM Operacional, enfocado en la automatización de la fuerza de atención, recepción de pedidos y comunicación directa con la cocina (panel KDS); (b) CRM Analítico, responsable del análisis de transacciones, segmentación por recencia, frecuencia y valor monetario (RFM) y proyección de demanda; y (c) CRM Colaborativo, que sincroniza los puntos de contacto directo (WhatsApp y plataforma web) y encuestas de posventa. En una operación gastronómica de conveniencia, el CRM elimina la incertidumbre de ventas y transforma transacciones aisladas en relaciones continuadas y de alto valor.")
 
     # CAPÍTULO 1
     doc.add_page_break()
@@ -585,7 +584,7 @@ def generate_spanish_thesis(output_path):
     ], widths=[2800, 6560])
 
     doc.add_heading("1.2 Perfil del Emprendedor y Competencias", level=2)
-    add_p(doc, "El emprendedor Wilkin Barban Rosabal asume la administración general del negocio. Su formación técnica interdisciplinaria en Administración e Informática por el Colégio Excelência le confiere dominio en gestión financiera, planificación presupuestaria, modelado de bases de datos, arquitectura de software CRM y optimización de procesos operativos. El administrador será el responsable directo de las compras estratégicas en CEASA, el control de caja, la parametrización del CRM Sofia, la relación con proveedores y la auditoría continua de los estándares sanitarios.")
+    add_p(doc, "El emprendedor Wilkin Barban Rosabal asume la administración general del negocio. Su formación técnica interdisciplinaria en Administración e Informática por el Colégio Excelência le confiere dominio en gestión financiera, planificación presupuestaria, modelado de bases de datos, arquitectura de software CRM y optimización de procesos operativos. El administrador será el responsable directo de las compras estratégicas en CEASA, el control de caja, la parametrización del CRM Casa de Assados Sofia, la relación con proveedores y la auditoría continua de los estándares sanitarios.")
 
     doc.add_heading("1.3 Misión, Visión y Valores Organizacionales", level=2)
     add_bullets(doc, [
@@ -645,7 +644,7 @@ def generate_spanish_thesis(output_path):
     ], widths=[1800, 2500, 2400, 2660])
 
     doc.add_heading("2.6 Protocolo de Validación Empírica Preliminar", level=2)
-    add_p(doc, "Antes de iniciar las operaciones comerciales regulares, se implementará una prueba piloto de cuatro fines de semana con volúmenes controlados (25, 35, 45 y 55 combos semanales). Este protocolo servirá para sincronizar los tiempos de cocción de las máquinas, validar la aceptación de las recetas, capacitar al personal de empaque y calibrar los flujos de agendamiento del CRM Sofia.")
+    add_p(doc, "Antes de iniciar las operaciones comerciales regulares, se implementará una prueba piloto de cuatro fines de semana con volúmenes controlados (25, 35, 45 y 55 combos semanales). Este protocolo servirá para sincronizar los tiempos de cocción de las máquinas, validar la aceptación de las recetas, capacitar al personal de empaque y calibrar los flujos de agendamiento del CRM Casa de Assados Sofia.")
 
     # CAPÍTULO 3
     doc.add_page_break()
@@ -679,15 +678,15 @@ def generate_spanish_thesis(output_path):
         "Paleta Cromática Oficial: Rojo Brasa (#C0392B), Dorado Asado (#D4AC0D), Azul Confianza (#1F3864) y Negro Carbón (#2C3E50).",
         "Piezas de Punto de Venta: Caballete rústico de vereda en madera (1,0m x 0,6m) con menú del día, y bolsas kraft personalizadas con sellos adhesivos de seguridad inviolables (100% caliente)."
     ])
-    add_figure_with_caption(doc, IMG_BRAND, 2, "Identidad Visual Fotográfica, Fachada y Comunicación de Punto de Venta", "Mockup fotográfico realista de la fachada, señalización y envases de Casa de Assados Sofia (2026).")
+    add_figure_with_caption(doc, IMG_FIG02, 2, "Identidad Visual Fotográfica, Fachada y Comunicación de Punto de Venta", "Mockup fotográfico realista de la fachada, señalización y envases de Casa de Assados Sofia (2026).")
 
     doc.add_heading("3.4 Diseño Gráfico de los Menús: Versión Impresa y Versión WhatsApp", level=2)
     add_p(doc, "Para atender con máxima eficacia tanto al cliente presencial que acude al mostrador como al usuario digital que realiza encargos remotos, se concibieron dos piezas gráficas complementarias e integradas:")
     add_p(doc, "a) Menú Comercial Impreso de Mostrador (Figura 3): Diseñado en plancha rígida con acabado negro mate y detalles dorados, ideal para exhibición en el mostrador de atención y consulta física. Presenta los cuatro combos, sus porciones y guarniciones artesanales de manera clásica y elegante.")
-    add_figure_with_caption(doc, IMG_MENU_PRINT, 3, "Diseño Gráfico del Menú Comercial Impreso para Salón y Mostrador", "Fotografía de referencia del menú comercial impreso en acabado mate y dorado (2026).")
+    add_figure_with_caption(doc, IMG_FIG03, 3, "Diseño Gráfico del Menú Comercial Impreso para Salón y Mostrador", "Fotografía de referencia del menú comercial impreso en acabado mate y dorado (2026).")
 
-    add_p(doc, "b) Menú Digital Interactivo para WhatsApp y Mobile (Figura 4): Desarrollado con interfaz moderna optimizada para smartphones. Presenta fotografías en alta definición de los platos, tarjetas de selección rápida de combos, selector de franjas horarias de retiro de 15 minutos (ej.: 11:30, 11:45, 12:00) y botón de confirmación de pedido conectado directamente al CRM Sofia.")
-    add_figure_with_caption(doc, IMG_MENU_WA, 4, "Diseño e Interfaz del Menú Digital Interactivo para WhatsApp y Mobile", "Interfaz de usuario (UI) mobile desarrollada para atención y preventa vía WhatsApp y CRM Sofia (2026).")
+    add_p(doc, "b) Menú Digital Interactivo para WhatsApp y Mobile (Figura 4): Desarrollado con interfaz moderna optimizada para smartphones. Presenta fotografías en alta definición de los platos, tarjetas de selección rápida de combos, selector de franjas horarias de retiro de 15 minutos (ej.: 11:30, 11:45, 12:00) y botón de confirmación de pedido conectado directamente al CRM Casa de Assados Sofia.")
+    add_figure_with_caption(doc, IMG_FIG04, 4, "Diseño e Interfaz del Menú Digital Interactivo para WhatsApp y Mobile", "Interfaz de usuario (UI) mobile desarrollada para atención y preventa vía WhatsApp y CRM Casa de Assados Sofia (2026).")
 
     doc.add_heading("3.5 Plaza y Canales de Distribución", level=2)
     add_p(doc, "El servicio se organiza en dos modalidades perfectamente coordinadas con el CRM:")
@@ -699,21 +698,20 @@ def generate_spanish_thesis(output_path):
     doc.add_heading("3.6 Promoción, Comunicación y Presencia Digital Local", level=2)
     add_p(doc, "La captación de nuevos clientes se basa en tácticas de marketing geolocalizado de alta efectividad: (a) Optimización continua de la ficha de Google Business Profile para búsquedas como 'pollo asado Umbará' o 'parrillada de domingo Curitiba'; (b) Cuenta activa de Instagram mostrando el proceso de marinado y cocción los viernes y vísperas de feriados; (c) Degustaciones y folletos promocionales en condominios residenciales y comercios aliados de la zona.")
 
-    doc.add_heading("3.7 Sistema CRM Sofia: Estrategia Transversal, Retención y Ventaja Competitiva", level=2)
-    add_p(doc, "El CRM Sofia constituye la columna vertebral tecnológica y de marketing del negocio, diferenciando a Casa de Assados Sofia de cualquier competidor tradicional del sector. Se trata de una solución propietaria desarrollada íntegramente por el propio autor y administrador del emprendimiento (Wilkin Barban Rosabal), integrando las competencias interdisciplinarias de la Carrera Técnica en Administración e Informática del Colégio Excelência.")
-    add_p(doc, "La plataforma opera bajo el dominio dinámico gratuito y seguro https://casadeasados.duckdns.org/, con certificado digital SSL/TLS Let's Encrypt para cifrado de extremo a extremo. Construido sobre una arquitectura moderna y 100% respaldada en herramientas de software libre (Linux Ubuntu Server, base de datos relacional PostgreSQL e interfaces web responsivas en HTML5/CSS3/JavaScript), el sistema posee costo de desarrollo nulo y costo de mantenimiento hiper-reducido, siendo el hospedaje del Servidor Virtual Privado (VPS) en la nube (R$ 50,00/mes) el único gasto recurrente de la infraestructura digital.")
-    add_p(doc, "Mientras que las plataformas comerciales de SaaS gastronómico cobran mensualidades de entre R$ 300,00 y R$ 800,00 más comisiones sobre pedidos (1% a 3%), y los marketplaces convencionales (como iFood) retienen comisiones abusivas del 20% al 27% sobre la facturación bruta, el CRM Sofia garantiza la soberanía total de los datos de clientes, independencia de intermediarios y un ahorro directo superior a R$ 4.000,00 anuales en software, cumpliendo las siguientes funciones operativas:")
+    doc.add_heading("3.7 Sistema CRM Casa de Assados Sofia: Conceptualización, Estrategia Transversal y Retención", level=2)
+    add_p(doc, "¿Qué es un CRM y por qué es la columna vertebral del negocio?", boldlead="¿Qué es un CRM y por qué es la columna vertebral del negocio?")
+    add_p(doc, "La sigla CRM (Customer Relationship Management), traducida como Gestión de las Relaciones con los Clientes, representa mucho más que un software o una base de datos de contactos: es una filosofía y metodología estratégica de gestión orientada a colocar al cliente en el centro de todas las decisiones empresariales. Como explican Swift (2001) y Kotler (2018), el CRM integra procesos, personas y tecnología para mapear cada interacción a lo largo del ciclo de vida del consumidor, permitiendo comprender sus hábitos de compra, anticipar su demanda y cultivar relaciones personalizadas, continuas y rentables a largo plazo (Customer Lifetime Value - LTV).")
+    add_p(doc, "En el sector gastronómico tradicional de asados de fin de semana, la gran mayoría de los asadores de barrio opera bajo un modelo 'ciego y pasivo': abren sus puertas el domingo por la mañana sin saber cuántos clientes llegarán, sufriendo colas caóticas de 40 minutos en los picos de las 12:00 y registrando graves pérdidas de carne no vendida al final de la jornada. El Sistema CRM Casa de Assados Sofia revoluciona este modelo estructurando la operación en tres pilares integrados:")
     add_bullets(doc, [
-        "Campañas de Preventa Automatizadas los Viernes y Vísperas de Feriados: Mensajes personalizados por canal propio con menú interactivo y enlace directo a https://casadeasados.duckdns.org/ para reservar combos y franjas horarias.",
-        "Nivelación de Capacidad en Franjas de 15 Minutos: Algoritmo de agendamiento que limita a 6 pedidos por intervalo, eliminando filas en mostrador y garantizando entregas puntuales con comida caliente.",
-        "Mitigación Drástica del Desperdicio de Carnes (< 3%): El volumen de compras de insumos perecederos en CEASA los viernes se calibra con exactitud según los pedidos pre-reservados.",
-        "Segmentación RFM (Recencia, Frecuencia y Monto): Clasificación automatizada de clientes VIP (compra semanal), regulares (quincenales) y en riesgo de abandono (inactivos por más de 35 días).",
-        "Campañas de Reactivación y Posventa Inteligente: Envío de microencuestas de satisfacción (NPS) 3 horas tras el almuerzo e incentivos de retorno para clientes inactivos.",
-        "Conformidad Integral con la LGPD (Ley nº 13.709/2018): Gestión formal de consentimiento (opt-in), canal expreso de baja (opt-out automático), base de datos con campos sensibles cifrados y estricta gobernanza de privacidad."
+        "1. CRM Operacional (Front-Office y Automatización de Pedidos): Automatiza el proceso de preventa los viernes y vísperas de feriados a través de WhatsApp propio y catálogo web interactivo (https://casadeasados.duckdns.org/). Permite al cliente seleccionar su combo, guarniciones y franja exacta de retiro de 15 minutos (ej.: 11:45 a 12:00). El sistema despacha la comanda en tiempo real al panel KDS en cocina, garantizando que el corte salga crujiente y caliente en el instante del retiro.",
+        "2. CRM Analítico (Back-Office e Inteligencia de Datos): Analiza el comportamiento de compra mediante la matriz RFM (Recencia, Frecuencia y Monto). Clasifica automáticamente a clientes VIP (compra semanal), regulares (quincenales) y en riesgo de abandono (inactivos por más de 35 días), calculando indicadores clave como Costo de Adquisición (CAC), LTV y ticket promedio por familia.",
+        "3. CRM Colaborativo (Puntos de Contacto y Fidelización): Sincroniza la comunicación directa y posventa humanizada. Tres horas después del almuerzo dominical, dispara una microencuesta automatizada de satisfacción (NPS de 1 a 5). El jueves siguiente, envía recordatorios y promociones personalizadas basadas en el historial del cliente, incentivando la recompra periódica."
     ])
+    add_p(doc, "Diferencial de Desarrollo Propio y Costo Marginal Cero:", boldlead="Diferencial de Desarrollo Propio y Costo Marginal Cero:")
+    add_p(doc, "A diferencia de otros negocios que contratan costosas plataformas comerciales de SaaS que cobran de R$ 300,00 a R$ 800,00 mensuales más comisiones por transacción, o que dependen de marketplaces (como iFood) que retienen comisiones del 20% al 27% del ingreso bruto, el Sistema CRM Casa de Assados Sofia fue desarrollado íntegramente por el autor (Wilkin Barban Rosabal). Empleando un dominio dinámico gratuito (https://casadeasados.duckdns.org/), certificado SSL Let's Encrypt gratuito y tecnologías de código abierto (Linux Ubuntu Server, PostgreSQL, Python/FastAPI), la plataforma genera un costo mensual de únicamente R$ 50,00 (servidor VPS en la nube), garantizando soberanía de datos, estricto apego a la LGPD y un ahorro superior a R$ 4.000,00 anuales en software.")
 
     doc.add_heading("3.8 Recorrido del Cliente, Embudo de Conversión e Indicadores", level=2)
-    build_styled_table(doc, ["Etapa del Recorrido", "Acción del Cliente", "Punto de Contacto", "Acción del CRM Sofia", "Indicador Clave (KPI)"], [
+    build_styled_table(doc, ["Etapa del Recorrido", "Acción del Cliente", "Punto de Contacto", "Acción del CRM Casa de Assados Sofia", "Indicador Clave (KPI)"], [
         ["1. Descubrimiento", "Busca comida para el domingo en Google/Instagram.", "Google Maps / Redes Sociales", "Capta contacto y redirige a WhatsApp con enlace trazable.", "Costo de Adquisición (CAC) y Prospectos."],
         ["2. Preventa", "Recibe menú el viernes y selecciona combo.", "WhatsApp / Bot de Pedidos", "Confirma artículos, ofrece adicionales y reserva franja de retiro.", "Tasa de Conversión de Preventa (> 35%)."],
         ["3. Producción", "Espera el horario programado.", "Cocina del Local", "Emite comanda KDS agrupada por hora de salida de parrilla.", "Nivel de Uso de Capacidad (%)."],
@@ -742,10 +740,10 @@ def generate_spanish_thesis(output_path):
     ])
 
     doc.add_heading("4.3 Gestión de Cuellos de Botella y Balanceo con CRM", level=2)
-    add_p(doc, "El principal cuello de botella de las asaderías dominicales ocurre por la aglomeración de retiros entre las 11:45 y las 12:45. El CRM Sofia elimina este problema dividiendo la capacidad en franjas horarias de 15 minutos (máximo de 6 pedidos por franja). Cuando una franja se completa, el sistema bloquea automáticamente ese horario y ofrece las franjas adyacentes, logrando una carga de trabajo constante de 11:00 a 14:00.")
+    add_p(doc, "El principal cuello de botella de las asaderías dominicales ocurre por la aglomeración de retiros entre las 11:45 y las 12:45. El CRM Casa de Assados Sofia elimina este problema dividiendo la capacidad en franjas horarias de 15 minutos (máximo de 6 pedidos por franja). Cuando una franja se completa, el sistema bloquea automáticamente ese horario y ofrece las franjas adyacentes, logrando una carga de trabajo constante de 11:00 a 14:00.")
 
     doc.add_heading("4.4 Mapeo del Proceso Productivo Semanal", level=2)
-    build_styled_table(doc, ["Día de la Semana", "Horario", "Actividades Operativas Clave", "Control y Registro en CRM Sofia"], [
+    build_styled_table(doc, ["Día de la Semana", "Horario", "Actividades Operativas Clave", "Control y Registro en CRM Casa de Assados Sofia"], [
         ["Jueves", "18:00 - 20:00", "Revisión de reservas tempranas y generación de lista de compras.", "Proyección consolidada de insumos por corte y guarnición."],
         ["Viernes", "06:30 - 11:00", "Compras en CEASA y recepción de carnes homologadas con inspección.", "Registro de lotes, fechas de vencimiento y costos unitarios reales."],
         ["Viernes", "13:00 - 18:00", "Porcionado, marinado de carnes y lanzamiento de preventa semanal.", "Envío de campaña por WhatsApp y apertura de franjas horarias."],
@@ -769,8 +767,8 @@ def generate_spanish_thesis(output_path):
     doc.add_heading("4.6 Requisitos Sanitarios y Licenciamiento Municipal", level=2)
     add_p(doc, "La apertura formal cumplirá los trámites legales de Curitiba: (a) Consulta Previa de Viabilidad de Domicilio aprobada en la Secretaría Municipal de Urbanismo; (b) Inscripción Municipal y Licencia de Actividad; (c) Licencia Sanitaria otorgada por la Vigilancia Sanitaria Municipal; (d) Certificado de Aprobación del Cuerpo de Bomberos de Paraná (CLCB); (e) Manual de Buenas Prácticas y Procedimientos Operativos Estandarizados (POEs) disponibles en el local.")
 
-    doc.add_heading("4.7 Arquitectura Tecnológica del CRM Sofia e Infraestructura de Bajo Costo", level=2)
-    add_p(doc, "La arquitectura tecnológica del CRM Sofia fue íntegramente diseñada e implementada bajo el paradigma de microservicios ligeros y tecnologías de código abierto (Open Source), garantizando máximo rendimiento con un costo operativo marginal:")
+    doc.add_heading("4.7 Arquitectura Tecnológica del CRM Casa de Assados Sofia e Infraestructura de Bajo Costo", level=2)
+    add_p(doc, "La arquitectura tecnológica del Sistema CRM Casa de Assados Sofia fue íntegramente diseñada e implementada bajo el paradigma de microservicios ligeros y tecnologías de código abierto (Open Source), garantizando máximo rendimiento con un costo operativo marginal:")
     add_bullets(doc, [
         "Dominio Dinámico y Certificado SSL Gratuito: El sistema es accesible públicamente a través de la URL https://casadeasados.duckdns.org/, empleando el servicio de DNS dinámico gratuito (DuckDNS) con certificado TLS/SSL Let's Encrypt para tráfico 100% cifrado (HTTPS).",
         "Infraestructura en la Nube de Costo Fijo Mínimo: Hospedado en un Servidor Virtual Privado (VPS) basado en Linux Ubuntu Server LTS, cuyo costo mensual de solo R$ 50,00 representa la totalidad de los gastos de TI del negocio.",
@@ -825,7 +823,7 @@ def generate_spanish_thesis(output_path):
         ["Alquiler del Local Comercial", "Inmueble comercial de 60 m² en Rua Deputado Pinheiro Júnior", "1.000,00"],
         ["Servicios Básicos (Agua, Electricidad, Gas)", "Consumo operativo de agua potable, luz y gas GLP industrial", "350,00"],
         ["Servicios de Internet Fibra y Telefonía", "Línea comercial móvil + Conexión de fibra de 500 Mbps", "120,00"],
-        ["Infraestructura Cloud y Servidor VPS CRM", "Hospedaje de servidor, base de datos y copias de seguridad", "50,00"],
+        ["Infraestructura Cloud y Servidor VPS CRM", "Hospedaje de servidor Linux, base de datos y copias de seguridad", "50,00"],
         ["Honorarios Contables Mensuales", "Gestión contable, fiscal y laboral para Simples Nacional", "250,00"],
         ["Publicidad y Marketing Recurrente", "Anuncios locales en Instagram y material informativo barrial", "200,00"],
         ["Mantenimiento y Productos de Desinfección", "Detergentes profesionales, sanitizantes y revisiones técnicas", "180,00"],
@@ -924,7 +922,7 @@ def generate_spanish_thesis(output_path):
     doc.add_heading("6.1 Matriz FODA / SWOT Estratégica", level=2)
     build_styled_table(doc, ["Factores Internos / Externos", "Aspectos Favorables (Positivos)", "Aspectos Desfavorables (Negativos)"], [
         ["Ambiente Interno (Control de la Empresa)", 
-         "FORTALEZAS (F):\n• Presupuesto óptimo de R$ 38.000 con equipos nuevos y extracción industrial;\n• Menú reducido con alta estandarización y fichas técnicas;\n• Canal propio directo por WhatsApp con CRM Sofia;\n• Margen de contribución saludable (55,16%);\n• Excelente ubicación logística en Umbará;\n• Apalancamiento de caja mediante la apertura en todos los feriados.",
+         "FORTALEZAS (F):\n• Presupuesto óptimo de R$ 38.000 con equipos nuevos y extracción industrial;\n• Menú reducido con alta estandarización y fichas técnicas;\n• Canal propio directo por WhatsApp con CRM Casa de Assados Sofia;\n• Margen de contribución saludable (55,16%);\n• Excelente ubicación logística en Umbará;\n• Apalancamiento de caja mediante la apertura en todos los feriados.",
          "DEBILIDADES (D):\n• Marca nueva sin base previa de clientes;\n• Capacidad de cocción fija en parrillas;\n• Dependencia operativa del socio administrador."],
         ["Ambiente Externo (Mercado y Contexto)", 
          "OPORTUNIDADES (O):\n• Costumbre arraigada de almorzar asado el domingo y días feriados;\n• Descontento del público con las colas de asadores tradicionales;\n• Crecimiento de condominios residenciales en la zona;\n• Recompra predecible impulsada por datos del CRM.",
@@ -948,7 +946,7 @@ def generate_spanish_thesis(output_path):
     doc.add_heading("6.4 Matriz de Riesgos y Planes de Contingencia", level=2)
     build_styled_table(doc, ["Factor de Risco", "Probabilidad / Impacto", "Medida Preventiva", "Plan de Contingencia Inmediato"], [
         ["Subida abrupta en precios de carne", "Alta / Alto", "Homologación de 3 frigoríficos con SIF y cotizaciones semanales.", "Cambio temporal a proveedor alternativo o ajuste selectivo de margen."],
-        ["Ventas por debajo del punto de equilibrio", "Media / Alto", "Campañas activas de preventa vía CRM los viernes y degustaciones.", "Promociones especiales dirigidas y reducción de jornales de apoyo."],
+        ["Ventas por debajo del punto de equilibrio", "Media / Alto", "Campañas activas de preventa vía CRM Casa de Assados Sofia los viernes y degustaciones.", "Promociones especiales dirigidas y reducción de jornales de apoyo."],
         ["Bloqueo de cuenta de WhatsApp", "Media / Alto", "Uso de API oficial con consentimiento explícito (LGPD) y envíos moderados.", "Activación de canal alternativo telefónico, SMS y atención presencial."],
         ["Corte de energía o avería mecánica", "Baja / Crítico", "Equipos nuevos con garantía, mantenimiento preventivo y parrilla híbrida.", "Asistencia técnica de guardia y traslado de cocción al braseiro a carbón."],
         ["Fuga de información o brecha LGPD", "Baja / Alto", "Recolección mínima de datos, permisos restringidos y base de datos cifrada.", "Auditoría técnica inmediata, baja del registro afectado y notificación formal."]
@@ -977,26 +975,26 @@ def generate_spanish_thesis(output_path):
     add_p(doc, "Se presenta el registro fotográfico individual y catálogo técnico de cada activo fijo y sistema operativo adquirido para la unidad de Casa de Assados Sofia, totalizando R$ 24.500,00 de inversión en equipamiento operativo homologado:")
 
     add_p(doc, "1. Máquinas Asadoras Giratorias a Gas GLP para Pollo (Figura 9): 2 unidades nuevas equipadas con quemadores infrarrojos a gas GLP en el panel trasero, espadas rotativas de acero inoxidable, puertas de vidrio templado e iluminación interior. Capacidad combinada para 40 pollos diarios en 2 tandas.")
-    add_figure_with_caption(doc, IMG_EQUIP1, 9, "Máquinas Asadoras Giratorias a Gas GLP con Quemadores Infrarrojos", "Fotografía de referencia de las asadoras giratorias a gas generada por IA (2026).")
+    add_figure_with_caption(doc, IMG_FIG09, 9, "Máquinas Asadoras Giratorias a Gas GLP con Quemadores Infrarrojos", "Fotografía de referencia de las asadoras giratorias a gas generada por IA (2026).", width_cm=14.0)
 
     add_p(doc, "2. Parrilla Tradicional a Carbón con Tapa Articulada al Vapor (Figura 10): 1 unidad reforzada en chapa de acero con revestimiento interno de ladrillos refractarios, lecho de brasas incandescentes, parrilla elevadora en V con manivela lateral y tapa pesada basculante para cocción lenta al vapor (bafo) por 6 horas.")
-    add_figure_with_caption(doc, IMG_EQUIP2, 10, "Parrilla Tradicional a Carbón con Tapa Articulada al Vapor y Elevador", "Fotografía de referencia de la parrilla a carbón con tapa al vapor generada por IA (2026).")
+    add_figure_with_caption(doc, IMG_FIG10, 10, "Parrilla Tradicional a Carbón con Tapa Articulada al Vapor y Elevador", "Fotografía de referencia de la parrilla a carbón con tapa al vapor generada por IA (2026).", width_cm=14.0)
 
     add_p(doc, "3. Sistema de Campana Industrial con Extracción Mecánica (Figura 11): Campana en acero inoxidable cepillado AISI 304 con filtros inerciales lavables tipo laberinto de alta retención de grasa, luminarias estancas y ducto circular galvanizado, cumpliendo las normativas de la Vigilancia Sanitaria de Curitiba.")
-    add_figure_with_caption(doc, IMG_EQUIP3, 11, "Sistema de Campana Industrial en Acero Inoxidable con Extracción Mecánica", "Fotografía de referencia del sistema de extracción y campana generada por IA (2026).")
+    add_figure_with_caption(doc, IMG_FIG11, 11, "Sistema de Campana Industrial en Acero Inoxidable con Extracción Mecánica", "Fotografía de referencia del sistema de extracción y campana generada por IA (2026).", width_cm=14.0)
 
     add_p(doc, "4. Congelador Horizontal Comercial Doble Función de 510 Litros (Figura 12): Equipo con dos tapas ciegas basculantes con cerradura, termostato digital exterior programado a -18°C y ruedas reforzadas para almacenamiento seguro de carnes.")
-    add_figure_with_caption(doc, IMG_EQUIP4, 12, "Congelador Horizontal Comercial Doble Función de 510 Litros", "Fotografía de referencia del congelador horizontal comercial generada por IA (2026).")
+    add_figure_with_caption(doc, IMG_FIG12, 12, "Congelador Horizontal Comercial Doble Función de 510 Litros", "Fotografía de referencia del congelador horizontal comercial generada por IA (2026).", width_cm=14.0)
 
     add_p(doc, "5. Refrigerador Comercial Vertical de Acero Inoxidable de 4 Puertas (Figura 13): Gabinete monobloque en acero inox AISI 304 con 4 puertas independientes, controlador digital de temperatura (+2°C a +4°C) para conservación aséptica de marinadas y guarniciones preparadas.")
-    add_figure_with_caption(doc, IMG_EQUIP5, 13, "Refrigerador Comercial Vertical de Acero Inoxidable de 4 Puertas", "Fotografía de referencia del refrigerador vertical comercial inox generada por IA (2026).")
+    add_figure_with_caption(doc, IMG_FIG13, 13, "Refrigerador Comercial Vertical de Acero Inoxidable de 4 Puertas", "Fotografía de referencia del refrigerador vertical comercial inox generada por IA (2026).", width_cm=14.0)
 
     add_p(doc, "6. Mesada Central de Manipulación Inox AISI 304 con Balanza Digital (Figura 14): Mesas de trabajo (2,0m x 0,9m) en acero inoxidable con estante inferior, balanza digital computadora homologada por el Inmetro, tabla de corte sanitaria y cubas gastronómicas Gastronorm.")
-    add_figure_with_caption(doc, IMG_EQUIP6, 14, "Mesada Central de Manipulación Inox AISI 304 con Balanza Digital", "Fotografía de referencia de la mesada de manipulación y balanza generada por IA (2026).")
+    add_figure_with_caption(doc, IMG_FIG14, 14, "Mesada Central de Manipulación Inox AISI 304 con Balanza Digital", "Fotografía de referencia de la mesada de manipulación y balanza generada por IA (2026).", width_cm=14.0)
 
     doc.add_heading("7.3 Plano Arquitectónico y Layout Funcional", level=2)
     add_p(doc, "Se presenta la planta técnica y distribución operativa del local de 60,0 m² (10,0m x 6,0m), detallando las 7 zonas funcionales, campana extractora y el flujo sanitario unidireccional de acuerdo con la norma Anvisa RDC 216/2004.")
-    add_figure_with_caption(doc, IMG_PLANTA_ES, 15, "Plano Arquitectónico y Flujo Sanitario Unidireccional (60,0 m²)", "Diseño arquitectónico conceptual y layout funcional desarrollado para el plan de negocios (2026).")
+    add_figure_with_caption(doc, IMG_FIG15, 15, "Plano Arquitectónico y Flujo Sanitario Unidireccional (60,0 m²)", "Diseño arquitectónico conceptual y layout funcional desarrollado para el plan de negocios (2026).", width_cm=15.0)
 
     doc.add_heading("7.4 Simulación de Facturas Electrónicas y Documentos Fiscales (NF-e)", level=2)
     add_p(doc, "Se presenta la simulación estructurada de los comprobantes fiscales electrónicos que acreditan la compra de insumos cárnicos certificados y equipamiento operativo del local:")
@@ -1068,7 +1066,7 @@ def generate_spanish_thesis(output_path):
     for q in questions_es:
         add_p(doc, q)
 
-    doc.add_heading("7.8 Diccionario de Datos del CRM Sofia", level=2)
+    doc.add_heading("7.8 Diccionario de Datos del Sistema CRM Casa de Assados Sofia", level=2)
     build_styled_table(doc, ["Tabla / Entidad", "Campo / Atributo", "Tipo de Dato", "Descripción y Regla de Negocio (LGPD)"], [
         ["Clientes (tb_clientes)", "id_cliente / nombre / whatsapp / direccion", "INT / VARCHAR", "Identificación unívoca, teléfono y domicilio con clave cifrada."],
         ["Consentimiento (tb_consent)", "status_optin / fecha_registro / canal", "BOOLEAN / DATETIME", "Constancia formal de autorización de mensajes con opción de baja (LGPD)."],
@@ -1082,25 +1080,25 @@ def generate_spanish_thesis(output_path):
     add_p(doc, "Se incorpora la documentación fotográfica individual y detallada de los 4 combos gastronómicos ofrecidos por Casa de Assados Sofia, elaborados con estricto apego a las fichas técnicas operacionales y porciones exactas:")
 
     add_p(doc, "Combo 1 – El Clásico de Sofia (Precio: R$ 69,90 | Rendimiento: 3 a 4 personas): Compuesto por 1 pollo relleno entero asado dorado con piel crujiente (~1,4kg asado), relleno de farofa sazonada de la casa visible en la cavidad, acompañado de un tazón de mayonesa casera tradicional de patata y zanahoria (300g) y cuenco rústico de farofa artesanal crujiente con tocino (250g).")
-    add_figure_with_caption(doc, IMG_COMBO1, 16, "Documentación Fotográfica del Combo 1: El Clásico de Sofia", "Fotografía comercial de referencia del Combo 1 generada por IA (2026).")
+    add_figure_with_caption(doc, IMG_FIG16, 16, "Documentación Fotográfica del Combo 1: El Clásico de Sofia", "Fotografía comercial de referencia del Combo 1 generada por IA (2026).", width_cm=14.5)
 
     add_p(doc, "Combo 2 – Costilla Suprema al Vapor (Precio: R$ 119,90 | Rendimiento: 4 personas): Compuesto por un generoso corte de 1,0kg de costilla vacuna premium con hueso, asada lentamente al vapor durante 6 horas a fuego indirecto, exhibiendo corteza caramelizada e interior jugoso, acompañada de mandioca amarilla cocida a la manteca de botella (300g), vinagreta fresca de tomate y cebolla y farofa de la casa (250g).")
-    add_figure_with_caption(doc, IMG_COMBO2, 17, "Documentación Fotográfica del Combo 2: Costilla Suprema al Vapor", "Fotografía comercial de referencia del Combo 2 generada por IA (2026).")
+    add_figure_with_caption(doc, IMG_FIG17, 17, "Documentación Fotográfica del Combo 2: Costilla Suprema al Vapor", "Fotografía comercial de referencia del Combo 2 generada por IA (2026).", width_cm=14.5)
 
     add_p(doc, "Combo 3 – Dueto Sofia (Precio: R$ 94,90 | Rendimiento: 3 a 4 personas): Compuesto por exactamente medio pollo asado dorado crujiente con hierbas + 500g de costilla de cerdo tierna marinada en finas hierbas y glaseada, servidos en tabla noble con patatas rústicas doradas al romero (300g) y farofa artesanal de la casa (200g).")
-    add_figure_with_caption(doc, IMG_COMBO3, 18, "Documentación Fotográfica del Combo 3: Dueto Sofia (Pollo & Costilla de Cerdo)", "Fotografía comercial de referencia del Combo 3 generada por IA (2026).")
+    add_figure_with_caption(doc, IMG_FIG18, 18, "Documentación Fotográfica del Combo 3: Dueto Sofia (Pollo & Costilla de Cerdo)", "Fotografía comercial de referencia del Combo 3 generada por IA (2026).", width_cm=14.5)
 
     add_p(doc, "Combo 4 – Kit Parrillero Familia (Precio: R$ 169,90 | Rendimiento: 5 a 6 personas): Gran banquete parrillero compuesto por 1 pollo relleno entero dorado + 700g de costilla vacuna asada al vapor + 4 chorizos criollos artesanales asados a las brasas + 4 panes de ajo tostados a la parrilla, acompañados de tazón grande de mayonesa casera (500g) y farofa grande artesanal (400g).")
-    add_figure_with_caption(doc, IMG_COMBO4, 19, "Documentación Fotográfica del Combo 4: Kit Parrillero Familia", "Fotografía comercial de referencia del Combo 4 generada por IA (2026).")
+    add_figure_with_caption(doc, IMG_FIG19, 19, "Documentación Fotográfica del Combo 4: Kit Parrillero Familia", "Fotografía comercial de referencia del Combo 4 generada por IA (2026).", width_cm=14.5)
 
-    add_p(doc, "Se presenta complementariamente el concepto ilustrativo tridimensional de la fachada comercial, envases ecológicos termosellados y el puesto de mando digital del CRM Sofia:")
-    add_figure_with_caption(doc, IMG_ANEXO, 20, "Concepto Ilustrativo: Fachada, Envases, Productos y Estación CRM Sofia", "Diseño conceptual elaborado en alta resolución por IA para el plan de negocios (2026).")
+    add_p(doc, "Se presenta complementariamente el concepto ilustrativo tridimensional de la fachada comercial, envases ecológicos termosellados y el puesto de mando digital del CRM Casa de Assados Sofia:")
+    add_figure_with_caption(doc, IMG_FIG20, 20, "Concepto Ilustrativo: Fachada, Envases, Productos y Estación CRM Casa de Assados Sofia", "Diseño conceptual elaborado en alta resolución por IA para el plan de negocios (2026).", width_cm=15.0)
 
     # CONCLUSIÓN
     doc.add_page_break()
     doc.add_heading("CONCLUSIÓN", level=1)
     add_p(doc, "El presente Trabajo de Conclusión de Curso ha demostrado la viabilidad comercial, operativa, económica, financiera y tecnológica para poner en marcha Casa de Assados Sofia en el barrio Umbará, en Curitiba - PR. La investigación probó que la aplicación disciplinada de principios de administración e informática adquiridos en el Colégio Excelência permite estructurar un emprendimiento gastronómico de conveniencia en un modelo de negocio sumamente rentable, predecible y escalable.")
-    add_p(doc, "El núcleo innovador del proyecto surge de la integración sinérgica entre la elaboración artesanal de carnes tradicionales y el uso estratégico de la tecnología de gestión (CRM Sofia). Esta combinación resuelve los tres obstáculos más graves del sector: elimina el desperdicio de insumos perecederos gracias a la preventa programada, suprime las colas de espera mediante franjas de 15 minutos y consolida relaciones directas y duraderas con las familias de la zona sur de Curitiba.")
+    add_p(doc, "El núcleo innovador del proyecto surge de la integración sinérgica entre la elaboración artesanal de carnes tradicionales y el uso estratégico de la tecnología de gestión (CRM Casa de Assados Sofia). Esta combinación resuelve los tres obstáculos más graves del sector: elimina el desperdicio de insumos perecederos gracias a la preventa programada, suprime las colas de espera mediante franjas de 15 minutos y consolida relaciones directas y duraderas con las familias de la zona sur de Curitiba.")
     add_p(doc, "Desde el punto de vista financiero y de seguridad jurídica bajo el presupuesto confortable de R$ 38.000,00, las cifras y protocolos confirman la solidez de la propuesta: el punto de equilibrio de R$ 12.454,37 (~126 combos) se ubica holgadamente por debajo de la demanda del escenario base de los fines de semana ordinarios (160 combos), permitiendo una rentabilidad sobre ventas del 11,71% y amortización total del capital invertido en la curva de 12 meses entre el 11º y el 12º mes. La apertura en los 28 días feriados hábiles proyectados para el bienio 2026-2028 conforma un apalancamiento extraordinario de más de R$ 61 mil en ingresos brutos y casi R$ 20 mil en utilidades netas complementarias. Asimismo, la infraestructura con sistema profesional de extracción mecánica, la estructuración contractual mediante el régimen de trabajo intermitente (CLT 452-A), la identidad corporativa estructurada y los menús especializados blindan al negocio frente a contingencias legales y sanitarias, garantizando su éxito sostenible en el mercado de Curitiba.")
 
     # REFERENCIAS
@@ -1123,6 +1121,7 @@ def generate_spanish_thesis(output_path):
         "INSTITUTO BRASILEÑO DE GEOGRAFÍA Y ESTADÍSTICA (IBGE). Censo Demográfico 2022 y Estimaciones de Población de Curitiba. Río de Janeiro: IBGE, 2024. Disponible en: <https://www.ibge.gov.br/cidades-e-estados/pr/curitiba.html>. Acceso el: 15 ago. 2026.",
         "INSTITUTO PARANAENSE DE DESARROLLO ECONÓMICO Y SOCIAL (IPARDES). Cuaderno Estadístico del Municipio de Curitiba. Curitiba: IPARDES, 2024.",
         "KOTLER, Philip; KELLER, Kevin Lane. Dirección de Marketing. 15. ed. México: Pearson Educación, 2018.",
+        "PEPPERS, Don; ROGERS, Martha. Managing Customer Relationships: A Strategic Framework. Hoboken: John Wiley & Sons, 2004.",
         "SCHUMPETER, Joseph Alois. Teoría del desenvolvimiento económico: una investigación sobre ganancias, capital, crédito, interés y ciclo económico. México: Fondo de Cultura Económica, 1997.",
         "SERVICIO BRASILEÑO DE APOYO A LAS MICRO Y PEQUEÑAS EMPRESAS (SEBRAE). Cómo Elaborar un Plan de Negocios. Brasilia: SEBRAE Nacional, 2013.",
         "SERVICIO BRASILEÑO DE APOYO A LAS MICRO Y PEQUEÑAS EMPRESAS (SEBRAE). Cómo Implantar Delivery en la Era Digital. Curitiba: SEBRAE/PR, 2023.",
