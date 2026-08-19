@@ -14,22 +14,36 @@ ROOT = Path(r"c:\Users\wilki\OneDrive\Documentos\Trabajo de Curso")
 CHART_DIR = ROOT / "_work" / "charts"
 IMG_REF_DIR = ROOT / "Casa_de_Assados_Sofia_15_Imagens_Referencia_PR_HR_v2"
 
-# 15 Imagens de Referência do PR
-IMG_FIG02 = IMG_REF_DIR / "Figura_02_Fachada_Sinalizacao_Embalagens.png"
-IMG_FIG03 = IMG_REF_DIR / "Figura_03_Cardapio_Balcao.png"
-IMG_FIG04 = IMG_REF_DIR / "Figura_04_CRM_Sofia_Mobile_WhatsApp.png"
-IMG_FIG09 = IMG_REF_DIR / "Figura_09_Assadoras_Giratorias_GLP.png"
-IMG_FIG10 = IMG_REF_DIR / "Figura_10_Churrasqueira_Costela_Bafo.png"
-IMG_FIG11 = IMG_REF_DIR / "Figura_11_Coifa_Industrial_AISI304.png"
-IMG_FIG12 = IMG_REF_DIR / "Figura_12_Freezer_Horizontal_510L.png"
-IMG_FIG13 = IMG_REF_DIR / "Figura_13_Refrigerador_Vertical_4_Portas.png"
-IMG_FIG14 = IMG_REF_DIR / "Figura_14_Mesa_Inox_Balanca.png"
+def resolve_img(pr_name, chart_fallback):
+    p1 = IMG_REF_DIR / pr_name
+    if p1.exists():
+        return p1
+    p2 = CHART_DIR / chart_fallback
+    if p2.exists():
+        return p2
+    p3 = ROOT / "_work" / chart_fallback
+    if p3.exists():
+        return p3
+    return p2
+
+IMG_FIG02 = resolve_img("Figura_02_Fachada_Sinalizacao_Embalagens.png", "brand_mockup_sofia.jpg")
+IMG_FIG03 = resolve_img("Figura_03_Cardapio_Balcao.png", "cardapio_impresso_sofia.jpg")
+IMG_FIG04 = resolve_img("Figura_04_CRM_Sofia_Mobile_WhatsApp.png", "cardapio_whatsapp_sofia.jpg")
+IMG_FIG09 = resolve_img("Figura_09_Assadoras_Giratorias_GLP.png", "equip1_asadora_gas.jpg")
+IMG_FIG10 = resolve_img("Figura_10_Churrasqueira_Costela_Bafo.png", "equip2_churrasqueira_carvao.jpg")
+IMG_FIG11 = resolve_img("Figura_11_Coifa_Industrial_AISI304.png", "equip3_coifa_industrial.jpg")
+IMG_FIG12 = resolve_img("Figura_12_Freezer_Horizontal_510L.png", "equip4_freezer_horizontal.jpg")
+IMG_FIG13 = resolve_img("Figura_13_Refrigerador_Vertical_4_Portas.png", "equip5_refrigerador_inox.jpg")
+IMG_FIG14 = resolve_img("Figura_14_Mesa_Inox_Balanca.png", "equip6_bancada_balanca.jpg")
 IMG_FIG15 = CHART_DIR / "planta_baixa_sofia_pt_hd.png"
-IMG_FIG16 = IMG_REF_DIR / "Figura_16_Combo_Classico_Sofia.png"
-IMG_FIG17 = IMG_REF_DIR / "Figura_17_Combo_Costela_Suprema.png"
-IMG_FIG18 = IMG_REF_DIR / "Figura_18_Combo_Dueto_Sofia.png"
-IMG_FIG19 = IMG_REF_DIR / "Figura_19_Kit_Churrasco_Familia.png"
-IMG_FIG20 = IMG_REF_DIR / "Figura_20_Conceito_Final.png"
+IMG_FIG16 = resolve_img("Figura_16_Combo_Classico_Sofia.png", "combo1_classico_sofia.jpg")
+IMG_FIG17 = resolve_img("Figura_17_Combo_Costela_Suprema.png", "combo2_costela_sofia.jpg")
+IMG_FIG18 = resolve_img("Figura_18_Combo_Dueto_Sofia.png", "combo3_dueto_sofia.jpg")
+IMG_FIG19 = resolve_img("Figura_19_Kit_Churrasco_Familia.png", "combo4_familia_sofia.jpg")
+IMG_FIG20 = resolve_img("Figura_20_Conceito_Final.png", "anexo_casa_assados_sofia.png")
+IMG_FIG21 = CHART_DIR / "crm_login_portal.png"
+IMG_FIG22 = CHART_DIR / "crm_console_atendimento_ia.png"
+IMG_FIG23 = CHART_DIR / "crm_gestao_pedidos_kds.png"
 
 mix_pt = [
     ("O Clássico da Sofia", 70, 69.90, 26.50, "1 Frango recheado inteiro (~1,4kg assado), farofa artesanal crocante (250g), maionese caseira tradicional de batata (300g). Serve 3 a 4 pessoas."),
@@ -392,7 +406,10 @@ def generate_portuguese_thesis(output_path):
         ("Figura 17 – Documentação Fotográfica do Combo 2: Costela Suprema no Bafo", 38),
         ("Figura 18 – Documentação Fotográfica do Combo 3: Dueto Sofia (Frango & Costelinha)", 38),
         ("Figura 19 – Documentação Fotográfica do Combo 4: Kit Churrasco Família", 39),
-        ("Figura 20 – Conceito Ilustrativo: Fachada, Embalagens, Produtos e Estação CRM Casa de Assados Sofia", 40)
+        ("Figura 20 – Conceito Ilustrativo: Fachada, Embalagens, Produtos e Estação CRM Casa de Assados Sofia", 40),
+        ("Figura 21 – Portal Web de Acesso e Autenticação do Cliente e Operador", 41),
+        ("Figura 22 – Console de Atendimento Omnichannel e IA Virtual 'Sofia' com DeepSeek LLM", 41),
+        ("Figura 23 – Painel KDS de Gestão de Pedidos em Tempo Real e Faturamento Operacional", 42)
     ]
     for pt_title, p_num in figs:
         p = doc.add_paragraph()
@@ -710,6 +727,16 @@ def generate_portuguese_thesis(output_path):
     add_p(doc, "Diferencial de Desenvolvimento Próprio e Custo Quase Zero:", boldlead="Diferencial de Desenvolvimento Próprio e Custo Quase Zero:")
     add_p(doc, "Diferente de negócios que contratam plataformas comerciais de SaaS que cobram mensalidades onerosas de R$ 300,00 a R$ 800,00 mais taxas sobre pedidos, ou que dependem de marketplaces (como iFood) que retêm comissões abusivas de 20% a 27% sobre o faturamento, o Sistema CRM Casa de Assados Sofia foi integralmente desenvolvido pelo próprio autor (Wilkin Barban Rosabal). Utilizando domínio dinâmico gratuito (https://casadeasados.duckdns.org/), certificado SSL Let's Encrypt gratuito e stack 100% em software livre (Linux Ubuntu Server, PostgreSQL, Python/FastAPI), a plataforma tem como único custo operacional a hospedagem do servidor VPS na nuvem (R$ 50,00 mensais), garantindo total soberania de dados, privacidade conforme a LGPD e economia direta de mais de R$ 4.000,00 anuais em licenciamento.")
 
+    add_p(doc, "Atendente Virtual Inteligente 'Sofia' com IA Generativa (DeepSeek V4 Flash):", boldlead="Atendente Virtual Inteligente 'Sofia' com IA Generativa (DeepSeek V4 Flash):")
+    add_p(doc, "O CRM Casa de Assados Sofia integra uma assistente virtual conversacional nativa baseada no modelo de linguagem DeepSeek V4 Flash, operando 24 horas por dia, 7 dias por semana, diretamente nos canais de WhatsApp e Web. A assistente 'Sofia' atende os clientes em linguagem natural fluida e acolhedora, orienta sobre a composição e rendimento dos quatro combos, tira dúvidas sobre acompanhamentos e ingredientes, sugere porções conforme o tamanho da família, agenda as janelas de retirada de 15 minutos, processa reservas automáticas de pré-venda e coleta avaliações de pós-venda (NPS).")
+    add_p(doc, "Memória de Cálculo de Custos da IA para 1.000 Mensagens Mensais:", boldlead="Memória de Cálculo de Custos da IA para 1.000 Mensagens Mensais:")
+    add_p(doc, "A adoção da API do DeepSeek V4 Flash proporciona um custo operacional sem precedentes para o empreendimento. Para uma demanda mensal projetada de 1.000 mensagens completas de atendimento (volume que atende com folga mais de 250 conversas de clientes por mês):\n"
+          "• Volume de Entrada (System Prompt + Histórico + Cardápio): 1.000 requisições x 1.000 tokens = 1.000.000 tokens (1M tokens). À tarifa de $0,22 USD / 1M (com Context Caching a $0,007 USD / 1M), o custo de entrada totaliza $0,22 USD;\n"
+          "• Volume de Saída (Respostas Geradas pela IA): 1.000 requisições x 150 tokens = 150.000 tokens (0,15M tokens). À tarifa de $0,66 USD / 1M, o custo de saída totaliza $0,099 USD;\n"
+          "• Custo Total da API DeepSeek V4 Flash: $0,319 USD por mês (~$0,32 USD);\n"
+          "• Conversão Cambial em Reais (Câmbio R$ 5,50 + IOF de 4,38%): Apenas R$ 1,84 a R$ 2,00 por mês.\n"
+          "Enquanto ferramentas comerciais de chatbot com inteligência artificial (como Blip, ManyChat ou Z-API Pro) cobram mensalidades entre R$ 250,00 e R$ 600,00 por planos básicos, a Casa de Assados Sofia opera uma IA generativa de última geração por apenas dois reais mensais, garantindo economia superior a 99% em automação de atendimento e elevando drasticamente a satisfação do consumidor.")
+
     doc.add_heading("3.8 Jornada do Cliente, Funil de Conversão e Indicadores", level=2)
     build_styled_table(doc, ["Etapa da Jornada", "Ação do Cliente", "Ponto de Contato", "Ação do CRM Casa de Assados Sofia", "Indicador Chave (KPI)"], [
         ["1. Descoberta", "Busca almoço de domingo no Google/Instagram.", "Google Maps / Redes Sociais", "Captura contato e direciona para WhatsApp com link rastreado.", "Custo de Aquisição (CAC) e Leads."],
@@ -768,13 +795,14 @@ def generate_portuguese_thesis(output_path):
     add_p(doc, "A regularização formal da Casa de Assados Sofia cumprirá rigorosamente as exigências dos órgãos fiscalizadores de Curitiba: (a) Consulta Prévia de Viabilidade de Endereço aprovada na Secretaria Municipal de Urbanismo; (b) Inscrição Municipal e Alvará de Localização e Funcionamento; (c) Licença Sanitária expedida pela Vigilância Sanitária Municipal; (d) Certificado de Vistoria do Corpo de Bombeiros Militar do Paraná (CLCB); (e) Manual de Boas Práticas e Procedimentos Operacionais Padronizados (POPs) afixados na unidade.")
 
     doc.add_heading("4.7 Arquitetura Tecnológica do CRM Casa de Assados Sofia e Infraestrutura de Baixo Custo", level=2)
-    add_p(doc, "A arquitetura tecnológica do Sistema CRM Casa de Assados Sofia foi integralmente projetada e implementada com base no paradigma de microsserviços leves e tecnologias open source, garantindo máxima performance com custo operacional irrisório:")
+    add_p(doc, "A arquitetura tecnológica do Sistema CRM Casa de Assados Sofia foi integralmente projetada e implementada com base no paradigma de microsserviços leves, inteligência artificial generativa e tecnologias open source, garantindo máxima performance com custo operacional irrisório:")
     add_bullets(doc, [
         "Domínio Dinâmico e Certificado SSL Gratuito: O sistema é acessível publicamente através da URL https://casadeasados.duckdns.org/, utilizando serviço de DNS dinâmico gratuito (DuckDNS) com certificado TLS/SSL Let's Encrypt para tráfego 100% criptografado (HTTPS).",
-        "Infraestrutura em Nuvem de Custo Fixo Mínimo: Hospedado em um Servidor Virtual Privado (VPS) baseado em Linux Ubuntu Server LTS, cujo custo mensal de apenas R$ 50,00 representa a totalidade das despesas de TI do negócio.",
+        "Infraestrutura em Nuvem e Custo de TI Integrado: Hospedado em um Servidor Virtual Privado (VPS) baseado em Linux Ubuntu Server LTS (R$ 50,00/mês), integrado à API do modelo de linguagem DeepSeek V4 Flash (R$ 2,00/mês para 1.000 mensagens), totalizando R$ 52,00 mensais de despesas totais de TI e inteligência artificial.",
+        "Integração com DeepSeek V4 Flash e Prompt Caching: Backend em Python/FastAPI conectado à API DeepSeek via chamadas assíncronas assíncronas de alta performance. Utiliza a tecnologia nativa de Context Caching (cache de prefixo a $0,007/1M tokens) para manter em memória o catálogo e instruções da 'Sofia', reduzindo a latência para menos de 750 ms por interação.",
         "Stack de Software Livre (Zero Licenciamento): Backend desenvolvido em Python/FastAPI de alta concorrência, banco de dados relacional PostgreSQL para integridade transacional (ACID) e frontend responsivo em HTML5, CSS3 e JavaScript puro sem dependência de bibliotecas proprietárias.",
         "Painel KDS Operacional para Cozinha: Interface em tempo real que organiza as comandas de preparo por ordem cronológica e janelas de retirada de 15 minutos, exibindo contadores regressivos para os assadores.",
-        "Mecanismo de Backup e Segurança Criptográfica: Rotina diária automatizada de dump do banco de dados com criptografia AES-256 e sincronização segura com repositório remoto, garantindo RPO (Recovery Point Objective) inferior a 24 horas e RTO (Recovery Time Objective) de 15 minutos."
+        "Governança de Dados, Privacidade e Backups Criptografados: Sanitização e anonimização de dados antes do envio ao LLM (dados cadastrais protegidos localmente sob a LGPD), além de rotina diária automatizada de dump do banco de dados com criptografia AES-256 e sincronização segura com repositório remoto (RPO < 24h e RTO < 15 min)."
     ])
 
     doc.add_heading("4.8 Gestão de Estoques (PEPS) e Sustentabilidade", level=2)
@@ -1066,7 +1094,7 @@ def generate_portuguese_thesis(output_path):
     for q in questions_pt:
         add_p(doc, q)
 
-    doc.add_heading("7.8 Dicionário de Dados do Sistema CRM Casa de Assados Sofia", level=2)
+    doc.add_heading("7.8 Dicionário de Dados e Telas de Produção do Sistema CRM Casa de Assados Sofia", level=2)
     build_styled_table(doc, ["Tabela / Entidade", "Campo / Atributo", "Tipo de Dado", "Descrição e Regra de Negócio (LGPD)"], [
         ["Clientes (tb_clientes)", "id_cliente / nome / whatsapp / endereco", "INT / VARCHAR", "Identificação unívoca, telefone e endereço com chave criptografada."],
         ["Consentimento (tb_consent)", "status_optin / data_registro / canal", "BOOLEAN / DATETIME", "Registro formal de autorização de mensagens com opção de cancelamento (LGPD)."],
@@ -1074,6 +1102,18 @@ def generate_portuguese_thesis(output_path):
         ["Itens (tb_itens_pedido)", "id_item / id_combo / quantidade / valor_unit", "INT / INT / INT / DECIMAL", "Detalhamento de combos e adicionais para a cozinha e cálculo exato de CMV."],
         ["Avaliações (tb_nps)", "nota_nps / comentario / tempo_resposta", "INT (1 a 5) / TEXT / INT", "Avaliação pós-venda para cálculo de NPS e alertas de fidelização."]
     ], widths=[2000, 2400, 1600, 3360], font_size=8)
+
+    add_p(doc, "Documentação das Interfaces Operacionais em Produção (DuckDNS / VPS):", boldlead="Documentação das Interfaces Operacionais em Produção (DuckDNS / VPS):")
+    add_p(doc, "Apresentam-se a seguir as capturas de tela reais do Sistema CRM Casa de Assados Sofia em ambiente de produção (https://casadeasados.duckdns.org/), comprovando a execução prática do desenvolvimento próprio em software livre e o funcionamento integrado da inteligência artificial:")
+
+    add_p(doc, "1. Portal de Autenticação e Acesso Web (Figura 21): Interface de login com alternância entre perfis de acesso ('Sou Cliente' e 'Equipe / Operador'), com formulário validado para celulares de Curitiba (DDD 41), autenticação segura de senha e link direto para cadastro de novos clientes.")
+    add_figure_with_caption(doc, IMG_FIG21, 21, "Portal Web de Acesso e Autenticação do Cliente e Operador", "Captura de tela real do portal de login do CRM Casa de Assados Sofia (https://casadeasados.duckdns.org/login).", width_cm=14.5)
+
+    add_p(doc, "2. Console de Atendimento Omnichannel e IA 'Sofia' com DeepSeek LLM (Figura 22): Central operacional de atendimento que integra os canais de WhatsApp e Telegram, exibindo em tempo real o saldo de créditos da API DeepSeek LLM ($1.19 disponíveis), controle de filas de atendimento (Fila IA, Fila Humana e Fechadas), interação em linguagem natural com a assistente virtual 'Sofia' (personalizada com vocabulário acolhedor de Curitiba, como 'piá', e recomendações estratégicas de combos) e carrinho lateral de pedidos em tempo real.")
+    add_figure_with_caption(doc, IMG_FIG22, 22, "Console de Atendimento Omnichannel e IA Virtual 'Sofia' com DeepSeek LLM", "Captura de tela real da console de atendimento conversacional com IA generativa (https://casadeasados.duckdns.org/atendimento).", width_cm=14.5)
+
+    add_p(doc, "3. Painel KDS de Gestão de Pedidos em Tempo Real e Faturamento Operacional (Figura 23): Painel de gestão visual da produção gastronômica (Kitchen Display System), consolidando os indicadores-chave do turno em tempo real (Total de 18 pedidos, 16 em preparo/novos, 2 entregues/concluídos e Faturamento Real de R$ 1.542,90), filtros por status e cartões individuais de comandas com identificador hash, dados do cliente, combo contratado, status de pagamento PIX e horário agendado de retirada.")
+    add_figure_with_caption(doc, IMG_FIG23, 23, "Painel KDS de Gestão de Pedidos em Tempo Real e Faturamento Operacional", "Captura de tela real do painel KDS de gestão de pedidos e faturamento (https://casadeasados.duckdns.org/atendimento/pedidos).", width_cm=14.5)
 
     doc.add_heading("7.9 Renders e Documentação Fotográfica dos Combos Familiares", level=2)
     add_p(doc, "Nota de Esclarecimento Metodológico: As fotografias dos combos gastronômicos apresentadas a seguir foram geradas por meio de Inteligência Artificial (IA) generativa como representações visuais hiper-realistas de referência comercial das fichas técnicas e porções exatas descritas no cardápio oficial.", boldlead="Nota de Esclarecimento Metodológico:")

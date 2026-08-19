@@ -10,23 +10,34 @@ ROOT = Path(r"c:\Users\wilki\OneDrive\Documentos\Trabajo de Curso")
 CHART_DIR = ROOT / "_work" / "charts"
 IMG_REF_DIR = ROOT / "Casa_de_Assados_Sofia_15_Imagens_Referencia_PR_HR_v2"
 
-# 15 Imagens do PR
-IMG_FIG02 = IMG_REF_DIR / "Figura_02_Fachada_Sinalizacao_Embalagens.png"
-IMG_FIG03 = IMG_REF_DIR / "Figura_03_Cardapio_Balcao.png"
-IMG_FIG04 = IMG_REF_DIR / "Figura_04_CRM_Sofia_Mobile_WhatsApp.png"
-IMG_FIG09 = IMG_REF_DIR / "Figura_09_Assadoras_Giratorias_GLP.png"
-IMG_FIG10 = IMG_REF_DIR / "Figura_10_Churrasqueira_Costela_Bafo.png"
-IMG_FIG11 = IMG_REF_DIR / "Figura_11_Coifa_Industrial_AISI304.png"
-IMG_FIG12 = IMG_REF_DIR / "Figura_12_Freezer_Horizontal_510L.png"
-IMG_FIG13 = IMG_REF_DIR / "Figura_13_Refrigerador_Vertical_4_Portas.png"
-IMG_FIG14 = IMG_REF_DIR / "Figura_14_Mesa_Inox_Balanca.png"
+def resolve_img(pr_name, chart_fallback):
+    p1 = IMG_REF_DIR / pr_name
+    if p1.exists():
+        return p1
+    p2 = CHART_DIR / chart_fallback
+    if p2.exists():
+        return p2
+    p3 = ROOT / "_work" / chart_fallback
+    if p3.exists():
+        return p3
+    return p2
+
+IMG_FIG02 = resolve_img("Figura_02_Fachada_Sinalizacao_Embalagens.png", "brand_mockup_sofia.jpg")
+IMG_FIG03 = resolve_img("Figura_03_Cardapio_Balcao.png", "cardapio_impresso_sofia.jpg")
+IMG_FIG04 = resolve_img("Figura_04_CRM_Sofia_Mobile_WhatsApp.png", "cardapio_whatsapp_sofia.jpg")
+IMG_FIG09 = resolve_img("Figura_09_Assadoras_Giratorias_GLP.png", "equip1_asadora_gas.jpg")
+IMG_FIG10 = resolve_img("Figura_10_Churrasqueira_Costela_Bafo.png", "equip2_churrasqueira_carvao.jpg")
+IMG_FIG11 = resolve_img("Figura_11_Coifa_Industrial_AISI304.png", "equip3_coifa_industrial.jpg")
+IMG_FIG12 = resolve_img("Figura_12_Freezer_Horizontal_510L.png", "equip4_freezer_horizontal.jpg")
+IMG_FIG13 = resolve_img("Figura_13_Refrigerador_Vertical_4_Portas.png", "equip5_refrigerador_inox.jpg")
+IMG_FIG14 = resolve_img("Figura_14_Mesa_Inox_Balanca.png", "equip6_bancada_balanca.jpg")
 IMG_FIG15_PT = CHART_DIR / "planta_baixa_sofia_pt_hd.png"
 IMG_FIG15_ES = CHART_DIR / "planta_baixa_sofia_es_hd.png"
-IMG_FIG16 = IMG_REF_DIR / "Figura_16_Combo_Classico_Sofia.png"
-IMG_FIG17 = IMG_REF_DIR / "Figura_17_Combo_Costela_Suprema.png"
-IMG_FIG18 = IMG_REF_DIR / "Figura_18_Combo_Dueto_Sofia.png"
-IMG_FIG19 = IMG_REF_DIR / "Figura_19_Kit_Churrasco_Familia.png"
-IMG_FIG20 = IMG_REF_DIR / "Figura_20_Conceito_Final.png"
+IMG_FIG16 = resolve_img("Figura_16_Combo_Classico_Sofia.png", "combo1_classico_sofia.jpg")
+IMG_FIG17 = resolve_img("Figura_17_Combo_Costela_Suprema.png", "combo2_costela_sofia.jpg")
+IMG_FIG18 = resolve_img("Figura_18_Combo_Dueto_Sofia.png", "combo3_dueto_sofia.jpg")
+IMG_FIG19 = resolve_img("Figura_19_Kit_Churrasco_Familia.png", "combo4_familia_sofia.jpg")
+IMG_FIG20 = resolve_img("Figura_20_Conceito_Final.png", "anexo_casa_assados_sofia.png")
 
 COLOR_NAVY = RGBColor(0x1F, 0x38, 0x64)      # #1F3864
 COLOR_RED = RGBColor(0xC0, 0x39, 0x2B)       # #C0392B
@@ -322,8 +333,8 @@ def generate_presentation(lang="pt"):
     p.font.color.rgb = COLOR_RED
     p.space_after = Pt(10)
     c2_items = [
-        "Único Custo Mensal: R$ 50,00/mês de hospedagem em servidor VPS na nuvem." if lang == "pt" else "Único Costo Mensal: R$ 50,00/mes de hospedaje en servidor VPS en la nube.",
-        "Zero Licenciamento de software comercial de terceiros." if lang == "pt" else "Cero Licencias de software comercial de terceros.",
+        "Infraestrutura Total: R$ 50,00/mês (VPS Linux) + R$ 2,00/mês (IA DeepSeek V4 Flash) = R$ 52,00/mês." if lang == "pt" else "Infraestructura Total: R$ 50,00/mes (VPS Linux) + R$ 2,00/mes (IA DeepSeek V4 Flash) = R$ 52,00/mes.",
+        "IA Sofia Integrada: 1.000 mensagens/mês por apenas R$ 2,00 com Prompt Caching." if lang == "pt" else "IA Sofia Integrada: 1.000 mensajes/mes por solo R$ 2,00 con Prompt Caching.",
         "Economia vs SaaS Comum: Sistemas pagos cobram R$ 300 a R$ 800/mês + taxas." if lang == "pt" else "Ahorro vs SaaS Común: Sistemas pagos cobran R$ 300 a R$ 800/mes + tasas.",
         "Sem Taxas de Marketplace: Evita 20% a 27% de comissão abusiva do iFood." if lang == "pt" else "Sin Comisiones de Marketplace: Evita el 20% al 27% abusivo de iFood."
     ]
